@@ -1,0 +1,30 @@
+{
+  "itemName" : "northdragnarfossil1",
+  "rarity" : "Uncommon",
+  "itemTags" : ["fossil"],
+
+  "description" : "A fossilised North-Dragnar skull.",
+  "category" : "mediumFossil",
+
+  "shortdescription" : "North-Dragnar Skull",
+  "race" : "northdragnar",
+  "price" : 50,
+
+  "inventoryIcon" : "northdragnarfossil1icon.png",
+
+  "completeSetDescriptions" : {
+    "price" : 1500,
+    "shortdescription" : "North-Dragnar Fossil",
+    "description" : "The fossilised remains of a long gone North-Dragnar."
+  },
+
+  "displayImage" : "/objects/fossils/humanoidfossils/fossilnorthdragnar/northdragnarskulldisplay.png",
+  "displayoffset" :[0, 0],
+
+  "fossilSetName" : "northdragnarSkeleton",
+  "setIndex" : 1,
+  "setCount" : 3,
+  "setCollectables" : { "fossils" : "northdragnarSkeleton" },
+
+  "completeFossilIcon" : "/objects/fossils/humanoidfossils/humanoidskeletonicon.png"
+}

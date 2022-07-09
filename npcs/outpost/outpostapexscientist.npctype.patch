@@ -1,0 +1,14 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/dialog/converse/apex",
+    "value": {
+	  "northdragnar": [
+			"North-Dragnar, do not worry about me. I have fled from the Miniknog's labs to aid the rebellion of my people."
+		],
+	  "bignorthdragnar": [
+			"North-Dragnar, do not worry about me. I have fled from the Miniknog's labs to aid the rebellion of my people."
+	  ]
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+// Generic
+    {"op": "add", "path": "/statuses/generic/-", "value": "Wonders how long they would survive out in the wild"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Has ideas for pleasant-looking tapestries"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Wants to take up carving as a hobby"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Feels like they could overthrow a tyrant"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Could go for a stroll"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Considers foraging"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Feels like writing their name in snow, sand would do too"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Imagines what it would be like to be part of a raiding party"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Wants to catch snowflakes"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Thinks about what they could hunt"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Feeling somewhat honourable"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Ready for participating in a fight, and doing pottery"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Wonders, if brass would go well with their outfit"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Feeling especially fierce"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Pondering the existence of certain planets"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Doesn't feel like getting rudely pushed around"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Thinking of what they would do, if they met a raider"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Wonders, if the homeplanet of the North-Dragnar actually exists"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Confusing space ships with ordinary ships"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Feels like they could take on someone bare-handed"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Questions, if there is something like shortboats, opposed to longboats"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Feels like the crew should be more resource-efficient"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Estimates whether or not they would win a fight against you"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Would like to start a snowball fight with the ship's crew"}
+]

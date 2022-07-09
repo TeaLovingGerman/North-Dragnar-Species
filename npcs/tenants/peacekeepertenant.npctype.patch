@@ -1,0 +1,31 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/dialog/converse/northdragnar",
+    "value": {
+	  "default": [
+            "Don't ye be worryin' boss, I've got this sector under me keen eye!",
+            "Officer <selfname> reportin' for duty! I'll be keepin' the peace around 'ere!",
+            "There ain't nothin' more 'onourable than protectin' others in need.",
+            "If the bad guys don't want it any other way, then I'll be prepared to fight 'em!",
+			"Up'oldin' the law around this place's what I'm stri'in' for.",
+			"It ain't exactly bein' part o' the Tower-Shields, but it's just as fulfillin' to me!"
+			
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/dialog/converse/bignorthdragnar",
+    "value": {
+	  "default": [
+            "Don't ye be worryin' boss, I've got this sector under me keen eye!",
+            "Officer <selfname> reportin' for duty! I'll be keepin' the peace around 'ere!",
+            "There ain't nothin' more 'onourable than protectin' others in need.",
+            "If the bad guys don't want it any other way, then I'll be prepared to fight 'em!",
+			"Up'oldin' the law around this place's what I'm stri'in' for.",
+			"It ain't exactly bein' part o' the Tower-Shields, but it's just as fulfillin' to me!"
+	  ]
+    }
+  }
+]

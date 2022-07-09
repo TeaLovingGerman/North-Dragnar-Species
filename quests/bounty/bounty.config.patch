@@ -1,0 +1,160 @@
+[
+	{ "op" : "add",
+		"path" : "/npc/species/-",
+		"value" : "northdragnar"
+	},
+	{ "op" : "add",
+		"path" : "/npc/species/-",
+		"value" : "bignorthdragnar"
+	},
+	{ "op" : "add",
+		"path" : "/prefix/-",
+		"value" :
+			"Rough"
+	},
+	{ "op" : "add",
+		"path" : "/prefix/-",
+		"value" :
+			"Battle-Hardened"
+	},
+	{ "op" : "add",
+		"path" : "/prefix/-",
+		"value" :
+			"Short-Tempered"
+	},
+	{ "op" : "add",
+		"path" : "/prefix/-",
+		"value" :
+			"Evasive"
+	},
+	{ "op" : "add",
+		"path" : "/prefix/-",
+		"value" :
+			"Hardy"
+	},
+	{ "op" : "add",
+		"path" : "/prefix/-",
+		"value" :
+			"Lawless"
+	},
+	{ "op" : "add",
+		"path" : "/prefix/-",
+		"value" :
+			"Merciless"
+	},
+	{ "op" : "add",
+		"path" : "/prefix/-",
+		"value" :
+			"Ice-Cold"
+	},
+	{ "op" : "add",
+		"path" : "/prefix/-",
+		"value" :
+			"Thieving"
+	},
+	{ "op" : "add",
+		"path" : "/prefix/-",
+		"value" :
+			"Petty"
+	},
+	{ "op" : "add",
+		"path" : "/prefix/-",
+		"value" :
+			"Tusslin'"
+	},
+	{ "op" : "add",
+		"path" : "/prefix/-",
+		"value" :
+			"Ruthless"
+	},
+	{ "op" : "add",
+		"path" : "/prefix/-",
+		"value" :
+			"Spiteful"
+	},
+	{ "op" : "add",
+		"path" : "/prefix/-",
+		"value" :
+			"Hot-Headed"
+	},
+	{ "op" : "add",
+		"path" : "/prefix/-",
+		"value" :
+			"Barbaric"
+	},
+	{ "op" : "add",
+		"path" : "/prefix/-",
+		"value" :
+			"Sharp"
+	},
+	{ "op" : "add",
+		"path" : "/suffix/-",
+		"value" :
+			"The Roughian"
+	},
+	{ "op" : "add",
+		"path" : "/suffix/-",
+		"value" :
+			"Steelfist"
+	},
+	{ "op" : "add",
+		"path" : "/suffix/-",
+		"value" :
+			"The Plunderer"
+	},
+	{ "op" : "add",
+		"path" : "/suffix/-",
+		"value" :
+			"The Raider"
+	},
+	{ "op" : "add",
+		"path" : "/suffix/-",
+		"value" :
+			"Axe"
+	},
+	{ "op" : "add",
+		"path" : "/suffix/-",
+		"value" :
+			"Blade"
+	},
+	{ "op" : "add",
+		"path" : "/suffix/-",
+		"value" :
+			"The Scoundrel"
+	},
+	{ "op" : "add",
+		"path" : "/suffix/-",
+		"value" :
+			"The Grand"
+	},
+	{ "op" : "add",
+		"path" : "/suffix/-",
+		"value" :
+			"The Berserker"
+	},
+	{ "op" : "add",
+		"path" : "/suffix/-",
+		"value" :
+			"The Enraged"
+	},
+	{ "op" : "add",
+		"path" : "/suffix/-",
+		"value" :
+			"The Mangler"
+	},
+	{ "op" : "add",
+		"path" : "/suffix/-",
+		"value" :
+			"The Mean"
+	},
+	{ "op" : "add",
+		"path" : "/suffix/-",
+		"value" :
+			"The Chieftain"
+	},
+	{ "op" : "add",
+		"path" : "/suffix/-",
+		"value" :
+			"The Headsman"
+	}
+]

@@ -1,0 +1,52 @@
+[
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/merchant/start/northdragnar",
+		"value": {
+			"default": [
+				"Guide light into yer 'ome with with some solid, but beautiful window installations!",
+				"Thinkin' o' lettin' some light into yer 'ome? I've got loads o' different windows to offer for ya!",
+				"Want some more light in yer 'ouse without the need for lamps? Me windoes got ye co'ered!",
+				"Get yerself some windows! They let light shine into yer 'ome, while pro'idin' a view outside o' it!"
+	  ],
+	  "bignorthdragnar" : [
+				"Guide light into yer 'ome with with some solid, but beautiful window installations!",
+				"Thinkin' o' lettin' some light into yer 'ome? I've got loads o' different windows to offer for ya!",
+				"Want some more light in yer 'ouse without the need for lamps? Me windoes got ye co'ered!",
+				"Get yerself some windows! They let light shine into yer 'ome, while pro'idin' a view to the outside!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/merchant/welcome/northdragnar",
+		"value": {
+			"default": [
+				"Great! What type o' window're ye lookin' for?",
+				"There we go. 'ave a good look at and through these windows!",
+				"There, I've got windows, that're already assembled, as well as materials for makin' yer own!"
+	  ],
+	  "bignorthdragnar" : [
+				"Great! What type o' window're ye lookin' for?",
+				"There we go. 'ave a good look at and through these windows!",
+				"There, I've got windows, that're already assembled, as well as materials for makin' yer own!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/merchant/end/northdragnar",
+		"value": {
+			"default": [
+				"If ye're in need o' more windows, I'll be 'ere!",
+				"Got e'erythin' ye need? Well, come back soon!",
+				"I'm lookin' forward to lettin' more light into yer 'ome!"
+	  ],
+	  "bignorthdragnar" : [
+				"If ye're in need o' more windows, I'll be 'ere!",
+				"Got e'erythin' ye need? Well, come back soon!",
+				"I'm lookin' forward to lettin' more light into yer 'ome!"
+			]
+		}
+	}
+]

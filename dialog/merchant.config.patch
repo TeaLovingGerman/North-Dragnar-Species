@@ -1,0 +1,284 @@
+[
+  {
+    "op" : "add",
+    "path" : "/merchantStart/northdragnar",
+    "value" : {
+      "default" : [
+        "'Ere's what I got!",
+        "Anythin' catchin' yer eye?",
+        "I'd be willin' to part with some o' me stock.",
+        "I can 'elp, if ye're needin' anythin' sold as well.",
+		"Needin' somethin' sold? Got some connections who're lookin' for supplies!",
+		"Take yer time with browsin'."
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/merchantStart/bignorthdragnar",
+    "value" : {
+      "default" : [
+        "'Ere's what I got!",
+        "Anythin' catchin' yer eye?",
+        "I'd be willin' to part with some o' me stock.",
+        "I can 'elp, if ye're needin' anythin' sold as well.",
+		"Needin' somethin' sold? Got some connections who're lookin' for supplies!",
+		"Take yer time with browsin'."
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/merchantEnd/northdragnar",
+    "value" : {
+      "default" : [
+        "I'll be 'ere, if ye're in need o' supplies!",
+        "Tell yer kin about me shop!",
+        "Pleasure doin' business with ya!",
+        "Ye know where to find me, if ye're needin' more supplies.",
+        "'Opin' to make business with ye again soon!",
+		"Thanks for lendin' some o' yer time!"
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/merchantEnd/bignorthdragnar",
+    "value" : {
+      "default" : [
+        "I'll be 'ere, if ye're in need o' supplies!",
+        "Tell yer kin about me shop!",
+        "Pleasure doin' business with ya!",
+        "Ye know where to find me, if ye're needin' more supplies.",
+        "'Opin' to make business with ye again soon!",
+		"Thanks for lendin' some o' yer time!"
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/follow/northdragnar",
+    "value" : {
+      "default" : [
+        "Me store's this way. Just follow me.",
+        "Store's o'er there. Follow me!",
+        "Me stock's o'er by me shop. Follow me lead!"
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/follow/bignorthdragnar",
+    "value" : {
+      "default" : [
+        "Me store's this way. Just follow me.",
+        "Store's o'er there. Follow me!",
+        "Me stock's o'er by me shop. Follow me lead!"
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/welcome/northdragnar",
+    "value" : {
+      "default" :[
+        "Take yer time browsin'.",
+        "There we are. Take a good look.",
+        "Wantin' to toss yer equipment? Why not sell it?",
+		"'Ave a look around."
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/welcome/bignorthdragnar",
+    "value" : {
+      "default" : [
+        "Take yer time browsin'.",
+        "There we are. Take a good look.",
+        "Wantin' to toss yer equipment? Why not sell it?",
+		"'Ave a look around."
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/tout/northdragnar",
+    "value" : {
+      "default" : [
+        "Come on o'er 'ere! Got a fresh stock o' supplies.",
+        "I'm up for 'agglin'. As lon' as ye stay reasonable!",
+        "I offer ye fair prices!",
+        "Got a variety o' stuff. There's sure to be somethin' for satisfyin' yer needs!"
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/tout/bignorthdragnar",
+    "value" : {
+      "default" : [
+        "Come on o'er 'ere! Got a fresh stock o' supplies.",
+        "I'm up for 'agglin'. As lon' as ye stay reasonable!",
+        "I offer ye fair prices!",
+        "Got a variety o' stuff. There's sure to be somethin' for satisfyin' yer needs!"
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/tagCriteria/northdragnar",
+    "value" : {
+      "default" : [
+        "Me store doesn't feel right... Did ye make it this way?",
+        "This place just feels... Off.",
+        "Me store felt more comfortable to me before. Can ye change it back?"
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/tagCriteria/bignorthdragnar",
+    "value" : {
+      "default" : [
+        "Me store doesn't feel right... Did ye make it this way?",
+        "This place just feels... Off.",
+        "Me store felt more comfortable to me before. Can ye change it back?"
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/enclosedArea/northdragnar",
+    "value" : {
+      "default" : [
+        "All this damage ain't good for business. Could ye be fixin' it?",
+        "If I were a 'andyman, I'd be takin' care of this meself. I'm no 'andyman though...",
+        "That wall ain't lookin' good. Would ye mind fixin' it?"
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/enclosedArea/bignorthdragnar",
+    "value" : {
+      "default" : [
+        "All this damage ain't good for business. Could ye be fixin' it?",
+        "If I were a 'andyman, I'd be takin' care of this meself. I'm no 'andyman though...",
+        "That wall ain't lookin' good. Would ye mind fixin' it?"
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/otherDeed/northdragnar",
+    "value" : {
+      "default" : [
+        "Ey! Since when am I s'posed to be sharin' this space?",
+        "A shop needs its space, ye know? That other deed's takin' that space!",
+        "I'm sure there's more space for another person. But it ain't 'ere in me store."
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/otherDeed/bignorthdragnar",
+    "value" : {
+      "default" : [
+        "Ey! Since when am I s'posed to be sharin' this space?",
+        "A shop needs its space, ye know? That other deed's takin' that space!",
+        "I'm sure there's more space for another person. But it ain't 'ere in me store."
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/severe/northdragnar",
+    "value" : {
+      "default" : [
+        "This store's an eyesore! Who'd be wantin' to buy anythin' from a place like this?",
+        "If me store stays like this, I'm takin' me business elsewhere!",
+        "I really can't be continuin' me business like this! Do ye mind fixin' this place?"
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/severe/bignorthdragnar",
+    "value" : {
+      "default" : [
+        "This store's an eyesore! Who'd be wantin' to buy anythin' from a place like this?",
+        "If me store stays like this, I'm takin' me business elsewhere!",
+        "I really can't be continuin' me business like this! Do ye mind fixin' this place?"
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/final/northdragnar",
+    "value" : {
+      "default" : [
+        "Who's s'posed to be runnin' a shop like this? I'm lea'in'!",
+        "I'm takin' me business elsewhere! This's unbearable!",
+        "There ain't no way, that I'm continuin' me business 'ere!"
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/final/bignorthdragnar",
+    "value" : {
+      "default" : [
+        "Who's s'posed to be runnin' a shop like this? I'm lea'in'!",
+        "I'm takin' me business elsewhere! This's unbearable!",
+        "There ain't no way, that I'm continuin' me business 'ere!"
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/beacon/northdragnar",
+    "value" : {
+      "default" : [
+        "Ye want to talk business or blather a little?",
+        "Aye, what do ye need?",
+        "Lo. What's the matter?"
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/beacon/bignorthdragnar",
+    "value" : {
+      "default" : [
+        "Ye want to talk business or blather a little?",
+        "Aye, what do ye need?",
+        "Lo. What's the matter?"
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/rent/northdragnar",
+    "value" : {
+      "default" : [
+        "'Ere ye go. Ye're deser'in' it!",
+        "It's only fair, for gi'in' me business a sittin' place.",
+        "Rent's due, ain't it? 'Ere, take this.",
+		"Business's doin' well! 'Ere's yer share."
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/rent/bignorthdragnar",
+    "value" : {
+      "default" : [
+        "'Ere ye go. Ye're deser'in' it!",
+        "It's only fair, for gi'in' me business a sittin' place.",
+        "Rent's due, ain't it? 'Ere, take this.",
+		"Business's doin' well! 'Ere's yer share."
+      ]
+    }
+  }
+]

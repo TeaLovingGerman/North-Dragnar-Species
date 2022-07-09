@@ -1,0 +1,6 @@
+[
+{ "op" : "add", "path" : "/supportedSpecies/-", "value" : "northdragnar" },
+{ "op" : "add", "path" : "/customHeadChestLegSpecies/-", "value" : "northdragnar" },
+{ "op" : "add", "path" : "/supportedSpecies/-", "value" : "bignorthdragnar" },
+{ "op" : "add", "path" : "/customBodySpecies/-", "value" : "bignorthdragnar" }
+]

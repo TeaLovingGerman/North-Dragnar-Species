@@ -1,0 +1,46 @@
+[
+  {
+	"op" : "add",
+	"path" : "/outOfRangeText",
+	"value" : {
+	  "northdragnar" : [
+		"Whate'er it is, I ain't close enough to it.",
+		"Can't make it out entirely, it's too far away.",
+		"I ought to be gettin' closer for a clear picture.",
+		"Me eyes're failin' me. Can't be makin' out whate'er it is.",
+		"I ain't close enough.",
+		"Could be anythin'. I got to get closer."
+	  ],
+	  "bignorthdragnar" : [
+		"Whate'er it is, I ain't close enough to it.",
+		"Can't make it out entirely, it's too far away.",
+		"I ought to be gettin' closer for a clear picture.",
+		"Me eyes're failin' me. Can't be makin' out whate'er it is.",
+		"I ain't close enough.",
+		"Could be anythin'. I got to get closer."
+      ]
+    }
+  },
+  {
+	"op" : "add",
+	"path" : "/nothingThereText",
+	"value" : {
+	  "northdragnar" : [
+		"Nothin'. There's got to be more interestin' stuff to be inspectin'.",
+		"Just a whole bunch o' absolutely nothin'.",
+		"I ain't noticin' anythin' noteable.",
+		"The only thin' o' note 'ere is, that there's nothin'.",
+		"Nah, nothin'.",
+		"Be'old! It's absolutely nothin'..."
+	  ],
+	  "bignorthdragnar" : [
+		"Nothin'. There's got to be more interestin' stuff to be inspectin'.",
+		"Just a whole bunch o' absolutely nothin'.",
+		"I ain't noticin' anythin' noteable.",
+		"The only thin' o' note 'ere is, that there's nothin'.",
+		"Nah, nothin'.",
+		"Be'old! It's absolutely nothin'..."
+      ]
+    }
+  }
+]

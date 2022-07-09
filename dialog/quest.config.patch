@@ -1,0 +1,585 @@
+[
+  {
+	"op": "add",
+	"path": "/share_secret/pleaseTakeReply/northdragnar",
+	"value": {
+	  "default": [
+		"Could ye take this reply 'ere back to <questGiver> for me?"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/share_secret/pleaseTakeReply/bignorthdragnar",
+	"value": {
+	  "default": [
+		"Could ye take this reply 'ere back to <questGiver> for me?"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/intimidate/intimidated/northdragnar",
+	"value": {
+	  "default": [
+		"A <item>?! 'Old on! Tell <questGiver> that I'll do what they want!",
+		"Ye didn't need to brin' a <item>! <questGiver> could've just asked me, damnit!",
+		"Ye're kiddin'! A <item>?! I'll do what <questGiver> wants. Just... Put that damned thin' away!"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/intimidate/intimidated/bignorthdragnar",
+	"value": {
+	  "default": [
+		"A <item>?! 'Old on! Tell <questGiver> that I'll do what they want!",
+		"Ye didn't need to brin' a <item>! <questGiver> could've just asked me, damnit!",
+		"Ye're kiddin'! A <item>?! I'll do what <questGiver> wants. Just... Put that damned thin' away!"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/intimidate/notIntimidated/northdragnar",
+	"value": {
+	  "default": [
+		"<questGiver> sent ya? Well, I won't be complyin' any time soon!",
+		"Ha! Tryin' to intimidate me, are ya? <questGiver>'s got to do much better than sendin' ye!"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/intimidate/notIntimidated/bignorthdragnar",
+	"value": {
+	  "default": [
+		"<questGiver> sent ya? Well, I won't be complyin' any time soon!",
+		"Ha! Tryin' to intimidate me, are ya? <questGiver>'s got to do much better than sendin' ye!"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/bribe/giftAccepted/northdragnar",
+	"value": {
+	  "default": [
+		"<questGiver>'s bribin' me? I'll accept it. Just this once.",
+		"A bribe from <questGiver>? Alright, tell <questGiver>, that I'll be lookin' the other way, for now.",
+		"<questGiver> sent ya? I usually ain't acceptin' bribes, but I'm needin' this..."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/bribe/giftAccepted/bignorthdragnar",
+	"value": {
+	  "default": [
+		"<questGiver>'s bribin' me? I'll accept it. Just this once.",
+		"A bribe from <questGiver>? Alright, tell <questGiver>, that I'll be lookin' the other way, for now.",
+		"<questGiver> sent ya? I usually ain't acceptin' bribes, but I'm needin' this..."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/bribe/giftAccepted2/northdragnar",
+	"value": {
+	  "default": [
+		"What's <questGiver> wantin' from me...",
+		"What's <questGiver> plannin' now?"
+		
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/bribe/giftAccepted2/bignorthdragnar",
+	"value": {
+	  "default": [
+		"What's <questGiver> wantin' from me...",
+		"What's <questGiver> plannin' now?"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/bribe/requestAdditionToHouse/northdragnar",
+	"value": {
+	  "default": [
+		"This'll look good in me 'ome! Would ye mind placin' it 'ere?",
+		"This gift'd be a fine addition to me 'ome. Could ye put in 'ere for me?"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/bribe/requestAdditionToHouse/bignorthdragnar",
+	"value": {
+	  "default": [
+		"This'll look good in me 'ome! Would ye mind placin' it 'ere?",
+		"This gift'd be a fine addition to me 'ome. Could ye put in 'ere for me?"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/gift/giftAccepted/northdragnar",
+	"value": {
+	  "default": [
+		"'Ow nice o' <questGiver>! Do thank 'em for me, if ye 'ave the time.",
+		"Now that's a nice-lookin' gift 'ere! Thank <questGiver> for me!"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/gift/giftAccepted/bignorthdragnar",
+	"value": {
+	  "default": [
+		"'Ow nice o' <questGiver>! Do thank 'em for me, if ye 'ave the time.",
+		"Now that's a nice-lookin' gift 'ere! Thank <questGiver> for me!"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/gift/giftAccepted2/northdragnar",
+	"value": {
+	  "default": [
+		"<questGiver>'s a good friend.",
+		"I'm feelin' true kinship with <questGiver>!"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/gift/giftAccepted2/bignorthdragnar",
+	"value": {
+	  "default": [
+		"<questGiver>'s a good friend.",
+		"I'm feelin' true kinship with <questGiver>!"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/gift/requestAdditionToHouse/northdragnar",
+	"value": {
+	  "default": [
+		"This'll look good in me 'ome! Would ye mind placin' it 'ere?",
+		"This gift'd be a fine addition to me 'ome. Could ye put in 'ere for me?"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/gift/requestAdditionToHouse/bignorthdragnar",
+	"value": {
+	  "default": [
+		"This'll look good in me 'ome! Would ye mind placin' it 'ere?",
+		"This gift'd be a fine addition to me 'ome. Could ye put in 'ere for me?"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/return_stolen/objectTaken/northdragnar",
+	"value": {
+	  "default": [
+		"The <item>? That ain't stolen! I- Damnit, just take it with ye and leave me be...",
+		"This <item>'s brought me 'nough trouble. Just... Just take it."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/return_stolen/objectTaken/bignorthdragnar",
+	"value": {
+	  "default": [
+		"The <item>? That ain't stolen! I- Damnit, just take it with ye and leave me be...",
+		"This <item>'s brought me 'nough trouble. Just... Just take it."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/collect_fine/fineCollected/northdragnar",
+	"value": {
+	  "default": [
+		"Alright, I'll pay the damn fine!",
+		"Sure, I'm payin' the fine. I've got enough trouble on me 'ands already."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/collect_fine/fineCollected/bignorthdragnar",
+	"value": {
+	  "default": [
+		"Alright, I'll pay the damn fine!",
+		"Sure, I'm payin' the fine. I've got enough trouble on me 'ands already."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/collect_gift/giftProvided/northdragnar",
+	"value": {
+	  "default": [
+		"Here's the <item> ye need. Should be just what <questGiver>'s needin'.",
+		"<questGiver>'s 'opefully goin' to like this <item>."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/collect_gift/giftProvided/bignorthdragnar",
+	"value": {
+	  "default": [
+		"Here's the <item> ye need. Should be just what <questGiver>'s needin'.",
+		"<questGiver>'s 'opefully goin' to like this <item>."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/request_craft/giftProvided/northdragnar",
+	"value": {
+	  "default": [
+		"Ye're needin' this <item>? I've already got it 'ere with me!",
+		"This 'ere's the <item> I've been workin' on. Take it!"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/request_craft/giftProvided/bignorthdragnar",
+	"value": {
+	  "default": [
+		"Ye're needin' this <item>? I've already got it 'ere with me!",
+		"This 'ere's the <item> I've been workin' on. Take it!"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/borrow/giftProvided/northdragnar",
+	"value": {
+	  "default": [
+		"I swear, if <questGiver> ain't returnin' this <item> soon, I'll be takin' it back meself!",
+		"If it ain't for too lon', <questGiver> can 'ave the <item>."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/borrow/giftProvided/bignorthdragnar",
+	"value": {
+	  "default": [
+		"I swear, if <questGiver> ain't returnin' this <item> soon, I'll be takin' it back meself!",
+		"If it ain't for too lon', <questGiver> can 'ave the <item>."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/extort/giftProvided/northdragnar",
+	"value": {
+	  "default": [
+		"<questGiver>'s an 'onourless blaggard! Take the <item> and leave me be already!",
+		"<questGiver>'s goin' to regret this sooner or later..."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/extort/giftProvided/bignorthdragnar",
+	"value": {
+	  "default": [
+		"<questGiver>'s an 'onourless blaggard! Take the <item> and leave me be already!",
+		"<questGiver>'s goin' to regret this sooner or later..."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/hat/crafting/northdragnar",
+	"value": {
+	  "default": [
+		"It's lookin', like ye've got the materials! Give me a moment...",
+		"That'd be all we need! Just 'old on a sec..."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/hat/crafting/bignorthdragnar",
+	"value": {
+	  "default": [
+		"It's lookin', like ye've got the materials! Give me a moment...",
+		"That'd be all we need! Just 'old on a sec..."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/hat/crafted/northdragnar",
+	"value": {
+	  "default": [
+		"There ye go! <questGiver> should be likin' this new 'at.",
+		"Done! Could ye brin' this 'at 'ere to <questGiver>?"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/hat/crafted/bignorthdragnar",
+	"value": {
+	  "default": [
+		"There ye go! <questGiver> should be likin' this new 'at.",
+		"Done! Could ye brin' this 'at 'ere to <questGiver>?"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/helmet/crafting/northdragnar",
+	"value": {
+	  "default": [
+		"It's lookin' like ye've got the materials! Give me a moment...",
+		"That'd be all we need! Just 'old on a sec..."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/helmet/crafting/bignorthdragnar",
+	"value": {
+	  "default": [
+		"It's lookin' like ye've got the materials! Give me a moment...",
+		"That'd be all we need! Just 'old on a sec..."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/helmet/crafted/northdragnar",
+	"value": {
+	  "default": [
+		"There ye go! <questGiver> should be likin' this new 'elmet.",
+		"Done! Could ye brin' this 'elmet 'ere to <questGiver>?"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/helmet/crafted/bignorthdragnar",
+	"value": {
+	  "default": [
+		"There ye go! <questGiver> should be likin' this new 'elmet.",
+		"Done! Could ye brin' this 'elmet 'ere to <questGiver>?"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/new_stock/trade/northdragnar",
+	"value": {
+	  "default": [
+		"Thank ye for the deli'ery! 'Ere's what <questGiver>' needin'."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/new_stock/trade/bignorthdragnar",
+	"value": {
+	  "default": [
+		"Thank ye for the deli'ery! 'Ere's what <questGiver>' needin'."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/kidnapping/kidnappersDead/northdragnar",
+	"value": {
+	  "default": [
+		"I'll be damned! Someone's come to rescue me!",
+		"Thanks, I don't know 'ow lon' I could've been endurin' this."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/kidnapping/kidnappersDead/bignorthdragnar",
+	"value": {
+	  "default": [
+		"I'll be damned! Someone's come to rescue me!",
+		"Thanks, I don't know 'ow lon' I could've been endurin' this."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/kidnapping/followHome/northdragnar",
+	"value": {
+	  "default": [
+		"Would ye mind escortin' me back 'ome to <questGiver>?",
+		"I really ain't the fightin' type. Could ye take me back to <questGiver>?"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/kidnapping/followHome/bignorthdragnar",
+	"value": {
+	  "default": [
+		"Would ye mind escortin' me back 'ome to <questGiver>?",
+		"I really ain't the fightin' type. Could ye take me back to <questGiver>?"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/escort/found/northdragnar",
+	"value": {
+	  "default": [
+		"I'm 'atin' to admit this, but I've got meself lost. Do ye know the way back to <questGiver>?",
+		"It's 'ard to be findin' yer way around 'ere with no waypointers. Could ye show me the way back 'ome?"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/escort/found/bignorthdragnar",
+	"value": {
+	  "default": [
+		"I'm 'atin' to admit this, but I've got meself lost. Do ye know the way back to <questGiver>?",
+		"It's 'ard to be findin' yer way around 'ere with no waypointers. Could ye show me the way back 'ome?"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/barter/trade/northdragnar",
+	"value": {
+	  "default": [
+		"Ye're 'ere for <questGiver>'s <receivedItems>? Sure, 'ere. Thank ye for the goods!"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/barter/trade/bignorthdragnar",
+	"value": {
+	  "default": [
+		"Ye're 'ere for <questGiver>'s <receivedItems>? Sure, 'ere. Thank ye for the goods!"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/escort_trade/collectDelivery/northdragnar",
+	"value": {
+	  "default": [
+		"Do ye 'ave a deli'ery for me?",
+		"'Ave ya got the deli'ery?"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/escort_trade/collectDelivery/bignorthdragnar",
+	"value": {
+	  "default": [
+		"Do ye 'ave a deli'ery for me?",
+		"'Ave ya got the deli'ery?"
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/escort_trade/provideDelivery/northdragnar",
+	"value": {
+	  "default": [
+		"I've got the goods ye wanted right 'ere with me!",
+		"'Ere's the goods we've agreed on."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/escort_trade/provideDelivery/bignorthdragnar",
+	"value": {
+	  "default": [
+		"I've got the goods ye wanted right 'ere with me!",
+		"'Ere's the goods we've agreed on."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/kill_npcs/assistantIntro/northdragnar",
+	"value": {
+	  "default": [
+		"I'm owin' <questGiver> a big fa'our. I'll be 'elpin' ye to strike the <enemy> down.",
+		"Aye! <questGiver> sent me to 'elp ye with those troublin' <enemy>."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/kill_npcs/assistantIntro/bignorthdragnar",
+	"value": {
+	  "default": [
+		"I'm owin' <questGiver> a big fa'our. I'll be 'elpin' ye to strike the <enemy> down.",
+		"Aye! <questGiver> sent me to 'elp ye with those troublin' <enemy>."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/kill_npc/surrender/northdragnar",
+	"value": {
+	  "default": [
+		"I'm surrenderin'! 'Ave mercy!",
+		"Put yer weapons away! We can talk this out!",
+		"Sheathe yer weapons! I know when I've been beaten."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/kill_npc/surrender/bignorthdragnar",
+	"value": {
+	  "default": [
+		"I'm surrenderin'! 'Ave mercy!",
+		"Put yer weapons away! We can talk this out!",
+		"Sheathe yer weapons! I know when I've been beaten."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/kill_npc/betray/northdragnar",
+	"value": {
+	  "default": [
+		"Ha! Ye're not short o' bein' naive!",
+		"Ye really thought, that I'd be gi'in' up that easily?",
+		"Ye're trustin' the wron' kind o' people."
+	  ]
+	}
+  },
+  {
+	"op": "add",
+	"path": "/kill_npc/betray/bignorthdragnar",
+	"value": {
+	  "default": [
+		"Ha! Ye're not short o' bein' naive!",
+		"Ye really thought, that I'd be gi'in' up that easily?",
+		"Ye're trustin' the wron' kind o' people."
+	  ]
+	}
+  },
+  

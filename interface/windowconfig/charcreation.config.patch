@@ -1,0 +1,4 @@
+[
+ { "op" : "add", "path" : "/speciesOrdering/-", "value" : "northdragnar" }, 
+ { "op" : "add", "path" : "/speciesOrdering/-", "value" : "bignorthdragnar" }
+]

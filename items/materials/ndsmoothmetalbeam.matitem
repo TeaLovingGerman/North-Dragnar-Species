@@ -1,0 +1,15 @@
+{
+  "itemName" : "ndsmoothmetalbeam",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "ndsmoothmetalbeamicon.png",
+  "description" : "A smooth metal beam. Fitting for supporting other metal structures.",
+  "glitchDescription" : "Considerate. Metal beams like this one, would best suit for interior design of a spacefaring vessel.",
+  "floranDescription" : "Sshiny metal beam!",
+  "novakidDescription" : "With a beam that smooth, I ought to see my reflection... Don't seem like I can.",
+  "northdragnarDescription" : "Makin' beams o' metal 'as its perks o'er wooden beams.",
+  "bignorthdragnarDescription" : "Makin' beams o' metal 'as its perks o'er wooden beams.",
+
+  "materialId" : 14601
+}

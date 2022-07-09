@@ -1,0 +1,16 @@
+{
+  "itemName" : "ndroughwoodenbeam",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "ndroughwoodenbeamicon.png",
+  "shortdescription" : "Rough Wooden Beam",
+  "description" : "A rough, but incredibly sturdy wooden beam.",
+  "glitchDescription" : "Impressed. The density of this wooden beam is extremely high. More than adeqaute for supporting buildings.",
+  "floranDescription" : "Floran would like to ssit on sturdy wooden beam and jump on prey by surprissse!",
+  "novakidDescription" : "That's one tough-as-rock beam.",
+  "northdragnarDescription" : "This wooden beam's made o' one o' the sturdiest trees I know.",
+  "bignorthdragnarDescription" : "This wooden beam's made o' one o' the sturdiest trees I know.",
+
+  "materialId" : 14600
+}

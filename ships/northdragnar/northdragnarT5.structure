@@ -1,0 +1,23 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "crewSize" : 6
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "northdragnarT5.png",
+      "position" : [0.5, 10.375],
+      "fullbright" : true
+    },
+    {
+      "image" : "northdragnarT5lit.png",
+      "position" : [0.5, 10.375]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "northdragnarT5blocks.png"
+}

@@ -1,0 +1,50 @@
+{
+  "objectName" : "ndmannequinhead",
+  "colonyTags" : [],
+  "printable" : false,
+  "rarity" : "Common",
+
+  "category" : "other",
+  "price" : 500,
+  "description" : "Display and easily equip North-Dragnarian headgear!",
+  "shortdescription" : "Dragnar Mannequin Head",
+  "race" : "generic",
+  
+  "apexDescription" : "Most available headwear probably does not fit onto a Dragnar's head.",
+  "avianDescription" : "This mannequin head consists of multiple pieces of carved wood.",
+  "floranDescription" : "Where isss rest of weird birdman'ss mannequin?",
+  "glitchDescription" : "Solicitous. The head shape of the North-Dragnar asks for clothing to be tailored in a specific manner.",
+  "humanDescription" : "Headbutting this mannequin head would probably hurt just as much as headbutting an actual Dragnar.",
+  "hylotlDescription" : "This mannequin head bears a pirecing gaze. ALmost like it dares someone to don it a helmet.",
+  "novakidDescription" : "A hard-headed fella, waitin' for a fancy hat.",
+  "northdragnarDescription" : "This wooden noggin's waitin' for a 'elmet to wear.",
+  "bignorthdragnarDescription" : "This wooden noggin's waitin' for a 'elmet to wear.",
+
+  "inventoryIcon" : "mannequinheadicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "mannequinhead.png",
+      "imagePosition" : [-21, 0],
+
+      "spaces" : [[-1, 0], [-1, 1], [0, 0], [0, 1]],
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "animation" : "mannequinhead.animation",
+  "animationPosition" : [-21, 0],
+
+  "health" : 1.5,
+
+  "objectType" : "container",
+
+  "openSounds" : [ "/sfx/objects/mannequin_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/mannequin_close.ogg" ],
+  "slotCount" : 1,
+  "uiConfig" : "/interface/scripted/ndmannequinhead/mannequinheadgui.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600,
+
+  "scripts" : [ "/objects/generic/ndmannequinhead/mannequinhead.lua" ],
+  "scriptDelta" : 5
+}

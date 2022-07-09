@@ -1,0 +1,10 @@
+[
+  { "op" : "add",
+	"path" : "/0/1/-",
+	"value" : "northdragnar"
+  },
+  { "op" : "add",
+	"path" : "/0/1/-",
+	"value" : "bignorthdragnar"
+  }
+]

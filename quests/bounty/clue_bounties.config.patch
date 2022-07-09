@@ -1,0 +1,98 @@
+[
+  { "op" : "add",
+	"path" : "/beamout/clues/planetBounty/dialog/beamout/northdragnar",
+	"value" : {
+	"default" : [
+		"'Ey! <randomName>! Ye better start beamin' me to ^orange;<next.coordinate.name>^reset;, now!",
+		"<randomName>! Beam me to ^orange;<next.coordinate.name>^reset;! A damn Peacekeeper found me position!",
+		"One o' 'em Peacekeepers! <randomName>! Beam me to ^orange;<next.coordinate.name>^reset;, right now!",
+		"Damnit, <randomName>! The Peacekeepers're pursuin' me! To ^orange;<next.coordinate.name>^reset;, quick!",
+		"A Peacekeepeer! I better start fleein' to ^orange;<next.coordinate.name>^reset;! Damnit, why'd I 'ave to say that out loud?!"
+	]
+   }
+  },
+  { "op" : "add",
+	"path" : "/beamout/clues/planetBounty/dialog/beamout/bignorthdragnar",
+	"value" : {
+	"default" : [
+		"'Ey! <randomName>! Ye better start beamin' me to ^orange;<next.coordinate.name>^reset;, now!",
+		"<randomName>! Beam me to ^orange;<next.coordinate.name>^reset;! A damn Peacekeeper found me position!",
+		"One o' 'em Peacekeepers! <randomName>! Beam me to ^orange;<next.coordinate.name>^reset;, right now!",
+		"Damnit, <randomName>! The Peacekeepers're pursuin' me! To ^orange;<next.coordinate.name>^reset;, quick!",
+		"A Peacekeepeer! I better start fleein' to ^orange;<next.coordinate.name>^reset;! Damnit, why'd I 'ave to say that out loud?!"
+	]
+   }
+  },
+  { "op" : "add",
+	"path" : "/beamout/clues/shipBounty/dialog/beamout/northdragnar",
+	"value" : {
+	"default" : [
+		"'Ey! <randomName>! Ye better start beamin' me to ^orange;<next.coordinate.name>^reset;, now!",
+		"<randomName>! Beam me to ^orange;<next.coordinate.name>^reset;! A damn Peacekeeper found me position!",
+		"One o' 'em Peacekeepers! <randomName>! Beam me to ^orange;<next.coordinate.name>^reset;, right now!",
+		"Damnit, <randomName>! The Peacekeepers're pursuin' me! To ^orange;<next.coordinate.name>^reset;, quick!",
+		"A Peacekeepeer! I better start fleein' to ^orange;<next.coordinate.name>^reset;! Damnit, why'd I 'ave to say that out loud?!"
+	]
+   }
+  },
+  { "op" : "add",
+	"path" : "/beamout/clues/shipBounty/dialog/beamout/bignorthdragnar",
+	"value" : {
+	"default" : [
+		"'Ey! <randomName>! Ye better start beamin' me to ^orange;<next.coordinate.name>^reset;, now!",
+		"<randomName>! Beam me to ^orange;<next.coordinate.name>^reset;! A damn Peacekeeper found me position!",
+		"One o' 'em Peacekeepers! <randomName>! Beam me to ^orange;<next.coordinate.name>^reset;, right now!",
+		"Damnit, <randomName>! The Peacekeepers're pursuin' me! To ^orange;<next.coordinate.name>^reset;, quick!",
+		"A Peacekeepeer! I better start fleein' to ^orange;<next.coordinate.name>^reset;! Damnit, why'd I 'ave to say that out loud?!"
+	]
+   }
+  },
+  { "op" : "add",
+	"path" : "/beamout/clues/scan/dialog/beamout/northdragnar",
+	"value" : {
+	"default" : [
+		"'Ey! <randomName>! Ye better start beamin' me to ^orange;<next.coordinate.name>^reset;, now!",
+		"<randomName>! Beam me to ^orange;<next.coordinate.name>^reset;! A damn Peacekeeper found me position!",
+		"One o' 'em Peacekeepers! <randomName>! Beam me to ^orange;<next.coordinate.name>^reset;, right now!",
+		"Damnit, <randomName>! The Peacekeepers're pursuin' me! To ^orange;<next.coordinate.name>^reset;, quick!",
+		"A Peacekeepeer! I better start fleein' to ^orange;<next.coordinate.name>^reset;! Damnit, why'd I 'ave to say that out loud?!"
+	]
+   }
+  },
+  { "op" : "add",
+	"path" : "/beamout/clues/scan/dialog/beamout/bignorthdragnar",
+	"value" : {
+	"default" : [
+		"'Ey! <randomName>! Ye better start beamin' me to ^orange;<next.coordinate.name>^reset;, now!",
+		"<randomName>! Beam me to ^orange;<next.coordinate.name>^reset;! A damn Peacekeeper found me position!",
+		"One o' 'em Peacekeepers! <randomName>! Beam me to ^orange;<next.coordinate.name>^reset;, right now!",
+		"Damnit, <randomName>! The Peacekeepers're pursuin' me! To ^orange;<next.coordinate.name>^reset;, quick!",
+		"A Peacekeepeer! I better start fleein' to ^orange;<next.coordinate.name>^reset;! Damnit, why'd I 'ave to say that out loud?!"
+	]
+   }
+  },
+  { "op" : "add",
+	"path" : "/disguise/clues/diversion/dialog/interact/northdragnar",
+	"value" : {
+	"default" : [
+		"Ye're lookin' for that cowardin' scoundrel, <bounty.name>? I know where I- Um! Where THEY're 'idin'! They're on ^orange;<next.coordinate.name>^reset;.",
+		"What? <bounty.name>? I think I o'er'eard somethin' 'bout them 'idin' out on ^orange;<next.coordinate.name>^reset;.",
+		"I'm lookin' like <bounty.name>? I definetly ain't <bounty.name>. They're me good-for-nothin' twin! I know they're 'idin' on ^orange;<next.coordinate.name>^reset;!",
+		"Are ye goin' after that fierce outlaw <bounty.name> too? I tried to catch 'em meself, but they've fled to ^orange;<next.coordinate.name>^reset; before I got me 'ands on 'em...",
+		"Don't fret me peacekeepin' fellow! I'm just some common concerned citizen that's 'appenin' to be knowin' a far place from 'ere, ^orange;<next.coordinate.name>^reset;, where <bounty.name>'s 'idin'!"
+	]
+   }
+  },
+  { "op" : "add",
+	"path" : "/disguise/clues/diversion/dialog/interact/bignorthdragnar",
+	"value" : {
+	"default" : [
+		"Ye're lookin' for that cowardin' scoundrel, <bounty.name>? I know where I- Um! Where THEY're 'idin'! They're on ^orange;<next.coordinate.name>^reset;.",
+		"What? <bounty.name>? I think I o'er'eard somethin' 'bout them 'idin' out on ^orange;<next.coordinate.name>^reset;.",
+		"I'm lookin' like <bounty.name>? I definetly ain't <bounty.name>. They're me good-for-nothin' twin! I know they're 'idin' on ^orange;<next.coordinate.name>^reset;!",
+		"Are ye goin' after that fierce outlaw <bounty.name> too? I tried to catch 'em meself, but they've fled to ^orange;<next.coordinate.name>^reset; before I got me 'ands on 'em...",
+		"Don't fret me peacekeepin' fellow! I'm just some common concerned citizen that's 'appenin' to be knowin' a far place from 'ere, ^orange;<next.coordinate.name>^reset;, where <bounty.name>'s 'idin'!"
+	]
+   }
+  }
+]

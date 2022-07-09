@@ -1,0 +1,6 @@
+[{"op":"add","path":"/northdragnarDescription","value":"This spinnin' wheel's enough for tailorin' many sorts o' fabrics and clothes."},
+{"op":"add","path":"/bignorthdragnarDescription","value":"This spinnin' wheel's enough for tailorin' many sorts o' fabrics and clothes."},
+{"op":"add","path":"/upgradeStages/0/itemSpawnParameters/northdragnarDescription","value":"This spinnin' wheel's enough for tailorin' many sorts o' fabrics and clothes."},
+{"op":"add","path":"/upgradeStages/0/itemSpawnParameters/bignorthdragnarDescription","value":"This spinnin' wheel's enough for tailorin' many sorts o' fabrics and clothes."},
+{"op":"add","path":"/upgradeStages/1/itemSpawnParameters/northdragnarDescription","value":"This sewin' machine's an efficient appliance for creatin' a variety o' clothin' items and tailorin' materials."},
+{"op":"add","path":"/upgradeStages/1/itemSpawnParameters/bignorthdragnarDescription","value":"his sewin' machine's an efficient appliance for creatin' a variety o' clothin' items and tailorin' materials."}]

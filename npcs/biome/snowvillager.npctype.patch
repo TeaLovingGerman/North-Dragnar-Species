@@ -1,0 +1,26 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/default",
+	"value": {
+	  "northdragnar": [
+            "Luckily, I'm used to these cold conditions!",
+            "There must be something you need on this planet, otherwise you wouldn't come here!",
+            "If you aren't prepared, this weather will freeze you solid!",
+            "If you like snow, you're in the right place.",
+            "It's pretty cold here, huh? I don't mind it, myself.",
+            "It's pretty cold out, but it sometimes gets even colder than this!",
+			"You look like you'd belong on a planet like this!"
+		],
+	  "bignorthdragnar": [
+            "Luckily, I'm used to these cold conditions!",
+            "There must be something you need on this planet, otherwise you wouldn't come here!",
+            "If you aren't prepared, this weather will freeze you solid!",
+            "If you like snow, you're in the right place.",
+            "It's pretty cold here, huh? I don't mind it, myself.",
+            "It's pretty cold out, but it sometimes gets even colder than this!",
+			"You look like you'd belong on a planet like this!"
+		]
+    }
+  }
+]

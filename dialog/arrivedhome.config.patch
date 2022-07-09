@@ -1,0 +1,80 @@
+[
+	{
+		"op": "add",
+		"path": "/beacon/northdragnar",
+		"value": {
+			"default": [
+				"What do ye want?",
+				"Aye, what's the matter?",
+				"'Ey, ye want to chatter or what?",
+				"'Ere I am! What did I miss?",
+				"Lo. Somethin' botherin' ya?"
+			],
+			"northdragnar": [
+				"What do ye want?",
+				"Aye, kin. What's the matter?",
+				"'Ere I am! What did I miss?",
+				"Greetin's, kin. Somethin' botherin' ya?"
+			],
+			"bignorthdragnar": [
+				"What do ye want?",
+				"Aye, kin. What's the matter?",
+				"'Ere I am! What did I miss?",
+				"Greetin's, kin. Somethin' botherin' ya?"
+			]
+		}
+	},
+  {
+		"op": "add",
+		"path": "/beacon/bignorthdragnar",
+		"value": {
+			"default" : [
+				"What do ye want?",
+				"Aye, what's the matter?",
+				"'Ey, ye want to chatter or what?",
+				"'Ere I am! What did I miss?",
+				"Lo. Somethin' botherin' ya?"
+			],
+			"northdragnar": [
+				"What do ye want?",
+				"Aye, kin. What's the matter?",
+				"'Ere I am! What did I miss?",
+				"Greetin's, kin. Somethin' botherin' ya?"
+			],
+			"bignorthdragnar": [
+				"What do ye want?",
+				"Aye, kin. What's the matter?",
+				"'Ere I am! What did I miss?",
+				"Greetin's, kin. Somethin' botherin' ya?"
+	  ]
+	}
+  },
+	{
+		"op": "add",
+		"path": "/rent/northdragnar",
+		"value": {
+			"default": [
+				"Aye, 'ere's somethin' for gi'in' me shelter.",
+				"'Ere. Don't ye be thinkin', that I'm not appreciatin' what ye've done for me.",
+				"I think ye're deser'in' this, for gi'in me a roof o'er me 'ead.",
+				"It's only fair, that I'm gi'in' somethin' back for yer 'elp.",
+				"There ye go. Take it as way o' sayin' thanks for yer 'elp!",
+				"Ta! Ye're deser'in this."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/bignorthdragnar",
+		"value": {
+			"default": [
+				"Aye, 'ere's somethin' for gi'in' me shelter.",
+				"'Ere. Don't ye be thinkin', that I'm not appreciatin' what ye've done for me.",
+				"I think ye're deser'in' this, for gi'in me a roof o'er me 'ead.",
+				"It's only fair, that I'm gi'in' somethin' back for yer 'elp.",
+				"There ye go. Take it as way o' sayin' thanks for yer 'elp!",
+				"Ta! Ye're deser'in this."
+			]
+		}
+	}
+]

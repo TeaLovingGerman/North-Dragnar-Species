@@ -1,0 +1,94 @@
+[
+  [  // TEST INFO
+    {
+      "inverse": true,
+      "op": "test",
+      "path": "/mods_present"
+    },
+    {
+      "op": "add",
+      "path": "/mods_present",
+      "value": {}
+    }
+  ],
+
+  [  //THIS MOD PRESENT
+    {
+      "op": "add",
+      "path": "/mods_present/NorthDragnarSpecies",
+      "value": true
+    }
+  ],
+
+  [  //CLEAR TEST FOR MPI
+    {
+      "inverse": false,
+      "op": "test",
+      "path": "/displayDungeons"
+    },
+    {
+      "op": "add",
+      "path": "/mods_present/MorePlanetInfo",
+      "value": true
+    }
+  ],
+
+ [ //ONLY WITH MPI
+    {
+      "op": "test",
+      "path": "/mods_present/MorePlanetInfo",
+      "inverse": false
+    },
+// -------DUNGEON NAME-------
+    {
+    "op": "add",
+    "path": "/displayDungeons/-----dungeonID-------",
+    "value": {
+      "description": "",
+      "icon": "/interface/cockpit/dungeons/NAME OF DISPLAY IMAGE.png"
+    }
+    },
+  {
+    "op": "add",
+    "path": "/displayDungeons/-----dungeonID-------",
+    "value": {
+      "description": "",
+      "icon": "/interface/cockpit/dungeons/NAME OF DISPLAY IMAGE.png"
+    }
+  },
+// -------DUNGEON NAME-------
+  {
+    "op": "add",
+    "path": "/displayDungeons/-----dungeonID-------",
+    "value": {
+      "description": "",
+      "icon": "/interface/cockpit/dungeons/NAME OF DISPLAY IMAGE.png"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/displayDungeons/-----dungeonID-------",
+    "value": {
+      "description": "",
+      "icon": "/interface/cockpit/dungeons/NAME OF DISPLAY IMAGE.png"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/displayDungeons/-----dungeonID-------",
+    "value": {
+      "description": "",
+      "icon": "/interface/cockpit/dungeons/NAME OF DISPLAY IMAGE.png"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/displayDungeons/-----dungeonID-------",
+    "value": {
+      "description": "",
+      "icon": "/interface/cockpit/dungeons/NAME OF DISPLAY IMAGE.png"
+    }
+  } 
+  ]
+
+]

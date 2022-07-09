@@ -1,0 +1,34 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/chatSounds/northdragnar",
+    "value": {
+      "male": [
+        "/sfx/humanoid/northdragnarchatter_male1.ogg",
+        "/sfx/humanoid/northdragnarchatter_male2.ogg",
+        "/sfx/humanoid/northdragnarchatter_male3.ogg"
+      ],
+      "female": [
+        "/sfx/humanoid/northdragnarchatter_female1.ogg",
+        "/sfx/humanoid/northdragnarchatter_female2.ogg",
+        "/sfx/humanoid/northdragnarchatter_female3.ogg"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/chatSounds/bignorthdragnar",
+    "value": {
+      "male": [
+        "/sfx/humanoid/bignorthdragnarchatter_male1.ogg",
+        "/sfx/humanoid/bignorthdragnarchatter_male2.ogg",
+        "/sfx/humanoid/bignorthdragnarchatter_male3.ogg"
+      ],
+      "female": [
+        "/sfx/humanoid/bignorthdragnarchatter_female1.ogg",
+        "/sfx/humanoid/bignorthdragnarchatter_female2.ogg",
+        "/sfx/humanoid/bignorthdragnarchatter_female3.ogg"
+      ]
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+	"op": "add",
+	"path": "/scriptConfig/dialog/attack/glitch",
+	"value": {
+	  "northdragnar": [
+          "Terrified. Guards! To me!",
+          "Afraid. A raider! Guards!",
+          "Petrified. I'm too young to die!",
+          "Frightened. Guards! Guards, help!",
+          "Defiant. Guards, hack this raiding scoundrel apart!",
+          "Scornful. I'd take you down myself, but I have guards for that.",
+          "Incensed. You will rue the day you invaded this place, brute!",
+          "Aggressive. You will leave this place... in pieces!",
+		  "Entitled. My guards will punish you, for disrespecting me and my court!"
+		],
+	  "bignorthdragnar": [
+          "Terrified. Guards! To me!",
+          "Afraid. A raider! Guards!",
+          "Petrified. I'm too young to die!",
+          "Frightened. Guards! Guards, help!",
+          "Defiant. Guards, hack this raiding scoundrel apart!",
+          "Scornful. I'd take you down myself, but I have guards for that.",
+          "Incensed. You will rue the day you invaded this place, brute!",
+          "Aggressive. You will leave this place... in pieces!",
+		  "Entitled. My guards will punish you, for disrespecting me and my court!"
+		]
+	}
+  }
+]

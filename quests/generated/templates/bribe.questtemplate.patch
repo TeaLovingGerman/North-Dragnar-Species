@@ -1,0 +1,82 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/northdragnar",
+    "value": [
+            "^cyan;I'm needin' a fa'our from <target>. We'll be con'incin' 'em with a little gift...",
+            "^cyan;<target>'s owin' me somethin' already, but they ain't owin' me enough!"
+    ]
+    },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/next/northdragnar",
+    "value": [
+            "Now onto the next step. 'Ow're feelin' about bribery? ^green;Because ye'll be doin' some bribin' with the ^orange;<gift>^white; to gain ^orange;<target>^white;'s trust on this part o' the plan.",
+            "We'll be needin' the fa'our o' ^orange;<target>'s^white; for this plan to be workin'. ^green;All ye're needin' to do is to bribe 'em with this ^orange;<gift>^white; 'ere and we should be good to go with the next step!"
+    ]
+    },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "value": [
+            "Now the only thin' that's left'd be to win the fa'our o' ^orange;<target>'s^white;. ^green;Call it bribin' if ye're wantin' to, but ^orange;<target>'s^white; ain't lea'in empty-'anded. In fact they'll be lea'in with this ^orange;<gift>^white; in their 'ands for the trouble!",
+            "Well, I'm 'opin' that ye're ready for the last step o' the plan. ^green;Ye're goin' to be gi'in' this ^orange;<gift>^green; to ^orange;<target>'^white; on me be'alf. That way they'll be indebted to me, which's exactly what we're needin' for this plan to be workin'!"
+    ]
+    },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/next/northdragnar",
+    "value": [
+            "Ye see? Bribin' ain't that 'ard at all! In the end, both me and <target> got what we've been wantin'! With that out o' the way...",
+            "I knew that <target>'d acceptin the bribe! Ain't the first time that it's been workin' for me, I'm tellin' ye! Though, work ain't o'er yet."
+    ]
+    },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
+    "value": [
+            "This's been workin' out like a charm! Now I've got to be thinkin' what sort o' fa'our I'd be needin' from <target>...",
+            "The bribe with <target>'s been successful? I'll be damned! Thank ye for 'elpin' me with this ''tradin'' business and indebtin' 'em to me!"
+    ]
+    },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/bignorthdragnar",
+    "value": [
+            "^cyan;I'm needin' a fa'our from <target>. We'll be con'incin' 'em with a little gift...",
+            "^cyan;<target>'s owin' me somethin' already, but they ain't owin' me enough!"
+    ]
+    },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/next/bignorthdragnar",
+    "value": [
+            "Now onto the next step. 'Ow're feelin' about bribery? ^green;Because ye'll be doin' some bribin' with the ^orange;<gift>^white; to gain ^orange;<target>^white;'s trust on this part o' the plan.",
+            "We'll be needin' the fa'our o' ^orange;<target>'s^white; for this plan to be workin'. ^green;All ye're needin' to do is to bribe 'em with this ^orange;<gift>^white; 'ere and we should be good to go with the next step!"
+    ]
+    },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
+    "value": [
+            "Now the only thin' that's left'd be to win the fa'our o' ^orange;<target>'s^white;. ^green;Call it bribin' if ye're wantin' to, but ^orange;<target>'s^white; ain't lea'in empty-'anded. In fact they'll be lea'in with this ^orange;<gift>^white; in their 'ands for the trouble!",
+            "Well, I'm 'opin' that ye're ready for the last step o' the plan. ^green;Ye're goin' to be gi'in' this ^orange;<gift>^green; to ^orange;<target>'^white; on me be'alf. That way they'll be indebted to me, which's exactly what we're needin' for this plan to be workin'!"
+    ]
+    },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/next/bignorthdragnar",
+    "value": [
+            "Ye see? Bribin' ain't that 'ard at all! In the end, both me and <target> got what we've been wantin'! With that out o' the way...",
+            "I knew that <target>'d acceptin the bribe! Ain't the first time that it's been workin' for me, I'm tellin' ye! Though, work ain't o'er yet."
+    ]
+    },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
+    "value": [
+            "This's been workin' out like a charm! Now I've got to be thinkin' what sort o' fa'our I'd be needin' from <target>...",
+            "The bribe with <target>'s been successful? I'll be damned! Thank ye for 'elpin' me with this ''tradin'' business and indebtin' 'em to me!"
+    ]
+    }
+]

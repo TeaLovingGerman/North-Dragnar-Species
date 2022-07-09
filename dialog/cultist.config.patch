@@ -1,0 +1,40 @@
+[
+    {
+		"op": "add",
+		"path": "/attack/human",
+		"value": {
+			"northdragnar": [
+			    "This just isn't your day!",
+				"We are the Occasus! You can't stop us!",
+				"You shall not stop our plans!",
+				"You won't leave this place!",
+				"The universe doesn't need you North-Dragnarian brutes!",
+				"You'll die today, bloodthirsty brute!",
+				"No one needs a bunch of raiders like you!",
+				"Your kind is nothing but raiders!",
+				"The Occasus will wipe you brutish raiders out!",
+				"The nonbelievers of Urden cannot hide from us forever!",
+				"First we will end you barbarians, then the entirety of Urden!",
+				"You brutes will not stop us!",
+				"We will be rid of your kind soon enough!",
+				"You cannot stop the Occassus, brute!"
+	  ],
+	  "bignorthdragnar" : [
+			    "This just isn't your day!",
+				"We are the Occasus! You can't stop us!",
+				"You shall not stop our plans!",
+				"You won't leave this place!",
+				"The universe doesn't need you North-Dragnarian brutes!",
+				"You'll die today, bloodthirsty brute!",
+				"No one needs a bunch of raiders like you!",
+				"Your kind is nothing but raiders!",
+				"The Occasus will wipe you brutish raiders out!",
+				"The nonbelievers of Urden cannot hide from us forever!",
+				"First we will end you barbarians, then the entirety of Urden!",
+				"You brutes will not stop us!",
+				"We will be rid of your kind soon enough!",
+				"You cannot stop the Occassus, brute!"
+			]
+		}
+    }
+]

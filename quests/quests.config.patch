@@ -1,0 +1,32 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/northdragnar",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/northdragnar",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/initialquests/bignorthdragnar",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/bignorthdragnar",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]

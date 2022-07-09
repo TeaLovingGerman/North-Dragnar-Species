@@ -1,0 +1,50 @@
+{
+  "objectName" : "ndmannequin",
+  "colonyTags" : [],
+  "printable" : false,
+  "rarity" : "Common",
+
+  "category" : "other",
+  "price" : 500,
+  "description" : "This engraved mannequin will gladly display any North-Dragnarian outfits.",
+  "shortdescription" : "Dragnar Mannequin",
+  "race" : "northdragnar",
+  
+  "apexDescription" : "A rather unusual amount of detail for a mannequin. It appears more like a piece of art.",
+  "avianDescription" : "A life-sized carving of a North-Dragnar that acts as a mannequin.",
+  "floranDescription" : "Wooden ssculpture of weird birdman can hold armor.",
+  "glitchDescription" : "Remarking. A detailed wooden mannequin, formed after the likeness of a North-Dragnar.",
+  "humanDescription" : "I bet, someone could mistake this mannequin with an actual North-Dragnar from far away.",
+  "hylotlDescription" : "One could interpret this mannequin as a manifestation of the North-Dragnarian people's obstinate nature.",
+  "novakidDescription" : "Just as hardy-lookin' as the folks that carved it.",
+  "northdragnarDescription" : "This fella's got just the right shape to be 'oldin me kin's clothes and armour.",
+  "bignorthdragnarDescription" : "This fella's got just the right shape to be 'oldin me kin's clothes and armour. A bit below me size, though",
+
+  "inventoryIcon" : "mannequinicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "mannequin.png",
+      "imagePosition" : [-21, 0],
+
+      "spaces" : [[-1, 0], [-1, 1], [-1, 2], [-1, 3], [0, 0], [0, 1], [0, 2], [0, 3]],
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "animation" : "mannequin.animation",
+  "animationPosition" : [-21, 0],
+
+  "health" : 1.5,
+
+  "objectType" : "container",
+
+  "openSounds" : [ "/sfx/objects/mannequin_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/mannequin_close.ogg" ],
+  "slotCount" : 4,
+  "uiConfig" : "/interface/scripted/mannequin/mannequingui.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600,
+
+  "scripts" : [ "/objects/generic/ndmannequin/mannequin.lua" ],
+  "scriptDelta" : 5
+}

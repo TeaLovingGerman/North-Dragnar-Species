@@ -1,0 +1,8 @@
+{
+  "name" : "pink",
+  "category" : "northdragnarpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "pink.png"
+  }
+}

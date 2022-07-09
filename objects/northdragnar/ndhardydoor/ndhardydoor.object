@@ -1,0 +1,53 @@
+{
+  "objectName" : "ndhardydoor",
+  "colonyTags" : ["northdragnar","door"],
+  "rarity" : "Common",
+  "category" : "door",
+  "price" : 95,
+  "description" : "A hand-crafted door. Its planks are held together by metal.",
+  "shortdescription" : "Hardy Door",
+  "race" : "northdragnar",
+  "apexDescription" : "This door beats the quality of standard issue doors by miles.",
+  "avianDescription" : "",
+  "floranDescription" : "Strong wood isss good choice for ssturdy door!",
+  "glitchDescription" : "Admiring. The metal support of this door has been formed with utmost precision, but its sturdiness .",
+  "humanDescription" : "A hand-crafted door, built to last.",
+  "hylotlDescription" : "",
+  "novakidDescription" : "",
+  "northdragnarDescription" : "This door's crafted from tough wood. The metal supports're just there to 'old the planks together.",
+  "bignorthdragnarDescription" : "This door's crafted from tough wood. The metal supports're just there to 'old the planks together.",
+  "inventoryIcon" : "ndhardydooricon.png",
+  "tooltipKind" : "door",
+  "largeImage" : "ndhardydoor.png:right",
+  
+  "orientations" : [
+    {
+      "dualImage" : "ndhardydoor.png:default",
+      "imagePosition" : [-16, 0],
+      "renderLayer" : "Object+5",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ]
+    }
+  ],
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/wooddoor_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/wooddoor_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "ndhardydoor.png"
+  },
+  "animationPosition" : [-16, 0],
+  "inputNodes" : [ [0, 4] ],
+  "outputNodes" : [ [0, 0] ]
+}

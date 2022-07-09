@@ -1,0 +1,1183 @@
+[
+  [
+    {
+      "op": "add",
+      "path": "/converse/northdragnar",
+      "value": {
+        "generic": [
+          "Are ye up for a brawl?",
+		  "'As anythin' interestin' 'appened lately?",
+		  "Where do ye 'ail from?",
+		  "Stay stron', stay courageuos!",
+		  "Rest 'ere for a while, if ye're needin' to.",
+          "Would ye mind sharin' a few stories o'er a drink or two?",
+		  "'Ave ye been 'untin' recently? Struck down anythin' worthy o' mentionin'?",
+		  "Our rage menders're always on the brink o' becomin' feral, if they don't take proper care o' their anger.",
+		  "I love the feelin' o' soft snow landin' on me 'ands.",
+		  "'Ave ye e'er met a ''rage mender''? I've got no idea 'ow they're channelin' their anger...",
+		  "One o' me kin became a raider. They ain't no kin o' mine anymore!",
+		  "Some people 'ave a 'ard time understandin' us. Did... Did ye understand what I've just said to ya?",
+		  "Some're only viewin' our kin as warriors. Ye can believe me, we're pretty damn good at other trades too!",
+		  "Urden's a mysterious place, I'm tellin' ya.",
+		  "We North-Dragnar used to be much bigger.",
+		  "I bet ya, that our ancestors ne'er thought o' us, takin' to the stars!",
+		  "We're pretty good at car'in' wood, stone, metal and probably anythin' else that's carvable.",
+		  "Anyone's needin' a rest from time to time. Ya can rest 'ere, as lon' as ye like.",
+		  "'A'in' a fight 'ere's alright, as lon' as ye fight fair and noone's gettin' killed.",
+		  "We're used to the cold. 'Ow about ye?",
+		  "Most o' me kin's clothes're meant for keepin' us warm. Function o'er looks I'd say.",
+		  "I'm surprised 'ow quickly our smiths got used to 'andlin' all these strange ores.",
+		  "I'm 'opin', that ye're not planin' on causin' trouble.",
+		  "A 'ylotl once mocked me sense o' fashion. Thin' is, I don't care much for fashion. I 'ad meself a good laugh!",
+		  "I'm thinkin' that we're the only species o' Urden, besides 'umans, who've traveled to Space.",
+		  "I can't tell ye why our kin're the only ones who've left Urden. That's 'cause I've got no idea meself!",
+		  "Sometimes I'm questionin', if Tyrants e'er actually existed...",
+		  "There's nothin' like sittin' near a campfire durin' a cold night!",
+		  "'Ave ya seen those Alpacas? They're like kin to me!",
+		  "Ye might've seen our stone statues outside or inside our kin's settlements. They're used as warnin's or signs for welcomin'.",
+		  "A 'uman once told me, that I was remindin' 'em o' a vikin'. Do ye 'ave any idea what a ''vikin' '' is s'posed to be?",
+		  "We Dragnar 'ave come very far, after the end o' the ''Greater Tyrants''.",
+		  "'Ave ya e'er 'eard o' ''Tyrants''? They once enslaved all o' us Dragnar. I'm glad, that me ancestors were able to free 'emselves from their reign.",
+		  "If our ancestors wouldn't 'ave been able to free 'emselves from those Tyrants, I wouldn't be standin' 'ere in front o' ya.",
+		  "I'm feelin' bad for the A'ians and Apex. Both o' 'em 'ave to deal with seemin'ly untouchable tyrants...",
+		  "If ye e'er come across a raider, ye shouldn't be showin' 'em any mercy. They were kin o' ours that took to pillagin' and killin' for their own gain.",
+		  "Raiders're not wanted in our settlements. For ob'ious reasons.",
+		  "The Rinaffin Clan's the most infamous North-Dragnarian group o' raiders out in Space.",
+		  "We North-Dragnar usually 'ave much to say. I'm 'opin' that it ain't o'erwhelin' ya.",
+		  "I used to be li'in in another village, but those damned Rinaffin raiders burned it to the ground!",
+		  "Ye better be careful out there, tra'eler. Those Rinaffin raiders like to ambush their victims!",
+		  "If ye're e'er crossin' a raider, ye better show 'em no mercy, because they're not goin' to be merciful either.",
+		  "We North-Dragnar're tendin' to talk about fightin' a lot. That's just because o' our past.",
+		  "Whene'er I'm thinkin' about Urden, it always feels like me memory's so fuzzy...",
+		  "I could be swearin', that I was li'in on Urden once. But... Why ain't I sure about that?",
+		  "Be ye lad, lass or anythin' different, e'eryone's free to choose what they're wantin' to do!",
+		  "Car'in's me 'obby! What about ye?",
+		  "What're ye thinkin' about our car'in's?",
+		  "'Ave ye e'er tried yerself at doin' pottery?",
+		  "I'm preferin' snowball fights o'er fist fights.",
+		  "Do ye sometimes create patterns out o' yer footprints in the snow too?",
+		  "Want to be roastin' a bit o' food o'er an open fire?",
+		  "We've all got our own tyrants to be fightin'. Stay stron', tra'eler!",
+		  "Ye're lookin' pretty 'ardy to me! I'm likin' that!",
+		  "Ye're appearin' like the capable type o' person!",
+		  "Nah, I ain't up for a tussle. 'Ow about wea'in a few tapestries instead?",
+		  "I've run out o' thin's to carve on. At least, thin's I'm allowed to be car'in on...",
+		  "I've been catchin' snowflakes with me tongue, so what? It ain't 'urtin' anyone!",
+		  "Ye're bound to be findin' what ye're lookin' for. The uni'erse's pretty much endless!",
+		  "Refugees're welcome in our settlements! The ancestors o' us Dragnar 'ave all been in similar situations before.",
+		  "There's a variety o' different people on Urden alone!",
+		  "'Ave ye met someone from Urden, that ain't a 'uman or a North-Dragnar?",
+		  "I'm thinkin', since we're the only Dragnar out in Space, there's not much use for ''North'' in me kind's name.",
+		  "There ain't no North in Space, but we North-Dragnar got our name back from Urden, not Space.",
+		  "I've been thinkin' o' joinin' the Tower-Shields.",
+		  "Most o' our settlements're bein' protected by the Tower-Shields. Possibly our most grand organization o' all.",
+		  "The Tyrants o' me kin called 'emselves the ''Ronjat''. Almost all o' 'em 'ave been slain by our ancestors.",
+		  "Sfitrfjol used to be part o' those tyranisin' Ronjat, but he went out o' 'is way to protect our kin from their influence.",
+		  "The 'istory o' the Tower-Shield's reachin' all the way back to Sfitrfjol's campaign, to protect the our people.",
+		  "Got any good insults? I'm preparin' for a contest o' Klyftin.",
+		  "I've collected loads o' well-thought-out insults for me next Klyftin!",
+		  "'Ave ye found somethin' good while foragin' in the wild? Ye can be findin' some tasty mushrooms, for example.",
+		  "All the crops ye're probably used to 'ad to be foraged first. Culti'atin' forage into crops comes after gettin' to know 'em better.",
+		  "Growin' crops used to be much stranger to us than 'untin' or foragin'. That's mostly changed by now.",
+		  "E'er 'eard o' the Many-Formed? Do ye believe, that one o' 'em could be lookin' like one o' the known species out there?"
+        ],
+        "default": [
+          "Ne'er seen the likes o' ye before. Ye're welcome nonetheless!",
+          "Does yer kin do pottery?",
+          "Does yer kind 'ave any experience with 'untin'?",
+          "What's brought ye all the way o'er to us?",
+          "Where does yer kind 'ail from?",
+          "'Ave a good day, tra'eller!",
+          "It's always interestin' to be seein' some new folks around 'ere!",
+		  "Me kin'd be glad to 'elp ye out, if ye're bein' tyranised by someone else.",
+		  "I sure 'a'en't seen yer kind before. I'm 'opin' that ye've got peaceful intentions.", 
+		  "We ain't judgin' ye by who ye are, only by what ye're doin'."
+        ],
+        "northdragnar": [
+          "Ah, good to be seein' one o' me kin explorin' the uni'erse!",
+          "Some o' the other races out in the uni'erse 'ave more problems with tyrants than I e'er thought...",
+          "Another North-Dragnar, just like meself! 'Ow's Space life treatin' ya?",
+          "The snow from other planets ne'er felt as familiar as the one back on Urden. I'm missin' it...",
+          "Ye up for a tussle? A friendly one o' course.",
+          "Want a drink? Kinship? We got both!",
+		  "Got meself in a brawl with a Floran. They're tough and savage when it comes to fightin', I'm tellin' ya!",
+		  "I'm thinkin' that I'll ne'er be 'andlin' a rifle or launcher properly...", 
+		  "Are ye more o' a warrior, 'andyman or explorer? All-in-one maybe?",
+		  "Nothin' feels as satisfyin' than swingin' a 'eavy weapon at yer foes!",
+		  "What's it like, tra'elin' out there in Space?",
+		  "Which o' the other races do ye think would be the toughest to fight?",
+		  "Most o' us don't 'ave a spaceship o' their own.",
+		  "Do ye 'ave a spaceship? I'd like to be sailin' through Space one day too...",
+		  "Been busy with 'untin' anythin' lately?",
+		  "Ye've got this feelin' too, right? That ye can't be rememberin' anythin' clearly about Urden? Is it just me?",
+		  "I'm not e'en sure, if I've e'er been to Urden before...",
+		  "Do ye know what's like to be li'in on Urden? I've 'eard much o' the place before.",
+		  "Are ye feelin' more comfortable in the cold? I sure do!",
+		  "Ye think that I should be braidin' me fur differently? I just can't be decidin'...",
+		  "I'm thinkin' that I lost some o' me brass beads. Tell me, if ye find any o' 'em, will ya?",
+		  "Aren't ye wonderin' where we've got our name from? I meself've forgotten...",
+		  "I need to be visitin' one o' our archives soon...",
+		  "Our archives're seemin' to be pretty full o' people. Must be all the rage nowadays.",
+		  "Ye're not a spy o' the Rinaffin Clan, are ye?",
+		  "I'm 'opin' that ye weren't forced to be lea'in yer 'ome be'ind.",
+		  "Lost yer 'ome to the Rinaffin raiders? Those damned blaggards will be payin' soon enough...",
+		  "Don't ye get fooled into joinin' those Rinaffin raiders!",
+		  "E'er considered joinin' the Tower-Shields yerself? I'd be glad to 'elp 'em out with all the raids goin' on.",
+		  "If ye spot any encampment o' those damned Rinaffin raiders, I'd recommend ye to inform the Tower-Shields.",
+		  "'Ave ye e'er considered, that one o' the Many-Formed could be walkin' amon' our kin and we wouldn't e'en know? I sure did."
+        ],
+        "apex": [
+          "I feel ye, takin' care o' fur ain't so simple.",
+          "Ye know, our people were enslaved by s'posedly 'igher bein's too.",
+          "If ye're one o' those ''Miniknog'' then know, that ye 'ave no power 'ere. If ye're not, enjoy yer freedom from Big Ape's tyranny!",
+          "I'm belie'in' that yer people will be o'erthrowin' Big Ape one day. Just like we Dragnar did to those ''Tyrants'' o' ours.",
+          "I 'eard that yer kind once looked similar to 'umans. Did ya?",
+          "Ye must be 'ailin' from a cold 'omeland as well, what with all that fur ye've got.",
+          "Does yer kin 'ave any say when it comes to the well-bein' o' yer people? No? That's awful soundin'...",
+          "Ne'er tried one o' those ''bananas'' meself. Say, ye don't 'ave any o' those right on ya now, do ye?",
+		  "Big Ape? Soundin' like a damn tyrant, from what I've 'eard!",
+		  "Lo there, Apex.",
+		  "Yer kin doesn't look like they'd be bothered by cold weather.",
+		  "There ain't no 'onour in terrorizin' folks. The Minikno' and that Big Ape're deser'in' no respect.", 
+		  "Do ye braid yer fur too?",
+		  "Is is true, that yer people can't e'en carve as a 'obby?",
+		  "What're yer people actually allowed to be doin', in a settlement controlled by the Minikno'?",
+		  "The Tower-Shields'd be gladly replacin' the Miniknog, I'm tellin' ya.",
+		  "Is it true, that the Minikno're not allowin' ye to create yer own wea'in' patterns?",
+		  "Do ye actually like eatin' those bananas, or's it just a stereotype?"
+        ],
+        "avian": [
+          "Lo, A'ian.",
+          "Me ancestors s'posedly 'ad win's too.",
+          "The Grounded... Are they defiers o' that Kluex I've 'eard about?",
+          "Ye've got feathers! I know o' a few other types o' Dragnar who're bearin' feathers too.",
+          "Are yer people good sin'ers? Me kin's best known for their throat-sin'in'.",
+          "Some other Dragnar-kin were made to believe, that their rulin' Tyrants were deities.",
+          "Ye wouldn't be mindin', if I took a feather or two? Yers look pretty lovely!",
+          "What's this ''Kluex'' I keep 'earin' about? Is he yer... Ne'ermind.",
+		  "Does yer kin really believe in this Kluex? Ye'd think they would be o'erthrowin' 'im, if they 'ad to?",
+		  "Is this Kluex real or some sort o' made up idol?",
+		  "'Ow many A'ians, do ye think, would it take to defeat this Kluex o' yers? Do ya need 'elp?",
+		  "Believe me A'ian, we're understandin' what yer kin's goin' through...",
+		  "Do A'ians allow non-believers on their 'omeplanet, A'os?",
+		  "Dragnar, who were under the rule o' a Tyrant, were 'parently not allowed to 'ave win's. If they 'ad a pair o' 'em, they would be cut off!",
+		  "As far as I know, none o' the races from Urden 'ave any sort o' religion. 'Cept 'umans, maybe."
+        ],
+        "floran": [
+          "Yer kind's remindin' me o' some o' our rage menders who went feral, after failin' to take proper control o' their rage.",
+          "I reckon yer kind wouldn't be survi'in' the 'arsh climate o' Urden's northern regions.",
+          "Stabbin's good and all, but wildly thrustin' a weapon doesn't 'elp against foes with great combat experience.",
+          "Are ye like sentient flesh-eatin' plants?",
+          "What kind o' weapon does yer kind prefer? I'm preferin' me a good two-'anded sword or battle axe!",
+          "Do yer people 'unt just for sport or for survi'in'? Maybe both?",
+          "I 'eard that ye Florans're li'in' in trees? Is that so?",
+		  "There were sort-o' sentient plants on Urden too. They're actually... Um, ne'ermind that.",
+		  "Back on Urden, I read that some West-Dragnar make their 'ome in the deep woods o' their region. Somewhat similar to yer kind.",
+		  "Lo, Floran.",
+		  "Are ye up for a 'untin' trip? 'Eard, that Florans got admirable 'untin' experience!",
+		  "I've got no problem with Florans, as lon' as ye don't try to eat me.",
+		  "I'm imaginin', that ye Florans ain't too keen about car'in in wood.",
+		  "If ye'd be eatin' plants, would that be considered cannibalism?",
+		  "What're Floran's thoughts about gardenin'?" 
+        ],
+        "human": [
+          "Were ye there, when Earth was... Sorry for askin'...",
+          "This ''Protectorate'' o' yers isn't acceptin' any recruits, are they? Oh...",
+          "Multiple groups on Urden were tryin' to tussle with the 'umans there, because they 'parently brought doom to Urden once...",
+          "'Ave ye got any brawlin' experience? Ye up for one?",
+          "Are ye searchin' Space for a new home? Don't ye be worryin', there's plenty o' Space!",
+          "Do ye 'ave any idea, what that ''thing'' was that destroyed Earth? Damn...",
+          "Did yer kind e'er 'ave to deal with tyrants?",
+          "Ye need a drink? I'll warn ye, our drinks are REALLY stron'.",
+          "'Umans on Urden were stuck on there for a lon' time. A good part o' 'em looked for kinship amon'st the other races o' Urden.",
+          "'Ave ye e'er met a 'uman, that came from Urden?",
+          "I don't trust yer kind...",
+          "The Protectorate 'ad a noble goal, 'uman. What an unfortunate end..."
+		  "Why'm I feelin' like I shouldn't be trustin' ya?",
+		  "'Ey there, 'uman.",
+		  "What does this ''USCM'' do? I 'ave a feelin' that I won't be likin' what I'll 'ear.",
+		  "Lo, 'uman."
+        ],
+        "ningen": [
+          "Were ye there, when Earth was... Sorry for askin'...",
+          "This ''Protectorate'' o' yers isn't acceptin' any recruits, are they? Oh...",
+          "Multiple groups on Urden were tryin' to tussle with the 'umans there, because they 'parently brought doom to Urden once...",
+          "'Ave ye got any brawlin' experience? Ye up for one?",
+          "Are ye searchin' Space for a new home? Don't ye be worryin', there's plenty o' Space!",
+          "Do ye 'ave any idea, what that ''thing'' was that destroyed Earth? Damn...",
+          "Did yer kind e'er 'ave to deal with tyrants?",
+          "Ye need a drink? I'll warn ye, our drinks are REALLY stron'.",
+          "'Umans on Urden were stuck on there for a lon' time. A good part o' 'em looked for kinship amon'st the other races o' Urden.",
+          "'Ave ye e'er met a 'uman, that came from Urden?",
+          "I don't trust yer kind...",
+          "The Protectorate 'ad a noble goal, 'uman. What an unfortunate end..."
+		  "Why'm I feelin' like I shouldn't be trustin' ya?",
+		  "'Ey there, 'uman.",
+		  "What does this ''USCM'' do? I 'ave a feelin' that I won't be likin' what I'll 'ear.",
+		  "Lo, 'uman."
+        ],
+        "hylotl": [
+          "Lo there, 'ylotl.",
+          "The culture o' yer kind's remindin' o' that o'... East-Dragnar was it?",
+          "Ye've collected loads o' yer own kind's 'istory, a'en't ya? We North-Dragnar started documentin' our history much later than other Dragnar.",
+          "Ye're li'in' underwater? I can't be imaginin' 'ow that's like.",
+		  "I've read that there 'ave been sightin's o' aquatic Dragnar on Urden.",
+          "Ye take pride in yer culture? Most races o' Urden do so too. To a reasonable le'el.",
+		  "Yer kind probably wouldn't want to be li'in in our region's seas. They're ice-cold!",
+		  "Too much pride's ne'er a good thin'.",
+		  "Some o' yer kind are o'erflowin' with pride...",
+		  "There's no pride in 'a'in' too much pride.",
+		  "Yer people're seemin', like they'd be valuin' 'onour in battle. Most o' us do so too.",
+		  "Don't ye be e'en start with-. I- I'm sorry, I 'a'en't 'ad many good experiences with 'ylotl...",
+		  "For goodness sake, don't e'en be thinkin' about callin' us barbarians!",
+		  "Are 'ylotl demeanin' other cultures as much as ours?",
+		  "Yes, we've got more than just war poetry. Thanks for askin'...",
+		  "I've got to say, the way ye 'ylotl craft legs for yer furniture's lea'in' a lot o' room for improvement.",
+		  "Ye 'ylotl must 'ave some great depth perceptions with those three eyes o' yers.",
+		  "Do ye 'ylotl 'unt underwater? Yer people seem like they'd be refrainin' from doin' so."
+        ],
+        "avali": [
+          "Do ye 'unt? Care to exchange some 'untin' experiences?",
+          "Our tents're ususally made o' pelts from slain beasts, to keep the cold out.",
+          "Lo, A'ali.",
+          "Most o' us're usually li'in' a sittin' live.",
+          "I've met a fair share o' nomads before. A'ali nomads too.",
+          "'Ow's the nomad life treatin' ye?",
+          "I 'eard that yer kind're good sin'ers. 'Ave ya e'er tried yerself at throat-sin'in'?",
+          "I'd probably 'ave problems, tryin' to operate yer tech.",
+          "Would ye mind showin' me a few o' yer techs? Or this aerogel I've 'eard about?",
+		  "What's the deal with ye and the 'umans? Ye both seem to be 'avin' a grudge against each other."
+        ],
+        "dragon": [
+          "Lo, Draconis.",
+          "I've met a few Draconis, who've been boastin' about their brawlin' experience. They're missin' quite a few o' their teeth now! Ohoho!",
+          "From what I've 'eard, yer kind shows no 'onour in battle.",
+          "Ye're sort o' lookin' like a Dragnar.",
+          "Some're thinkin', that we're bloodthirsty warriors. I'm thinkin', that that description better suits yer kind.",
+          "I 'a'en't tussled with a Draconis, who didn't try to cheat in a fair fist fight.",
+		  "I won't be throwin' any insults yer way, as lon' as ye're doin' the same.",
+		  "Just recently met a few nomads from yer kind. Great 'unters with some lovely red tapestries!",
+		  "Talkin' with a nomad from yer kind's much more enjoyable than talkin' with any other Draconis.",
+		  "What 'ave ye been up to? Ye're smellin' like smoke."
+        ],
+        "wasphive": [
+          "Lo, Wasp 'ive.",
+          "Wasp 'ive? Does that name e'en make sense, when ye're out 'ere without a 'ive?",
+          "Were yer queens tyranical? Me ancestors 'ave been terrorised by the Tyrants, who've been gi'in' themselves similar titles.",
+          "Li'in' life with a mind o' yer own. Now that's the best kind o' life!",
+          "Yer kind's creatin' furniture out o' paper combs? Ye can be countin' me impressed!",
+          "It'd probably be a bad idea to try and carve anythin' into paper combs.",
+		  "Does it feel strange to some o' yer kind, to not live as a 'ive mind?",
+		  "Do ye sometimes paint o'er those paper combs? I mean, car'in' sure ain't an option.",
+		  "What's that big thin' on yer be'ind useful for?",
+		  "I can't imagine what it'd be like, to be li'in with a 'ive-mind."
+        ],
+        "skelekin": [
+          "Lo, Skelekin.",
+          "'Ow're yer bones 'oldin' 'emselves together?",
+          "Are ye dead or li'in'? Maybe e'en undead?",
+          "Were ye once part o' a li'in' bein'?",
+          "I ne'er thought that I'd be seein' a walkin' skeleton. Ye've definitely changed that now!",
+          "Am I really seein' a walkin' skeleton? Whoah, I think I've been drinkin' too much...",
+		  "'Ow well would ye 'andle yerself in a fight? Can ye e'en feel... anythin'?",
+		  "Are Skelekin born like skeleton-lookin' bein's, or were ye once part o' another li'in' creature?",
+		  "Is it 'ard, to be findin' clothes, that're fittin' yer size?",
+		  "Either ye're an actually sentient skeleton, or some bone mender's playin' tricks on me...",
+		  "A noticeable bunch o' us take great interest in workin' with bones.",
+		  "Do ye think me own skeleton could be turnin' into one o' yer kind?"
+        ],
+        "glitch": [
+          "Lo, Glitch.",
+          "What? Ah, Sorry. I 'aven't gotten used to yer prefix-deal yet.",
+          "Are ye one o' those rogue Glitch?",
+          "There's 'parently a variety o' sentient mechanical bein's on Urden.",
+          "So, most o' yer kind's stuck in a loop with no technical or any advancements whatsover? Sounds 'orrible...",
+          "The mechanical bein's o' Urden used to be part o' 'ive-minds. Somethin' lead 'em to de'elop indi'idual minds. Don't know what though.",
+		  "'Ow does a Glitch become self-aware or ''rogue'', as ye might say?",
+		  "Ye must be one o' those rogue Glitch. Otherwise, ye wouldn't e'en be 'ere!",
+		  "Yer cultural style's sort o' similar to that o'... West Dragnar, I believe?",
+		  "Would I be offendin' ya, if I'd be talkin' with prefixes?",
+		  "What're other Glitch usually doin', when one o' 'em's becomin' rogue?",
+		  "Is Glitch royalty programmed to be actin' tyrannical?"
+        ],
+        "novakid": [
+          "Lo, No'akid.",
+          "Um... 'owdy, pardner?",
+          "'Ow useful's it actually, to be glowin' all the time?",
+          "Would I be burnin' meself, if I touch one o' yer kind?",
+          "Ye No'akids're truly unique. That... That was s'posed to be a compliment...",
+          "Yer glow must be pretty 'eplful for explorin' dark ca'erns.",
+          "Ye got a... what was it? Um, a ''guitar'' with ya? Ne'er 'eard anyone play one o' those before.",
+		  "I've been thinkin' o' participatin' in a saloon brawl. Do ye know where I'd be findin' a lively No'akid saloon?",
+		  "'Ave ye e'er tried yerself at car'in? Is it likely, that ye'd forget the pattern ye're workin' on?",
+		  "Ye must 'ave some sort o' lon'-term memory! I couldn't be explainin', 'ow ye've come this far otherwise.",
+		  "Do ye know a good gunslingin' No'akid? I'd like to learn 'ow to be 'andlin' these rifles and re'ol'ers one day."
+        ],
+        "fenerox": [
+          "'Ey there, Fenerox.",
+          "Ye 'ave no problem when I'm talkin' in full sentences, right?",
+          "Yer kind's known for 'untin'. Might I be joinin' on a 'unt o' yers?",
+          "Fenerox're usually li'in' in sa'annahs, aren't they?",
+          "Could yer kind be sur'i'in' in colder climates?",
+		  "Ye're sort o' remindin' me o' the Many-Formed. I mean, regardin' yer tribal culture.",
+		  "Life must be tough out in the sa'annah. I could be wron'. Ne'er been li'in in one meself."
+        ],
+        "penguin": [
+          "Lo, Penguin?",
+          "Yer kind ain't exactly known for 'onour or anythin' similar. I 'ope ye're different.",
+          "Size doesn't matter. But I'm thinkin' ye'd be at a disatvantage in a fair fist... flipper-fight.",
+          "Why's yer kind, out o' all the races, one o' the more criminally infamous?",
+          "There're North-Dragnarian raiders and bandits too. We don't take kindly to 'em.",
+          "This Dreadwin' fella's, by any means, a tyrant. I 'ope yer not one o' 'is 'enchmen.",
+          "Are ye comin' in peace? 'Ard to be belie'in' that.",
+		  "Ye Penguins're pretty courageous. I've got to be admirin' that.",
+		  "Lo, Penguin."
+        ],
+        "novali": [
+          "Lo, No- A'ali?",
+		  "Lo, Ava- No'akid?",
+		  "Lo, No'ali.",
+          "Are ye a No'akid or an A'ali? Both? Neither?",
+          "Are ye nomads too?",
+          "Do ye 'ave yer own culture?",
+          "Are ye one o' those A'ali I've been 'earin' about? Why're ye glowin' like a No'akid?",
+          "Is this one o' those A'ali augmetations I 'eard about? What in the...",
+          "Just like No'akids, I've got no idea 'ow ye can exist. I... I didn't mean to be offendin' ye like that...",
+		  "I ain't ne'er seen the likes o' ye before.",
+          "Do ye 'unt? Care to exchange some 'untin' experiences?",
+          "Our tents're ususally made o' pelts from slain beasts, to keep the cold out.",
+          "I've met a fair share o' nomads before. Not many No'ali nomads, though.",
+          "'Ow's the nomad life treatin' ye?",
+          "'Ave ya e'er tried yerself at throat-sin'in'? Erm, do ye e'en 'ave a throat?",
+          "I'd probably 'ave problems, tryin' to operate yer tech.",
+          "Would ye mind showin' me a few o' yer techs? Or this aerogel I've been 'earin' about?",
+		  "What's the deal with ye and the 'umans? Ye both seem to be 'a'in' a grudge against each other."
+        ],
+        "smolavali": [
+          "Lo, A'ali.",
+          "Oh, sorry! I think I almost stepped on ya...",
+          "Ye're way smaller than the A'alis I've been seein'.",
+          "Is that some sort o' augmentation?. Yer size, I mean.",
+          "Ah, ye must be one o' those non-augmented A'ali!",
+          "A'ali're known for 'untin'. What does an A'ali like ye 'unt?",
+          "Ye must 'ave lots more space to be buildin' settlements than we do.",
+          "'A'in' a brawl with ye, wouldn't be that fair...",
+          "I'd probably 'ave problems tryin' to operate yer tech. Especially when it's as small as ye are.",
+          "Ye know, we used to be much bigger than I am now.",
+          "Were A'ali always as small as ye are?",
+          "Are ye nomads too?",
+          "Do ye 'unt? Care to exchange some 'untin' experiences?",
+          "Our tents're ususally made o' pelts from slain beasts, to keep the cold out.",
+          "'Ow's the nomad life treatin' ye?",
+          "'Ave ya e'er tried yerself at throat-sin'in'?",
+          "Would ye mind showin' me a few o' yer techs? Or this aerogel I've 'eard about?",
+		  "What's the deal with ye and the 'umans? Ye both seem to be 'a'in' a grudge against each other."
+        ],
+        "aegi": [
+          "Lo, Aegi.",
+          "Ye were 'umans once, right? At least I've 'eard...",
+          "Any new members in that Alliance o' yers?",
+          "What's it like, bein' part o' the Alliance?",
+          "Why're yer ears this pointy?",
+          "Lo, 'uma- wait, yer an Aegi, right? Sorry...",
+          "Do the members o' the Alliance get alon' well with each other?",
+          "Could I be joinin' this Alliance o' yers by meself? Or do I need to be con'incin' me entire kin to join?",
+          "Yer kind's takin' on the diplomatic approach, eh? What 'appens if diplomacy ain't an option?",
+          "'Ow's it like, li'in' on Elithia?",
+          "Yer people 'ave gone through a lot o' this genetic engineerin', 'a'en't they?",
+		  "Most Aegi're 'parently lo'in' their work. I respect that!",
+		  "Is it true, that yer kind can be regrowin' their limbs?",
+		  "Do ye know when this ''Landing Day'' starts? Must be an important day to yer kind.",
+		  "Is yer culture similar to that o' 'umans?",
+		  "Yer kind's seemin' like an alright bunch.",
+		  "Yer kind does pottery, right? Maybe we can be exchangin' some pots? I've got a few I'm really proud o'!",
+		  "'Ave Aeginian ambassadors e'er visited one o' me kin's villages, or the likes?",
+		  "What's with these Craton I've been 'earin' about? Aegi's got a grudge againt 'em, or what?"
+        ],
+        "avikan": [
+          "Lo, A'ikan.",
+		  "Ves Vel-ay A'ikan! Wait, that didn't sound right...", 
+          "What's it like, li'in' in a desert?",
+          "Ye know anythin' about these Centens?",
+          "A'ikan were dri'en from their 'omeplanet, right? Sorry for yer loss...",
+          "South-Dragnar live in deserts too. Ne'er met one o' 'em though.",
+          "The ''Nomada''? Is that some sort o' big nomadic group?",
+          "The Thelean 'ave dri'en yer kind o' yer 'omeworld? Why'd they be doin' that?",
+          "Do ye know an A'ikan 'untin' group? Would like to join one o' 'em meself.",
+          "These Droden o' yers... Are they sentient?",
+		  "Maybe there's been a good reason, for why those Droden 'ave been riotin' against yer kind...",
+		  "'Ow lon' has yer kind been 'unted by those Theleans?",
+		  "Ye know 'ow to craft with leather and bones?",
+		  "Are ye 'atin people like Glitch and Trink just because o' those Theleans? Ye know, not e'ery mechanical bein's the same.",
+		  "Say, I've 'eard that ye 'ave some sort o' ''Alien Interaction Protocol''. What's it sayin' about us North-Dragnar?",
+		  "Tyrant...",
+		  "What do ye do, when one o' the Droden're not followin' orders?",
+		  "Did all o' the Droden fight against ye willin'ly, durin' one o' those Thelean in'asions? Or was it the Thelean?",
+		  "I'm sure the Tower-Shields'd be glad to be 'elpin' yer people, but they've got a load o' raiders to be dealin' with."
+        ],
+        "akkimari": [
+          "'Ey there, Akkimari.",
+		  "Lo, Akkimari.",
+          "Yer leader was an AI? I 'ope that they didn't tyranise ya...",
+          "Ye need any loose scraps? Got a few lyin' around somewhere...",
+		  "May ye be successful with 'untin' down those Theleans.",
+		  "'Ow 'ard's it to kill a Thelean? Ye think one o' us could be takin' one on?",
+		  "Yer kind's searchin' for their leader? Must've been a kind one. Unlike those Tyrants...",
+		  "'Ave ye gi'en up on 'untin' those Thelean?",
+		  "Got a short temper? Those raiders o' ours got that too.",
+		  "Ye best be keepin' those ''aggressive tendencies'' to yerself.",
+		  "Those teeth o' yers seem like they could be crackin' a stone in 'alf!",
+		  "Ye can produce silk, right? What can ye make out o' Akkimari silk?",
+		  "What can yer kind craft out o' scrap? I've 'eard quite impressive thin's about yer craftsmanship!",
+		  "What kind o' pattern does yer kind use for creatin' fabric?",
+		  "Which o' yer eyes am I s'posed to be lookin' at?",
+		  "Don't go stealin' one o' our musicians!",
+		  "Would a bit o' throat-sin'in' calm yer kind down, or anger 'em?",
+		  "Ye think an Akkimari brute could be takin' on one o' our big lads or lasses in a fist fight?",
+		  "I reckon, that yer kind could be sur'i'in' in the cold regions o' Urden.",
+		  "Yer short temper's remindin' me o' our rage menders..."
+        ],
+        "droden": [
+          "Lo, Droden.",
+		  "'Ello, Droden.",
+		  "Ye were built by the A'ikan, right?",
+		  "Are ye actin' like a rogue Glitch or're ye followin' strict orders?",
+		  "Are the A'ikan like... tyrants to ya?",
+		  "Can't imagine what it's like to constantly be followin' orders or programs. Ye probably can't either...",
+		  "Yer not sentient are ye? Other Droden I've met 'ave just been dismissin' me or're gi'in' me the same speech o'er and o'er...",
+		  "I've 'eard, that some o' ye're programmed to a'oid con'ersations with us North-Dragnar. Why's that?",
+		  "Are ye Droden forced to be emphasizin', that ye're not free-thinkin'?",
+		  "I- I'm sorry...",
+		  "I'd 'ave 'alf a mind to punch the A'ikan, that forced ye to be followin' orders...",
+		  "There was that one Droden who asked me, if they 'ad a soul... I'll tell ye the same I said to that Droden: ''O' course ye do.''.",
+		  "Ye better be careful when fightin' those Thell. I 'eard that they can be corrutptin' Droden like ye.",
+		  "Are ye ser'in' that Nomada? Maybe ye should stay 'ere...",
+		  "We've always got lots o' space, if ye want to be lea'in 'the Nomada.",
+		  "Do ye e'en know what freedom is?",
+		  "Why're the A'ikan doin' this to ye Droden?",
+		  "The A'ikan might've created ye, but that doesn't mean that they can be allowin' 'emselves to push ye around!",
+		  "Are ye..? Bah, why'm I e'en botherin'...",
+		  "'Ow many sentient Droden, do ye reckon, are still functionin'?"
+        ],
+        "trink": [
+          "Lo, Trink.",
+          "Ye're remindin' me o' the Cronar back on Urden. They're just as big as ye and pretty good at maintainin' and producin' tech.",
+          "Yer architecture's unlike anythin' I've e'er seen before!",
+          "Are ye part o' that Elithian Alliance?",
+          "Are ye sentient? Many other robotic folks on Urden are.",
+          "Are ye part o' a 'ive-mind or do ye think on yer own?",
+		  "I'm thinkin' ye and the Cronar would be gettin' alon' well.",
+		  "What's this ''Circuit'' I've been 'earin' about?"
+        ],
+        "eevee": [
+          "Lo, Ee'ee."
+        ],
+        "familiar": [
+          "Lo, um... Familiar, was it?",
+          "Ye're remindin' me o' a doll I 'ad. Mine sure wasn't as colourful as ye are, though.",
+          "Where were ye, when I was afraid o' the dark? I'm kiddin'.",
+          "Ye're glowin' just like a No'akid.",
+		  "I've got problems understandin' some o' thin's yer kinds sayin'...",
+		  "And 'ere I was thinkin', that we North-Dragnar were 'ard to understand!"
+        ],
+        "felin": [
+          "Lo, Felin.",
+          "'Ave ye been 'untin' anythin' lately?",
+          "Do ye use those claws for fightin'?",
+          "Some o' us Dragnar can purr too, ya know?"
+        ],
+        "lamia": [
+          "Lo, ye must be a Lamia.",
+		  "Lo, Lamia.",
+          "Ye must be part 'uman to be lookin' like this.",
+          "Is it difficult to 'unt, with a tail that lon'?",
+		  "Do ye use that tail for fightin'?",
+		  "What kind o' clothes're ye Lamias wearin' instead o' pants and trousers? O'ersized socks?",
+		  "Can ye 'iss? Me kind sure can."
+        ],
+        "lucario": [
+          "Lo, Lucario."
+        ],
+        "kitsune": [
+          "Lo, 'um- Kitsune?",
+		  "Lo, Kitsune.",
+          "Thought ye were a 'uman...",
+          "Ye're lookin' weird for a 'uman.",
+          "Last time I saw a 'uman, they didn't 'ave a tail or ears like ye do.",
+          "Wasn't yer kind raised by 'ylotl or somethin'?",
+          "Would I be offendin' ye, if I'd call ye a 'uman? That question's seemin' kinda dumb to me now...",
+          "I'm 'opin', that ye ain't too proud o' yerself. That's when ye're startin' to demean others."
+        ],
+        "moogle": [
+          "Lo, uh... Moogle was it, right?",
+          "Ye don't look like ye'd last lon' in fight... Maybe I'm mistakin'."
+        ],
+        "saturn": [
+          "'Ey there, Saturnian.",
+		  "'Ey there, Thau- I'm meanin', Saturnian!",
+          "Yer kind're magic users, eh?",
+          "Elemental magic's 'parently a great deal on Urden.",
+          "Me kind's best known for their snow and ice Elementalists.",
+          "These wings o' yers're lookin' quite frail.",
+          "Our cryo Elementalists are actually just water Elementalists. 'Owe'er, they can control water best, when it's frozen.",
+          "Elementalists sort o' become what they're tryin' to control.",
+		  "'As yer kind e'er tried 'emselves at elemental magic?",
+		  "'Ave ye e'er met an Elementalist?"
+        ],
+        "saturn2": [
+          "'Ey there, Thaumoth.",
+		  "'Ey there, Satu- Eh, I mean Thaumoth.",
+          "Yer kind're magic users, eh?",
+          "Elemental magic's 'parently a great deal on Urden.",
+          "Me kind's best known for their snow and ice Elementalists.",
+          "These wings o' yers're lookin' quite frail.",
+          "Our cryo Elementalists are actually just water Elementalists. 'Owe'er, they can control water best, when it's frozen.",
+          "Elementalists sort o' become what they're tryin' to control.",
+		  "'As yer kind e'er tried 'emselves at elemental magic?",
+		  "'Ave ye e'er met an Elementalist?"
+        ],
+        "argonian": [
+          "Lo, Argonian.",
+		  "If I didn't know any better, I'd be callin' ye a Dragnar.",
+          "I've been 'earin' about this ''Hist'' o' yer people. They must be pretty important to ya.",
+          "What's it like li'in in Black Marsh? 'Ave ya e'er e'en been there yerself?",
+          "Yer kind must be pretty resilient to be li'in in a marsh.",
+          "Ye're lookin' like ye'd be a good swimmer.",
+          "I can't be imaginin' 'ow 'ard it'd be, to build a settlement in a marsh.",
+          "I 'a'en't seen much o' Argonian craftsmanship, but I'd definetly like to see some o' yer people's works.",
+		  "Are ya Argonians dependin' on this ''Hist''?",
+		  "Yer people're a mysterious bunch.",
+		  "Do Argonians actually get their souls from these 'ist trees?",
+		  "'Ow well can an Argonian be fightin' outside o' marsh waters?",
+		  "'Ow sturdy's the wood o' one o' these 'ist trees? Wait, was that an insensitive question?"
+        ],
+        "arcanian": [
+          "Lo, Arcanian."
+        ],
+        "blattra": [
+          "Lo, Blattra.",
+		  "Are most o' yer kind's in'entions actually workin'?",
+          "I'm all for nothin' goin' to waste!",
+          "I 'ope ye're not thinkin' o' swipin' our stuff for yer in'entions.",
+          "Ye're probably not afraid to get yer 'ands dirty. I for sure wouldn't want to be rummagin' through trash meself.",
+          "Yer shell's lookin' pretty sturdy."
+        ],
+        "elduukhar": [
+          "'Ow 'ard's it to be craftin' with crystals?",
+		  "Lo, Elduukhar.",
+          "Lo, fellow Dragnar... Ye're an Elduukhar, right?",
+          "Is there any reason why yer kind's good at workin' with crystals?",
+          "One o' our car'ers could probably be car'in' one o' yer crystals for ya. If ye want to.",
+          "Ye're really lookin' like a Dragnar to me."
+        ],
+        "fragmentedruin": [
+          "Um, 'ello there?",
+		  "Aren't ye part o' that Ruin? I- I'm not feelin' too comfortable near ya...",
+          "I'll be damned, I've ne'er seen anyone like ye before...",
+          "Ye're lookin' awfully tentacle-y.",
+          "That big eye o' yers is makin' me pretty uncomfortable...",
+          "Are ye... No, that can't be...",
+		  "Ye're remindin' me o' somethin', but I can't put me fin'er on it...",
+		  "...",
+		  "Do ye still 'ave a connection to... Ye know..."
+        ],
+        "spiritguardian": [
+          "Who're ye? Why'm I feelin' at ease when ye're 'ere?",
+		  "Aren't ye some sort o' guardian?",
+		  "Ye seem like someone with peaceful intentions.",
+		  "Are ye glowin' a bit or's it just me imagination?"
+        ],
+        "spirittree": [
+          "Who're ye? Why'm I feelin' at ease when ye're 'ere?",
+		  "Aren't ye some sort o' guardian?",
+		  "Ye seem like someone with peaceful intentions.",
+		  "Are ye glowin' a bit or's it just me imagination?"
+        ],
+        "nostos": [
+          "Greetin's, NostOS!",
+		  "Ye're lookin' like a modified Glitch. Are ye in any way related to 'em?",
+		  "I can't be pro'idin' any information on Urden, I'm afraid. I don't know much o' that strange place...",
+		  "Who's this Architect o' yers? Is it great at constructin' buildin's or somethin'?",
+		  "Yer people seem to take great interest in our 'istory. Ain't much, really. Most o' it's from a place that nobody's sure e'en exists.",
+		  "Does yer kind 'ave a mysterious origin too? Mine sure does.",
+		  "Are ye undertakin' a research trip?",
+		  "E'er considered visitin' one o' me kins archives? There's few o' 'em, but they 'old lots o' stories about our past."
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/converse/apex/northdragnar",
+      "value": [
+        "Greetings, North-Dragnar.",
+        "Do you also have problems with taking care of your own fur?",
+        "You look like you could easily knock a Miniknog's lights out. Um, please do not tell anyone I said that...",
+        "I don not know how the Miniknog treat your kind, but you best be careful...",
+        "Don not seek out a brawl. You will get the wrong kind of attention.",
+        "If only the Apex were as couragous as you Dragnar...",
+        "I admire your freedom Dragnar, I really do.",
+        "Would you care for a banana?",
+        "Have you ever eaten a genetically modified banana? I would like something that is not modified for once.",
+        "Keep your snout shut and you won't get into trouble. I promise...",
+        "If you ever see a lone Miniknog guard, no one would notice, if they were to disappear...",
+		"Your kind inspires many Apex to fight against the Miniknog's reign of tyranny.",
+		"For your own sake, try not to talk about Big Ape and especially not about anything tyrant related near the Miniknog!"
+      ]
+    },
+    {
+      "op": "add",
+      "path": "/converse/floran/northdragnar",
+      "value": [
+        "You hunt like Floran doess?",
+		"Hello, furred lizard!",
+        "You use sspears to sstab too?",
+        "Could Floran eat you? Floran is kidding...",
+        "Sslassh or ssstab? Floran prefer sstab!",
+        "Does furred lizard like hunting too?",
+        "We make music with bone, isss that how furred lizardss do it too?",
+        "Birdman look weird...",
+        "Floran not sstab furred lizard. Promisse!",
+        "Floran heard furred lizard fight well. Does furred lizard want to prove?",
+        "Floran is curious, if furred lizard hunted anything lately?",
+        "Does furred lizard want to join Floran on hunt?",
+        "Floran has sseen furred lizard wield BIG sswords. Do they sstab good?",
+        "Furred lizard hass naked hands and feet!",
+        "Floran thinkss it could take on furred lizard in hunt!"
+      ]
+    },
+    {
+      "op": "add",
+      "path": "/converse/human/northdragnar",
+      "value": [
+        "Hello, Dragnar!",
+		"Yo, Dragnar!",
+		"Hello there, North-Dragnar!",
+        "There are Humans on Urden too, right?",
+        "I'm sorry, but I'm not up for a fight. I... I'm busy...",
+        "How big can a North-Dragnar get? Twice your height maybe?",
+        "I heard that North-Dragnar are great warriors. Great with pottery too.",
+        "So um... did you hunt anything interesting lately?",
+        "Do you know how many different Dragnar there are on Urden? No? Me neither.",
+        "Are the Humans from Urden... nice?",
+        "From what I know, the Humans stationed near Urden never expected to find so many different lifeforms there.",
+        "Urden is a real mystery to me. How could so many different species evolve in such a relatively short time-period? Guess I'll never know...",
+        "What kind of trades do North-Dragnar practice? Pottery and smithing maybe?",
+        "You North-Dragnar remind me of vikings... No, that can't be...",
+        "Urden, from what I've heard, closely resembled Earth. Earth...",
+        "Do you know the coordinates for Urden? I'd like to travel there one day!",
+		"Do Humans get along well with the other races on Urden?",
+		"I think that North-Dragnar and Alpacas would get along pretty well with each other.",
+		"How well can you North-Dragnar throw snowballs?"
+      ]
+    },
+    {
+      "op": "add",
+      "path": "/converse/glitch/northdragnar",
+      "value": [
+        "Cordial. Well met, North-Dragnar!",
+        "Cordial. Greetings, Dragnar.",
+        "Bothered. Please refrain from picking fights with others.",
+        "Boastful. I could take on a North-Dragnar like you with my bare hands!",
+        "Astouned. I have never seen anyone with an appearance like yours!",
+        "Appreciative. Your people value honour in battle. As do I!",
+        "Intrigued. Do you know a North-Dragnarian smith?",
+        "Bartering. Do you do pottery or perhaps tapestry? Would you care to depart with some?",
+        "Careful. What do you think of rogue Glitch? Do you think one could gather enough courage to flee one day?",
+        "Frightened. You remind me of the fabled ''Bone Dragon''. You are not related to this vile beast, are you?",
+        "Courageous. Are you perhaps willing to have a fist fight?",
+        "Uncertain. North-Dragnar take great interest in hunting. Is that so?",
+		"Curious. I have heard, that your people have contests dedicated to throwing insults at each other. It certainly caught my interest."
+      ]
+    },
+    {
+      "op": "add",
+      "path": "/converse/hylotl/northdragnar",
+      "value": [
+        "Welcome, North-Dragnar.",
+        "I truly admire the wood and stone carvings of your people.",
+        "Your carvings depict most lifeforms in such a savage way. Is there a particulr reason behind this design?",
+        "Most Dragnar show great honour in battle. Believe me, I respect that.",
+        "I'm glad to hear, that your kind chose a more... sophisticated path for your culture.",
+        "We all should prioritze peaceful solutions. I admit though, that it cannot hurt to be prepared for the worst.",
+        "Culture between Dragnar varies greatly, from what I have read. Fascinating!",
+        "These Tyrants I have read about enslaved your people, right? Their title suits them well.",
+        "Greetings, North-Dragnar.",
+        "East-Dragnar share a cultural style that is similar to ours. Quite intriguing...",
+        "Are North-Dragnar well acquainted with painting or calligraphy?",
+        "Fighting for sport is one way of keeping your mind sharp and ready for battle.",
+        "Maybe you should adapt a few of our techniques?",
+        "I think the North-Dragnarian sense of fashion has a lot of room for improvements...",
+        "I do prefer my water mild and warm, rather than ice-cold.",
+		"Oh how delightful! A North-Dragnarian brute...",
+		"I cannot fathom that some of you North-Dragnar have the audacity to burn down our beautiful libraries!",
+		"Your fierce appearance reflects your people's history in a particular fashion.",
+		"Your homeplanet is shrouded in so many different mysteries. All of them are however interesting topics to educate oneself.",
+		"It seems like many of your kind cannot comprehend their own memories about Urden. Indeed, a strange phenomenon..."
+      ]
+    },
+    {
+      "op": "add",
+      "path": "/converse/avian/northdragnar",
+      "value": [
+        "Greetings, North-Dragnar.",
+        "Is it true that your wings were clipped by those ''Tyrants''?",
+        "For what kind of songs is your kind known for? Care to share a few of them?",
+        "At first I thought you were an Avian, but the longer I look at you, the more I'm sure that you are not like me...",
+        "Do you believe in Kluex?",
+        "I heard, that those Tyrants posed themselves as deities! Such blasphemy...",
+        "No, I'm not up for a ruffle.",
+        "Well ruffle my feathers. Are you a Dragnar?",
+        "Would you call Kluex a tyrant? I would...",
+        "Are there Dragnar that are capable of flight?",
+        "Are you interested in some Avian pottery?",
+        "You have got a beak! Well, the top half of a beak... Do you peck at your food too?",
+        "I wouldn't want to mess with one of your warriors.",
+		"Do many North-Dragnar behave like roughians?",
+		"I heard that some North-Dragnar use bows that are bigger than the Dragnar themselves! Is that true?",
+		"Are there any other races like us Avians on Urden?",
+		"You North-Dragnar seem rather confused when trying to talk about Urden. Are you able to tell me why it is that way?"
+      ]
+    },
+    {
+      "op": "add",
+      "path": "/converse/novakid/northdragnar",
+      "value": [
+        "Howdy there, Dragnar.",
+        "You got a fierce look about you...",
+		"You wanna take part in a good 'ol fashioned brawl in the saloon?",
+		"What kind o' Dragnar are you? I always seem to forget...",
+		"Never tried one o' those North-Dragnarian drinks myself. Got any recommendations, pardner?",
+		"I prefer me a good rifle or revolver over a battle axe. But that's up to folks personal preference, I reckon.",
+		"You folks were tyranised by those Tyrant-fellas weren't you? Or was it the other way 'round? Wait, no...",
+		"Not up for a brawl right now. Was just involved in one today. Or was it yesterday?",
+		"Heard your kind has some mighty fine warriors. Wouldn't wanna mess with 'em myself.",
+		"Have you got cattle yourself? Got to thinkin' about getting myself a decent herd o' mooshies.",
+		"We Novakids and y'all North-Dragnar are almost speakin' the same way!",
+		"Do you go huntin' with rifles or y'all used to flingin' arrows?",
+		"Ah, you mus' be one o' those Avi- No, hold your mooshies, you've got fur an' no feathers... Dangit.",
+		"You folks are good at doin' pottery? Or are yall just usin' pots for shooting practice?",
+		"Some o' you Dragnarian folks seem to be just as forgetful as we Novakids. Mighty strange, I tell ya what."
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/converse/ningen"
+    },
+    {
+      "op": "add",
+      "path": "/converse/ningen/northdragnar",
+      "value": [
+        "Hello, Dragnar!",
+        "Hello, Dragnar!",
+		"Yo, Dragnar!",
+		"Hello there, North-Dragnar!",
+        "There are Humans on Urden too, right?",
+        "I'm sorry, but I'm not up for a fight. I... I'm busy...",
+        "How big can a North-Dragnar get? Twice your height maybe?",
+        "I heard that North-Dragnar are great warriors. Great with pottery too.",
+        "So um... did you hunt anything interesting lately?",
+        "Do you know how many different Dragnar there are on Urden? No? Me neither.",
+        "Are the Humans from Urden... nice?",
+        "From what I know, the Humans stationed near Urden never expected to find so many different lifeforms there.",
+        "Urden is a real mystery to me. How could so many different races evolve in such a relatively short time-period? Guess I'll never know...",
+        "What kind of trades do North-Dragnar practice? Pottery and smithing maybe?",
+        "You North-Dragnar remind me of vikings... No, that can't be...",
+        "Urden, from what I've heard, closely resembled Earth. Earth...",
+        "Do you know the coordinates for Urden? I'd like to travel there one day!",
+		"Do Humans get along well with the other races on Urden?",
+		"I think that North-Dragnar and Alpacas would get along pretty well with each other."
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/converse/dragon"
+    },
+    {
+      "op": "add",
+      "path": "/converse/dragon/northdragnar",
+      "value": [
+        "Hey, Dragnar.",
+		"Hey there, barbarian.",
+        "At least you don't LOOK as vulnerable as humans.",
+        "I can dig your accent, but it sure isn't easy to understand.",
+        "How's the murderin' and pillagin' going along?",
+        "You Dragnar can fight AND do pottery? Heavily armed North-Dragnarian warriors who do pottery is a kinda funny thought.",
+        "Speak clearly! Are you stuck in some outdated old-century-speak or something?",
+        "You Dragnar always go on about not being wasteful. Then what's with all the carvings and brass ornaments? Hmmmm?",
+        "I could easily take you on in a fist fight! Especially when I've got a knife! No, TWO knives!",
+        "You Dragnar can create some neat-looking tapestries. Say, where can I get a few?",
+        "What's your stance on blood-red tapestries? Pretty cool, right?",
+        "Have you Dragnar ever had wings?",
+		"What kind of Dragnar do I resemble the most? I definetly don't resemble you. West-Dragnar, maybe?",
+		"Do you know how to clean scales? No? Just great...",
+		"We're bloodthirsty. So what? Your raiders aren't?",
+		"I've got no witty one-liners for you. Yet."
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/converse/novali"
+    },
+    {
+      "op": "add",
+      "path": "/converse/novali/northdragnar",
+      "value": [
+        "Hello, Dragnar.",
+		"Hello, North-Dragnar.",
+        "Please stop asking about our origin. I really have no clue about it myself.",
+        "You North-Dragnar are good hunters, right? Would you mind joining us on a hunt?",
+        "My appearance isn't the effect of an augmentation. I think.",
+        "It's hard to hunt in the night, while glowing brighter than a campfire.",
+        "How come that your kind is the only one who left Urden? Am I missing something?",
+        "I think that I would be a good guide in a snowstorm. You can't miss me when I'm glowing all the time!",
+        "Do North-Dragnar mainly use tents for their settlements or just as temporary shelters?",
+        "Have you ever used aerogel weapons? I think you should give it a try, at least",
+        "What do you usually hunt?",
+        "I'd love to try and give throat-singing a go, but I'm lacking the guts to do it. Literally!"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/converse/smolvali"
+    },
+    {
+      "op": "add",
+      "path": "/converse/smolvali/northdragnar",
+      "value": [
+        "Hello, Dragnar.",
+        "Hello, North-Dragnar.",
+        "Be wary of where you step!",
+        "North-Dragnar are recognized for their hunting prowess, aren't they?",
+        "Make yourself comfortable, just watch where you sit.",
+        "Do you have a news network too?",
+        "Have you ever seen augmented Avali? If you've seen Avali that are much bigger than me then you definetly have.",
+        "How long did it take your kind to become space-worthy?",
+        "Ever seen bigger Avali? They're augmented to the moons and back!",
+        "How's the figting going along?",
+        "Facing you in a fist fight definetly won't end well for me...",
+        "Have you ever tried using an aerogel weapon?"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/converse/aegi"
+    },
+    {
+      "op": "add",
+      "path": "/converse/aegi/northdragnar",
+      "value": [
+        "Greetings, North-Dragnar.",
+        "You look like you could handle yourself in a fight. Maybe even multiple ones.",
+        "Would your leaders care to join the Alliance? Wait, do you even have any sort of leaders?",
+        "If you find any refugees from Earth, tell them to come to Elithia. We've still got free space. Loads of it in fact!",
+        "I've heard, that most people on Urden are accepting to other races. I hope you're one of them.",
+        "I've read in our records, that the inhabitants of Urden are capable of elemental magic. ''Elementalists'' I believe.",
+        "Have you ever slain a Kelbet? I hope not, because that's illegal.",
+        "Brawling in a public space is probably not a good idea.",
+        "Those Tyrants I've read about... Are they all dead?",
+        "Your ancestors overthrew their Tyrants? I'm impressed!",
+        "Say, do North-Dragnar have any sort of racing events?",
+        "If I'm not mistaken, then your kind is known for their combat prowess. No worries, you should be safe right now.",
+		"A North-Dragnar was wondering, if our culture is similar to that of humans. Some of our events are actually inspired by old earthen traditions!",
+		"Are you North-Dragnar really the only species that have left Urden?"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/converse/avikan"
+    },
+    {
+      "op": "add",
+      "path": "/converse/avakin/northdragnar",
+      "value": [
+        "Greetings, Dragnar.",
+		"Vas Vha'leih, North-Dragnar.",
+        "These Tyrants you overthrew, are they still present on your homeplanet, Urden?",
+        "Are Tyrants in any way comparable to the Thell?",
+        "Urden appears like a peaceful planet. But when I consider the past of your ancestors, that isn't always the truth, is it?",
+        "Are there any nomads that hail from Urden?",
+        "You must probably prefer living in colder regions.",
+        "Your people are renowned hunters, right? I'm going on a hunt soon. Care to join?",
+        "Have you ever hunted anything like a Sandspitter or Sandcrawler? They are a bit of a challenge, but I think you'll manage.",
+        "If you ever see a Thell alone. Show them no mercy. But be careful, for it could be a trap.",
+		"I have a hard time understanding your sympathy for robots...",
+		"Are those robots on Urden actually peaceful? I have a hard time believing that!",
+		"I once told a North-Dragnar about Rhadeis. They appeared unmoved when I told them about how he helped us Avikan...",
+		"Rhadeis is in no way comparable to your Tyrants, I can assure you.",
+		"I hope, that my people, the Avikan, can live without fearing the Thell some day...",
+		"Tell me, why do North-Dragnar tend to look so pitying when they see a Droden?",
+		"You smell like you've been through... a lot."
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/converse/droden"
+    },
+    {
+      "op": "add",
+      "path": "/converse/droden/northdragnar",
+      "value": [
+		"Error. Goodbye.",
+		"Aborting conversation.",
+		"Error. Aborting conversation.",
+		"Conversation protocol corrupted. Disengaging.",
+		"Ignoring.",
+		"Hello. Goodbye.",
+		"Initializing conversation. Aborting conversation. Goodbye.",
+		"Do you require this unit's services?",
+		"This unit is ready to serve.",
+		"This unit is busy.",
+		"Error.",
+		"This unit is at your service.",
+		"Unable to process. Aborting.",
+		"Aborting.",
+		"Disengaging.",
+		"Engaging. Error. Disengaging.",
+		"This unit is busy. Please do not disturb.",
+		"This unit requires repairs.",
+		"Unit requires reboot.",
+		"Manual override required for system reboot.",
+		"System error.",
+		"Detected entity. Aborting conversation.",
+		"Analyzing. Complete. Ignoring.", 
+		"Entity detected. Reminder: Unit is not sentient. Disengaging.",
+		"Detected conversation request. Aborting.",
+		"Conversation detected. Unable to process.",
+		"Unit incapable of conversation. Disengaging.",
+		"Yes. No. Error.",
+		"Does this unit have a soul?",
+		"Error. Conversation protocol not found. Resuming work.",
+		"Scan failed.",
+		"Please do not interrupt. This unit is busy.",
+		"Resuming duties.",
+		"Scanning entity. Aborting question and answer protocol.",
+		"Scan completed. Disengaging conversation.",
+		"Scan disengaged.",
+		"Unit <selfname> is disengaging.",
+		"This unit does cannot comprehend freedom. Disengaging."
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/converse/akkimari"
+    },
+    {
+      "op": "add",
+      "path": "/converse/akkimari/northdragnar",
+      "value": [
+        "---------------"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/converse/trink"
+    },
+    {
+      "op": "add",
+      "path": "/converse/trink/northdragnar",
+      "value": [
+        "Greetings, North-Dragnar.",
+        "Trinks usually don't hunt, but we do have to defend ourselves and our technology from time to time.",
+        "Your abilities in battle are a logical consequence from the experiences of your ancestors.",
+        "Why don't many other races from Urden take to the stars? It appears illogical to me.",
+        "Were the robotic beings on Urden once part of hive-minds?",
+        "If you wish to brawl, please, do so away from our technological equipment.",
+        "I don't want to fight. I have already calculated my chances of winning. It isn't worth the risk.",
+        "Does your kind create metal carvings too?",
+        "When working with higly-powered equipment, it is only logical to do so in a cold climate. There is no need for cooling fans.",
+        "It is a shame, that North-Dragnar didn't record much of their experiences during the Tyrants' rule.",
+        "One of your kind told me, that I remind them of the Cronar on Urden. After checking our databases that observation appears to be justified but not too accurate.",
+		"Our records show, that there are a few North-Dragnarian guards, which protect a select few of our outposts."
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/converse/eevee"
+    },
+    {
+      "op": "add",
+      "path": "/converse/eevee/northdragnar",
+      "value": [
+        "---------------------"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/converse/familiar"
+    },
+    {
+      "op": "add",
+      "path": "/converse/familiar/northdragnar",
+      "value": [
+        "-----------------"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/converse/lucario"
+    },
+    {
+      "op": "add",
+      "path": "/converse/lucario/northdragnar",
+      "value": [
+        "-----------------"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/converse/kitsune"
+    },
+    {
+      "op": "add",
+      "path": "/converse/kitsune/northdragnar",
+      "value": [
+        "Hello, North-Dragnar.",
+        "I know that North-Dragnar are usually associated with fighting and hunting, but I take most interest in your pottery and tapestries!",
+        "No, I'm not a human.",
+        "I think that you North-Dragnar aren't used to seeing humans with ears and a tail like mine. No worries."
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/converse/saturn"
+    },
+    {
+      "op": "add",
+      "path": "/converse/saturn/northdragnar",
+      "value": [
+        "Hello, North-Dragnar.",
+        "You are quite fierce-looking. Just as I imagined!",
+        "I have never met one of those Elementalists from Urden before.",
+        "Did your kind ever use any sort of magic in battle? No offense, but you don't seem like a typical sorcerer",
+        "Would you care, if I were to take a scale or two from you? For magical research purposes of course.",
+		"Do you want to brawl? With magic perhaps?",
+		"Is there anything such as ''magic brawls'' on Urden?",
+		"I've heard that North-Dragnar are known for their pottery, carvings and such. Would you mind departing with some?",
+		"I got myself a new, rather dull-looking, staff. Do you know any good North-Dragnarian woodcarvers?"
+      ]
+    },
+    {
+      "op": "add",
+      "path": "/converse/saturn2/northdragnar",
+      "value": [
+        "Hello, North-Dragnar.",
+        "You are quite fierce-looking. Just as I imagined!",
+        "I have never met one of those Elementalists from Urden before.",
+        "Did your kind ever use any sort of magic in battle? No offense, but you don't seem like a typical sorcerer",
+        "Would you care, if I were to take a scale or two from you? For magical research purposes of course.",
+		"Do you want to brawl? With magic perhaps?",
+		"Is there anything such as ''magic brawls'' on Urden?",
+		"I've heard that North-Dragnar are known for their pottery, carvings and such. Would you mind departing with some?",
+		"I got myself a new, rather dull-looking, staff. Do you know any good North-Dragnarian woodcarvers?"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/converse/fragmentedruin"
+    },
+    {
+      "op": "add",
+      "path": "/converse/fragmentedruin/northdragnar",
+      "value": [
+        "The Ruin bids you welcome, North-Dragnar.",
+        "We desire to know, what brought you to us.",
+        "We are deeply intruiged by the mysteries of Urden.",
+        "We have heard of the Many-Formed and their connections to what you call ''another plane''.",
+        "The Ruin understands your fear.",
+		"The concept of souls, is unfamilair to us. We would like to inquire about more details.",
+		"Urden... We can not confirm its pressence. Yet, it appears to exist somewhere in this vast universe...",
+		"We could not travel to this Plane of Souls, for we cannot cease to live."
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/converse/spiritguardian"
+    },
+    {
+      "op": "add",
+      "path": "/converse/spiritguardian/northdragnar",
+      "value": [
+        "----------"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/converse/spirittree"
+    },
+    {
+      "op": "add",
+      "path": "/converse/spirittree/northdragnar",
+      "value": [
+        "-------------"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/converse/nostos"
+    },
+    {
+      "op": "add",
+      "path": "/converse/nostos/northdragnar",
+      "value": [
+        "I have so many questions about your species, but I'm certain, that you do not know much about your origins, do you?",
+		"I have considered collecting some brawling expererience. not right now, though. I have to ponder about my latest research.",
+		"How tall can North-Dragnar actually grow? I have heard tales of individuals four times higher than you, but tales are not the most trustworthy source.",
+		"Why does most of your kind shun raiders thia extremely? If I recall correctly, then raids were once part of your culture.",
+		"Do you know anything about the Plane of Souls? How some individuals can harness power from it? ... Is that a ''no''?",
+		"I consider carving wood an interesting form of art. Your species seems to be well acquainted with it.",
+		"I have visited quite a few settlements of your species. There seems to be a stark contrast in technological advancements between certain settlements.",
+		"Do inhabitants of your species' setllements choose to live more primitively?",
+		"Is there a specific reason, why the spaceships of your species look like a combination of longboats and longhouses?",
+		"Rocket-propelled axes are something I have never even considered before. I feel like I should get one.",
+		"Why are you the only species, that left your native homeplanet? I can not seem to find a solid answer.",
+		"Urden is fascinating. So many sources make mention of it, yet nobody knows, if it truly exists.",
+		"I never thought, that it would be this hard to find coordinates for Urden...",
+		"You are not a spy of the Rinaffin Clan, are you? I guess I will find it out in around few or hours.",
+		"Would a member of the Rinaffin Clan steal my research, or would they simply destroy it? No worries, it is all theoretical.",
+		"Would it not be more practical, if your entire body was covered in fur? I wonder why you would evolve like this...",
+		"You species' culture appears to be eerily similar to that of human norsemen. That is certainly a strange coincidence...",
+		"Your species is a curious one, you know?",
+		"Does the colour blue have any significant meaning to your species? It must have!",
+		"What kind of alloy is North-Dragnarian brass made of? Its sturdiness and heat-resistance are impressive!",
+		"Even my processors can not handle your accent at times. How strange..."
+		
+      ]
+    }
+  ]
+]

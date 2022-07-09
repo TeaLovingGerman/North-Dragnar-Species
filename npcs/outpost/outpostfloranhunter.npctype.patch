@@ -1,0 +1,14 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/dialog/converse/floran",
+    "value": {
+	  "northdragnar": [
+			"Your people undersstand the glory of the hunt! Floran resspect that greatly!"
+		],
+	  "bignorthdragnar": [
+			"Your people undersstand the glory of the hunt! Floran resspect that greatly!"
+	  ]
+    }
+  }
+]

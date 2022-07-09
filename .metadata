@@ -1,0 +1,11 @@
+{
+  "tags" : "Species",
+  "author" : "Tea-Loving Lad",
+  "description" : "Advanced Template to create your own race.",
+  "friendlyName" : "North-Dragnar Species",
+  "link" : "",
+  "name" : "NorthDragnarSpecies",
+  "steamContentId" : "",
+  "version" : "1",
+  "includes" : ["HistoricalCrafting","Elithian_Races_Mod"]
+}

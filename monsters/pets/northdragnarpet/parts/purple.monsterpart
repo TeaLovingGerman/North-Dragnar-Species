@@ -1,0 +1,8 @@
+{
+  "name" : "purple",
+  "category" : "northdragnarpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "purple.png"
+  }
+}

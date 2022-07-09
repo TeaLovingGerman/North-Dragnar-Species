@@ -1,0 +1,46 @@
+[  
+  {  
+    "op" : "add",
+    "path" : "/accuse/northdragnar",
+    "value" : {  
+      "default" : [  
+        "'Ey! Ye can't just go about stealin' thin's!",
+        "That there doesn't belon' to ya!",
+        "Ye're just lookin' for trouble, aren't ya?",
+        "We're not takin' kindly to raiders and thieves 'ere!",
+		"Ye keep this up, ye'll get in trouble, ye 'ear?",
+		"That ain't yers! Stop!",
+		"Ye better stop stealin' or this'll get ugly quickly!"
+	  ],
+	  "bignorthdragnar" : [
+        "'Ey! Ye can't just go about stealin' thin's!",
+        "That there doesn't belon' to ya!",
+        "Ye're just lookin' for trouble, aren't ya?",
+        "We're not takin' kindly to raiders and thieves 'ere!",
+		"Ye keep this up, ye'll get in trouble, ye 'ear?",
+		"That ain't yers! Stop!",
+		"Ye better stop stealin' or this'll get ugly quickly!"
+	  ]
+    }
+  },  
+  {  
+    "op" : "add",
+    "path" : "/alert/northdragnar",
+    "value" : {  
+      "default" : [  
+        "Ye've done it now! Guards!",
+        "Guards! We've got a thie'in' scoundrel!",
+        "Ye'll be regrettin' this! GUARDS!",
+        "Guards! GUARDS!!",
+		"Guards! We've got ourselves a thief 'ere!"
+	  ],
+	  "bignorthdragnar" : [
+        "Ye've done it now! Guards!",
+        "Guards! We've got a thie'in' scoundrel!",
+        "Ye'll be regrettin' this! GUARDS!",
+        "Guards! GUARDS!!",
+		"Guards! We've got ourselves a thief 'ere!"
+      ]
+    }
+  }
+]

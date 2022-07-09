@@ -1,0 +1,14 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/dialog/converse/avian",
+    "value": {
+	  "northdragnar": [
+			"After I didn't agree with the Stargazer's views anymore, a travelling North-Dragnar helped me out of their tight grip. I'm thankful for their help, and for allowing me to start anew!"
+		],
+	  "bignorthdragnar": [
+			"After I didn't agree with the Stargazer's views anymore, a travelling North-Dragnar helped me out of their tight grip. I'm thankful for their help, and for allowing me to start anew!"
+	  ]
+    }
+  }
+]

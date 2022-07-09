@@ -1,0 +1,46 @@
+{
+	"type" : "ndvisitor",
+	"baseType" : "outpostvisitor",
+	"statusControllerSettings" : {
+		"statusProperties" : {
+			"effectDirectives" : ""
+		}
+	},
+	"scriptConfig" : {
+		"dialog" : {
+			"converse" : {
+				"default" : {
+					"default" : [
+						"Lo, stranger! I'm just 'ere for stockin' up on some goods.",
+						"Are ye 'ere to visit? Maybe restock a bit o' yer supplies? I'm doin' both!",
+						"Don't be mindin' me. I'm just 'ere to buy a few goods."
+					],
+					"northdragnar" : [
+						"Lo, kin! I'm just 'ere for stockin' up on some goods.",
+						"Lo! Didn't think that I'd be seein' one o' our kind 'ere!",
+						"Are ye just visitin' 'ere or buyin' supplies? I'm doin' both!"
+					],
+					"bignorthdragnar" : [
+						"Lo, kin! I'm just 'ere for stockin' up on some goods.",
+						"Lo! Didn't think that I'd be seein' one o' our kind 'ere!",
+						"Are ye just visitin' 'ere or buyin' supplies? I'm doin' both!"
+					]
+				}
+			}
+		}
+	},
+	"items" : {
+		"override" : [
+			[0, [
+					{
+						"chest" : [
+							{ "name" : "ndwandererscloak", "parameters" : { "colorIndex" : [1,3,4,5,6,7,8,9,10] } }
+						],
+						"legs" : [
+							{ "name" : "ndwandererstrousers", "parameters" : { "colorIndex" : 0 } }
+						]
+					}
+				] ]
+		]
+	}
+}

@@ -1,0 +1,24 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/dialog/converse/apex/northdragnar",
+    "value": [
+			"I am here doing ground research for the Miniknog. Don't worry, I'll be nice, I promise!",
+			"I never thought that I'd get stationed here, of all places!",
+			"Great, how am I supposed to- Oh, hey there! Nonono, I wasn't planning anything!",
+			"I won't even bother to ask, if you support the rebel's cause...\nJust don't interrupt my research, will you?",
+			"Let me be clear, I'm just here for ground research on behalf of the Miniknog.\nI DO NOT participate in questionable experiments!"
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/dialog/converse/apex/bignorthdragnar",
+    "value": [
+			"I am here doing ground research for the Miniknog. Don't worry, I'll be nice, I promise!",
+			"I never thought that I'd get stationed here, of all places!",
+			"Great, how am I supposed to- Oh, hey there! Nonono, I wasn't planning anything!",
+			"I won't even bother to ask, if you support the rebel's cause...\nJust don't interrupt my research, will you?",
+			"Let me be clear, I'm just here for ground research on behalf of the Miniknog.\nI DO NOT participate in questionable experiments!"
+    ]
+    }
+]

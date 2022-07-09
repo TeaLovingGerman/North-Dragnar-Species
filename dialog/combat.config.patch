@@ -1,0 +1,198 @@
+[
+	{
+		"op": "add",
+		"path": "/attack/northdragnar",
+		"value": {
+			"default": [
+				"Great, I was gettin' bored!",
+				"Brin' it on!",
+				"Let's see what ye got!",
+				"A fight? I'm in!",
+				"Damnit!",
+				"Up for a tussle, are ya?",
+				"A fight it is, then!",
+				"Ye're goin' to regret this!",
+				"I won't be goin' down so easily!",
+				"Ye better be ready, to e'en 'ave a chance!",
+				"Ye better not pull any tricks, ya 'ear?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/attack/bignorthdragnar",
+		"value": {
+			"default": [
+				"Great, I was gettin' bored!",
+				"Brin' it on!",
+				"Let's see what ye got!",
+				"A fight? I'm in!",
+				"Damnit!",
+				"Up for a tussle, are ya?",
+				"A fight it is, then!",
+				"Ye're goin' to regret this!",
+				"I won't be goin' down so easily!",
+				"Ye better be ready, to e'en 'ave a chance!",
+				"Ye better not pull any tricks, ya 'ear?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/northdragnar",
+		"value": {
+			"default": [
+				"Done and done.",
+				"Victory. For now...",
+				"Didn't e'en break a sweat!",
+				"Victory's mine!",
+				"That's taken care o'.",
+				"'Ope there's enough time for a break.",
+				"I should be preparin' for 'nother tussle.",
+				"'Nother foe, struck down.",
+				"Got ya!",
+				"Ye should've picked a fight with someone weaker!",
+				"Tough one...",
+				"Glad that's o'er with."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/bignorthdragnar",
+		"value": {
+			"default": [
+				"Done and done.",
+				"Victory. For now...",
+				"Didn't e'en break a sweat!",
+				"Victory's mine!",
+				"That's taken care o'.",
+				"'Ope there's enough time for a break.",
+				"I should be preparin' for 'nother tussle.",
+				"'Nother foe, struck down.",
+				"Got ya!",
+				"Ye should've picked a fight with someone weaker!",
+				"Tough one...",
+				"Glad that's o'er with."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/northdragnar",
+		"value": {
+			"default": [
+				"Damn coward...",
+				"Startin' a fight, just to run off? Are ye serious?",
+				"That's right! Flee while ye still can!",
+				"Are ye afrai' to face a challenge?",
+				"Come out and let's get this o'er with!",
+				"Blaggard!",
+				"Was I really that fierce-lookin'?",
+				"Come back when ye've got more guts, ye wuss!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/bignorthdragnar",
+		"value": {
+			"default": [
+				"Damn coward...",
+				"Startin' a fight, just to run off? Are ye serious?",
+				"That's right! Flee while ye still can!",
+				"Are ye afrai' to face a challenge?",
+				"Come out and let's get this o'er with!",
+				"Blaggard!",
+				"Was I really that fierce-lookin'?",
+				"Come back when ye've got more guts, ye wuss!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/reattack/northdragnar",
+		"value": {
+			"default": [
+				"There ye are!",
+				"Ready to face me now?",
+				"Ha! Thought I lost ya!",
+				"Come back to fight, 'ave ya?",
+				"Ye won't be gettin' away this time!",
+				"Ye want some more? Ya can 'ave it!",
+				"If ye run again, I swear..."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/reattack/bignorthdragnar",
+		"value": {
+			"default": [
+				"There ye are!",
+				"Ready to face me now?",
+				"Ha! Thought I lost ya!",
+				"Come back to fight, 'ave ya?",
+				"Ye won't be gettin' away this time!",
+				"Ye want some more? Ya can 'ave it!",
+				"If ye run again, I swear..."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/cantReach/northdragnar",
+		"value": {
+			"default": [
+				"'Ey! What're ye doin' o'er there?",
+				"Get back o'er 'ere, ye wuss!",
+				"I can't teach ye a lesson from there! Get back 'ere!",
+				"Ye're not safe o'er there for lon'!",
+				"Damn ye! Get back 'ere!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/cantReach/bignorthdragnar",
+		"value": {
+			"default": [
+				"'Ey! What're ye doin' o'er there?",
+				"Get back o'er 'ere, ye wuss!",
+				"I can't teach ye a lesson from there! Get back 'ere!",
+				"Ye're not safe o'er there for lon'!",
+				"Damn ye! Get back 'ere!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/cheerOn/northdragnar",
+		"value": {
+			"default": [
+				"What're ye waitin' for? I ain't gettin' exhausted!",
+				"C'mere!",
+				"I still got fight left in me!",
+				"I'll 'ave a drink to yer defeat!",
+				"Ye can't 'old out fore'er!",
+				"Stubborn one, are ya?",
+				"E'entually..."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/cheerOn/bignorthdragnar",
+		"value": {
+			"default": [
+				"What're ye waitin' for? I ain't gettin' exhausted!",
+				"C'mere!",
+				"I still got fight left in me!",
+				"I'll 'ave a drink to yer defeat!",
+				"Ye can't 'old out fore'er!",
+				"Stubborn one, are ya?",
+				"E'entually..."
+			]
+		}
+	}
+]

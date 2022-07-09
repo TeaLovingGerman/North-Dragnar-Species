@@ -1,0 +1,14 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/dialog/converse/hylotl",
+    "value": {
+	  "northdragnar": [
+			"I am aware, that many would ignorantly call your people's warriors brutes, but I have respect for their prowess in combat."
+		],
+	  "bignorthdragnar": [
+			"I am aware, that many would ignorantly call your people's warriors brutes, but I have respect for their prowess in combat."
+	  ]
+    }
+  }
+]

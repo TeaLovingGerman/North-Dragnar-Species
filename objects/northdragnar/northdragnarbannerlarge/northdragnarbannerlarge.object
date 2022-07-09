@@ -1,0 +1,29 @@
+{
+  "objectName" : "northdragnarbannerlarge",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+  "description" : "A large northdragnar wallbanner from a northdragnar academy.",
+  "shortdescription" : "Large northdragnar Wall Banner",
+  "race" : "northdragnar",
+  "apexDescription" : "This banner is large...",
+  "avianDescription" : "A large banner",
+  "floranDescription" : "Floran likesss thisss.",
+  "glitchDescription" : "Charmed. A large northdragnar banner...",
+  "humanDescription" : "The northdragnar banner quite lovely.",
+  "hylotlDescription" : "The banner is just lovely.",
+  "novakidDescription" : "This would look great in my house.",
+  "northdragnarDescription" : "I am so happy to see the northdragnar culture thrive",  
+  "inventoryIcon" : "northdragnarbannerlargeicon.png",
+  "orientations" : [
+    {
+      "image" : "northdragnarbannerlarge.png:<color>",
+      "imagePosition" : [2, -2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : []
+    }
+  ]
+}

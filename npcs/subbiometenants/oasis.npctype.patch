@@ -1,0 +1,44 @@
+[
+    {"op": "add", "path": "/items/northdragnar", "value": [
+        [0,[
+            {
+                "head": [
+                    {"name": "reedhead", "parameters": {"colorIndex": 0}}
+                ],
+                "chest": [
+                    {"name": "kimonochest", "parameters": {"colorIndex": 7}},
+                    {"name": "monkchest", "parameters": {"colorIndex": 7}},
+                    {"name": "traditionalchest", "parameters": {"colorIndex": 7}},
+                    {"name": "traineechest", "parameters": {"colorIndex": 7}}
+                ],
+                "legs": [
+                    {"name": "kimonolegs", "parameters": {"colorIndex": 7}},
+                    {"name": "monklegs", "parameters": {"colorIndex": 7}},
+                    {"name": "traditionallegs", "parameters": {"colorIndex": 7}},
+                    {"name": "traineelegs", "parameters": {"colorIndex": 7}}
+                ]
+            }
+        ]]]
+    },
+    {"op": "add", "path": "/items/bignorthdragnar", "value": [
+        [0,[
+            {
+                "head": [
+                    {"name": "reedhead", "parameters": {"colorIndex": 0}}
+                ],
+                "chest": [
+                    {"name": "kimonochest", "parameters": {"colorIndex": 7}},
+                    {"name": "monkchest", "parameters": {"colorIndex": 7}},
+                    {"name": "traditionalchest", "parameters": {"colorIndex": 7}},
+                    {"name": "traineechest", "parameters": {"colorIndex": 7}}
+                ],
+                "legs": [
+                    {"name": "kimonolegs", "parameters": {"colorIndex": 7}},
+                    {"name": "monklegs", "parameters": {"colorIndex": 7}},
+                    {"name": "traditionallegs", "parameters": {"colorIndex": 7}},
+                    {"name": "traineelegs", "parameters": {"colorIndex": 7}}
+                ]
+            }
+        ]]]
+    }
+]

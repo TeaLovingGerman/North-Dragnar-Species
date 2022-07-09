@@ -1,0 +1,50 @@
+[
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/merchant/start/northdragnar",
+		"value": {
+			"default": [
+				"I've got minin' produce and equipment! All fresh from the foundry!",
+				"All the equipment ye'd be needin' for a minin' trip, right 'ere!",
+				"Welcome! Take as much as ye're needin'. I got direct access to the foundries' stock!"
+	  ],
+	  "bignorthdragnar" : [
+				"I've got minin' produce and equipment! All fresh from the foundry!",
+				"All the equipment ye'd be needin' for a minin' trip, right 'ere!",
+				"Welcome! Take as much as ye're needin'. I got direct access to the foundries' stock!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/merchant/welcome/northdragnar",
+		"value": {
+			"default": [
+				"'Ere. If ye're lookin' for metals, then ye've come to the right place!",
+				"There we are! So, what kind o' equipment or metals do ye want?",
+				"'Ere's what I got. Metals and minin' equipment made from our foundries!"
+	  ],
+	  "bignorthdragnar" : [
+				"'Ere. If ye're lookin' for metals, then ye've come to the right place!",
+				"There we are! So, what kind o' equipment or metals do ye want?",
+				"'Ere's what I got. Metals and minin' equipment made from our foundries!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/merchant/end/northdragnar",
+		"value": {
+			"default": [
+				"I'll always 'ave some raw metals for sale. Come back when ye're needin' more!",
+				"I've got the ores, when ye're wantin' to save yerself another minin' trip!",
+				"Come back, whene'er ye're missin' the equipment for yer next minin' trip!"
+	  ],
+	  "bignorthdragnar" : [
+				"I'll always 'ave some raw metals for sale. Come back when ye're needin' more!",
+				"I've got the ores, when ye're wantin' to save yerself another minin' trip!",
+				"Come back, whene'er ye're missin' the equipment for yer next minin' trip!"
+			]
+		}
+	}
+]

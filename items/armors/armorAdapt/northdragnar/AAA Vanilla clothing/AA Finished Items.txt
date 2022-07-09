@@ -1,0 +1,17 @@
+- - /apex
+- - /avian
++ - /backerhats
+- - /biome
++ - /contest
+- - /decorative
+	- - /clothes
+	- - /costumes
+	+ - /hats
+- - /floran
+- - /glitch
+- - /human
+- - /hylotl
+- - /novakid
+- - /other
+- - /penguin
++ - /protectorate

@@ -1,0 +1,36 @@
+[
+  {
+	"op": "add",
+	"path": "/scriptConfig/dialog/attack/avian",
+	"value": {
+	  "northdragnar": [
+            "Dragnar! Leave this hallowed resting ground!",
+            "Stop right where you are!",
+            "You dishonour Kluex and the his deceased followers!",
+            "You are unwelcome, Dragnar!",
+            "Today, Kluex claims another soul!",
+            "The wrath of Kluex will fall upon you!",
+            "The power of Kluex compels me to slay you!",
+			"Wretched blasphemer! I shall punish you in Kluex's holy name!",
+			"Your days of blasphemy will end on this day!",
+			"I will show you no mercy! That, is the will of Kluex!",
+			"The ignorance of your people will be your doom!",
+			"You brute dare to defile this holy resting ground?"
+		],
+	  "bignorthdragnar": [
+            "Dragnar! Leave this hallowed resting ground!",
+            "Stop right where you are!",
+            "You dishonour Kluex and the his deceased followers!",
+            "You are unwelcome, Dragnar!",
+            "Today, Kluex claims another soul!",
+            "The wrath of Kluex will fall upon you!",
+            "The power of Kluex compels me to slay you!",
+			"Wretched blasphemer! I shall punish you in Kluex's holy name!",
+			"Your days of blasphemy will end on this day!",
+			"I will show you no mercy! That, is the will of Kluex!",
+			"The ignorance of your people will be your doom!",
+			"You brute dare to defile this holy resting ground?"
+		]
+	}
+  }
+]

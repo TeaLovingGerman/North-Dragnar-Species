@@ -1,0 +1,30 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/northdragnar",
+		"value" : [
+		    "/ships/northdragnar/northdragnart0.structure",
+			"/ships/northdragnar/northdragnart1.structure",
+			"/ships/northdragnar/northdragnart2.structure",
+			"/ships/northdragnar/northdragnart3.structure",
+			"/ships/northdragnar/northdragnart4.structure",
+			"/ships/northdragnar/northdragnart5.structure",
+			"/ships/northdragnar/northdragnart6.structure",
+			"/ships/northdragnar/northdragnart7.structure",
+			"/ships/northdragnar/northdragnart8.structure"
+		]
+	},
+	{ "op" : "add",
+		"path" : "/speciesShips/bignorthdragnar",
+		"value" : [
+		    "/ships/northdragnar/northdragnart0.structure",
+			"/ships/northdragnar/northdragnart1.structure",
+			"/ships/northdragnar/northdragnart2.structure",
+			"/ships/northdragnar/northdragnart3.structure",
+			"/ships/northdragnar/northdragnart4.structure",
+			"/ships/northdragnar/northdragnart5.structure",
+			"/ships/northdragnar/northdragnart6.structure",
+			"/ships/northdragnar/northdragnart7.structure",
+			"/ships/northdragnar/northdragnart8.structure"
+		]
+	}
+]

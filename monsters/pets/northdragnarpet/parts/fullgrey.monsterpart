@@ -1,0 +1,8 @@
+{
+  "name" : "fullgrey",
+  "category" : "northdragnarpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "fullgrey.png"
+  }
+}

@@ -1,0 +1,165 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndreason": [
+            "'m fairly certain that it's plottin' to kill me",
+            "'m always gettin' bit by it",
+			"'ve got no clue about what to be feedin' it",
+			" can't teach it anythin' useful",
+			"'m not feelin' safe around it",
+			" may 'ave gotten on its bad side"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "nddreams": [
+            "I've always been wantin' a <monster> for a 'untin' companion!",
+            "Sittin' by a cozy fire with one o' those <monster>'d be a pleasant experience.",
+			"'Eard that <monster>'ve got a soft core.",
+			"I'm feelin' that a <monster>'d be curin' me loneliness.",
+			"<monster>'re 'parently good at protectin'.",
+			"I've been wantin' one <monster> as a trusty companion."
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndquestion": [
+            "Are ye capable o' capturin' one for me?",
+            "'Ave ye got the time to be 'elpin' me out?",
+			"I've got somethin' for ye, if ye're goin' to 'elp me.",
+			"I normally ain't askin' for 'elp, but would ye mind 'elpin' me 'ere?"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndrequest": [
+            " seem like the capable sort",
+            " appear like a skilled 'unter",
+			" sort o' look like the 'untin' type",
+			" got a fierce look about ya",
+			" look courageous enough",
+			"'ve got a better chance than me"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndguide": [
+            "I saw a bunch o'er at the",
+            "I've been 'earin', that some 'ave been trottin' near the",
+			"I o'er'eard a few folks, talkin' about a few o' 'em near the",
+			"Some 'ave 'parently been sighted near the"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndappraciation1": [
+            "Ye've caught the <monster>?",
+            "Still alive and kickin', eh?",
+			"'Ave ye got the <monster> with ya?",
+			"Is that the <monster> in that Capture Pod?",
+			"Ohoho! Seems like yer 'unt's been a success!",
+			"I'm 'opin that the <monster> wasn't gi'in ye too much trouble."
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndappraciation2": [
+            "'Opefully this <tradedMonster> 'ere's a good trade for the <monster> ye brought!",
+            "Maybe the <tradedMonster>'s goin' to like ye more than me.",
+			"'Ere! This <tradedMonster>'s probably better off with ye.",
+			"May this fierce <tradedMonster> 'ere go alon' well with ya!",
+			"I ain't lettin' ye leave empty-'anded! The <tradedMonster>'d be a fair exchange for the <monster>"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/default",
+    "value": {
+	  "northdragnar": [
+            "^cyan;<nddreams><ndquestion>"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default",
+    "value": {
+	  "northdragnar": [
+            "Someone's traded me this <tradedMonster>, but I<ndreason>. A pet ^orange;<monster>^white; though, that ought to be more fittin' to me. Ye<ndrequest>, maybe ^green;'ye've got the skills to capture one o' 'em in those ^orange;Capture Pods^white;?\n<ndguide> ^orange;<spawnPoint>^white;<spawnPoint.direction>.",
+            "I've recently made a trade and got this <tradedMonster>, but I<ndreason>. I might 'ave a better chance with one o' those ^orange;<monster>^white;. Ye<ndrequest>. ^green;Could ye catch me one with this ^orange;Capture Pod^white;?\n<ndguide> ^orange;<spawnPoint>^white;<spawnPoint.direction>."
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default",
+    "value": {
+	  "northdragnar": [
+            "<ndappraciation1><ndappraciation2>"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndreason": [
+            "'m fairly certain that it's plottin' to kill me",
+            "'m always gettin' bit by it",
+			"'ve got no clue about what to be feedin' it",
+			" can't teach it anythin' useful",
+			"'m not feelin' safe around it",
+			"may 'ave gotten on its bad side"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/default",
+    "value": {
+	  "bignorthdragnar": [
+            "^cyan;<nddreams><ndquestion>"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default",
+    "value": {
+	  "bignorthdragnar": [
+            "Someone's traded me this <tradedMonster>, but I<ndreason>. A pet ^orange;<monster>^white; though, that ought to be more fittin' to me. Ye <ndrequest>, maybe ^green;'ye've got the skills to capture one o' 'em in those ^orange;Capture Pods^white;?\n<ndguide> ^orange;<spawnPoint>^white;<spawnPoint.direction>.",
+            "I've recently made a trade and got this <tradedMonster>, but I<ndreason>. I might 'ave a better chance with one o' those ^orange;<monster>^white;. Ye <ndrequest>. ^green;Could ye catch me one with this ^orange;Capture Pod^white;?\n<ndguide> ^orange;<spawnPoint>^white;<spawnPoint.direction>."
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default",
+    "value": {
+	  "bignorthdragnar": [
+            "<ndappraciation1><ndappraciation2>"
+	  ]
+    }
+  }
+]

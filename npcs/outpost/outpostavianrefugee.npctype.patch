@@ -1,0 +1,14 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/dialog/converse/avian",
+    "value": {
+	  "northdragnar": [
+			"Dragnar... I- I've been feeling conflicted after I fled my Ascension. Are Kluex's priests really tyrannical? Oh my..."
+		],
+	  "bignorthdragnar": [
+			"Dragnar... I- I've been feeling conflicted after I fled my Ascension. Are Kluex's priests really tyrannical? Oh my..."
+	  ]
+    }
+  }
+]

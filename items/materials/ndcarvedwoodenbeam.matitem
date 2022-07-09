@@ -1,0 +1,16 @@
+{
+  "itemName" : "ndcarvedwoodenbeam",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "ndcarvedwoodenbeamicon.png",
+  "shortdescription" : "Carved Wooden Beam",
+  "description" : "",
+  "glitchDescription" : "",
+  "floranDescription" : "",
+  "novakidDescription" : "",
+  "northdragnarDescription" : "",
+  "bignorthdragnarDescription" : "",
+
+  "materialId" : 14602
+}

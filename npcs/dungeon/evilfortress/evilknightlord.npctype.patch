@@ -1,0 +1,22 @@
+[
+  {
+	"op": "add",
+	"path": "/scriptConfig/dialog/attack/glitch",
+	"value": {
+	  "northdragnar": [
+            "Menacing. This is my Fortress! You will pay for coming here!",
+            "Proud. You are no match for me, even my own knights fear me!",
+            "Incensed. Do you think you can just come here and raid my fortress!?",
+			"Furious. You filthy raider! You will pay for stepping foot into MY fortress, with your life!",
+			"Menacing. I will show you what a REAL tyrant is capable of!"
+		],
+	  "bignorthdragnar": [
+            "Menacing. This is my Fortress! You will pay for coming here!",
+            "Proud. You are no match for me, even my own knights fear me!",
+            "Incensed. Do you think you can just come here and raid my fortress!?",
+			"Furious. You filthy raider! You will pay for stepping foot into MY fortress, with your life!",
+			"Menacing. I will show you what a REAL tyrant is capable of!"
+		]
+	}
+  }
+]

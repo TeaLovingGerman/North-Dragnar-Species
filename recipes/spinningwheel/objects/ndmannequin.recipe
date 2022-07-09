@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 50 },
+    { "item" : "ironbar", "count" : 6 }
+  ],
+  "output" : {
+    "item" : "ndmannequin",
+  "count" : 1
+  },
+  "groups" : [ "craftingwheel", "ingredients" ]
+}

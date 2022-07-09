@@ -1,0 +1,76 @@
+[
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/merchant/start/northdragnar",
+		"value": {
+			"default": [
+				"Don't be fearin' the night, go with a light!",
+				"I can 'elp with enlightenin' yer 'ome with me range o' products!",
+				"Need a light? Then ye're right!",
+				"I'm sellin' a variety o' light sources! There's bound to be one to yer likin'!",
+				"Don't ye feel safer in the light? I sure do! And I've got loads o' it for sale!",
+				"Brin' some light into yer 'ome, to be maintainin' its beauty durin' the dark!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/merchant/start/bignorthdragnar",
+		"value": {
+			"default": [
+				"Don't be fearin' the night, go with a light!",
+				"I can 'elp with enlightenin' yer 'ome with me range o' products!",
+				"Need a light? Then ye're right!",
+				"I'm sellin' a variety o' light sources! There's bound to be one to yer likin'!",
+				"Don't ye feel safer in the light? I sure do! And I've got loads o' it for sale!",
+				"Brin' some light into yer 'ome, to be maintainin' its beauty durin' the dark!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/merchant/welcome/northdragnar",
+		"value": {
+			"default": [
+				"Alright, which o' these lamps'd be fittin' best for yer decoratin' plans?",
+				"Welcome to me store! 'Ere are all the lights I got for sale!",
+				"Are any o' these lights peakin' yer interest? If so, just tell me!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/merchant/start/bignorthdragnar",
+		"value": {
+			"default": [
+				"Alright, which o' these lamps'd be fittin' best for yer decoratin' plans?",
+				"Welcome to me store! 'Ere are all the lights I got for sale!",
+				"Are any o' these lights peakin' yer interest? If so, just tell me!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/merchant/end/northdragnar",
+		"value": {
+			"default": [
+				"I'll be 'ere, if ye're e'er in need o' more lights!",
+				"I'm lookin' forward to be doin' more business with ya!",
+				"Be sure to check back, once ye're needin' more lights!",
+				"Come back, when yer 'ome's needin' more enlightment!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/merchant/start/bignorthdragnar",
+		"value": {
+			"default": [
+				"I'll be 'ere, if ye're e'er in need o' more lights!",
+				"I'm lookin' forward to be doin' more business with ya!",
+				"Be sure to check back, once ye're needin' more lights!",
+				"Come back, when yer 'ome's needin' more enlightment!"
+			]
+		}
+	}
+]

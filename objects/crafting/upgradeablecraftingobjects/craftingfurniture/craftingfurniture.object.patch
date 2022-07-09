@@ -1,0 +1,6 @@
+[{"op":"add","path":"/northdragnarDescription","value":"A workbench with enough tools to be craftin' furniture for a 'umble 'ome."},
+{"op":"add","path":"/northdragnarDescription","value":"A workbench with enough tools to be craftin' furniture for a 'umble 'ome."},
+{"op":"add","path":"/upgradeStages/1/itemSpawnParameters/northdragnarDescription","value":"A workbench with enough tools to be craftin' furniture for a 'umble 'ome."},
+{"op":"add","path":"/upgradeStages/1/itemSpawnParameters/bignorthdragnarDescription","value":"A workbench with enough tools to be craftin' furniture for a 'umble 'ome."},
+{"op":"add","path":"/upgradeStages/2/itemSpawnParameters/northdragnarDescription","value":"This industrial workbench's offerin' a variety o' tools for creatin' more complex pieces o' furniture as well as basic ones."},
+{"op":"add","path":"/upgradeStages/2/itemSpawnParameters/bignorthdragnarDescription","value":"This industrial workbench's offerin' a variety o' tools for creatin' more complex pieces o' furniture as well as basic ones."}]
