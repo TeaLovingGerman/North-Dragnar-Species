@@ -81,7 +81,7 @@
 	  { "item" : "ndwandererscloak" },
 	  { "item" : "ndwandererstrousers" },
 	  { "item" : "ndmannequinhead" },
-	  { "item" : "ndmannequin" },
+	  { "item" : "ndmannequin" }
 	  ]
   },
   "headOptionAsFacialhair" : true,
