@@ -1,6 +1,6 @@
-[{"op":"add","path":"/northdragnarDescription","value":"Foragin's nothin' new to me or most o' me kin. This table 'ere sould be pretty 'elpful for that and other ways o' gaterin' resources."},
-{"op":"add","path":"/bignorthdragnarDescription","value":"Foragin's nothin' new to me or most o' me kin. This table 'ere sould be pretty 'elpful for that and other ways o' gaterin' resources."},
-{"op":"add","path":"/upgradeStages/0/itemSpawnParameters/northdragnarDescription","value":"An agricultural station for creatin' many useful tools for minin', farmin' 'untin' and exploration in general."},
-{"op":"add","path":"/upgradeStages/0/itemSpawnParameters/bignorthdragnarDescription","value":"An agricultural station for creatin' many useful tools for minin', farmin' 'untin' and exploration in general."},
+[{"op":"add","path":"/northdragnarDescription","value":"Foragin's nothin' new to me or most o' me kin. This table 'ere sould be pretty 'elpful for that and other ways o' gatherin' resources."},
+{"op":"add","path":"/bignorthdragnarDescription","value":"Foragin's nothin' new to me or most o' me kin. This table 'ere sould be pretty 'elpful for that and other ways o' gatherin' resources."},
+{"op":"add","path":"/upgradeStages/0/itemSpawnParameters/northdragnarDescription","value":"Foragin's nothin' new to me or most o' me kin. This table 'ere sould be pretty 'elpful for that and other ways o' gatherin' resources."},
+{"op":"add","path":"/upgradeStages/0/itemSpawnParameters/bignorthdragnarDescription","value":"Foragin's nothin' new to me or most o' me kin. This table 'ere sould be pretty 'elpful for that and other ways o' gatherin' resources."},
 {"op":"add","path":"/upgradeStages/1/itemSpawnParameters/northdragnarDescription","value":"An agricultural station for creatin' many useful tools for minin', farmin' 'untin' and exploration in general."},
 {"op":"add","path":"/upgradeStages/1/itemSpawnParameters/bignorthdragnarDescription","value":"An agricultural station for creatin' many useful tools for minin', farmin' 'untin' and exploration in general."}]
