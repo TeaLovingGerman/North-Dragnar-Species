@@ -192,7 +192,7 @@
           "'Umans on Urden were stuck on there for a lon' time. A good part o' 'em looked for kinship amon'st the other races o' Urden.",
           "'Ave ye e'er met a 'uman, that came from Urden?",
           "I don't trust yer kind...",
-          "The Protectorate 'ad a noble goal, 'uman. What an unfortunate end..."
+          "The Protectorate 'ad a noble goal, 'uman. What an unfortunate end...",
 		  "Why'm I feelin' like I shouldn't be trustin' ya?",
 		  "'Ey there, 'uman.",
 		  "What does this ''USCM'' do? I 'ave a feelin' that I won't be likin' what I'll 'ear.",
@@ -210,7 +210,7 @@
           "'Umans on Urden were stuck on there for a lon' time. A good part o' 'em looked for kinship amon'st the other races o' Urden.",
           "'Ave ye e'er met a 'uman, that came from Urden?",
           "I don't trust yer kind...",
-          "The Protectorate 'ad a noble goal, 'uman. What an unfortunate end..."
+          "The Protectorate 'ad a noble goal, 'uman. What an unfortunate end...",
 		  "Why'm I feelin' like I shouldn't be trustin' ya?",
 		  "'Ey there, 'uman.",
 		  "What does this ''USCM'' do? I 'ave a feelin' that I won't be likin' what I'll 'ear.",
@@ -1083,6 +1083,12 @@
 		"I've heard that North-Dragnar are known for their pottery, carvings and such. Would you mind departing with some?",
 		"I got myself a new, rather dull-looking, staff. Do you know any good North-Dragnarian woodcarvers?"
       ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/converse/saturn2"
     },
     {
       "op": "add",
@@ -1097,6 +1103,25 @@
 		"Is there anything such as ''magic brawls'' on Urden?",
 		"I've heard that North-Dragnar are known for their pottery, carvings and such. Would you mind departing with some?",
 		"I got myself a new, rather dull-looking, staff. Do you know any good North-Dragnarian woodcarvers?"
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/converse/argonian"
+    },
+    {
+      "op": "add",
+      "path": "/converse/argonian/northdragnar",
+      "value": [
+        "Sun and warmth, Dragnar.",
+        "Tidings, Dragnar.",
+		"Your people are well-known hunters. Do you wish to join us on a hunt?",
+		"Where does someone like you hail from?",
+		"Are you interested in our tapestries? I am willing to trade.",
+		"You too are fanged. Not afraid to fight back, when you must.",
+		""
       ]
     }
   ],
