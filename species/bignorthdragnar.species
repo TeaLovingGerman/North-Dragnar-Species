@@ -8,7 +8,7 @@
   "humanoidConfig" : "/species/bignorthdragnar.config",
   "nameGen" : [ "/species/northdragnarmalenamegen.config:names", "/species/northdragnarfemalenamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/bignorthdragnarhurt_male1.ogg", "/sfx/humanoid/bignorthdragnarhurt_female1.ogg" ],
-  "charGenTextLabels" : [ "Fur colour", "Hair style", "Shirt", "Legwear", "Second. colour", "Beard style", "Shirt colour", "Legwear colour", "NORTH-DRAGNAR (BIG)", "Personality" ],
+  "charGenTextLabels" : [ "Fur colour", "Hair/Horn style", "Shirt", "Legwear", "Second. colour", "Beard style", "Shirt colour", "Legwear colour", "NORTH-DRAGNAR (BIG)", "Personality" ],
   "skull" : "/humanoid/northdragnar/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
   "defaultBlueprints" : {
