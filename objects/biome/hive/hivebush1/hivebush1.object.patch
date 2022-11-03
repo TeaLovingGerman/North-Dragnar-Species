@@ -1,2 +1,2 @@
-[{"op":"add","path":"/northdragnarDescription","value":"That's one big egg for a large creature. Or 'undreds o' small ones."},
-{"op":"add","path":"/bignorthdragnarDescription","value":"That's one big egg for a large creature. Or 'undreds o' small ones."}]
+[{"op":"add","path":"/northdragnarDescription","value":"That's one big egg for a medium-sized creature. Or 'undreds o' small ones."},
+{"op":"add","path":"/bignorthdragnarDescription","value":"That's one big egg for a small-sized creature. Or hundreds o' tiny ones."}]

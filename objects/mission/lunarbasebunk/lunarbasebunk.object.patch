@@ -1,2 +1,2 @@
-[{"op":"add","path":"/northdragnarDescription","value":"This bunk bed 'ere can be stacked on top o' another bed like it."},
-{"op":"add","path":"/bignorthdragnarDescription","value":"This bunk bed 'ere can be stacked on top o' another bed like it."}]
+[{"op":"add","path":"/northdragnarDescription","value":"This bunk bed can be stacked on top o' another bed like it."},
+{"op":"add","path":"/bignorthdragnarDescription","value":"This bunk bed can be stacked on top o' another bed like it."}]

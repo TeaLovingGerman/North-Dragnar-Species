@@ -1,0 +1,183 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+		"ndwild": [
+            "wild",
+			"terrifyin'",
+			"bone-chillin'",
+			"frenzied",
+			"dangerous",
+			"deadly",
+			"merciless"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndexploring": [
+            "out explorin'",
+			"strollin'",
+			"out wanderin'",
+			"takin' a brief walk",
+			"out campin'",
+			"restin'",
+			"runnin'"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "nddisaster": [
+            "somethin' terrible happened",
+			"I barely escaped",
+			"I was bein' hunted, but managed to escape",
+			"I had a pretty tight call"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndfate": [
+            "nearly tore me to pieces",
+			"almost landed a fatal blow",
+			"tried to make me its dinner",
+			"was close to beatin' me to a pulp"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndearlier": [
+            "earlier",
+			"recently",
+			"not too lon' ago",
+			"yesterday",
+			"around dawn",
+			"around sunset",
+			"last night",
+			"early in the mornin'"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndrumour": [
+            "smells fear",
+			"ambushes others terribly effective",
+			"despises anythin', that ain't itself",
+			"never sleeps and hunts all the time",
+			"has already claimed the lives o' many careless travellers",
+			"prefers eatin' brave adventurers",
+			"knows exactly when its prey lets their guard down",
+			"is unusually intelligent",
+			"has been wanted dead for years",
+			"has s'posedly returned from the dead"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndrequest": [
+            "put a stop to it",
+			"take care o' it",
+			"teach it a lesson",
+			"hunt it down",
+			"deliver it a beatin' in me name"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndappreciation1": [
+            "That <ndwild> <monster> ain't goin' to bother anyone anymore!",
+			"The <monster> didn't stand a chance against ya!",
+			"I'm imaginin', that that <monster> put up a good fight.",
+			"Ye're like a born <monster> hunter!"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndappreciation2": [
+            "Well, with that taken care o', here's yer reward.",
+			"Ye've done a great service! I'm hopin' this reward's compensatin' for the trouble.",
+			"Here, take this alon' with the spoils o' yer hunt.",
+			"I can be sleepin' well, knowin' that <monster>'s no more!"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/default",
+    "value": {
+	  "northdragnar": [
+			"^cyan;There's a beast, that needs to be slain."
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/default",
+    "value": {
+	  "bignorthdragnar": [
+			"^cyan;There's a beast, that needs to be slain."
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default",
+    "value": {
+	  "northdragnar": [
+            "There's been sightin' o' a <ndgiant> ^orange;<monster>^white; around the area near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Rumours have been circlin', that it <ndrumour>! ^green;Can ye <ndrequest>, ^white;to rid this place o' that beast?",
+            "I've been <ndexploring> <ndearlier> near the ^orange;<spawnPoint>^white;<spawnPoint.direction>, where <nddisaster>! I met some <ndgiant> ^orange;<monster>^white; and it <ndfate>. Could ye <ndrequest>, before it claims anyone else as its prey?"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default",
+    "value": {
+	  "bignorthdragnar": [
+            "There's been sightin' o' a <ndgiant> ^orange;<monster>^white; around the area near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Rumours have been circlin', that it <ndrumour>! ^green;Can ye <ndrequest>, ^white;to rid this place o' that beast?",
+            "I've been <ndexploring> <ndearlier> near the ^orange;<spawnPoint>^white;<spawnPoint.direction>, where <nddisaster>! I met some <ndgiant> ^orange;<monster>^white; and it <ndfate>. Could ye <ndrequest>, before it claims anyone else as its prey?"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default",
+    "value": {
+	  "northdragnar": [
+            "<ndappreciation1> <ndappreciation2>"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default",
+    "value": {
+	  "bignorthdragnar": [
+            "<ndappreciation1> <ndappreciation2>"
+	  ]
+    }
+  }
+]

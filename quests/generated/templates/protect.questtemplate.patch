@@ -1,0 +1,114 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/northdragnar",
+    "value": [
+            "^cyan;I've got reasons to believe, that <target>'s at risk o' an attack. I'll make savin' <target> worth yer while, I promise!",
+			"^cyan;I ain't sure what <target> did, but they're in danger. I ain't capable enough to defend <target>, so I'm hopin' that ye're willin' help 'em out!"
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/first/northdragnar",
+    "value": [
+            "I've spotted a bunch o' ^orange;<threat>^white; headin' towards the same direction as ^orange;<target>^white;, to the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Keep ^orange;<target>^green; breathin', by protectin' 'em from those damned ^orange;<threat>^white;.",
+			"^orange;<threat>^white; have been threatenin' ^orange;<target>^white; lately and I ain't likin' how this might end. ^orange;<target>^white; ran off to the ^orange;<spawnPoint>^white;<spawnPoint.direction> to escape. ^green;Go there and protect ^orange;<target>^white;!" 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/next/northdragnar",
+    "value": [
+            "Next up's somethin' urgent. Me friend ^orange;<target>^white;'s been messin' with the wron' kinds o' folks. I recently got informed, that ^orange;<threat>^white;'re plannin to ambush ^orange;<target>^white; near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Ye've got to ^green;protect ^orange;<target>^green; from those blaggards, please!",
+			"Ye've done well so far, but I'm needin' a little more help from ya. I ain't sure what ^orange;<target>^white; did, but they got the wron' kind o' attention from it. A rotten bunch o' ^orange;<threat>^white; chased ^orange;<target>^white; away to ^orange;<spawnPoint>^white;<spawnPoint.direction>. Those ^orange;<threat>^white; sure haven't invited ^orange;<target>^white; for a nice picnic, so ye've got to ^green;protect ^orange;<target>^green;!" 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "value": [
+            "^orange;<target>^white; has recently reappeared after disappearin' for a while. Unfortunately some ^orange;<threat>^white; have appeared alo'nside, and I'm worried about what they might do to ^orange;<target>^white;! Please, ^green;go to ^orange;<spawnPoint>^green;<spawnPoint.direction> and make sure that ^orange;<target>^green; keeps their hide!",
+			"See, me mate ^orange;<target>^white;, and I ain't sure how, got on the bad side o' a group o' ^orange;<threat>^white;. Now ^orange;<target>^white;'s hidin' out near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. I'm afraid, that those damned ^orange;<threat>^white; might attack soon. Please, ^green;go and protect ^orange;<target>^green; before the ^orange;<threat>^green; get 'em!" 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/first/northdragnar",
+    "value": [
+            "It's good, that ye're both still in one piece! Ye've got our deepest thanks!",
+			"Ta, for savin' <target>! We appreciate it!" 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/next/northdragnar",
+    "value": [
+            "Good work out there! <target>'ll be glad to help us out after that heroic act o' yers!",
+			"Ha! I'm bettin', that those <threat> weren't expectin' this much resistance! Thanks for providin' that extra resistance!" 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
+    "value": [
+            "<target>'s still got their hide and we eaarned <target>'s trust as well!",
+			"Me and <target>'re both glad that ye came alon' to help! Ohoho, I guess I'm owin' ye a favour now!" 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/bignorthdragnar",
+    "value": [
+            "^cyan;I've got reasons to believe, that <target>'s at risk o' an attack. I'll make savin' <target> worth yer while, I promise!",
+			"^cyan;I ain't sure what <target> did, but they're in danger. I ain't capable enough to defend <target>, so I'm hopin' that ye're willin' help 'em out!"
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/first/bignorthdragnar",
+    "value": [
+            "I've spotted a bunch o' ^orange;<threat>^white; headin' towards the same direction as ^orange;<target>^white;, to the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Keep ^orange;<target>^green; breathin', by protectin' 'em from those damned ^orange;<threat>^white;.",
+			"^orange;<threat>^white; have been threatenin' ^orange;<target>^white; lately and I ain't likin' how this might end. ^orange;<target>^white; ran off to the ^orange;<spawnPoint>^white;<spawnPoint.direction> to escape. ^green;Go there and protect ^orange;<target>^white;!" 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/next/bignorthdragnar",
+    "value": [
+            "Next up's somethin' urgent. Me friend ^orange;<target>^white;'s been messin' with the wron' kinds o' folks. I recently got informed, that ^orange;<threat>^white;'re plannin to ambush ^orange;<target>^white; near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Ye've got to ^green;protect ^orange;<target>^green; from those blaggards, please!",
+			"Ye've done well so far, but I'm needin' a little more help from ya. I ain't sure what ^orange;<target>^white; did, but they got the wron' kind o' attention from it. A rotten bunch o' ^orange;<threat>^white; chased ^orange;<target>^white; away to ^orange;<spawnPoint>^white;<spawnPoint.direction>. Those ^orange;<threat>^white; sure haven't invited ^orange;<target>^white; for a nice picnic, so ye've got to ^green;protect ^orange;<target>^green;!" 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
+    "value": [
+            "^orange;<target>^white; has recently reappeared after disappearin' for a while. Unfortunately some ^orange;<threat>^white; have appeared alo'nside, and I'm worried about what they might do to ^orange;<target>^white;! Please, ^green;go to ^orange;<spawnPoint>^green;<spawnPoint.direction> and make sure that ^orange;<target>^green; keeps their hide!",
+			"See, me mate ^orange;<target>^white;, and I ain't sure how, got on the bad side o' a group o' ^orange;<threat>^white;. Now ^orange;<target>^white;'s hidin' out near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. I'm afraid, that those damned ^orange;<threat>^white; might attack soon. Please, ^green;go and protect ^orange;<target>^green; before the ^orange;<threat>^green; get 'em!" 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/first/bignorthdragnar",
+    "value": [
+            "It's good, that ye're both still in one piece! Ye've got our deepest thanks!",
+			"Ta, for savin' <target>! We appreciate it!" 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/next/bignorthdragnar",
+    "value": [
+            "Good work out there! <target>'ll be glad to help us out after that heroic act o' yers!",
+			"Ha! I'm bettin', that those <threat> weren't expectin' this much resistance! Thanks for providin' that extra resistance!" 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
+    "value": [
+            "<target>'s still got their hide and we eaarned <target>'s trust as well!",
+			"Me and <target>'re both glad that ye came alon' to help! Ohoho, I guess I'm owin' ye a favour now!" 
+    ]
+  }
+]

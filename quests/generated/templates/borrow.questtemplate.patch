@@ -3,8 +3,8 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/text/northdragnar",
     "value": [
-            "We're needin' ^orange;<item>^white; before continuin'. ^orange;<target>^white;'d probably be ready to let us borrow <target.pronoun.possessive>. ^green;Would ye mind fetchin it?",
-            "I saw ^orange;<target>^white; struttin' about the place with ^orange;<item>^white;. They won't be mindin', if we borrow <target.pronoun.possessive> for our plan 'ere. ^green;Askin' 'em to borrow it should be enough to gettin' this plan started."
+            "We're needin' ^orange;<item>^white; before continuin'. ^orange;<target>^white;'d probably be ready to let us borrow <target.pronoun.possessive>. ^green;Would ye mind fetchin' it?",
+            "I saw ^orange;<target>^white; struttin' about the place with ^orange;<item>^white;. They won't be mindin', if we borrow <target.pronoun.possessive> for our plan here. ^green;Askin' 'em to borrow it should be enough to gettin' this plan started."
     ]
     },
   { 
@@ -12,31 +12,31 @@
     "path": "/scriptConfig/generatedText/text/northdragnar",
     "value": [
             "^orange;<target>^white;'s got the next step o' this plan with 'em: ^orange;<item>^white;! ^green;Try askin' 'em, if they'd be mindin' to let us borrow the ^orange;<item>^white;.",
-            "I ne'er thought, that it'd be comin' to this, but we're goin' to ''borrow'' the ^orange;<item>^white; from ^orange;<target>^white; for this plan to be workin' out! ^green;Maybe they'll give in, if ye're askin' 'em nicely?"
+            "I never thought, that it'd be comin' to this, but we're goin' to ''borrow'' the ^orange;<item>^white; from ^orange;<target>^white; for this plan to be workin' out! ^green;Maybe they'll give in, if ye're askin' 'em nicely?"
     ]
     },
   { 
 	"op": "add",
     "path": "/scriptConfig/generatedText/completionText/northdragnar",
     "value": [
-            "Great! 'opefully <target> ain't missin this <item> too much. I'll be compensatin' 'em later.",
-            "There's the <item> for our plan! Did <target> really give this to ye that easily? I'll be owin' 'em a fa'or, that's for sure."
+            "Great! 'opefully <target> ain't missin' this <item> too much. I'll be compensatin' 'em later.",
+            "There's the <item> for our plan! Did <target> really give this to ye that easily? I'll be owin' 'em a favour, that's for sure."
     ]
     },
   { 
 	"op": "add",
     "path": "/scriptConfig/generatedText/completionText/northdragnar",
     "value": [
-            "That sure went smoother than I was expectin'. I ain't complainin' though. Well, maybe I'll be compalinin' once <target>'s tryin to bite me ear off, for not returnin' the <item>, but ye don't 'ave to worry about that now.",
-            "We might not be able to return this <item> to <target> after we're done 'ere. I'll 'ave to be thinkin' about 'ow I'm gettin' <target> to forgive me for that later."
+            "That sure went smoother than I was expectin'. I ain't complainin', though. Well, maybe I'll be complainin' once <target>'s tryin' to bite me ear off, for not returnin' the <item>, but ye don't have to worry about that now.",
+            "We might not be able to return this <item> to <target> after we're done here. I'll have to be thinkin' about how I'm gettin' <target> to forgive me for that later."
     ]
     },
   { 
 	"op": "add",
     "path": "/scriptConfig/generatedText/text/bignorthdragnar",
     "value": [
-            "We're needin' ^orange;<item>^white; before continuin'. ^orange;<target>^white;'d probably be ready to let us borrow <target.pronoun.possessive>. ^green;Would ye mind fetchin it?",
-            "I saw ^orange;<target>^white; struttin' about the place with ^orange;<item>^white;. They won't be mindin', if we borrow <target.pronoun.possessive> for our plan 'ere. ^green;Askin' 'em to borrow it should be enough to gettin' this plan started."
+            "We're needin' ^orange;<item>^white; before continuin'. ^orange;<target>^white;'d probably be ready to let us borrow <target.pronoun.possessive>. ^green;Would ye mind fetchin' it?",
+            "I saw ^orange;<target>^white; struttin' about the place with ^orange;<item>^white;. They won't be mindin', if we borrow <target.pronoun.possessive> for our plan here. ^green;Askin' 'em to borrow it should be enough to gettin' this plan started."
     ]
     },
   { 
@@ -44,23 +44,23 @@
     "path": "/scriptConfig/generatedText/text/bignorthdragnar",
     "value": [
             "^orange;<target>^white;'s got the next step o' this plan with 'em: ^orange;<item>^white;! ^green;Try askin' 'em, if they'd be mindin' to let us borrow the ^orange;<item>^white;.",
-            "I ne'er thought, that it'd be comin' to this, but we're goin' to ''borrow'' the ^orange;<item>^white; from ^orange;<target>^white; for this plan to be workin' out! ^green;Maybe they'll give in, if ye're askin' 'em nicely?"
+            "I never thought, that it'd be comin' to this, but we're goin' to ''borrow'' the ^orange;<item>^white; from ^orange;<target>^white; for this plan to be workin' out! ^green;Maybe they'll give in, if ye're askin' 'em nicely?"
     ]
     },
   { 
 	"op": "add",
     "path": "/scriptConfig/generatedText/completionText/bignorthdragnar",
     "value": [
-            "Great! 'opefully <target> ain't missin this <item> too much. I'll be compensatin' 'em later.",
-            "There's the <item> for our plan! Did <target> really give this to ye that easily? I'll be owin' 'em a fa'or, that's for sure."
+            "Great! 'opefully <target> ain't missin' this <item> too much. I'll be compensatin' 'em later.",
+            "There's the <item> for our plan! Did <target> really give this to ye that easily? I'll be owin' 'em a favour, that's for sure."
     ]
     },
   { 
 	"op": "add",
     "path": "/scriptConfig/generatedText/completionText/bignorthdragnar",
     "value": [
-            "That sure went smoother than I was expectin'. I ain't complainin' though. Well, maybe I'll be compalinin' once <target>'s tryin to bite me ear off, for not returnin' the <item>, but ye don't 'ave to worry about that now.",
-            "We might not be able to return this <item> to <target> after we're done 'ere. I'll 'ave to be thinkin' about 'ow I'm gettin' <target> to forgive me for that later."
+            "That sure went smoother than I was expectin'. I ain't complainin', though. Well, maybe I'll be complainin' once <target>'s tryin' to bite me ear off, for not returnin' the <item>, but ye don't have to worry about that now.",
+            "We might not be able to return this <item> to <target> after we're done here. I'll have to be thinkin' about how I'm gettin' <target> to forgive me for that later."
     ]
   }
 ]

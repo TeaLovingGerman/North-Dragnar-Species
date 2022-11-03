@@ -1,2 +1,2 @@
-[{"op":"add","path":"/northdragnarDescription","value":"This sensor 'ere's able to detect a variety o' different liquids near it."},
-{"op":"add","path":"/bignorthdragnarDescription","value":"This sensor 'ere's able to detect a variety o' different liquids near it."}]
+[{"op":"add","path":"/northdragnarDescription","value":"This sensor's able to detect a variety o' different liquids near it."},
+{"op":"add","path":"/bignorthdragnarDescription","value":"This sensor's able to detect a variety o' different liquids near it."}]

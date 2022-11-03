@@ -4,14 +4,32 @@
     "path": "/converse/human/northdragnar",
     "value": {
 	 "default" : [
-        "Traveling through Space is pretty different from sailing the seas, isn' it?",
-        "Do Dragnar feel at least somewhat comfortable in Space?",
+        "Traveling through Space is pretty different from sailing the seas, I imagine.",
+        "Do you Dragnar feel at least somewhat comfortable in Space?",
         "What brings you here?",
         "We're both a long way from home, aren't we?",
-        "It's usually cold in Space. I guess there's something comparable to your homeland?",
+        "It's usually cold in Space. I guess that's something comparable to your homeland?",
         "Are there many North-Dragnarian colonies out in Space?",
-        "The style of your ships remind me of vikings. Their long gone though.",
-        "I have seen a purple ship drifting through Space one time. If I remember correctly then those are cultists' ships. You should stay away from them.",
+        "The style of your ships remind me of vikings. They're long gone though.",
+        "I've seen a purple ship drifting through Space one time. If I remember correctly then those are cultists' ships. You should stay away from them.",
+        "Do you have something like a ''Terrene Protectorate'' on Urden? Just asking...",
+		"When I hear of places like Urden I feel at ease... Don't know why though."
+		]
+    }
+ },
+  {
+    "op": "add",
+    "path": "/converse/human/bignorthdragnar",
+    "value": {
+	 "default" : [
+        "Traveling through Space is pretty different from sailing the seas, I imagine.",
+        "Do you Dragnar feel at least somewhat comfortable in Space?",
+        "What brings you here?",
+        "We're both a long way from home, aren't we?",
+        "It's usually cold in Space. I guess that's something comparable to your homeland?",
+        "Are there many North-Dragnarian colonies out in Space?",
+        "The style of your ships remind me of vikings. They're long gone though.",
+        "I've seen a purple ship drifting through Space one time. If I remember correctly then those are cultists' ships. You should stay away from them.",
         "Do you have something like a ''Terrene Protectorate'' on Urden? Just asking...",
 		"When I hear of places like Urden I feel at ease... Don't know why though."
 		]
@@ -26,7 +44,25 @@
         "Do Dragnar feel at least somewhat comfortable in Space?",
         "What brings you here?",
         "We're both a long way from home, aren't we?",
-        "It's usually cold in Space. I guess there's something comparable to your homeland?",
+        "It's usually cold in Space. I guess that's something comparable to your homeland?",
+        "Are there many North-Dragnarian colonies out in Space?",
+        "The style of your ships remind me of vikings. Their long gone though.",
+        "I have seen a purple ship drifting through Space one time. If I remember correctly then those are cultists' ships. You should stay away from them.",
+        "Do you have something like a ''Terrene Protectorate'' on Urden? Just asking...",
+		"When I hear of places like Urden I feel at ease... Don't know why though."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/converse/ningen/bignorthdragnar",
+    "value": {
+      "default": [
+        "Traveling through Space is pretty different from sailing the seas, isn' it?",
+        "Do Dragnar feel at least somewhat comfortable in Space?",
+        "What brings you here?",
+        "We're both a long way from home, aren't we?",
+        "It's usually cold in Space. I guess that's something comparable to your homeland?",
         "Are there many North-Dragnarian colonies out in Space?",
         "The style of your ships remind me of vikings. Their long gone though.",
         "I have seen a purple ship drifting through Space one time. If I remember correctly then those are cultists' ships. You should stay away from them.",
@@ -41,42 +77,282 @@
     "value": {
       "northdragnar": [
 	    "Lo, fellow kin!",
-        "Do ye know, why we're the only species that's left Urden? I sure don't...",
-        "'Ow's life in Space, kin? I've still got to be gettin' used to it.",
-        "I'm 'eadin' to a local archive soon. Feelin' like I've got to refresh some stuff.",
-        "Those damned Rinaffin raiders're raidin' space stations too. Sometimes it's feelin' like nowhere's safe...",
+        "Do ye know, why we're the only species that's left Urden? Lookin' out there just gets me thinkin'...",
+        "How's life in Space, kin? I've still got to be gettin' used to it.",
+        "I'm headin' to a local archive soon. Feelin' like I've got to refresh some stuff.",
+        "Those damned Rinaffin raiders're raidin' space stations too! Sometimes it's feelin' like nowhere's safe...",
 		"We can be countin' ourselves lucky, that the Tower-Shields got their own space fleets",
-		"'Ave ye e'er imagined what it'd be like, to be joinin' a space fleet o' the Tower-Shields?",
-		"What do ye prefer? Sailin' on a ship through Space, or sailin' on a lon'boat o'er seas? I like both options!",
-		
+		"Have ye ever imagined what it'd be like, to be joinin' a space fleet o' the Tower-Shields?",
+		"What do ye prefer? Sailin' on a ship through Space, or sailin' on a lon'boat over seas? I like both options!"	
+      ],
+      "bignorthdragnar": [
+	    "Lo, fellow kin!",
+        "Do ye know, why we're the only species that's left Urden? Lookin' out there just gets me thinkin'...",
+        "How's life in Space, kin? I've still got to be gettin' used to it.",
+        "I'm headin' to a local archive soon. Feelin' like I've got to refresh some stuff.",
+        "Those damned Rinaffin raiders're raidin' space stations too! Sometimes it's feelin' like nowhere's safe...",
+		"We can be countin' ourselves lucky, that the Tower-Shields got their own space fleets",
+		"Have ye ever imagined what it'd be like, to be joinin' a space fleet o' the Tower-Shields?",
+		"What do ye prefer? Sailin' on a ship through Space, or sailin' on a lon'boat over seas? I like both options!"	
       ],
       "default": [
-        "Lo, fellow Space tra'eler!",
+        "Lo, fellow Space traveller!",
         "If only me ma and da could be seein' me now...",
-        "Ye like it around 'ere?",
+        "Ye like it around here?",
         "This ain't no lon'ship, but it'll do just fine.",
-        "I still need to get used to this whole Space tra'ellin' deal.",
-        "Ne'er thought, that I'd be tra'ellin' through Space. Guess I was wron'.",
-        "Space ain't so lonely, if ye go tra'ellin' with the right folks.",
-        "There's not much face-to-face fightin' out 'ere in Space.",
-        "Our ship architects usually take great inspiration from their own 'omeland.",
+        "I still need to get used to this whole Space travellin' deal.",
+        "Never thought, that I'd be travellin' through Space. Guess I thought wron'.",
+        "Space ain't so lonely, if ye go travellin' with the right folks.",
+        "There's not much face-to-face fightin' out here in Space.",
+        "Our ship architects usually take great inspiration from their own homeland.",
         "Can't wait to get me feet back on solid ground!",
         "Out 'ere, all these stars and planets appear like a bunch o' colourful snowflakes.",
         "Space's infinte ain't it? Still not used to that kind o' fact...",
-        "It get's borin' out 'ere sometimes. Care for a brawl?",
-        "A'oy! Welcome aboard!",
-        "It's always night out 'ere. Pretty confusin', if ye're askin' me.",
+        "It get's borin' out 'ere sometimes.",
+        "Ahoy! Welcome aboard!",
+        "It's always night out here. Pretty confusin' when ye're used to referin' to suns and moons for time.",
         "As far as I know, we're the only species that's left Urden.",
-		"We took a bunch o' data with us from Urden. If ye're wantin' to learn more about Urden, I'd recommend ye to check some North-Dragnarian archives.",
-		"'Erdin' livestock ain't easy on a station, floatin' in Space. Our stock usually remains on a planet, where they're feelin' comfortable.",
+		"We took a bunch o' data with us from Urden. If ye're wantin' to learn more about Urden, I'd recommend ye to check some o' our archives.",
+		"Herdin' livestock ain't easy on a station, floatin' in Space. Our stock usually remains on a planet, where they're feelin' comfortable.",
 		"Most space staions're pretty bland-lookin'. Could do with a few tapestries to brin' some more colour.",
 		"Do ye believe, that Urden's floatin' somewhere out there?",
-		"'Ow lon' did it take yer kind to be takin' to the stars?",
-		"Somewhere out there in these clusters o' stars, Urden may be waitin' for us to disc'er it again..."
+		"How lon' did it take yer kind to be takin' to the stars?",
+		"Somewhere out there in these clusters o' stars, Urden may be waitin' for us to discover it again..."
       ],
       "apex": [
         "Lo, Apex.",
-        "Always a welcome sight, to be seein' one o' yer kind tra'ellin' freely through Space!",
+        "Always a welcome sight, to be seein' one o' yer kind travellin' freely through Space!",
+        "I'm hopin', that ye're not a spy o' those damned Minikno'.",
+        "Haven't seen any Minikno' spaceships so far. Do They even have spacefleets o' any sort?",
+        "Big Ape's not seemin' that big from out here, ain't he?",
+        "Do yer kin's rebels posess spaceships o' their own? I'm sure some o' our shipyards'd be glad to offer a few.",
+        "Stay safe out there, Apex. Enjoy yer life o' freedom!"
+      ],
+      "avian": [
+        "Lo, Avian.",
+        "May yer future flights be wonderful, Avian!",
+        "I feel like travellin' through Space's much more amazin' than flyin'. What do ye think?",
+        "Roughly how many o' ye Avians get to be travellin' through Space?",
+        "Don't ye be worryin'. The influence o' Kluex's priests ain't reachin' this far out.",
+        "",
+        "",
+        ""
+      ],
+      "floran": [
+        "Lo, Floran.",
+        "Ey there, good to be seein' another capable hunter out in Space.",
+        "Ain't much to stab out here, eh? Well, nothin' that wouldn't be gettin' ye in real trouble.",
+        "Is there a thin' such as Floran hunters in Space?",
+        "Were ye tired o' sproutin' roots on yer homeplanet? I sure waas.",
+        "I'm hopin', that the conditions here're bearable for yer kind. If that's even an issue for ya.",
+		"Florans're usually salvagin' parts from other spaceships to create their own, ain't that right?",
+		"I've heard that yer kin's usin' plants to hold their ships together. Must be some tough plants!"
+      ],
+      "human": [
+        "Lo, Human.",
+        "It's seemin' like ther're many Humans still roamin' through Space. Glad to know, that so many're still survivin.",
+        "Are ye lookin' for a new home after... Err, sorry for brin'in' it up.",
+        "If ye know any Humans in need o' a home, me kin'd be glad to help 'em out.",
+        "Sometimes I'm fearin' that me kin lost our homeplanet too. Like we just... Forgot all about it.",
+        "Were those ''vikings'' I heard o' still around when Humans started travellin' through Space?",
+		"May ye be findin' a place that ye can call home."
+      ],
+      "ningen": [
+        "Lo, Human.",
+        "It's seemin' like ther're many Humans still roamin' through Space. Glad to know, that so many're still survivin.",
+        "Are ye lookin' for a new home after... Err, sorry for brin'in' it up.",
+        "If ye know any Humans in need o' a home, me kin'd be glad to help 'em out.",
+        "Sometimes I'm fearin' that me kin lost our homeplanet too. Like we just... Forgot all about it.",
+        "Were those ''vikings'' I heard o' still around when Humans started travellin' through Space?",
+		"May ye be findin' a place that ye can call home."
+      ],
+      "hylotl": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "glitch": [
+        "Lo there, Glitch.",
+        "Yer kind seems like they'd be good at maintainin' space ships and the likes.",
+        "Could ye be imaginin', that most o' yer kind would've taken to space travel too, if it weren't for that malfunction?",
+        "I'm wonderin' 'ow many o' ye rogue Glitch actually made it to Space...",
+        "Is Space affectin' ye, as a mechanical bein', in any way different than me?",
+        "I'm wishin' ye unhindered travels, Glitch."
+      ],
+      "novakid": [
+        "Lo, Novakid.",
+        "Howdy, pardner! Is that how yer kin says it?",
+        "Ye should've seen me face, when I saw a damn train soarin' through Space! Thought that I had too much to drink!",
+        "I feel like I've seen these steamin' trains o' yer kind before...",
+        "Sometimes I wish I could be glowin' in the dark. Most o' the time though, I don't.",
+        "Yer kin's space ship manufacturers seem to have taken inspiration from the vehicles back on yer homeplanet. So did ours!",
+        "Ye're lookin' like ye belon' out here, amon' the stars.",
+        "I'll be damned! We've got a star on board! Ohoho, sorry, I couldn't be resistin'."
+      ],
+      "fenerox": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "penguin": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "novali": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "smolavali": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "aegi": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "avikan": [
+        "Lo, Avikan.",
+		"Hello there, fellow spacefarer!",
+        "With somethin' as big as the Nomada, yer kind must've been used to spacefarin' for a lon' while.",
+        "We've got large spacefleets too. Might not come close to the size o' that Nomada, but they're still pretty amazin'.",
+        "How likely's it, that an Avikan chooses to live on a spaceship?",
+        "I'm admirin' the ingenuity o' yer kin's ships!",
+        "Say, is the Nomada open for visitin'?",
+        "Ain't much to hunt 'ere in Space. 'Specially somethin' with bones.",
+        "Have there been Avikan captains, who used to be hunters? Would they be wearin' bones, if so?"
+      ],
+      "trink": [
+        "Lo, Trink.",
+        "Yer ships got some unusual shapes. Is there a reason why ye've built 'em like that?",
+        "",
+        "",
+        ""
+      ],
+      "familiar": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "felin": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lucario": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "kitsune": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "moogle": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "saturn": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "saturn2": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spiritguardian": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/converse/bignorthdragnar",
+    "value": {
+      "northdragnar": [
+	    "Lo, fellow kin!",
+        "Do ye know, why we're the only species that's left Urden? Lookin' out there just gets me thinkin'...",
+        "How's life in Space, kin? I've still got to be gettin' used to it.",
+        "I'm headin' to a local archive soon. Feelin' like I've got to refresh some stuff.",
+        "Those damned Rinaffin raiders're raidin' space stations too! Sometimes it's feelin' like nowhere's safe...",
+		"We can be countin' ourselves lucky, that the Tower-Shields got their own space fleets",
+		"Have ye ever imagined what it'd be like, to be joinin' a space fleet o' the Tower-Shields?",
+		"What do ye prefer? Sailin' on a ship through Space, or sailin' on a lon'boat over seas? I like both options!"	
+      ],
+      "bignorthdragnar": [
+	    "Lo, fellow kin!",
+        "Do ye know, why we're the only species that's left Urden? Lookin' out there just gets me thinkin'...",
+        "How's life in Space, kin? I've still got to be gettin' used to it.",
+        "I'm headin' to a local archive soon. Feelin' like I've got to refresh some stuff.",
+        "Those damned Rinaffin raiders're raidin' space stations too! Sometimes it's feelin' like nowhere's safe...",
+		"We can be countin' ourselves lucky, that the Tower-Shields got their own space fleets",
+		"Have ye ever imagined what it'd be like, to be joinin' a space fleet o' the Tower-Shields?",
+		"What do ye prefer? Sailin' on a ship through Space, or sailin' on a lon'boat over seas? I like both options!"	
+      ],
+      "default": [
+        "Lo, fellow Space traveller!",
+        "If only me ma and da could be seein' me now...",
+        "Ye like it around here?",
+        "This ain't no lon'ship, but it'll do just fine.",
+        "I still need to get used to this whole Space travellin' deal.",
+        "Never thought, that I'd be travellin' through Space. Guess I thought wron'.",
+        "Space ain't so lonely, if ye go travellin' with the right folks.",
+        "There's not much face-to-face fightin' out here in Space.",
+        "Our ship architects usually take great inspiration from their own homeland.",
+        "Can't wait to get me feet back on solid ground!",
+        "Out 'ere, all these stars and planets appear like a bunch o' colourful snowflakes.",
+        "Space's infinte ain't it? Still not used to that kind o' fact...",
+        "It get's borin' out 'ere sometimes.",
+        "Ahoy! Welcome aboard!",
+        "It's always night out here. Pretty confusin' when ye're used to referin' to suns and moons for time.",
+        "As far as I know, we're the only species that's left Urden.",
+		"We took a bunch o' data with us from Urden. If ye're wantin' to learn more about Urden, I'd recommend ye to check some o' our archives.",
+		"Herdin' livestock ain't easy on a station, floatin' in Space. Our stock usually remains on a planet, where they're feelin' comfortable.",
+		"Most space staions're pretty bland-lookin'. Could do with a few tapestries to brin' some more colour.",
+		"Do ye believe, that Urden's floatin' somewhere out there?",
+		"How lon' did it take yer kind to be takin' to the stars?",
+		"Somewhere out there in these clusters o' stars, Urden may be waitin' for us to discover it again..."
+      ],
+      "apex": [
+        "Lo, Apex.",
+        "Always a welcome sight, to be seein' one o' yer kind travellin' freely through Space!",
         "I'm 'opin', that ye're not a spy o' those damned Minikno'.",
         "'A'en't seen any Minikno' spaceships so far. Do They e'en 'ave spacefleets o' any sort?",
         "Big Ape's not seemin' that big from out 'ere, ain't he?",
@@ -143,7 +419,7 @@
         "Sometimes I wish I could be glowin' in the dark. Most o' the time, not.",
         "Yer kin's space ship manufacturers seem to 'ave taken inspiration from the ve'icles back on yer 'omeplanet. So did ours!",
         "Ye're lookin' like ye belon' out 'ere, amon' the stars.",
-        "I'll be damned! We've got a star on board! Ohoho, sorry, I couldn't be resistin'.",
+        "I'll be damned! We've got a star on board! Ohoho, sorry, I couldn't be resistin'."
       ],
       "fenerox": [
         "",
@@ -189,8 +465,7 @@
         "I'm admirin' the ingenuity o' yer kin's ships!",
         "Say, is the Nomada open for visitin'?",
         "Ain't much to 'unt 'ere in Space. 'Specially somethin' with bones.",
-        "'Ave there been A'ikan captains, who used to be 'unters? Would they be wearin' bones, if so?",
-		
+        "'Ave there been A'ikan captains, who used to be 'unters? Would they be wearin' bones, if so?"
       ],
       "trink": [
         "Lo, Trink.",
@@ -283,7 +558,7 @@
       "Greetings, North-Dragnarian spacefarer.",
       "Would you like to learn about our ship's engineering?",
       "The design of your peoples' spacefaring vessels must be inspired by longboats, am I correct?",
-	  "Travelling through Space offers, in certain aspects, striking similarities to swimming through water. I thoroughly enjoy it!"
+	  "Travelling through Space shows, in certain aspects, striking similarities to swimming through water. I thoroughly enjoy it!"
     ]
   },
   {

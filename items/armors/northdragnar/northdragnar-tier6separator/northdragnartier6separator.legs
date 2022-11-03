@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "legarmour",
-  "description" : "The tough plates cover a light and well-made skirt.",
+  "description" : "The tough plates cover a light and well-made skirt, which covers even more tough plates.",
   "shortdescription" : "Vindicator Leg Plates",
   "tooltipKind" : "armor",
   "maleFrames" : "pants.png",

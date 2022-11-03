@@ -1,1 +1,2 @@
-[{"op":"add","path":"/northdragnarDescription","value":"This teleporter's needin' to be powered up."}]
+[{"op":"add","path":"/northdragnarDescription","value":"This teleporter's needin' to be powered up."},
+{"op":"add","path":"/bignorthdragnarDescription","value":"This teleporter's needin' to be powered up."}]

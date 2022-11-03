@@ -1,0 +1,50 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/northdragnar",
+    "value": [
+            "^cyan;I've been waitin' for another opportunity to expand me stock. Now's the time to take that opportunity!",
+			"^cyan;The last addition to me shop's supllies 'as pro'en lucrative! Wouldn't be 'urtin' to expand some more!"
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "value": [
+            "One o' me old tradin' partners, ^orange;<target>^white;, has offered me new goods in return for me ^orange;<tradedItems>^orange; and's waitin' for the goods at ^orange;<spawnPoint>^white;<spawnPoint.direction>. Please, ^green;deliver the ^orange;<tradedItems>^green; to ^orange;<target>^green; and return the traded goods from 'em to me.",
+			"I struck another deal, this time with ^orange;<target>^white;, a friend o' mine and fellow trader. The trade itself'll take place at ^orange;<spawnPoint>^white;<spawnPoint.direction>, where ^green;ye'll have to trade ^orange;<tradedItems>^green; for the future addition to me shop! Oh, and return 'em to me, once ye're done with the trade." 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
+    "value": [
+            "With the <newItem> in me stock, me shop'll surely attract more customers. Ta, mate!",
+			"Thanks! I'll be puttin' the <newItem> up for sale right away!" 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/bignorthdragnar",
+    "value": [
+            "^cyan;I've been waitin' for another opportunity to expand me stock. Now's the time to take that opportunity!",
+			"^cyan;The last addition to me shop's supllies 'as pro'en lucrative! Wouldn't be 'urtin' to expand some more!"
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
+    "value": [
+            "One o' me old tradin' partners, ^orange;<target>^white;, has offered me new goods in return for me ^orange;<tradedItems>^orange; and's waitin' for the goods at ^orange;<spawnPoint>^white;<spawnPoint.direction>. Please, ^green;deliver the ^orange;<tradedItems>^green; to ^orange;<target>^green; and return the traded goods from 'em to me.",
+			"I struck another deal, this time with ^orange;<target>^white;, a friend o' mine and fellow trader. The trade itself'll take place at ^orange;<spawnPoint>^white;<spawnPoint.direction>, where ^green;ye'll have to trade ^orange;<tradedItems>^green; for the future addition to me shop! Oh, and return 'em to me, once ye're done with the trade." 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
+    "value": [
+            "With the <newItem> in me stock, me shop'll surely attract more customers. Ta, mate!",
+			"Thanks! I'll be puttin' the <newItem> up for sale right away!" 
+    ]
+  }
+]

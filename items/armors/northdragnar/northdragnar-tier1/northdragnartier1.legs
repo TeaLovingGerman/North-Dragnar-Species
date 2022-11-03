@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "legarmour",
-  "description" : "A simple shield-shaped cloth makes it easy to distinguish a member of the Civil Watch from other civillians.",
+  "description" : "A simple, shield-shaped cloth makes it easy to distinguish a member of the Civil Watch from other civillians.",
   "shortdescription" : "Civil Watch's Pants",
   "tooltipKind" : "armor",
   "maleFrames" : "pants.png",

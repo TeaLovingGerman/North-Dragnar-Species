@@ -11,12 +11,12 @@
   "apexDescription" : "This bed was crafted entirely by hand. Quite charming.",
   "avianDescription" : "The sheets of this bed feel soft. A good place for resting my feathers!",
   "floranDescription" : "Bed iss not bouncy at all. Still, good place for Floran to resst.",
-  "glitchDescription" : "Delighted. A handcrafted bed with introcately designed bedding.",
+  "glitchDescription" : "Delighted. A handcrafted bed with intricately designed bedding.",
   "humanDescription" : "I can feel the passion of this bed's creator flowing through the bedding! It's probably just the comfy sheets though.",
   "hylotlDescription" : "This bed is almost overflowing with passion. I can rest easily in a bed such as this one.",
-  "novakidDescription" : "I oughta have a good rest in a bed this comfy lookin'!",
-  "northdragnarDescription" : "It's a damn good feelin' to be sleepin' in somethin' ye made yerself.",
-  "bignorthdragnarDescription" : "It's a damn good feelin' to be sleepin' in somethin' ye made yerself.",
+  "novakidDescription" : "I oughta have a good rest in a bed this comfy-lookin'!",
+  "northdragnarDescription" : "It's a damn good feelin' to be sleepin' in the work o' fine craftsmanship!",
+  "bignorthdragnarDescription" : "It's a damn good feelin' to be sleepin' in the work o' fine craftsmanship!",
   "inventoryIcon" : "ndhardybedicon.png",
   "orientations" : [
     {

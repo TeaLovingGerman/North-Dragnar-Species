@@ -7,10 +7,10 @@
             "bein' a general nuisance",
 			"continously makin' others trip",
 			"startin' unfair fights",
-			"comittin' petty theft",
-			"buyin' goods on ''credit'' and ne'er payin' up",
-			"pro'okin' fights between other folks",
-			"car'in' on others properties without 'em consentin'"
+			"committin' petty theft",
+			"buyin' goods on ''credit'' and never payin' up",
+			"provokin' fights between other folks",
+			"carvin' on others properties without 'em consentin'"
     ]
   }
   },
@@ -18,32 +18,32 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/goalText/northdragnar",
     "value": [
-            "^cyan;We're goin' to be ser'in' <target> some justice for what they've done!",
-			"^cyan;<target> got caught red-'anded for disturbin' the peace! Maybe ye can be 'elpin' me out on this one?"
+            "^cyan;We're goin' to be servin' <target> some justice for what they've done!",
+			"^cyan;<target> got caught red-handed for disturbin' the peace! Maybe ye can be helpin' me out on this one?"
     ]
   },
   { 
 	"op": "add",
     "path": "/scriptConfig/generatedText/text/first/northdragnar",
     "value": [
-            "I've got a lot o' catchin' up to be doin' on some paperwork, but I can't just let <target> get away unpunished for <ndcrime>! ^green;Could ye 'and this ^orange;crime notice^green; 'ere to <target> and consfiscate one ^orange;<item>^green; on me be'alf?",
-			"I'm need o' a 'elpin' 'and with <target>. They're <ndcrime> and tryin' to e'ade me! The work's pretty straight: ^green;give 'em this ^orange;crime notice^green; and take in one ^orange;<item>^green;. That should be teachin' 'em, that their actions're leadin' to consequences." 
+            "I've got a lot o' catchin' up to be doin' on some paperwork, but I can't just let <target> get away unpunished for <ndcrime>! ^green;Could ye 'and this ^orange;crime notice^green; here to <target> and consfiscate one ^orange;<item>^green; on me behalf?",
+			"I'm need o' a helpin' hand with <target>. They're <ndcrime> and tryin' to evade me! The work's pretty straight: ^green;give 'em this ^orange;crime notice^green; and take in one ^orange;<item>^green;. That should be teachin' 'em, that their actions're leadin' to consequences." 
     ]
   },
   { 
 	"op": "add",
     "path": "/scriptConfig/generatedText/text/next/northdragnar",
     "value": [
-            "Now we've got another thin' to be dealin' with: that wron'doin' <target>. They're <ndcrime> and 'aven't been punished for it, yet. If ye don't mind 'elpin' me out, then ^green;ye've got to 'and 'em this ^orange;crime notice^green; and take one ^orange;<item>^green; as payment for their reckless be'a'iour.",
-			"'Ave ye got the time for 'elpin' me out a bit lon'er? Ye see, <target>'s <ndcrime> and's needin' to be taught a lesson. ^green;Ye've only got to 'and 'em this ^orange;crime notice^green; and take one ^orange;<item>^green; in as payment. I'll be 'andlin the paperwork afterwards, don't ye worry about that."
+            "Now we've got another thin' to be dealin' with: that wron'doin' <target>. They're <ndcrime> and haven't been punished for it, yet. If ye don't mind helpin' me out, then ^green;ye've got to hand 'em this ^orange;crime notice^green; and take one ^orange;<item>^green; as payment for their reckless behaviour.",
+			"Have ye got the time for helpin' me out a bit further? Ye see, <target>'s <ndcrime> and's needin' to be taught a lesson. ^green;Ye've only got to hand 'em this ^orange;crime notice^green; and take one ^orange;<item>^green; in as payment. I'll be handlin' the paperwork afterwards, don't ye worry about that."
     ]
   },
   { 
 	"op": "add",
     "path": "/scriptConfig/generatedText/text/last/northdragnar",
     "value": [
-            "Well, now there's only one thin' remainin'. <target>'s <ndcrime> and I've got other wron'doer's to be dealin' with as well. I'd be owin' ye for 'elpin' me brin' 'em to justice. ^green;Ye've got to take one ^orange;<item>^green; as a fine from 'em, AFTER 'andin' 'em this ^orange;crime notice^green;.",
-			"Ye've done me good one this far. Do ye think, that ye can take on another task? It'll be the last, I'm promisin'. <target>'s <ndcrime> and purposefully e'adin' any sort o' con'ersation with me. For that, ^green;ye'll 'ave to 'and 'em this ^orange;crime notice^green; o'er and take one ^orange;<item>^green; equal o' value for their crimes." 
+            "Well, now there's only one thin' remainin'. <target>'s <ndcrime> and I've got other wron'doer's to be dealin' with as well. I'd be owin' ye for helpin' me brin' 'em to justice. ^green;Ye've got to take one ^orange;<item>^green; as a fine from 'em, AFTER handin' 'em this ^orange;crime notice^green;.",
+			"Ye've done me good this far. Do ye think, that ye can take on another task? It'll be the last, I'm promisin'. <target>'s <ndcrime> and purposefully evadin' any sort o' conversation with me. For that, ^green;ye'll have to hand 'em this ^orange;crime notice^green; over and take one ^orange;<item>^green; equal o' value for their crimes." 
     ]
   },
   { 
@@ -51,22 +51,22 @@
     "path": "/scriptConfig/generatedText/text/default/northdragnar",
     "value": [
             "<target>'s <ndcrime> and's thinkin' that they're gettin' away unnoticed. Unlucky for 'em, they've been careless enough to get noticed by many other folks. ^green;The only thin' left to do'd be to give <target> this ^orange;crime notice^green; and take ^orange;<item>^green; as compensation for their actions.",
-			"Care to deli'er some justice to <target> for <ndcrime>? O' course ye'll be rewarded for 'elpin' me out, only fair. ^green;This ^orange;crime notice^green; must go to 'em and one ^orange;<item>^green;'s needin' to be taken from 'em in exchange." 
+			"Care to deliver some justice to <target> for <ndcrime>? O' course ye'll be rewarded for helpin' me out, only fair. ^green;This ^orange;crime notice^green; must go to 'em and one ^orange;<item>^green;'s needin' to be taken from 'em in exchange." 
     ]
   },
   { 
 	"op": "add",
     "path": "/scriptConfig/generatedText/completionText/first/northdragnar",
     "value": [
-            "Well look at ye! Ye've done justice well! Say, would ye be mindin' to 'elp me out with somethin' else?",
-			"Good work there! We'll be takin' this ^orange;<item>^white; and give it to someone who's needin' it more than <target>. 'Ave ye got the time for 'nother task?"
+            "Well look at ye! Ye've done justice well! Say, would ye be mindin' to help me out with somethin' else?",
+			"Good work there! We'll be takin' this ^orange;<item>^white; and give it to someone who's needin' it more than <target>. Have ye got the time for another task?"
     ]
   },
   { 
 	"op": "add",
     "path": "/scriptConfig/generatedText/completionText/next/northdragnar",
     "value": [
-            "Justice's bein' up'eld 'ere, thanks to yer efforts! Would ye be willin' to 'elp me out for a bit lon'er?",
+            "Justice's bein' upheld here, thanks to yer efforts! Would ye be willin' to help me out a bit further?",
 			"I ain't glad that it came to be this way, but justice's needin' to be served. We'll be findin' a good use for this ^orange;<item>^white;, I'm sure o' it." 
     ]
   },
@@ -74,15 +74,15 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/completionText/last/northdragnar",
     "value": [
-            "The deed's been done. <target> usually ain't gettin 'emselves in'olved in business like this. 'Ere, ye've earned the ^orange;<item>^white; for yer 'elp. Make good use o' it!",
-			"Seems like <target> didn't give ye too much trouble, good. t least they didn't make this 'arder than it needed to be. Take the ^orange;<item>^white; in exchange for yer lended 'elp!"
+            "The deed's been done. <target> usually ain't gettin 'emselves involved in business like this. Here, ye've earned the ^orange;<item>^white; for yer help. Make good use o' it!",
+			"Seems like <target> didn't give ye too much trouble, good. At least they didn't make this harder than it needed to be. Take the ^orange;<item>^white; in exchange for yer lended help!"
     ]
   },
   { 
 	"op": "add",
     "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
     "value": [
-            "Yes, this's appearin 'arsh, but we needed to teach <target> a lesson for disruptin' the other folks around. Otherwise they'll be makin' it 'arder for anyone in'olved in the future.",
+            "Yes, this's appearin' harsh, but we needed to teach <target> a lesson for disruptin' the other folks around. Otherwise they'll be makin' it harder for anyone involved in the future.",
 			"<target> should've known better. Maybe this'll remind 'em, that we've got rules to be abidin' by. Keep the ^orange;<item>^white; for makin' our work a bit easier."
     ]
   },
@@ -90,32 +90,32 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/goalText/bignorthdragnar",
     "value": [
-            "^cyan;We're goin' to be ser'in' <target> some justice for what they've done!",
-			"^cyan;<target> got caught red-'anded for disturbin' the peace! Maybe ye can be 'elpin' me out on this one?"
+            "^cyan;We're goin' to be servin' <target> some justice for what they've done!",
+			"^cyan;<target> got caught red-handed for disturbin' the peace! Maybe ye can be helpin' me out on this one?"
     ]
   },
   { 
 	"op": "add",
     "path": "/scriptConfig/generatedText/text/first/bignorthdragnar",
     "value": [
-            "I've got a lot o' catchin' up to be doin' on some paperwork, but I can't just let <target> get away unpunished for <ndcrime>! ^green;Could ye 'and this ^orange;crime notice^green; 'ere to <target> and consfiscate one ^orange;<item>^green; on me be'alf?",
-			"I'm need o' a 'elpin' 'and with <target>. They're <ndcrime> and tryin' to e'ade me! The work's pretty straight: ^green;give 'em this ^orange;crime notice^green; and take in one ^orange;<item>^green;. That should be teachin' 'em, that their actions're leadin' to consequences." 
+            "I've got a lot o' catchin' up to be doin' on some paperwork, but I can't just let <target> get away unpunished for <ndcrime>! ^green;Could ye 'and this ^orange;crime notice^green; here to <target> and consfiscate one ^orange;<item>^green; on me behalf?",
+			"I'm need o' a helpin' hand with <target>. They're <ndcrime> and tryin' to evade me! The work's pretty straight: ^green;give 'em this ^orange;crime notice^green; and take in one ^orange;<item>^green;. That should be teachin' 'em, that their actions're leadin' to consequences." 
     ]
   },
   { 
 	"op": "add",
     "path": "/scriptConfig/generatedText/text/next/bignorthdragnar",
     "value": [
-            "Now we've got another thin' to be dealin' with: that wron'doin' <target>. They're <ndcrime> and 'aven't been punished for it, yet. If ye don't mind 'elpin' me out, then ^green;ye've got to 'and 'em this ^orange;crime notice^green; and take one ^orange;<item>^green; as payment for their reckless be'a'iour.",
-			"'Ave ye got the time for 'elpin' me out a bit lon'er? Ye see, <target>'s <ndcrime> and's needin' to be taught a lesson. ^green;Ye've only got to 'and 'em this ^orange;crime notice^green; and take one ^orange;<item>^green; in as payment. I'll be 'andlin the paperwork afterwards, don't ye worry about that."
+            "Now we've got another thin' to be dealin' with: that wron'doin' <target>. They're <ndcrime> and haven't been punished for it, yet. If ye don't mind helpin' me out, then ^green;ye've got to hand 'em this ^orange;crime notice^green; and take one ^orange;<item>^green; as payment for their reckless behaviour.",
+			"Have ye got the time for helpin' me out a bit further? Ye see, <target>'s <ndcrime> and's needin' to be taught a lesson. ^green;Ye've only got to hand 'em this ^orange;crime notice^green; and take one ^orange;<item>^green; in as payment. I'll be handlin' the paperwork afterwards, don't ye worry about that."
     ]
   },
   { 
 	"op": "add",
     "path": "/scriptConfig/generatedText/text/last/bignorthdragnar",
     "value": [
-            "Well, now there's only one thin' remainin'. <target>'s <ndcrime> and I've got other wron'doer's to be dealin' with as well. I'd be owin' ye for 'elpin' me brin' 'em to justice. ^green;Ye've got to take one ^orange;<item>^green; as a fine from 'em, AFTER 'andin' 'em this ^orange;crime notice^green;.",
-			"Ye've done me good one this far. Do ye think, that ye can take on another task? It'll be the last, I'm promisin'. <target>'s <ndcrime> and purposefully e'adin' any sort o' con'ersation with me. For that, ^green;ye'll 'ave to 'and 'em this ^orange;crime notice^green; o'er and take one ^orange;<item>^green; equal o' value for their crimes." 
+            "Well, now there's only one thin' remainin'. <target>'s <ndcrime> and I've got other wron'doer's to be dealin' with as well. I'd be owin' ye for helpin' me brin' 'em to justice. ^green;Ye've got to take one ^orange;<item>^green; as a fine from 'em, AFTER handin' 'em this ^orange;crime notice^green;.",
+			"Ye've done me good this far. Do ye think, that ye can take on another task? It'll be the last, I'm promisin'. <target>'s <ndcrime> and purposefully evadin' any sort o' conversation with me. For that, ^green;ye'll have to hand 'em this ^orange;crime notice^green; over and take one ^orange;<item>^green; equal o' value for their crimes." 
     ]
   },
   { 
@@ -123,22 +123,22 @@
     "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
     "value": [
             "<target>'s <ndcrime> and's thinkin' that they're gettin' away unnoticed. Unlucky for 'em, they've been careless enough to get noticed by many other folks. ^green;The only thin' left to do'd be to give <target> this ^orange;crime notice^green; and take ^orange;<item>^green; as compensation for their actions.",
-			"Care to deli'er some justice to <target> for <ndcrime>? O' course ye'll be rewarded for 'elpin' me out, only fair. ^green;This ^orange;crime notice^green; must go to 'em and one ^orange;<item>^green;'s needin' to be taken from 'em in exchange." 
+			"Care to deliver some justice to <target> for <ndcrime>? O' course ye'll be rewarded for helpin' me out, only fair. ^green;This ^orange;crime notice^green; must go to 'em and one ^orange;<item>^green;'s needin' to be taken from 'em in exchange." 
     ]
   },
   { 
 	"op": "add",
     "path": "/scriptConfig/generatedText/completionText/first/bignorthdragnar",
     "value": [
-            "Well look at ye! Ye've done justice well! Say, would ye be mindin' to 'elp me out with somethin' else?",
-			"Good work there! We'll be takin' this ^orange;<item>^white; and give it to someone who's needin' it more than <target>. 'Ave ye got the time for 'nother task?"
+            "Well look at ye! Ye've done justice well! Say, would ye be mindin' to help me out with somethin' else?",
+			"Good work there! We'll be takin' this ^orange;<item>^white; and give it to someone who's needin' it more than <target>. Have ye got the time for another task?"
     ]
   },
   { 
 	"op": "add",
     "path": "/scriptConfig/generatedText/completionText/next/bignorthdragnar",
     "value": [
-            "Justice's bein' up'eld 'ere, thanks to yer efforts! Would ye be willin' to 'elp me out for a bit lon'er?",
+            "Justice's bein' upheld here, thanks to yer efforts! Would ye be willin' to help me out a bit further?",
 			"I ain't glad that it came to be this way, but justice's needin' to be served. We'll be findin' a good use for this ^orange;<item>^white;, I'm sure o' it." 
     ]
   },
@@ -146,15 +146,15 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/completionText/last/bignorthdragnar",
     "value": [
-            "The deed's been done. <target> usually ain't gettin 'emselves in'olved in business like this. 'Ere, ye've earned the ^orange;<item>^white; for yer 'elp. Make good use o' it!",
-			"Seems like <target> didn't give ye too much trouble, good. t least they didn't make this 'arder than it needed to be. Take the ^orange;<item>^white; in exchange for yer lended 'elp!"
+            "The deed's been done. <target> usually ain't gettin 'emselves involved in business like this. Here, ye've earned the ^orange;<item>^white; for yer help. Make good use o' it!",
+			"Seems like <target> didn't give ye too much trouble, good. At least they didn't make this harder than it needed to be. Take the ^orange;<item>^white; in exchange for yer lended help!"
     ]
   },
   { 
 	"op": "add",
     "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
     "value": [
-            "Yes, this's appearin 'arsh, but we needed to teach <target> a lesson for disruptin' the other folks around. Otherwise they'll be makin' it 'arder for anyone in'olved in the future.",
+            "Yes, this's appearin' harsh, but we needed to teach <target> a lesson for disruptin' the other folks around. Otherwise they'll be makin' it harder for anyone involved in the future.",
 			"<target> should've known better. Maybe this'll remind 'em, that we've got rules to be abidin' by. Keep the ^orange;<item>^white; for makin' our work a bit easier."
     ]
   }

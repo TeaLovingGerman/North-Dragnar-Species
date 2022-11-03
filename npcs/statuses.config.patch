@@ -20,7 +20,7 @@
     {"op": "add", "path": "/statuses/generic/-", "value": "Wonders, if the homeplanet of the North-Dragnar actually exists"},
     {"op": "add", "path": "/statuses/generic/-", "value": "Confusing space ships with ordinary ships"},
     {"op": "add", "path": "/statuses/generic/-", "value": "Feels like they could take on someone bare-handed"},
-    {"op": "add", "path": "/statuses/generic/-", "value": "Questions, if there is something like shortboats, opposed to longboats"},
+    {"op": "add", "path": "/statuses/generic/-", "value": "Questions, if there is something like shortboats, as opposed to longboats"},
     {"op": "add", "path": "/statuses/generic/-", "value": "Feels like the crew should be more resource-efficient"},
     {"op": "add", "path": "/statuses/generic/-", "value": "Estimates whether or not they would win a fight against you"},
     {"op": "add", "path": "/statuses/generic/-", "value": "Would like to start a snowball fight with the ship's crew"}

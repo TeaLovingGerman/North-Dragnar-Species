@@ -13,8 +13,8 @@
 				"A fight it is, then!",
 				"Ye're goin' to regret this!",
 				"I won't be goin' down so easily!",
-				"Ye better be ready, to e'en 'ave a chance!",
-				"Ye better not pull any tricks, ya 'ear?"
+				"Ye better be ready, to even have a chance!",
+				"Ye better not be pullin' any tricks, ya hear?"
 			]
 		}
 	},
@@ -32,8 +32,8 @@
 				"A fight it is, then!",
 				"Ye're goin' to regret this!",
 				"I won't be goin' down so easily!",
-				"Ye better be ready, to e'en 'ave a chance!",
-				"Ye better not pull any tricks, ya 'ear?"
+				"Ye better be ready, to even have a chance!",
+				"Ye better not be pullin' any tricks, ya hear?"
 			]
 		}
 	},
@@ -44,16 +44,16 @@
 			"default": [
 				"Done and done.",
 				"Victory. For now...",
-				"Didn't e'en break a sweat!",
+				"Didn't even break a damn sweat!",
 				"Victory's mine!",
 				"That's taken care o'.",
-				"'Ope there's enough time for a break.",
-				"I should be preparin' for 'nother tussle.",
+				"Hope there's enough time for a break.",
+				"I should be preparin' for another tussle.",
 				"'Nother foe, struck down.",
 				"Got ya!",
 				"Ye should've picked a fight with someone weaker!",
 				"Tough one...",
-				"Glad that's o'er with."
+				"Glad that's over with."
 			]
 		}
 	},
@@ -64,16 +64,17 @@
 			"default": [
 				"Done and done.",
 				"Victory. For now...",
-				"Didn't e'en break a sweat!",
+				"Didn't even break a damn sweat!",
 				"Victory's mine!",
 				"That's taken care o'.",
-				"'Ope there's enough time for a break.",
-				"I should be preparin' for 'nother tussle.",
+				"Hope there's enough time for a break.",
+				"I should be preparin' for another tussle.",
 				"'Nother foe, struck down.",
 				"Got ya!",
 				"Ye should've picked a fight with someone weaker!",
 				"Tough one...",
-				"Glad that's o'er with."
+				"Glad that's over with.",
+				"Should've picked on someone that ain't me size!"
 			]
 		}
 	},
@@ -83,10 +84,10 @@
 		"value": {
 			"default": [
 				"Damn coward...",
-				"Startin' a fight, just to run off? Are ye serious?",
+				"Startin' a fight, just to run off? Ye kiddin'?",
 				"That's right! Flee while ye still can!",
-				"Are ye afrai' to face a challenge?",
-				"Come out and let's get this o'er with!",
+				"Are ye afraid o' facin' a challenge?",
+				"Come out and let's get this over with!",
 				"Blaggard!",
 				"Was I really that fierce-lookin'?",
 				"Come back when ye've got more guts, ye wuss!"
@@ -99,13 +100,13 @@
 		"value": {
 			"default": [
 				"Damn coward...",
-				"Startin' a fight, just to run off? Are ye serious?",
+				"Startin' a fight, just to run off? Ye kiddin'?",
 				"That's right! Flee while ye still can!",
-				"Are ye afrai' to face a challenge?",
-				"Come out and let's get this o'er with!",
+				"Are ye afraid o' facin' a challenge?",
+				"Come out and let's get this over with!",
 				"Blaggard!",
 				"Was I really that fierce-lookin'?",
-				"Come back when ye've got more guts, ye wuss!"
+				"Come back when ye've got bigger guts, ye little wuss!"
 			]
 		}
 	},
@@ -117,9 +118,9 @@
 				"There ye are!",
 				"Ready to face me now?",
 				"Ha! Thought I lost ya!",
-				"Come back to fight, 'ave ya?",
+				"Come back to fight, have ya?",
 				"Ye won't be gettin' away this time!",
-				"Ye want some more? Ya can 'ave it!",
+				"Ye want some more? Ya can have it!",
 				"If ye run again, I swear..."
 			]
 		}
@@ -132,9 +133,9 @@
 				"There ye are!",
 				"Ready to face me now?",
 				"Ha! Thought I lost ya!",
-				"Come back to fight, 'ave ya?",
+				"Come back to fight, have ya?",
 				"Ye won't be gettin' away this time!",
-				"Ye want some more? Ya can 'ave it!",
+				"Ye want some more? Ya can have it!",
 				"If ye run again, I swear..."
 			]
 		}
@@ -144,11 +145,11 @@
 		"path": "/cantReach/northdragnar",
 		"value": {
 			"default": [
-				"'Ey! What're ye doin' o'er there?",
-				"Get back o'er 'ere, ye wuss!",
-				"I can't teach ye a lesson from there! Get back 'ere!",
-				"Ye're not safe o'er there for lon'!",
-				"Damn ye! Get back 'ere!"
+				"Ey! What're ye doin' over there?",
+				"Get back over here, ye wuss!",
+				"I can't be teachin' ye a lesson from there! Get back here!",
+				"Ye're not safe over there for lon'!",
+				"Damn ye, Get back here!"
 			]
 		}
 	},
@@ -157,11 +158,11 @@
 		"path": "/cantReach/bignorthdragnar",
 		"value": {
 			"default": [
-				"'Ey! What're ye doin' o'er there?",
-				"Get back o'er 'ere, ye wuss!",
-				"I can't teach ye a lesson from there! Get back 'ere!",
-				"Ye're not safe o'er there for lon'!",
-				"Damn ye! Get back 'ere!"
+				"Ey! What're ye doin' over there?",
+				"Get back over here, ye little wuss!",
+				"I can't be teachin' ye a lesson from there! Get back here!",
+				"Ye're not safe over there for lon'!",
+				"Damn ye, Get back here!"
 			]
 		}
 	},
@@ -173,10 +174,10 @@
 				"What're ye waitin' for? I ain't gettin' exhausted!",
 				"C'mere!",
 				"I still got fight left in me!",
-				"I'll 'ave a drink to yer defeat!",
-				"Ye can't 'old out fore'er!",
+				"I'll have a drink to yer defeat!",
+				"Ye can't be holdin' out forever!",
 				"Stubborn one, are ya?",
-				"E'entually..."
+				"Eventually..."
 			]
 		}
 	},
@@ -188,10 +189,10 @@
 				"What're ye waitin' for? I ain't gettin' exhausted!",
 				"C'mere!",
 				"I still got fight left in me!",
-				"I'll 'ave a drink to yer defeat!",
-				"Ye can't 'old out fore'er!",
+				"I'll have a drink to yer defeat!",
+				"Ye can't be holdin' out forever!",
 				"Stubborn one, are ya?",
-				"E'entually..."
+				"Eventually..."
 			]
 		}
 	}

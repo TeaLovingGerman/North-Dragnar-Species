@@ -1,0 +1,34 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "value": [
+            "Good, ye've got the ^orange;<ingredients>^white; we're needin'! The thin' is, I ain't good at cookin' or bakin'. I'm doubtin' that ye'd be doin' worse than me, while ^green;preparin' the ^orange;<cookedItems>^white;.",
+			"Looks like ye've gathered all the ^orange;<ingredients>^white;! Now comes the hardest part: Cookin'. Ye'd have much more luck at ^green;preparin' the ^orange;<cookedItems>^white; than I've got, trust me."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
+    "value": [
+            "Good, ye've got the ^orange;<ingredients>^white; we're needin'! The thin' is, I ain't good at cookin' or bakin'. I'm doubtin' that ye'd be doin' worse than me, while ^green;preparin' the ^orange;<cookedItems>^white;.",
+			"Looks like ye've gathered all the ^orange;<ingredients>^white;! Now comes the hardest part: Cookin'. Ye'd have much more luck at ^green;preparin' the ^orange;<cookedItems>^white; than I've got, trust me."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
+    "value": [
+            "Ye've done some fine work on that <cookedItems>! This'll definetly suffice for me plan.",
+			"This <cookedItems>'s just temptin' me to eat it! But, we've got other plans for this, so I'll be tryin' me best NOT to eat it."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
+    "value": [
+            "Ye've done some fine work on that <cookedItems>! This'll definetly suffice for me plan.",
+			"This <cookedItems>'s just temptin' me to eat it! But, we've got other plans for this, so I'll be tryin' me best NOT to eat it."
+    ]
+  }
+]

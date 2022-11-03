@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "chestarmour",
-  "description" : "A solarium reinforced chain mail, that's covered with a thick fur cloak. Made for a great warrior.",
+  "description" : "A solarium-reinforced chain mail, that's covered with a thick fur cloak. Made for a great warrior.",
   "shortdescription" : "Avenger's Cloak",
   "tooltipKind" : "armor",
   "maleFrames" : {

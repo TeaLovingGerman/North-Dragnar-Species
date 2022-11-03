@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "chestarmour",
-  "description" : "Scaled armour made of durasteel, donned by veterans of North-Dragnarian guards.",
+  "description" : "Scaled armour made of durasteel, donned by veterans of the North-Dragnarian guardspeople.",
   "shortdescription" : "Veteran's Chestguard",
   "tooltipKind" : "armor",
   "maleFrames" : {

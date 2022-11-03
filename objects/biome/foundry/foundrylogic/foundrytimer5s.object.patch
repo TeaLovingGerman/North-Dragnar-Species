@@ -1,2 +1,2 @@
-[{"op":"add","path":"/northdragnarDescription","value":"A timer. This passes a signal e'ery 5 seconds."},
-{"op":"add","path":"/bignorthdragnarDescription","value":"A timer. This passes a signal e'ery 5 seconds."}]
+[{"op":"add","path":"/northdragnarDescription","value":"A timer. This passes a signal every 5 seconds."},
+{"op":"add","path":"/bignorthdragnarDescription","value":"A timer. This passes a signal every 5 seconds."}]

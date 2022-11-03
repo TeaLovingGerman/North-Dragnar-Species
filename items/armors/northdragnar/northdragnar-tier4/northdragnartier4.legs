@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "legarmour",
-  "description" : "Durasteel greaves that allow the wearer to stand at their post for many hours.",
+  "description" : "Durasteel greaves, to keep the wearer properly standing at their post.",
   "shortdescription" : "Lake Greaves",
   "tooltipKind" : "armor",
   "maleFrames" : "pants.png",

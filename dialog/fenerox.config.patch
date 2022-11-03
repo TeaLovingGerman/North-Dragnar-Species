@@ -4,7 +4,7 @@
     "path": "/converse/default",
 	"value": {
 	  "northdragnar": [
-      "Odd person. Seeing first. feeling cautious!",
+      "Odd person. Seeing first. Feeling cautious!",
       "Stranger fierce. Fenerox cautious. Feeling awkward!",
       "Scaled person. Furred person. Feeling curious!",
       "Meeting stranger. Appearing peaceful. Fenerox polite!",
@@ -15,11 +15,12 @@
       "Meeting stranger. Being friendly. New experience!",
       "Odd person. Saying hello. Not Fenerox?",
       "Friendly stranger. Feeling awkward. Cautiously optimistic!",
-      "New stranger. Not confident. Saying hello!"
+      "New stranger. Not confident. Saying hello!",
+	  "Fierce stranger. Fenerox curious. Stranger hunting?"
 	  ],
 	  "bignorthdragnar" : [
-      "Odd person. Seeing first. feeling cautious!",
-	  "Big person. Looking fierce. Fenerox cautious!.",
+      "Odd person. Seeing first. Feeling cautious!",
+	  "Big stranger. Looking fierce. Fenerox cautious!",
       "Stranger fierce. Fenerox cautious. Feeling awkward!",
       "Scaled person. Furred person. Feeling curious!",
       "Meeting stranger. Appearing peaceful. Fenerox polite!",
@@ -30,7 +31,8 @@
       "Meeting stranger. Being friendly. New experience!",
       "Odd person. Saying hello. Not Fenerox?",
       "Friendly stranger. Feeling awkward. Cautiously optimistic!",
-      "New stranger. Not confident. Saying hello!"
+      "New stranger. Not confident. Saying hello!",
+	  "Fierce stranger. Fenerox curious. Stranger hunting?"
 		]
 	}
   }

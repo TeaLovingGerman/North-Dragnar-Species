@@ -3,7 +3,7 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/text/northdragnar",
     "value": [
-            "Up next, ^orange;<target>^white;, a tra'ellin' merchant, 'as arrived at ^orange;<spawnPoint>^white;<spawnPoint.direction> not too lon' ago. I've offered ^orange;<target>^white; to trade <receivedItems> for the ^orange;<givenItems>^white; we're needin'. Could ye brin' the ^orange;<givenItems>^white; o'er to 'em?"
+            "Up next, ^orange;<target>^white;, a travellin' merchant, has arrived at ^orange;<spawnPoint>^white;<spawnPoint.direction> not too lon' ago. I've offered ^orange;<target>^white; to trade <receivedItems> for the ^orange;<givenItems>^white; we're needin'. Could ye brin' the ^orange;<givenItems>^white; over to 'em?"
     ]
   },
   { 
@@ -17,7 +17,7 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/text/bignorthdragnar",
     "value": [
-            "Up next, ^orange;<target>^white;, a tra'ellin' merchant, 'as arrived at ^orange;<spawnPoint>^white;<spawnPoint.direction> not too lon' ago. I've offered ^orange;<target>^white; to trade <receivedItems> for the ^orange;<givenItems>^white; we're needin'. Could ye brin' the ^orange;<givenItems>^white; o'er to 'em?"
+            "Up next, ^orange;<target>^white;, a travellin' merchant, has arrived at ^orange;<spawnPoint>^white;<spawnPoint.direction> not too lon' ago. I've offered ^orange;<target>^white; to trade <receivedItems> for the ^orange;<givenItems>^white; we're needin'. Could ye brin' the ^orange;<givenItems>^white; over to 'em?"
     ]
   },
   { 

@@ -1,2 +1,2 @@
-[{"op":"add","path":"/northdragnarDescription","value":"The bottom node's acti'ated by dim light while the top one's acti'ated by bright light."},
-{"op":"add","path":"/bignorthdragnarDescription","value":"The bottom node's acti'ated by dim light while the top one's acti'ated by bright light."}]
+[{"op":"add","path":"/northdragnarDescription","value":"The bottom node's activated by dim light, while the top one's activated by bright light."},
+{"op":"add","path":"/bignorthdragnarDescription","value":"The bottom node's activated by dim light, while the top one's activated by bright light."}]

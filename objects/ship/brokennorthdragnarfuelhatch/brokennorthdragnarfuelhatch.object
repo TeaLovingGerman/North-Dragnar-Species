@@ -15,8 +15,8 @@
   "humanDescription" : "A fuel hatch. I can fill this up and explore.",
   "hylotlDescription" : "Fuel is the lifeblood of exploration.",
   "novakidDescription" : "FTL fuel goes in here When. it's fixed...",
-  "northdragnarDescription" : "This 'atch's needin' a bit o' fixin', before I can use it.",
-  "bignorthdragnarDescription" : "This 'atch's needin' a bit o' fixin', before I can use it.",
+  "northdragnarDescription" : "This hatch's needin' a bit o' fixin', before I can use it.",
+  "bignorthdragnarDescription" : "This hatch's needin' a bit o' fixin', before I can use it.",
   "inventoryIcon" : "fuelhatchicon.png",
   "orientations" : [
     {

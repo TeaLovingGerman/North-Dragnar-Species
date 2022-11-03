@@ -14,8 +14,8 @@
   "humanDescription" : "Cool hatch.",
   "hylotlDescription" : "A basic ship hatch.",
   "novakidDescription" : "A hatch.",
-  "northdragnarDescription" : "This 'atch's fittin' for a spaceship.",
-  "bignorthdragnarDescription" : "This 'atch's fittin' for a spaceship.",
+  "northdragnarDescription" : "This hatch's fittin' for a spaceship.",
+  "bignorthdragnarDescription" : "This hatch's fittin' for a spaceship.",
   "inventoryIcon" : "northdragnarshiphatchicon.png",
   "orientations" : [
     {

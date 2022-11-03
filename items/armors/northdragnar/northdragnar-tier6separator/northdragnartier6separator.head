@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "headarmour",
-  "description" : "An adorned and sturdy full-face helmet, worthy of a great North-Dragnarian protector.",
+  "description" : "An adorned and sturdy full-face helmet, worthy of a great protector.",
   "shortdescription" : "Vindicator Helmet",
   "tooltipKind" : "armor",
   "maleFrames" : "head.png",

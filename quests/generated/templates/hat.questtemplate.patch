@@ -1,0 +1,50 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/northdragnar",
+    "value": [
+            "^cyan;I want to be lookin' more <adjective>. There's an easy way o' achievin' that.",
+			"^cyan;I'm tryin' to look <adjective>. I've already got somethin' planned."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/bignorthdragnar",
+    "value": [
+            "^cyan;I want to be lookin' more <adjective>. There's an easy way o' achievin' that.",
+			"^cyan;I'm tryin' to look <adjective>. I've already got somethin' planned."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "value": [
+            "All that's left now's to ^green;brin' the ^orange;<clothingIngredients>^green; to ^orange;<friend>^white;. ^orange;<friend>^white;'s skilled at creatin' thin's such as ^orange;headwear^white;!",
+			"Lastly ye'll have to ^green;brin' the ^orange;<clothingIngredients>^green; here to ^orange;<friend>^green; and return the ^orange;headwear^green; back to me. ^orange;<friend>^white;'s already waitin' for the ^orange;<clothingIngredients>^white;."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
+    "value": [
+            "All that's left now's to ^green;brin' the ^orange;<clothingIngredients>^green; to ^orange;<friend>^white;. ^orange;<friend>^white;'s skilled at creatin' thin's such as ^orange;headwear^white;!",
+			"Lastly ye'll have to ^green;brin' the ^orange;<clothingIngredients>^green; here to ^orange;<friend>^green; and return the ^orange;headwear^green; back to me. ^orange;<friend>^white;'s already waitin' for the ^orange;<clothingIngredients>^white;."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
+    "value": [
+            "There ye go! Now I'm lookin' much more <adjective> thanks to <friend> and ye!",
+			"<friend>'s done a good job at makin' me look more <adjective>! O' course I ain't forgettin' abot yer help! Here."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
+    "value": [
+            "There ye go! Now I'm lookin' much more <adjective> thanks to <friend> and ye!",
+			"<friend>'s done a good job at makin' me look more <adjective>! O' course I ain't forgettin' abot yer help! Here."
+    ]
+  }
+]

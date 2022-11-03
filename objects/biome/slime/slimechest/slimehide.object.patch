@@ -1,2 +1,2 @@
-[{"op":"add","path":"/northdragnarDescription","value":"I shouldn't be 'idin' anythin' valuable inside this chest. I can see right through its casin'."},
-{"op":"add","path":"/bignorthdragnarDescription","value":"I shouldn't be 'idin' anythin' valuable inside this chest. I can see right through its casin'."}]
+[{"op":"add","path":"/northdragnarDescription","value":"I can see right through its casin'. I shouldn't be hidin' anythin' valuable inside this chest."},
+{"op":"add","path":"/bignorthdragnarDescription","value":"I can see right through its casin'. I shouldn't be hidin' anythin' valuable inside this chest."}]

@@ -15,10 +15,10 @@
   "floranDescription" : "Where isss rest of weird birdman'ss mannequin?",
   "glitchDescription" : "Solicitous. The head shape of the North-Dragnar asks for clothing to be tailored in a specific manner.",
   "humanDescription" : "Headbutting this mannequin head would probably hurt just as much as headbutting an actual Dragnar.",
-  "hylotlDescription" : "This mannequin head bears a pirecing gaze. ALmost like it dares someone to don it a helmet.",
+  "hylotlDescription" : "This mannequin head bears a pirecing gaze. Almost like it dares someone to don it a helmet.",
   "novakidDescription" : "A hard-headed fella, waitin' for a fancy hat.",
-  "northdragnarDescription" : "This wooden noggin's waitin' for a 'elmet to wear.",
-  "bignorthdragnarDescription" : "This wooden noggin's waitin' for a 'elmet to wear.",
+  "northdragnarDescription" : "This wooden noggin's waitin' for a headgear to wear.",
+  "bignorthdragnarDescription" : "This wooden noggin's waitin' for a headgear to wear.",
 
   "inventoryIcon" : "mannequinheadicon.png",
   "orientations" : [

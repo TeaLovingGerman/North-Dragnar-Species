@@ -1,0 +1,222 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndfriend": [
+            "friend",
+            "mate",
+			"companion",
+			"close kin",
+			"kin",
+			"good friend"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndearlier": [
+            "not too lon' ago",
+            "earlier this day",
+			"earlier",
+			"last night",
+			"last day",
+			"last evenin'"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndactivity": [
+            "comin' up with tapestry patterns",
+            "preparin' for a hunt",
+			"sparrin'",
+			"practicin' our carvin' skills",
+			"takin' a walk",
+			"exchangin' stories",
+			"havin a friendly tussle",
+			"chattin'",
+			"foragin'",
+			"climbin'",
+			"catchin' up on thin's",
+			"craftin' practice"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndactivity1": [
+            "have a chat about <ndactivity2>",
+            "contemplatin' the importance o' <ndactivity2>",
+			"tryin' to learn more about <ndactivity2>",
+			"attemptin' to understand <ndactivity2>",
+			"debatin' on what's the deal with <ndactivity2>",
+			"exchangin' stories about <ndactivity2>",
+			"fightin' over somethin' related to <ndactivity2>"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndactivity2": [
+            "Urden",
+            "the Rinaffin raiders",
+			"Poptops",
+			"snow",
+			"carvin's",
+			"tapestry",
+			"craftsmanship",
+			"glory",
+			"nothin' too important",
+			"huntin'",
+			"Rin'rams",
+			"blast axes",
+			"the Tower-Shields",
+			"Alpacas",
+			"somethin' I forgot",
+			"Capricoats",
+			"space travel"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndworry": [
+            "fairly certain, that",
+            "worryin', that",
+			"dreadin', that",
+			"startin' to believe, that",
+			"pretty sure, that"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndkidnapped": [
+            "got taken by",
+            "got kidnapped by those damned",
+			"got kidnapped by",
+			"taken hostage by",
+			"got draagged alon' by",
+			"tried to fend off the",
+			"tried to take the fight to those"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndspotted1": [
+            "I spotted 'em over by",
+            "I saw 'em walkin' to",
+			"They've been seen over by",
+			"They were last sighted near",
+			"They ran off to",
+			"They brought <victimNpcType> to",
+			"Those blaggards last showed their faces near"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndspotted2": [
+            "spotted ^orange;<enemy>^white; near",
+            "saw ^orange;<enemy>^white; walkin' to",
+			"saw ^orange;<enemy>^white; over by",
+			"sighted ^orange;<enemy>^white; near",
+			"witnessed ^orange;<enemy>^white; runnin' off to"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndplead": [
+            "^green;Please, brin' me <ndfriend> ^orange;<victimNpcType>^green; back to me in one piece!",
+            "^green;I beg o' ya, return ^orange;<victimNpcType>^green; back to me from the ^orange;<enemy>^green;!",
+			"^green;Ye've got to guide ^orange;<victimNpcType>^green; back to me after you dealt with the ^orange;<enemy>^green;!",
+			"^green;Ye'd be doin' us a great favour, by returnin' ^orange;<victimNpcType>^green; back here.",
+			"^green;Save ^orange;<victimNpcType>^green; from the hands o' those ^orange;<enemy>^green;, please!",
+			"^green;Make those ^orange;<enemy>^green; pay for takin' me <ndfriend> away and guide ^orange;<victimNpcType>^green; back to me."
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndappreciation": [
+            "Ye've done the both o' us a great service!",
+            "I ain't leavin <victimNpcType> alone again for a while. Ta, mate!",
+			"It's good to have <victimNpcType> back beside me!",
+			"Ye've got the gratitude from me and <victimNpcType>!"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/northdragnar",
+    "value": [
+            "^cyan;I'm startin' to worry about me <friend> <victimNpcType>.",
+			"^cyan;Me <friend> <victimNpcType> should've been here lon' ago."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "value": [
+            "Me <friend> ^orange;<victimNpcType>^white; was s'posed to meet me here <ndearlier>. I'm <ndworry> <friend> ^orange;<victimNpcType>^white; <ndkidnapped> ^orange;<enemy>^white;. <ndspotted1> ^orange;<spawnPoint>^white;<spawnPoint.direction>. <ndplead>",
+			"I <ndearlier> <ndspotted2> ^orange;<spawnPoint>^white;<spawnPoint.direction> after me <ndfriend> ^orange;<victimNpcType>^white;'s disappearance. I'm <ndworry> ^orange;<victimNpcType>^white; <ndkidnapped> ^orange;<enemy>^white;. <ndplead>." 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
+    "value": [
+            "Aha! Ye made it back from those <enemy>. <ndappreciation>",
+			"Can it be? <victimNpcType>! <ndappreciation>",
+			"It's lookin' like ye brought <victimNpcType> back safely! <ndappreciation>"
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/bignorthdragnar",
+    "value": [
+            "^cyan;I'm startin' to worry about me <friend> <victimNpcType>.",
+			"^cyan;Me <friend> <victimNpcType> should've been here lon' ago."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
+    "value": [
+            "Me <friend> ^orange;<victimNpcType>^white; was s'posed to meet me here <ndearlier>. I'm <ndworry> <friend> ^orange;<victimNpcType>^white; <ndkidnapped> ^orange;<enemy>^white;. <ndspotted1> ^orange;<spawnPoint>^white;<spawnPoint.direction>. <ndplead>",
+			"I <ndearlier> <ndspotted2> ^orange;<spawnPoint>^white;<spawnPoint.direction> after me <ndfriend> ^orange;<victimNpcType>^white;'s disappearance. I'm <ndworry> ^orange;<victimNpcType>^white; <ndkidnapped> ^orange;<enemy>^white;. <ndplead>." 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
+    "value": [
+            "Aha! Ye made it back from those <enemy>. <ndappreciation>",
+			"Can it be? <victimNpcType>! <ndappreciation>",
+			"It's lookin' like ye brought <victimNpcType> back safely! <ndappreciation>"
+    ]
+  }
+]

@@ -6,11 +6,11 @@
 	  "default": [
       "Ye're not throwin' me to jail without a fight!",
       "Show me what ye've got!",
-      "I'll be clea'in the lon' arm o' the law, right 'ere and then!",
+      "I'll be cleavin' the lon' arm o' the law, right here and then!",
       "Ye're goin' to regret, that ye've messed with the ^orange;<gangName>^reset;!",
       "We ain't ordinary bandits! We're the ^orange;<gangName>^reset;!",
 	  "Want to tussle with the ^orange;<gangName>^reset;? Ye'll be regrettin' this!",
-	  "Show me Peacekeeper! Show me 'ow stron' ye really are!"
+	  "Show me Peacekeeper! Show me how stron' ye really are!"
       ]
     }
   },
@@ -21,11 +21,11 @@
 	  "default": [
       "Ye're not throwin' me to jail without a fight!",
       "Show me what ye've got!",
-      "I'll be clea'in the lon' arm o' the law, right 'ere and then!",
+      "I'll be crushin' the lon' arm o' the law, right here and then!",
       "Ye're goin' to regret, that ye've messed with the ^orange;<gangName>^reset;!",
       "We ain't ordinary bandits! We're the ^orange;<gangName>^reset;!",
 	  "Want to tussle with the ^orange;<gangName>^reset;? Ye'll be regrettin' this!",
-	  "Show me Peacekeeper! Show me 'ow stron' ye really are!"
+	  "Show me Peacekeeper! Show me how stron' ye really are!"
       ]
     }
   },
@@ -36,12 +36,12 @@
 	  "default": [
       "Ye're not goin' to be takin' me alive!",
       "Ye should've thought twice, before tryin' to catch me!",
-      "We'll be seein' 'ow well o' a fighter ye are!",
+      "We'll be seein' how well o' a fighter ye are!",
       "I've been fightin' for years! No Peacekeeper's goin' to take me down that easily!",
-      "Ye're ne'er goin' to take the ^orange;<gangName>^reset; down!",
-	  "It's not goin' to be easy to catch ME, a member o ' the ^orange;<gangName>^reset;!",
+      "Ye're never goin' to take the ^orange;<gangName>^reset; down!",
+	  "It's not goin' to be easy to catch ME, a member o' the ^orange;<gangName>^reset;!",
 	  "For the ^orange;<gangName>^reset;!",
-	  "Let's dance, ye wannabe 'ero!"
+	  "Let's dance, ye wannabe hero!"
       ]
     }
   },
@@ -52,12 +52,12 @@
 	  "default": [
       "Ye're not goin' to be takin' me alive!",
       "Ye should've thought twice, before tryin' to catch me!",
-      "We'll be seein' 'ow well o' a fighter ye are!",
+      "We'll be seein' how well o' a fighter ye are!",
       "I've been fightin' for years! No Peacekeeper's goin' to take me down that easily!",
-      "Ye're ne'er goin' to take the ^orange;<gangName>^reset; down!",
-	  "It's not goin' to be easy to catch ME, a member o ' the ^orange;<gangName>^reset;!",
+      "Ye're never goin' to take the ^orange;<gangName>^reset; down!",
+	  "It's not goin' to be easy to catch ME, a member o' the ^orange;<gangName>^reset;!",
 	  "For the ^orange;<gangName>^reset;!",
-	  "Let's dance, ye wannabe 'ero!"
+	  "Let's dance, ye wannabe hero!"
       ]
     }
   },
@@ -72,13 +72,13 @@
       "Got to be admittin', ye're tougher than I thought.",
       "That could've gone WAY better...",
 	  "At least, I wasn't goin' down without a fight.",
-	  "What're ye thinkin' about a best-o'-three, eh? Five? Is that a no?",
-	  "Wait! I've got somethin' to of- AH, NO! I forgot the loot in me other pants!",
-	  "My day's been fine, until ye peacekeepin' blaggard came in 'ere and ruined it!",
+	  "What're ye thinkin' about a best-o'-three, eh? Five?...\nIs that a 'no'?",
+	  "Wait! I've got somethin' to of- GAH, NO! I forgot the loot in me other pants!",
+	  "My day's been fine, until ye peacekeepin' blaggard came in here and ruined it!",
 	  "This's all just a big misunderstandin'! I didn't do nothin'!",
-	  "These 'andcuffs ain't me size! Get 'em off, NOW!",
-	  "What?! The fight's o'er already?",
-	  "I can still beat yer 'ead in with me 'ands cuffed! Come 'ere!"
+	  "These handcuffs ain't me size! Get 'em off, NOW!",
+	  "What?! The fight's over already?",
+	  "I can still beat yer head in with me hands cuffed! Come here!"
       ]
     }
   },
@@ -93,13 +93,13 @@
       "Got to be admittin', ye're tougher than I thought.",
       "That could've gone WAY better...",
 	  "At least, I wasn't goin' down without a fight.",
-	  "What're ye thinkin' about a best-o'-three, eh? Five? Is that a no?",
-	  "Wait! I've got somethin' to of- AH, NO! I forgot the loot in me other pants!",
-	  "My day's been fine, until ye peacekeepin' blaggard came in 'ere and ruined it!",
+	  "What're ye thinkin' about a best-o'-three, eh? Five?...\nIs that a 'no'?",
+	  "Wait! I've got somethin' to of- GAH, NO! I forgot the loot in me other pants!",
+	  "My day's been fine, until ye peacekeepin' blaggard came in here and ruined it!",
 	  "This's all just a big misunderstandin'! I didn't do nothin'!",
-	  "These 'andcuffs ain't me size! Get 'em off, NOW!",
-	  "What?! The fight's o'er already?",
-	  "I can still beat yer 'ead in with me 'ands cuffed! Come 'ere!"
+	  "OW! These cuffs're WAY below me size! Get 'em off, NOW!",
+	  "What?! The fight's over already?",
+	  "I can still beat yer head in with me hands cuffed! Come here!"
       ]
     }
   },
@@ -109,13 +109,13 @@
 	"value": {
 	  "default": [
       "Should've been stayin' with that guard post...",
-      "Someone's 'ad to catch me one day or another...",
-      "So, this's what defeat's feelin' like... I'M 'ATIN' IT!",
-      "Peacekeepers be damned! We could've done SO MUCH without ye lot!",
-      "I'm not regrettin' anythin'! Ye 'ear?",
+      "Someone's had to catch me one day or another...",
+      "So, this's what defeat's feelin' like...\nI'M HATIN' IT!",
+      "Peacekeepers be damned! We could've done so MUCH without ye lot!",
+      "I'm not regrettin' anythin'! Ye hear?",
 	  "So much for bein' a member o' the ^orange;<gangName>^reset;!",
-	  "And no reinforcements! The ^orange;<gangName>^reset; 'ave let me down!",
-	  "Ye're goin' to be sorry, if we're e'er crossin' paths again!",
+	  "And no reinforcements! The ^orange;<gangName>^reset; have let me down!",
+	  "Ye're goin' to be sorry, if we're ever crossin' paths again!",
 	  "I've been dreadin' this day...",
 	  "Ye're a better fighter than me... So be it, then."
       ]
@@ -127,13 +127,13 @@
 	"value": {
 	  "default": [
       "Should've been stayin' with that guard post...",
-      "Someone's 'ad to catch me one day or 'nother...",
-      "So, this's what defeat's feelin' like... I'M 'ATIN' IT!",
-      "Peacekeepers be damned! We could've done SO MUCH without ye lot!",
-      "I'm not regrettin' anythin'! Ye 'ear?",
+      "Someone's had to catch me one day or another...",
+      "So, this's what defeat's feelin' like...\nI'M HATIN' IT!",
+      "Peacekeepers be damned! We could've done so MUCH without ye lot!",
+      "I'm not regrettin' anythin'! Ye hear?",
 	  "So much for bein' a member o' the ^orange;<gangName>^reset;!",
-	  "And no reinforcements! The ^orange;<gangName>^reset; 'ave let me down!",
-	  "Ye're goin' to be sorry, if we're e'er crossin' paths again!",
+	  "And no reinforcements! The ^orange;<gangName>^reset; have let me down!",
+	  "Ye're goin' to be sorry, if we're ever crossin' paths again!",
 	  "I've been dreadin' this day...",
 	  "Ye're a better fighter than me... So be it, then."
       ]
@@ -144,9 +144,9 @@
     "path": "/reattack/northdragnar",
 	"value": {
 	  "default": [
-      "Come back 'ere for me, 'ave ya?",
+      "Come back here for me, have ya?",
       "I thought, that ye've tucked yer tail in already!",
-      "Ye should've kept runnin' away!",
+      "Ye should've kept runnin'!",
       "Ye're not goin' to be catchin' me this time either!"
       ]
     }
@@ -156,9 +156,9 @@
     "path": "/reattack/bignorthdragnar",
 	"value": {
 	  "default": [
-      "Come back 'ere for me, 'ave ya?",
+      "Come back here for me, have ya?",
       "I thought, that ye've tucked yer tail in already!",
-      "Ye should've kept runnin' away!",
+      "Ye should've kept runnin'!",
       "Ye're not goin' to be catchin' me this time either!"
       ]
     }
@@ -169,9 +169,9 @@
 	"value": {
 	  "default": [
       "HA! Ye're not goin' to lock ME up!",
-      "The ^orange;<gangName>^reset; ain't gi'in in today!",
+      "The ^orange;<gangName>^reset; ain't givin in today!",
       "'Nother win for the ^orange;<gangName>^reset;, 'nother win for ME!",
-      "The fight's o'er already? Ye've got to be doin' MUCH better than that!"
+      "The fight's over already? Ye've got to be doin' MUCH better than that!"
       ]
     }
   },
@@ -181,9 +181,9 @@
 	"value": {
 	  "default": [
       "HA! Ye're not goin' to lock ME up!",
-      "The ^orange;<gangName>^reset; ain't gi'in in today!",
+      "The ^orange;<gangName>^reset; ain't givin in today!",
       "'Nother win for the ^orange;<gangName>^reset;, 'nother win for ME!",
-      "The fight's o'er already? Ye've got to be doin' MUCH better than that!"
+      "The fight's over already? Ye've got to be doin' MUCH better than that!"
       ]
     }
   },
@@ -192,11 +192,11 @@
     "path": "/lostTarget/northdragnar",
 	"value": {
 	  "default": [
-      "Was I really that fierce-lookin'? That's fine with me!",
-      "Gi'in up and runnin' away, are ya? So much for bein' a Peacekeeper!",
+      "Was I really that fierce-lookin'? Fine with me!",
+      "Givin up and runnin' away, are ya? So much for bein' a Peacekeeper!",
       "Ohoho! Run, ye cowardin' Peacekeeper! Run!",
       "Gone? What a damn coward...",
-	  "They've got to be around 'ere somewhere..."
+	  "They've got to be around here somewhere..."
       ]
     }
   },
@@ -205,11 +205,11 @@
     "path": "/lostTarget/bignorthdragnar",
 	"value": {
 	  "default": [
-      "Was I really that fierce-lookin'? That's fine with me!",
-      "Gi'in up and runnin' away, are ya? So much for bein' a Peacekeeper!",
-      "Ohoho! Run, ye cowardin' Peacekeeper! Run!",
+      "Was I really that fierce-lookin'? Fine with me!",
+      "Givin up and runnin' away, are ya? So much for bein' a Peacekeeper!",
+      "Ohoho! Run, ye cowardin' little Peacekeeper! Run!",
       "Gone? What a damn coward...",
-	  "They've got to be around 'ere somewhere..."
+	  "They've got to be around here somewhere..."
       ]
     }
   }

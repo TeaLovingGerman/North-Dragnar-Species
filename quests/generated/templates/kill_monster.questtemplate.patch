@@ -1,0 +1,66 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/first/northdragnar",
+    "value": [
+            "We're goin' to be needin' ^orange;<items>^white;, first o' all. Tough luck, some ^orange;<monster>^white; jumped me near ^orange;<spawnPoint>^white;<spawnPoint.direction> and swallowed the damn ^orange;<items>^white; I just found whole! ^green;Ye'll have to be seperatin the ^orange;<items>^green; and the ^orange;<monster>^green; from each other, by huntin' it down.",
+			"We'll be needin' ^orange;<items>^white; first. I'd have it right with me, if it weren't for that sneaky ^orange;<monster>^white; that ambushed me at ^orange;<spawnPoint>^white;<spawnPoint.direction>. I must've dropped the ^orange;<items>^white; somewhere near there. ^green;Ye're probably goin' to have to be dealin' with that ^orange;<monster>^green; too."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "value": [
+            "I'm hopin' that ye're in the mood for huntin', because some ^orange;<monster>^white; decided it'd be a good idea to ambush me and take the ^orange;<items>^white; with it! ^green;Try searchin' for the ^orange;<monster>^green; near ^orange;<spawnPoint>^green;<spawnPoint.direction> and get the stuff it stole back to me.",
+			"Now it's time to be dustin' off yer huntin' gear. Ye see, ^orange;<monster>^white; took the ^orange;<items>^white; while I wasn't lookin'. ^green;Ye're goin' to need to hunt it where it was last seen, and that'd be near ^orange;<spawnPoint>^green;<spawnPoint.direction>. Good huntin'!" 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/first/northdragnar",
+    "value": [
+            "Aha! Ye've showed that beast who's the better hunter! And ye got the <items> back in one piece for the next step.",
+			"Good work there, ye beast hunter! Ye're inspirin' me to go huntin' meself, but I'm goin' to be focusin' on me plan for now."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
+    "value": [
+            "Did that <monster> put up a good fight? Whatever the case, ye got the <item> back for me, and that's what's countin'! Ta, mate!",
+			"I s'pose ye beat that <monster> monster in battle and took that <item> out o' its... Guts, I believe. Bah, I'll clean it later. Thanks, I hope ye'll be makin' good use o' that beast's remains." 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/first/bignorthdragnar",
+    "value": [
+            "We're goin' to be needin' ^orange;<items>^white;, first o' all. Tough luck, some ^orange;<monster>^white; jumped me near ^orange;<spawnPoint>^white;<spawnPoint.direction> and swallowed the damn ^orange;<items>^white; I just found whole! ^green;Ye'll have to be seperatin the ^orange;<items>^green; and the ^orange;<monster>^green; from each other, by huntin' it down.",
+			"We'll be needin' ^orange;<items>^white; first. I'd have it right with me, if it weren't for that sneaky ^orange;<monster>^white; that ambushed me at ^orange;<spawnPoint>^white;<spawnPoint.direction>. I must've dropped the ^orange;<items>^white; somewhere near there. ^green;Ye're probably goin' to have to be dealin' with that ^orange;<monster>^green; too."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
+    "value": [
+            "I'm hopin' that ye're in the mood for huntin', because some ^orange;<monster>^white; decided it'd be a good idea to ambush me and take the ^orange;<items>^white; with it! ^green;Try searchin' for the ^orange;<monster>^green; near ^orange;<spawnPoint>^green;<spawnPoint.direction> and get the stuff it stole back to me.",
+			"Now it's time to be dustin' off yer huntin' gear. Ye see, ^orange;<monster>^white; took the ^orange;<items>^white; while I wasn't lookin'. ^green;Ye're goin' to need to hunt it where it was last seen, and that'd be near ^orange;<spawnPoint>^green;<spawnPoint.direction>. Good huntin'!" 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/first/bignorthdragnar",
+    "value": [
+            "Aha! Ye've showed that beast who's the better hunter! And ye got the <items> back in one piece for the next step.",
+			"Good work there, ye beast hunter! Ye're inspirin' me to go huntin' meself, but I'm goin' to be focusin' on me plan for now."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
+    "value": [
+            "Did that <monster> put up a good fight? Whatever the case, ye got the <item> back for me, and that's what's countin'! Ta, mate!",
+			"I s'pose ye beat that <monster> monster in battle and took that <item> out o' its... Guts, I believe. Bah, I'll clean it later. Thanks, I hope ye'll be makin' good use o' that beast's remains." 
+    ]
+  }
+]

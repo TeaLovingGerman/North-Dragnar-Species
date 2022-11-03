@@ -1,0 +1,66 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/first/northdragnar",
+    "value": [
+            "First thin's first, we're goin' to need the grown ^orange;<cropList>^white; from these seeds. ^green;Simply plant the seeds, watch 'em grow and take the fresh crops!^white; Oh, ^green;ye have to take proper care o' 'em^white;, but I wouldn't be knowin' what to do. I ain't a good gardener.",
+			"We'll be needin' some crops for our next part. Specifically speakin': We need ^orange;<cropList>^white;. ^green;Please plant these seeds and harvest 'em, once their fully grown. ^white;I wouldn't be askin' ye, if I'd be able to do it meself, really."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/first/bignorthdragnar",
+    "value": [
+            "First thin's first, we're goin' to need the grown ^orange;<cropList>^white; from these seeds. ^green;Simply plant the seeds, watch 'em grow and take the fresh crops!^white; Oh, ^green;ye have to take proper care o' 'em^white;, but I wouldn't be knowin' what to do. I ain't a good gardener.",
+			"We'll be needin' some crops for our next part. Specifically speakin': We need ^orange;<cropList>^white;. ^green;Please plant these seeds and harvest 'em, once their fully grown. ^white;I wouldn't be askin' ye, if I'd be able to do it meself, really."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "value": [
+            "I'm 'opin' that ye've got a green thumb, because we'll be needin' ^orange;<cropList>^white;. Here, ^green;plant these seeds in a good spot and harvest the crops, once they're ripe for the pickin'.",
+			"Now it's time to get yer hands a bit dirty! We're goin' to need ^orange;<cropList>^white; for this plan. ^green;Plant these seeds here in some fertile ground, water 'em and harvest the ripe crops. ^white;Sounds simple, sure, but I couldn't even take proper care o' a single flower, so I'm not trustin' meself with somethin' like farmin'."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
+    "value": [
+            "I'm 'opin' that ye've got a green thumb, because we'll be needin' ^orange;<cropList>^white;. Here, ^green;plant these seeds in a good spot and harvest the crops, once they're ripe for the pickin'.",
+			"Now it's time to get yer hands a bit dirty! We're goin' to need ^orange;<cropList>^white; for this plan. ^green;Plant these seeds here in some fertile ground, water 'em and harvest the ripe crops. ^white;Sounds simple, sure, but I couldn't even take proper care o' a single flower, so I'm not trustin' meself with somethin' like farmin'."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/first/northdragnar",
+    "value": [
+            "Lookin' like ye've done some good work with those seeds! The produce's goin' to be o' good use later on.",
+			"Ye've got a real hand for this farmin' deal! Well, we're goin' to put yer work here to good use."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/first/bignorthdragnar",
+    "value": [
+            "Lookin' like ye've done some good work with those seeds! The produce's goin' to be o' good use later on.",
+			"Ye've got a real hand for this farmin' deal! Well, we're goin' to put yer work here to good use."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
+    "value": [
+            "Yer thumb's sure greener than mine! Thank ye! Yer harvest's goin' to serve me well later.",
+			"I couldn't have been tendin' these crops better meself! Ye've got me thanks, for lendin' me yer green thumb!"
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
+    "value": [
+            "Yer thumb's sure greener than mine! Thank ye! Yer harvest's goin' to serve me well later.",
+			"I couldn't have been tendin' these crops better meself! Ye've got me thanks, for lendin' me yer green thumb!"
+    ]
+  }
+]

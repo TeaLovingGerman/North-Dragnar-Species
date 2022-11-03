@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "chestarmour",
-  "description" : "The violium-reinforced plates and violium scales offer a great choice for those prefer a more defensive approach.",
+  "description" : "The violium-reinforced plates and violium scales offer great protection for those who prefer a more defensive approach.",
   "shortdescription" : "Defender's Chestpiece",
   "tooltipKind" : "armor",
   "maleFrames" : {

@@ -1,0 +1,50 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/northdragnar",
+    "value": [
+            "^cyan;I'm plannin' on broadenin' me shop's stock a little. Would ye mind helpin' me out?",
+			"^cyan;Could ye help me out with expandin' the range o' goods for me shop?"
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "value": [
+            "I've recently heard, that ^orange;<target>^white;, a travellin' merchant, has just arrived here and's restin' at ^orange;<spawnPoint>^white;<spawnPoint.direction>. Lucky for me, they've got just what I'm needin', and they'd be willin' to part with some o' their stock in eschange for me ^orange;<tradedItems>^white;. ^green;Brin' the ^orange;<tradedItems>^green; to ^orange;<target>^green;, then return the goods they'll be givin' ya back to me.",
+			"I got word, that ^orange;<target>^white;, a fellow travellin' merchant, is currently near ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;I need ya to carry this ^orange;<tradedItems>^green; from me stock over to ^orange;<target>^green; and deliver their goods back to me." 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
+    "value": [
+            "Me stock's now richer in <newItem>! <target> and ye've been good business partners in this trade!",
+			"Ta! These <newItem>'re a good new addition to me shop's stock! Me customers'll be pleased."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/bignorthdragnar",
+    "value": [
+            "^cyan;I'm plannin' on broadenin' me shop's stock a little. Would ye mind helpin' me out?",
+			"^cyan;Could ye help me out with expandin' the range o' goods for me shop?"
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
+    "value": [
+            "I've recently heard, that ^orange;<target>^white;, a travellin' merchant, has just arrived here and's restin' at ^orange;<spawnPoint>^white;<spawnPoint.direction>. Lucky for me, they've got just what I'm needin', and they'd be willin' to part with some o' their stock in eschange for me ^orange;<tradedItems>^white;. ^green;Brin' the ^orange;<tradedItems>^green; to ^orange;<target>^green;, then return the goods they'll be givin' ya back to me.",
+			"I got word, that ^orange;<target>^white;, a fellow travellin' merchant, is currently near ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;I need ya to carry this ^orange;<tradedItems>^green; from me stock over to ^orange;<target>^green; and deliver their goods back to me." 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
+    "value": [
+            "Me stock's now richer in <newItem>! <target> and ye've been good business partners in this trade!",
+			"Ta! These <newItem>'re a good new addition to me shop's stock! Me customers'll be pleased."
+    ]
+  }
+]

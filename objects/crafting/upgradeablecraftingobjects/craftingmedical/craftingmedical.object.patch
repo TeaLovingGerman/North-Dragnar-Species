@@ -1,6 +1,6 @@
-[{"op":"add","path":"/northdragnarDescription","value":"This apothecary should be 'elpin' me with creatin' anythin' related to medicines."},
-{"op":"add","path":"/northdragnarDescription","value":"This apothecary should be 'elpin' me with creatin' anythin' related to medicines."},
-{"op":"add","path":"/upgradeStages/0/itemSpawnParameters/northdragnarDescription","value":"This apothecary should be 'elpin' me with creatin' anythin' related to medicines."},
-{"op":"add","path":"/upgradeStages/0/itemSpawnParameters/bignorthdragnarDescription","value":"This apothecary should be 'elpin' me with creatin' anythin' related to medicines."},
+[{"op":"add","path":"/northdragnarDescription","value":"This apothecary should be helpin' me with creatin' anythin' related to medicines."},
+{"op":"add","path":"/bignorthdragnarDescription","value":"This apothecary should be helpin' me with creatin' anythin' related to medicines."},
+{"op":"add","path":"/upgradeStages/0/itemSpawnParameters/northdragnarDescription","value":"This apothecary should be helpin' me with creatin' anythin' related to medicines."},
+{"op":"add","path":"/upgradeStages/0/itemSpawnParameters/bignorthdragnarDescription","value":"This apothecary should be helpin' me with creatin' anythin' related to medicines."},
 {"op":"add","path":"/upgradeStages/1/itemSpawnParameters/northdragnarDescription","value":"A modern medical station. When simple bandages and salves just ain't enough!"},
 {"op":"add","path":"/upgradeStages/1/itemSpawnParameters/bignorthdragnarDescription","value":"A modern medical station. When simple bandages and salves just ain't enough!"}]

@@ -1,0 +1,66 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/first/northdragnar",
+    "value": [
+            "Yer first task'll be to ^green;''borrow'' the ^orange;<objectItem>^green; from ^orange;<victim>^green;'s house^white;, since they ain't givin' it up willin'ly. Trust me, we're needin' that ^orange;<objectItem>^white;.",
+			"I hope ye're not afraid o' some dirty work, because we're goin' to need a ^orange;<objectItem>^white; from^orange;<victim>^white;. Thin' is, they're not willin' to part with, so ye'll have to ^green;sneak into ^orange;<victim>^green;'s stead and brin' the ^orange;<objectItem>^green; over to me."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "value": [
+            "We're goin' to need one ^orange;<objectItem>^white; just like the one ^orange;<victim>^white; got in their home. By that I'm meanin', we need just THE ^orange;<objectItem>^white; from ^orange;<objectItem>^white;. They're as stubborn as a capricoat, so ye'll have to ^green;take the ^orange;<objectItem>^green; yerself from ^orange;<victim>^^green;'s own home.",
+			"For the plan to be workin' properly, ye'll have to ^green;take the ^orange;<objectItem>^green; from ^orange;<victim>^green;'s home in a not-so-honourable fashion. ^white;Believe me, I tried gettin' it in with any honest way I thought o', but ^orange;<victim>^white;'s refusin' to let me borrow the damned ^orange;<objectItem>^white;!" 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/first/northdragnar",
+    "value": [
+            "Keep that thin' in yer pocket! Ye don't want anyone else seein' us with <victim>'s <objectItem>, do ya? Hold on to it for now.",
+			"Looks like ye've got a hold o' <objectItem>! No need for showin' it off. Keep it for later." 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
+    "value": [
+            "This thin's in a good condition for a <objectItem>. Ye better keep it hidden until we make use o' it later on!",
+			"Ye're not bein' escorted by any guards, so I'm assumin', that ye managed to keep yerself undetected. Well done!"
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/first/bignorthdragnar",
+    "value": [
+            "Yer first task'll be to ^green;''borrow'' the ^orange;<objectItem>^green; from ^orange;<victim>^green;'s house^white;, since they ain't givin' it up willin'ly. Trust me, we're needin' that ^orange;<objectItem>^white;.",
+			"I hope ye're not afraid o' some dirty work, because we're goin' to need a ^orange;<objectItem>^white; from^orange;<victim>^white;. Thin' is, they're not willin' to part with it, so ye'll have to ^green;sneak into ^orange;<victim>^green;'s stead and brin' the ^orange;<objectItem>^green; over to me."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
+    "value": [
+            "We're goin' to need one ^orange;<objectItem>^white; just like the one ^orange;<victim>^white; got in their home. By that I'm meanin', we need just THE ^orange;<objectItem>^white; from ^orange;<objectItem>^white;. They're as stubborn as a capricoat, so ye'll have to ^green;take the ^orange;<objectItem>^green; yerself from ^orange;<victim>^^green;'s own home.",
+			"For the plan to be workin' properly, ye'll have to ^green;take the ^orange;<objectItem>^green; from ^orange;<victim>^green;'s home in a not-so-honourable fashion. ^white;Believe me, I tried gettin' it in with any honest way I thought o', but ^orange;<victim>^white;'s refusin' to let me borrow the damned ^orange;<objectItem>^white;!" 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/first/bignorthdragnar",
+    "value": [
+            "Keep that thin' in yer pocket! Ye don't want anyone else seein' us with <victim>'s <objectItem>, do ya? Hold on to it for now.",
+			"Looks like ye've got a hold o' <objectItem>! No need for showin' it off. Keep it for later." 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
+    "value": [
+            "This thin's in a good condition for a <objectItem>. Ye better keep it hidden until we make use o' it later on!",
+			"Ye're not bein' escorted by any guards, so I'm assumin', that ye managed to keep yerself undetected. Well done!"
+    ]
+  }
+]

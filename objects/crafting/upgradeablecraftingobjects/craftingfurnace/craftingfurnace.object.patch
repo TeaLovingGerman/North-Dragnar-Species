@@ -4,5 +4,5 @@
 {"op":"add","path":"/upgradeStages/0/itemSpawnParameters/bignorthdragnarDescription","value":"This furnace's able to be smeltin' down most basic ores."},
 {"op":"add","path":"/upgradeStages/1/itemSpawnParameters/northdragnarDescription","value":"This industrial furnace's made for smeltin' titanium bars and other, stron'er alloys."},
 {"op":"add","path":"/upgradeStages/1/itemSpawnParameters/bignorthdragnarDescription","value":"This industrial furnace's made for smeltin' titanium bars and other, stron'er alloys."},
-{"op":"add","path":"/upgradeStages/2/itemSpawnParameters/northdragnarDescription","value":"An ad'anced atomic furnace. This one can be creatin very powerful alloys like ferozium and the likes!"},
-{"op":"add","path":"/upgradeStages/2/itemSpawnParameters/bignorthdragnarDescription","value":"An ad'anced atomic furnace. This one can be creatin very powerful alloys like ferozium and the likes!"}]
+{"op":"add","path":"/upgradeStages/2/itemSpawnParameters/northdragnarDescription","value":"An advanced atomic furnace. This one can be creatin' very powerful alloys such as ferozium and the likes!"},
+{"op":"add","path":"/upgradeStages/2/itemSpawnParameters/bignorthdragnarDescription","value":"An advanced atomic furnace. This one can be creatin' very powerful alloys such as ferozium and the likes!"}]

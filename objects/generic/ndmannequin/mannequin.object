@@ -17,8 +17,8 @@
   "humanDescription" : "I bet, someone could mistake this mannequin with an actual North-Dragnar from far away.",
   "hylotlDescription" : "One could interpret this mannequin as a manifestation of the North-Dragnarian people's obstinate nature.",
   "novakidDescription" : "Just as hardy-lookin' as the folks that carved it.",
-  "northdragnarDescription" : "This fella's got just the right shape to be 'oldin me kin's clothes and armour.",
-  "bignorthdragnarDescription" : "This fella's got just the right shape to be 'oldin me kin's clothes and armour. A bit below me size, though",
+  "northdragnarDescription" : "This fella's got just the right shape to be holdin' me kin's clothes and armour.",
+  "bignorthdragnarDescription" : "This fella's got just the right shape to be holdin' me kin's clothes and armour. A bit below me size, though",
 
   "inventoryIcon" : "mannequinicon.png",
   "orientations" : [

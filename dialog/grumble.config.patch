@@ -24,8 +24,8 @@
     "path" : "/enclosedArea/northdragnar",
     "value" : {  
       "default" : [  
-        "I'm thinkin', that there might be a leak or two 'ere.",
-		"This's feelin' as comfortable as a leakin' ship on the sea..."
+        "I'm thinkin', that there might be a leak or two here.",
+		"This's feelin' about as comfortable as a leakin' ship on the sea..."
       ]
     }
   },
@@ -34,8 +34,8 @@
     "path" : "/enclosedArea/bignorthdragnar",
     "value" : {  
       "default" : [  
-        "I'm thinkin', that there might be a leak or two 'ere.",
-		"This's feelin' as comfortable as a leakin' ship on the sea..."
+        "I'm thinkin', that there might be a leak or two here.",
+		"This's feelin' about as comfortable as a leakin' ship on the sea..."
       ]
     }
   },
@@ -46,7 +46,7 @@
       "default" : [  
         "Got nothin' against sharin', but I do need some place for meself too.",
         "What's that other deed there for?",
-		"Can't I 'ave a room for meself for once?"
+		"Can't I have a room for meself for once?"
       ]
     }
   },
@@ -57,7 +57,7 @@
       "default" : [  
         "Got nothin' against sharin', but I do need some place for meself too.",
         "What's that other deed there for?",
-		"Can't I 'ave a room for meself for once?"
+		"Can't I have a room for meself for once?"
       ]
     }
   },
@@ -68,7 +68,7 @@
       "default" : [  
         "I might abandon ship, if ye don't plan on fixin' this.",
         "This really ain't lookin' good. Would ye mind fixin' this?",
-		"We do 'ave openin's for airin' our 'omes, but this's just too much."
+		"We do have openin's for airin' our homes, but this's just too much."
       ]
     }
   },
@@ -79,7 +79,7 @@
       "default" : [  
         "I might abandon ship, if ye don't plan on fixin' this.",
         "This really ain't lookin' good. Would ye mind fixin' this?",
-		"We do 'ave openin's for airin' our 'omes, but this's just too much."
+		"We do have openin's for airin' our homes, but this's just too much."
       ]
     }
   },
@@ -88,10 +88,10 @@
     "path" : "/final/northdragnar",
     "value" : {  
       "default" : [  
-        "I can only take so much nonesense. I'm lea'in'!",
-        "I'd rather be on a sinkin' ship than 'ere! Speakin' o'...",
-		"I've 'ad enough! I'm abandonin' ship!",
-		"This place be damned! I'm lea'in'!"
+        "I can only be takin' so much nonesense. I'm leavin'!",
+        "I'd rather be on a sinkin' ship than here! Speakin' o'...",
+		"I've had enough! I'm abandonin' ship!",
+		"This place be damned! I'm leavin'!"
       ]
     }
   },
@@ -100,10 +100,10 @@
     "path" : "/final/bignorthdragnar",
     "value" : {  
       "default" : [  
-        "I can only take so much nonesense. I'm lea'in'!",
-        "I'd rather be on a sinkin' ship than 'ere! Speakin' o'...",
-		"I've 'ad enough! I'm abandonin' ship!",
-		"This place be damned! I'm lea'in'!"
+        "I can only be takin' so much nonesense. I'm leavin'!",
+        "I'd rather be on a sinkin' ship than here! Speakin' o'...",
+		"I've had enough! I'm abandonin' ship!",
+		"This place be damned! I'm leavin'!"
       ]
     }
   }

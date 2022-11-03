@@ -11,16 +11,16 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/text/northdragnar",
     "value": [
-            "Ye've got the ^orange;<object> ^white; with ya! ^green;Would ye be mindin' to place it down in me 'ome?",
-            "Since ye went through the trouble o' gettin' the ^orange;<object> ^white;, ^green;I'm lea'in' the choice, on where to be puttin' it in me 'ome, for yerself!"
+            "Ye've got the ^orange;<object> ^white; with ya! ^green;Would ye be mindin' to place it down in me home?",
+            "Since ye went through the trouble o' gettin' the ^orange;<object> ^white;, ^green;I'm leavin' the choice, on where to be puttin' it in me home, for yerself!"
     ]
     },
   { 
 	"op": "add",
     "path": "/scriptConfig/generatedText/completionText/northdragnar",
     "value": [
-            "Lookin' more 'omely already! Thank ye for 'elpin' me with decoratin' the place!",
-            "Just as I've been imaginin' it! Ye've done me and me 'ome a bi' fafour!"
+            "Lookin' more homely already! Thank ye for helpin' me with decoratin' the place!",
+            "Just as I've been imaginin' it! Ye've done me and me home a big favour!"
     ]
     },
   { 
@@ -35,16 +35,16 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/text/bignorthdragnar",
     "value": [
-            "Ye've got the ^orange;<object> ^white; with ya! ^green;Would ye be mindin' to place it down in me 'ome?",
-            "Since ye went through the trouble o' gettin' the ^orange;<object> ^white;, ^green;I'm lea'in' the choice, on where to be puttin' it in me 'ome, for yerself!"
+            "Ye've got the ^orange;<object> ^white; with ya! ^green;Would ye be mindin' to place it down in me home?",
+            "Since ye went through the trouble o' gettin' the ^orange;<object> ^white;, ^green;I'm leavin' the choice, on where to be puttin' it in me home, for yerself!"
     ]
     },
   { 
 	"op": "add",
     "path": "/scriptConfig/generatedText/completionText/bignorthdragnar",
     "value": [
-            "Lookin' more 'omely already! Thank ye for 'elpin' me with decoratin' the place!",
-            "Just as I've been imaginin' it! Ye've done me and me 'ome a bi' fafour!"
+            "Lookin' more homely already! Thank ye for helpin' me with decoratin' the place!",
+            "Just as I've been imaginin' it! Ye've done me and me home a big favour!"
     ]
     }
 ]

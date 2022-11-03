@@ -1,2 +1,2 @@
-[{"op":"add","path":"/northdragnarDescription","value":"There's a proximity sensor 'ere."},
-{"op":"add","path":"/bignorthdragnarDescription","value":"There's a proximity sensor 'ere."}]
+[{"op":"add","path":"/northdragnarDescription","value":"There's a proximity sensor here."},
+{"op":"add","path":"/bignorthdragnarDescription","value":"There's a proximity sensor here."}]

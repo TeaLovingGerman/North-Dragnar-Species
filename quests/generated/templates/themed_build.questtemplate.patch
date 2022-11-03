@@ -1,0 +1,50 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/northdragnar",
+    "value": [
+            "^cyan;How about makin' this place a little more lively?",
+			"^cyan;This place could be doin' with a new neighbour. I've got somethin' planned."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "value": [
+            "We could use some more <tag>-type around here. Would ye mind ^green; placin' ^orange;3^green; <tag>^green; in an enlcosed space. Oh, and o' course ^green;a ^orange;Colony Deed^green; a ^orange;light, and a door!",
+			"All ye'd have to be doin', for a <tag> tenant to move in, would be ^green; placin' ^orange;3^green; <tag>^green; a ^orange;Colony Deed^green; a ^orange;light, and a door in a closed space." 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
+    "value": [
+            "It's lookin' like our new neighbour's likin' the place ye built! Great work there!",
+			"It's good to be seein' a new face around here! Let's hope, that they've got no problems with settlin' here." 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/bignorthdragnar",
+    "value": [
+            "^cyan;How about makin' this place a little more lively?",
+			"^cyan;This place could be doin' with a new neighbour. I've got somethin' planned."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
+    "value": [
+            "We could use some more <tag>-type around here. Would ye mind ^green; placin' ^orange;3^green; <tag>^green; in an enlcosed space. Oh, and o' course ^green;a ^orange;Colony Deed^green; a ^orange;light, and a door!",
+			"All ye'd have to be doin', for a <tag> tenant to move in, would be ^green; placin' ^orange;3^green; <tag>^green; a ^orange;Colony Deed^green; a ^orange;light, and a door in a closed space." 
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
+    "value": [
+            "It's lookin' like our new neighbour's likin' the place ye built! Great work there!",
+			"It's good to be seein' a new face around here! Let's hope, that they've got no problems with settlin' here." 
+    ]
+  }
+]

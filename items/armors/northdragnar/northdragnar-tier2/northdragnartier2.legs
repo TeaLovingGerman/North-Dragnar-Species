@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "legarmour",
-  "description" : "A knee-deep chain mail skirt, covering a slightly loose pair of pants. Neither hinder the wearer's movement.",
+  "description" : "A knee-deep chain mail skirt, covering a slightly loose pair of pants. Neither hinder the wearer's movement that much.",
   "shortdescription" : "Escort's Mail Skirt",
   "tooltipKind" : "armor",
   "maleFrames" : "pants.png",

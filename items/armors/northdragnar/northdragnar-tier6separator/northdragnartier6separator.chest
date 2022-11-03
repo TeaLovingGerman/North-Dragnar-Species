@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "chestarmour",
-  "description" : "This reinforced chestplate could take on a capricoat.",
+  "description" : "This heavy suit of armour provides its wearer with a substantial amount of defense and flair.",
   "shortdescription" : "Vindicator Chestplates",
   "tooltipKind" : "armor",
   "maleFrames" : {

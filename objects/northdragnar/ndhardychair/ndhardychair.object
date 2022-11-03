@@ -7,15 +7,15 @@
   "race" : "northdragnar",
   "category" : "furniture",
   "price" : 75,
-  "apexDescription" : "The Miniknog would never allow anyone to sew patterns this introcate. A pleasant sight.",
+  "apexDescription" : "The Miniknog would never allow anyone to sew patterns this intricate. A pleasant sight.",
   "avianDescription" : "Someone put a lot of effort into sewing the wool of this chair together.",
   "floranDescription" : "Ssturdy chair with soft backresst.",
   "glitchDescription" : "Informative. The backrest of this chair is flexible enough to adapt to the back of the one who rests on it.",
   "humanDescription" : "Who'd ever resist, leaning into the soft backrest of this chair? I wouldn't!",
   "hylotlDescription" : "There is a striking contrast between this chair's soft textiles and its robust wood frame.",
   "novakidDescription" : "I ain't never seen a chair with a wool backrest before.",
-  "northdragnarDescription" : "This chair's sportin' a sturdy, but comfortable feelin' backrest.",
-  "bignorthdragnarDescription" : "This chair's sportin' a sturdy, but comfortable feelin' backrest.",
+  "northdragnarDescription" : "This chair's sportin' a sturdy, but comfortable backrest.",
+  "bignorthdragnarDescription" : "This chair's sportin' a sturdy, but comfortable backrest.",
   "inventoryIcon" : "ndhardychairicon.png",
   "orientations" : [
     {

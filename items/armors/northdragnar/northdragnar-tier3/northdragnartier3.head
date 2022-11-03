@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "headarmour",
-  "description" : "A titanium helmet that is commonly entrusted to dutiful North-Dragnarian guards.",
+  "description" : "A titanium helmet, that is commonly entrusted to dutiful North-Dragnarian guards.",
   "shortdescription" : "Guard's Helmet",
   "tooltipKind" : "armor",
   "maleFrames" : "head.png",

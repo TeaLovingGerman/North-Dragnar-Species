@@ -1,0 +1,193 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+		"ndadjective": [
+          "Killer",
+          "Crafty",
+          "Swift",
+          "Silver",
+          "Crackshot",
+          "Bullseye",
+          "Silent",
+          "Calamity",
+          "Sly",
+          "Lightspeed",
+          "Shadowy",
+		  "Cleaver",
+		  "Relentless",
+		  "Crusher",
+		  "Ice-Cold",
+		  "Shifty",
+		  "Smasher"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndcrime": [
+          "<enemy.pronoun.subject> took control o' a <ndcompany> shippin' freighter",
+          "<enemy.pronoun.subject> robbed a <ndcompany> weapon shipment",
+          "<enemy.pronoun.subject> cowardly assassinated a <ndindividual>",
+          "<enemy.pronoun.subject> robbed a <ndindividual> in front o' everyone to see",
+          "<enemy.pronoun.subject> flirted with a <ndindividual>",
+          "<enemy.pronoun.subject> let all the livestock in multiple settlements free",
+          "<enemy.pronoun.subject> stole a planet's worth o' <ndvaluable>",
+          "<enemy.pronoun.subject> threatened a <ndindividual> and made off with all their <ndvaluable>",
+          "<enemy.pronoun.subject> got involved in illegal penguin wrestlin', aye, that's a thin',",
+          "<enemy.pronoun.subject> carried out a robbery and stole loads o' <ndvaluable>",
+          "<enemy.pronoun.subject> failed a muggin' on a <ndindividual>",
+          "<enemy.pronoun.subject> tried to steal an entire damned ocean",
+          "<enemy.pronoun.subject> stole all the produce from a town",
+          "<enemy.pronoun.subject> set up tripwires all over a town",
+          "<enemy.pronoun.subject> flooded an entire city with lava, with ill intent,",
+          "<enemy.pronoun.subject> left immature writin's and pictures on various objects",
+          "<enemy.pronoun.subject> got caught tryin' to smuggle <ndvaluable>",
+          "<enemy.pronoun.subject> botched their raid",
+          "<enemy.pronoun.subject> was backstabbed by a member o' <enemy.pronoun.possessiveDet> gan'",
+          "<enemy.pronoun.possessiveDet> gan' had decided to turn on <enemy.pronoun.object> after a series o' poor leadership decisions",
+		  "<enemy.pronoun.subject> acted as a spy for their gan', but got their cover blown"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndcompany": [
+          "Manaticon",
+          "Rotik",
+          "Callox",
+          "Graxus",
+          "Xia-Li",
+          "Shade Co.",
+          "Necrolix",
+          "Teklacki",
+          "Minikno'",
+		  "Krobkr and Teiri"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndindividual": [
+          "some Glitch royal",
+          "some Glitch princess",
+          "some Glitch prince",
+          "renowned Hylotl poet",
+          "bandit leader",
+          "bandit with powerful connections",
+          "group o' famed travellin' adventurers",
+          "powerful Avian Stargazer",
+          "Floran Greenfin'er",
+          "Minikno' General, no hard feelin's there,",
+		  "high-rankin' member o' the Tower-Shields",
+		  "notorious raider o' the Rinaffin Clan"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndvaluables": [
+          "gold",
+          "silverware",
+          "weapons",
+          "diamonds",
+          "chickens",
+		  "armour",
+		  "way-too-expensive vases",
+		  "garments"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndrequest": [
+            "take 'em out",
+			"serve 'em what they've got comin'",
+			"deal with 'em",
+			"take care o' 'em",
+			"teach 'em a lesson"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndappreciation": [
+            "That's one less scoundrel to be worryin' about!",
+			"<enemy.name> had it comin', after all they've done.",
+			"Thanks for takin' care o' 'em!",
+			"Ye made this place a little safer!"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/default",
+    "value": {
+	  "northdragnar": [
+			"^cyan;Some dangerous crook has decided to hide out on this planet."
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/default",
+    "value": {
+	  "bignorthdragnar": [
+			"^cyan;Some dangerous crook has decided to hide out on this planet."
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default",
+    "value": {
+	  "northdragnar": [
+            "There's a scoundrel on the loose, and they ain't exactly the petty kind. It's ^orange;<ndadjective> <enemy.name> the <enemy>^white;, who's hidin' out by the ^orange;<spawnPoint>^white;<spawnPoint.direction> after they <ndcrime>. ^green;It'd be best to <ndrequest>, before ^orange;<enemy.name> ^green;starts causin' more trouble.",
+			"Some trouble has settled on this planet. That trouble goes by the name o' ^orange;<ndadjective> <enemy.name> the <enemy>^white;. An outlaw who's currently on the run after <ndcrime> and hides near ^orange;<spawnPoint>^white;<spawnPoint.direction> from whoever's givin' chase to 'em. ^green;Could ye <ndrequest> ^green;? ^white;Who knows what ^orange;<enemy.name>^white;'s goin' to do next?."
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default",
+    "value": {
+	  "bignorthdragnar": [
+            "There's a scoundrel on the loose, and they ain't exactly the petty kind. It's ^orange;<ndadjective> <enemy.name> the <enemy>^white;, who's hidin' out by the ^orange;<spawnPoint>^white;<spawnPoint.direction> after they <ndcrime>. ^green;It'd be best to <ndrequest>, before ^orange;<enemy.name> ^green;starts causin' more trouble.",
+			"Some trouble has settled on this planet. That trouble goes by the name o' ^orange;<ndadjective> <enemy.name> the <enemy>^white;. An outlaw who's currently on the run after <ndcrime> and hides near ^orange;<spawnPoint>^white;<spawnPoint.direction> from whoever's givin' chase to 'em. ^green;Could ye <ndrequest> ^green;? ^white;Who knows what ^orange;<enemy.name>^white;'s goin' to do next?."
+ 	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default",
+    "value": {
+	  "northdragnar": [
+            "Ye took care o' that outlaw? <ndappreciation>",
+			"Good to be seein' ya back in one piece! <ndappreciation>"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default",
+    "value": {
+	  "bignorthdragnar": [
+            "Ye took care o' that outlaw? <ndappreciation>",
+			"Good to be seein' ya back in one piece! <ndappreciation>"
+	  ]
+    }
+  }
+]

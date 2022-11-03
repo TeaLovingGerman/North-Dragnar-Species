@@ -4,7 +4,7 @@
 	"path": "/share_secret/pleaseTakeReply/northdragnar",
 	"value": {
 	  "default": [
-		"Could ye take this reply 'ere back to <questGiver> for me?"
+		"Could ye take this reply here back to <questGiver> for me?"
 	  ]
 	}
   },
@@ -13,7 +13,7 @@
 	"path": "/share_secret/pleaseTakeReply/bignorthdragnar",
 	"value": {
 	  "default": [
-		"Could ye take this reply 'ere back to <questGiver> for me?"
+		"Could ye take this reply here back to <questGiver> for me?"
 	  ]
 	}
   },
@@ -22,7 +22,7 @@
 	"path": "/intimidate/intimidated/northdragnar",
 	"value": {
 	  "default": [
-		"A <item>?! 'Old on! Tell <questGiver> that I'll do what they want!",
+		"A <item>?! Hold on! Tell <questGiver> that I'll do what they want!",
 		"Ye didn't need to brin' a <item>! <questGiver> could've just asked me, damnit!",
 		"Ye're kiddin'! A <item>?! I'll do what <questGiver> wants. Just... Put that damned thin' away!"
 	  ]
@@ -33,7 +33,7 @@
 	"path": "/intimidate/intimidated/bignorthdragnar",
 	"value": {
 	  "default": [
-		"A <item>?! 'Old on! Tell <questGiver> that I'll do what they want!",
+		"A <item>?! Hold on! Tell <questGiver> that I'll do what they want!",
 		"Ye didn't need to brin' a <item>! <questGiver> could've just asked me, damnit!",
 		"Ye're kiddin'! A <item>?! I'll do what <questGiver> wants. Just... Put that damned thin' away!"
 	  ]
@@ -107,8 +107,8 @@
 	"path": "/bribe/requestAdditionToHouse/northdragnar",
 	"value": {
 	  "default": [
-		"This'll look good in me 'ome! Would ye mind placin' it 'ere?",
-		"This gift'd be a fine addition to me 'ome. Could ye put in 'ere for me?"
+		"This'll look good in me home! Would ye mind placin' it here?",
+		"This ''gift'' would be a fine addition to me home. Could ye put in here for me?"
 	  ]
 	}
   },
@@ -117,8 +117,8 @@
 	"path": "/bribe/requestAdditionToHouse/bignorthdragnar",
 	"value": {
 	  "default": [
-		"This'll look good in me 'ome! Would ye mind placin' it 'ere?",
-		"This gift'd be a fine addition to me 'ome. Could ye put in 'ere for me?"
+		"This'll look good in me home! Would ye mind placin' it here?",
+		"This ''gift'' would be a fine addition to me home. Could ye put in here for me?"
 	  ]
 	}
   },
@@ -127,8 +127,8 @@
 	"path": "/gift/giftAccepted/northdragnar",
 	"value": {
 	  "default": [
-		"'Ow nice o' <questGiver>! Do thank 'em for me, if ye 'ave the time.",
-		"Now that's a nice-lookin' gift 'ere! Thank <questGiver> for me!"
+		"How nice o' <questGiver>! Do thank 'em for me, if ye have the time.",
+		"Now that's a nice-lookin' gift right here! Thank <questGiver> for me, will ya?"
 	  ]
 	}
   },
@@ -137,8 +137,8 @@
 	"path": "/gift/giftAccepted/bignorthdragnar",
 	"value": {
 	  "default": [
-		"'Ow nice o' <questGiver>! Do thank 'em for me, if ye 'ave the time.",
-		"Now that's a nice-lookin' gift 'ere! Thank <questGiver> for me!"
+		"How nice o' <questGiver>! Do thank 'em for me, if ye have the time.",
+		"Now that's a nice-lookin' gift right here! Thank <questGiver> for me, will ya?"
 	  ]
 	}
   },
@@ -167,8 +167,8 @@
 	"path": "/gift/requestAdditionToHouse/northdragnar",
 	"value": {
 	  "default": [
-		"This'll look good in me 'ome! Would ye mind placin' it 'ere?",
-		"This gift'd be a fine addition to me 'ome. Could ye put in 'ere for me?"
+		"This'll look good in me home! Would ye mind placin' it here?",
+		"This gift'd be a fine addition to me home. Could ye put in here for me?"
 	  ]
 	}
   },
@@ -177,8 +177,8 @@
 	"path": "/gift/requestAdditionToHouse/bignorthdragnar",
 	"value": {
 	  "default": [
-		"This'll look good in me 'ome! Would ye mind placin' it 'ere?",
-		"This gift'd be a fine addition to me 'ome. Could ye put in 'ere for me?"
+		"This'll look good in me home! Would ye mind placin' it here?",
+		"This gift'd be a fine addition to me home. Could ye put in here for me?"
 	  ]
 	}
   },
@@ -188,7 +188,7 @@
 	"value": {
 	  "default": [
 		"The <item>? That ain't stolen! I- Damnit, just take it with ye and leave me be...",
-		"This <item>'s brought me 'nough trouble. Just... Just take it."
+		"This <item>'s brought me enough trouble as is. Just... Just take it already."
 	  ]
 	}
   },
@@ -198,7 +198,7 @@
 	"value": {
 	  "default": [
 		"The <item>? That ain't stolen! I- Damnit, just take it with ye and leave me be...",
-		"This <item>'s brought me 'nough trouble. Just... Just take it."
+		"This <item>'s brought me enough trouble as is. Just... Just take it already."
 	  ]
 	}
   },
@@ -208,7 +208,7 @@
 	"value": {
 	  "default": [
 		"Alright, I'll pay the damn fine!",
-		"Sure, I'm payin' the fine. I've got enough trouble on me 'ands already."
+		"Sure, I'm payin' the fine. I've got enough trouble on me hands already."
 	  ]
 	}
   },
@@ -218,7 +218,7 @@
 	"value": {
 	  "default": [
 		"Alright, I'll pay the damn fine!",
-		"Sure, I'm payin' the fine. I've got enough trouble on me 'ands already."
+		"Sure, I'm payin' the fine. I've got enough trouble on me hands already."
 	  ]
 	}
   },
@@ -228,7 +228,7 @@
 	"value": {
 	  "default": [
 		"Here's the <item> ye need. Should be just what <questGiver>'s needin'.",
-		"<questGiver>'s 'opefully goin' to like this <item>."
+		"<questGiver>'s hopefully goin' to like this <item>."
 	  ]
 	}
   },
@@ -238,7 +238,7 @@
 	"value": {
 	  "default": [
 		"Here's the <item> ye need. Should be just what <questGiver>'s needin'.",
-		"<questGiver>'s 'opefully goin' to like this <item>."
+		"<questGiver>'s hopefully goin' to like this <item>."
 	  ]
 	}
   },
@@ -247,8 +247,8 @@
 	"path": "/request_craft/giftProvided/northdragnar",
 	"value": {
 	  "default": [
-		"Ye're needin' this <item>? I've already got it 'ere with me!",
-		"This 'ere's the <item> I've been workin' on. Take it!"
+		"Ye're needin' this <item>? I've already got it here with me!",
+		"This here's the <item> I've been workin' on. Take it!"
 	  ]
 	}
   },
@@ -257,8 +257,8 @@
 	"path": "/request_craft/giftProvided/bignorthdragnar",
 	"value": {
 	  "default": [
-		"Ye're needin' this <item>? I've already got it 'ere with me!",
-		"This 'ere's the <item> I've been workin' on. Take it!"
+		"Ye're needin' this <item>? I've already got it here with me!",
+		"This here's the <item> I've been workin' on. Take it!"
 	  ]
 	}
   },
@@ -268,7 +268,7 @@
 	"value": {
 	  "default": [
 		"I swear, if <questGiver> ain't returnin' this <item> soon, I'll be takin' it back meself!",
-		"If it ain't for too lon', <questGiver> can 'ave the <item>."
+		"If it ain't for too lon', <questGiver> can have the <item>."
 	  ]
 	}
   },
@@ -278,7 +278,7 @@
 	"value": {
 	  "default": [
 		"I swear, if <questGiver> ain't returnin' this <item> soon, I'll be takin' it back meself!",
-		"If it ain't for too lon', <questGiver> can 'ave the <item>."
+		"If it ain't for too lon', <questGiver> can have the <item>."
 	  ]
 	}
   },
@@ -287,7 +287,7 @@
 	"path": "/extort/giftProvided/northdragnar",
 	"value": {
 	  "default": [
-		"<questGiver>'s an 'onourless blaggard! Take the <item> and leave me be already!",
+		"<questGiver>'s an honourless blaggard! Take the <item> and leave me be already!",
 		"<questGiver>'s goin' to regret this sooner or later..."
 	  ]
 	}
@@ -297,7 +297,7 @@
 	"path": "/extort/giftProvided/bignorthdragnar",
 	"value": {
 	  "default": [
-		"<questGiver>'s an 'onourless blaggard! Take the <item> and leave me be already!",
+		"<questGiver>'s an honourless blaggard! Take the <item> and leave me be already!",
 		"<questGiver>'s goin' to regret this sooner or later..."
 	  ]
 	}
@@ -308,7 +308,7 @@
 	"value": {
 	  "default": [
 		"It's lookin', like ye've got the materials! Give me a moment...",
-		"That'd be all we need! Just 'old on a sec..."
+		"That'd be all we need! Just hold on a sec..."
 	  ]
 	}
   },
@@ -318,7 +318,7 @@
 	"value": {
 	  "default": [
 		"It's lookin', like ye've got the materials! Give me a moment...",
-		"That'd be all we need! Just 'old on a sec..."
+		"That'd be all we need! Just hold on a sec..."
 	  ]
 	}
   },
@@ -327,8 +327,8 @@
 	"path": "/hat/crafted/northdragnar",
 	"value": {
 	  "default": [
-		"There ye go! <questGiver> should be likin' this new 'at.",
-		"Done! Could ye brin' this 'at 'ere to <questGiver>?"
+		"There ye go! <questGiver> should be likin' this new hat.",
+		"Done! Could ye brin' this noggin-warmer here to <questGiver>?"
 	  ]
 	}
   },
@@ -337,8 +337,8 @@
 	"path": "/hat/crafted/bignorthdragnar",
 	"value": {
 	  "default": [
-		"There ye go! <questGiver> should be likin' this new 'at.",
-		"Done! Could ye brin' this 'at 'ere to <questGiver>?"
+		"There ye go! <questGiver> should be likin' this new hat.",
+		"Done! Could ye brin' this noggin-warmer here to <questGiver>?"
 	  ]
 	}
   },
@@ -348,7 +348,7 @@
 	"value": {
 	  "default": [
 		"It's lookin' like ye've got the materials! Give me a moment...",
-		"That'd be all we need! Just 'old on a sec..."
+		"That'd be all we need! Just hold on a sec..."
 	  ]
 	}
   },
@@ -358,7 +358,7 @@
 	"value": {
 	  "default": [
 		"It's lookin' like ye've got the materials! Give me a moment...",
-		"That'd be all we need! Just 'old on a sec..."
+		"That'd be all we need! Just hold on a sec..."
 	  ]
 	}
   },
@@ -367,8 +367,8 @@
 	"path": "/helmet/crafted/northdragnar",
 	"value": {
 	  "default": [
-		"There ye go! <questGiver> should be likin' this new 'elmet.",
-		"Done! Could ye brin' this 'elmet 'ere to <questGiver>?"
+		"There ye go! <questGiver> should be likin' this new helmet.",
+		"Done! Could ye brin' this noggin-shielder here to <questGiver>?"
 	  ]
 	}
   },
@@ -377,8 +377,8 @@
 	"path": "/helmet/crafted/bignorthdragnar",
 	"value": {
 	  "default": [
-		"There ye go! <questGiver> should be likin' this new 'elmet.",
-		"Done! Could ye brin' this 'elmet 'ere to <questGiver>?"
+		"There ye go! <questGiver> should be likin' this new helmet.",
+		"Done! Could ye brin' this noggin-shielder here to <questGiver>?"
 	  ]
 	}
   },
@@ -387,7 +387,7 @@
 	"path": "/new_stock/trade/northdragnar",
 	"value": {
 	  "default": [
-		"Thank ye for the deli'ery! 'Ere's what <questGiver>' needin'."
+		"Thank ye for the delivery! Here's what <questGiver>' needin'."
 	  ]
 	}
   },
@@ -396,7 +396,7 @@
 	"path": "/new_stock/trade/bignorthdragnar",
 	"value": {
 	  "default": [
-		"Thank ye for the deli'ery! 'Ere's what <questGiver>' needin'."
+		"Thank ye for the delivery! Here's what <questGiver>' needin'."
 	  ]
 	}
   },
@@ -406,7 +406,7 @@
 	"value": {
 	  "default": [
 		"I'll be damned! Someone's come to rescue me!",
-		"Thanks, I don't know 'ow lon' I could've been endurin' this."
+		"Thanks, I don't know how lon' I could've been endurin' this."
 	  ]
 	}
   },
@@ -416,7 +416,7 @@
 	"value": {
 	  "default": [
 		"I'll be damned! Someone's come to rescue me!",
-		"Thanks, I don't know 'ow lon' I could've been endurin' this."
+		"Thanks, I don't know how lon' I could've been endurin' this."
 	  ]
 	}
   },
@@ -425,7 +425,7 @@
 	"path": "/kidnapping/followHome/northdragnar",
 	"value": {
 	  "default": [
-		"Would ye mind escortin' me back 'ome to <questGiver>?",
+		"Would ye mind escortin' me back home to <questGiver>?",
 		"I really ain't the fightin' type. Could ye take me back to <questGiver>?"
 	  ]
 	}
@@ -435,8 +435,8 @@
 	"path": "/kidnapping/followHome/bignorthdragnar",
 	"value": {
 	  "default": [
-		"Would ye mind escortin' me back 'ome to <questGiver>?",
-		"I really ain't the fightin' type. Could ye take me back to <questGiver>?"
+		"Would ye mind escortin' me back home to <questGiver>?",
+		"Sure, I'm big, but I really ain't the fightin' type. Could ye take me back to <questGiver>?"
 	  ]
 	}
   },
@@ -445,8 +445,8 @@
 	"path": "/escort/found/northdragnar",
 	"value": {
 	  "default": [
-		"I'm 'atin' to admit this, but I've got meself lost. Do ye know the way back to <questGiver>?",
-		"It's 'ard to be findin' yer way around 'ere with no waypointers. Could ye show me the way back 'ome?"
+		"I'm hatin' to admit this, but I've got meself lost. Do ye know the way back to <questGiver>?",
+		"It's hard to be findin' yer way around here with no waypointers. Could ye show me the way back home?"
 	  ]
 	}
   },
@@ -455,8 +455,8 @@
 	"path": "/escort/found/bignorthdragnar",
 	"value": {
 	  "default": [
-		"I'm 'atin' to admit this, but I've got meself lost. Do ye know the way back to <questGiver>?",
-		"It's 'ard to be findin' yer way around 'ere with no waypointers. Could ye show me the way back 'ome?"
+		"I'm hatin' to admit this, but I've got meself lost. Do ye know the way back to <questGiver>?",
+		"It's hard to be findin' yer way around here with no waypointers. Could ye show me the way back home?"
 	  ]
 	}
   },
@@ -465,7 +465,7 @@
 	"path": "/barter/trade/northdragnar",
 	"value": {
 	  "default": [
-		"Ye're 'ere for <questGiver>'s <receivedItems>? Sure, 'ere. Thank ye for the goods!"
+		"Ye're here for <questGiver>'s <receivedItems>? Sure, here. Thank ye for the goods!"
 	  ]
 	}
   },
@@ -474,7 +474,7 @@
 	"path": "/barter/trade/bignorthdragnar",
 	"value": {
 	  "default": [
-		"Ye're 'ere for <questGiver>'s <receivedItems>? Sure, 'ere. Thank ye for the goods!"
+		"Ye're here for <questGiver>'s <receivedItems>? Sure, here. Thank ye for the goods!"
 	  ]
 	}
   },
@@ -483,8 +483,8 @@
 	"path": "/escort_trade/collectDelivery/northdragnar",
 	"value": {
 	  "default": [
-		"Do ye 'ave a deli'ery for me?",
-		"'Ave ya got the deli'ery?"
+		"Do ye have a delivery for me?",
+		"Have ye got the delivery?"
 	  ]
 	}
   },
@@ -493,8 +493,8 @@
 	"path": "/escort_trade/collectDelivery/bignorthdragnar",
 	"value": {
 	  "default": [
-		"Do ye 'ave a deli'ery for me?",
-		"'Ave ya got the deli'ery?"
+		"Do ye have a delivery for me?",
+		"Have ye got the delivery?"
 	  ]
 	}
   },
@@ -503,8 +503,8 @@
 	"path": "/escort_trade/provideDelivery/northdragnar",
 	"value": {
 	  "default": [
-		"I've got the goods ye wanted right 'ere with me!",
-		"'Ere's the goods we've agreed on."
+		"I've got the goods ye wanted right here with me!",
+		"Here's the goods, just like we've agreed on."
 	  ]
 	}
   },
@@ -513,8 +513,8 @@
 	"path": "/escort_trade/provideDelivery/bignorthdragnar",
 	"value": {
 	  "default": [
-		"I've got the goods ye wanted right 'ere with me!",
-		"'Ere's the goods we've agreed on."
+		"I've got the goods ye wanted right here with me!",
+		"Here's the goods, just like we've agreed on."
 	  ]
 	}
   },
@@ -523,8 +523,8 @@
 	"path": "/kill_npcs/assistantIntro/northdragnar",
 	"value": {
 	  "default": [
-		"I'm owin' <questGiver> a big fa'our. I'll be 'elpin' ye to strike the <enemy> down.",
-		"Aye! <questGiver> sent me to 'elp ye with those troublin' <enemy>."
+		"I'm owin' <questGiver> a big favour. I'll be helpin' ye with strikin' the <enemy> down.",
+		"Lo! <questGiver> sent me to help ye with those troublin' <enemy>."
 	  ]
 	}
   },
@@ -533,8 +533,8 @@
 	"path": "/kill_npcs/assistantIntro/bignorthdragnar",
 	"value": {
 	  "default": [
-		"I'm owin' <questGiver> a big fa'our. I'll be 'elpin' ye to strike the <enemy> down.",
-		"Aye! <questGiver> sent me to 'elp ye with those troublin' <enemy>."
+		"I'm owin' <questGiver> a big favour. I'll be helpin' ye with strikin' the <enemy> down.",
+		"Lo! <questGiver> sent me to help ye with those troublin' <enemy>."
 	  ]
 	}
   },
@@ -543,7 +543,7 @@
 	"path": "/kill_npc/surrender/northdragnar",
 	"value": {
 	  "default": [
-		"I'm surrenderin'! 'Ave mercy!",
+		"I'm surrenderin'! Have mercy!",
 		"Put yer weapons away! We can talk this out!",
 		"Sheathe yer weapons! I know when I've been beaten."
 	  ]
@@ -554,7 +554,7 @@
 	"path": "/kill_npc/surrender/bignorthdragnar",
 	"value": {
 	  "default": [
-		"I'm surrenderin'! 'Ave mercy!",
+		"I'm surrenderin'! Have mercy!",
 		"Put yer weapons away! We can talk this out!",
 		"Sheathe yer weapons! I know when I've been beaten."
 	  ]
@@ -565,8 +565,8 @@
 	"path": "/kill_npc/betray/northdragnar",
 	"value": {
 	  "default": [
-		"Ha! Ye're not short o' bein' naive!",
-		"Ye really thought, that I'd be gi'in' up that easily?",
+		"Aha! Ye're nothin' short o' bein' naive!",
+		"Ye really thought, that I'd be givin' up that easily?",
 		"Ye're trustin' the wron' kind o' people."
 	  ]
 	}
@@ -576,10 +576,11 @@
 	"path": "/kill_npc/betray/bignorthdragnar",
 	"value": {
 	  "default": [
-		"Ha! Ye're not short o' bein' naive!",
-		"Ye really thought, that I'd be gi'in' up that easily?",
+		"Aha! Ye're nothin' short o' bein' naive!",
+		"Ye really thought, that I'd be givin' up that easily?",
 		"Ye're trustin' the wron' kind o' people."
 	  ]
 	}
-  },
+  }
+]
   

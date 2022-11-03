@@ -1,0 +1,257 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+		"ndupset": [
+            "furious",
+			"an'ered",
+			"upset",
+			"infuriated",
+			"fumin'"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndgroup": [
+            "group",
+			"horde",
+			"pack",
+			"bunch"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndwild": [
+            "wild",
+			"an'ry",
+			"rabid",
+			"fierce",
+			"ragin'",
+			"ravenous",
+			"vicious",
+			"savage",
+			"livid",
+			"feral"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndambush": [
+            "ambushed",
+			"surprised",
+			"pounced",
+			"struck",
+			"chased",
+			"pursued",
+			"scared",
+			"snuck up on",
+			"leapt at"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndexploring": [
+            "out explorin'",
+			"strollin'",
+			"out wanderin'",
+			"takin' a brief walk",
+			"out campin'",
+			"restin'",
+			"runnin'"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "nddestroyed": [
+            "destroyed",
+			"ruined",
+			"broke",
+			"smashed",
+			"swallowed",
+			"wrecked",
+			"demolished"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndbelonging": [
+            "a precious family heirloom",
+			"huntin' trophy",
+			"carvin' tools",
+			"purse",
+			"carpentin' sketches",
+			"meal",
+			"a book I borrowed from the archives",
+			"pair o' shoes",
+			"a satchel full o' produce I bought"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndearlier": [
+            "earlier",
+			"recently",
+			"not too lon' ago",
+			"yesterday",
+			"around dawn",
+			"around sunset",
+			"last night",
+			"early in the mornin'"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndrevenge1": [
+            "takin' revenge on 'em",
+			"huntin' 'em down",
+			"teachin' 'em a lesson",
+			"slayin' 'em",
+			"showin' 'em yer fightin' skills"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndrevenge2": [
+            "put a stop to 'em",
+			"take care o' 'em",
+			"teach 'em a lesson",
+			"hunt 'em down"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndrumours": [
+            "barely escapin'",
+			"narrowly avoidin'",
+			"all the talk about",
+			"rumours have been spreadin' about",
+			"multiple sightin's o'",
+			"repeated sightin's"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndloitering": [
+            "which're givin people a hard time'",
+			"which're becomin' local annoyances",
+			"which're keepin' people up at night",
+			"which're destroyin' our produce",
+			"which're startin' to become a threat",
+			"which're makin' people feel worried about an attack"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndappreciation1": [
+            "Those <monster> ain't goin' to bother anyone anymore.",
+			"The hunter's returnin' from a successful hunt, it seems!",
+			"Did the <monster> put up a good fight?",
+			"Aha! I knew I was pickin' the right person for this hunt!"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+	  "ndappreciation2": [
+            "Well, with that taken care o', here's yer reward.",
+			"Good work! May yer future huntin' trips be bountiful!",
+			"Yer work ain't remainin' unrewarded, that's for sure!"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/default",
+    "value": {
+	  "northdragnar": [
+			"^cyan;There're some beasts to be taken care o'."
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/default",
+    "value": {
+	  "bignorthdragnar": [
+			"^cyan;There're some beasts to be taken care o'."
+ 	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default",
+    "value": {
+	  "northdragnar": [
+            "Some <ndgroup> o' <ndwild> ^orange;<monster>^white; <ndambush> me while I was <ndexploring> and <nddestroyed> me <ndbelonging>! All o' this happened <ndearlier> at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;I'm goin' to need yer help with <ndrevenge1>. ^white;Would ye be mindin'?",
+			"I'm startin' to get concerned about me safety, after <ndrumours> a <ndgroup> o' <ndwild> ^orange;<monster>^white;, <ndloitering>. 'Parently they were last seen near ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could ye go out there and <ndrevenge2>?"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default",
+    "value": {
+	  "bignorthdragnar": [
+            "Some <ndgroup> o' <ndwild> ^orange;<monster>^white; <ndambush> me while I was <ndexploring> and <nddestroyed> me <ndbelonging>! All o' this happened <ndearlier> at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;I'm goin' to need yer help with <ndrevenge>. ^white;Would ye be mindin'?",
+			"I'm startin' to get concerned about me safety, after <ndrumours> a <ndgroup> o' <ndwild> ^orange;<monster>^white;, <ndloitering>. 'Parently they were last seen near ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could ye go out there and <ndrevenge2>?"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default",
+    "value": {
+	  "northdragnar": [
+            "<ndappreciation1> <ndappreciation2>"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default",
+    "value": {
+	  "bignorthdragnar": [
+            "<ndappreciation1> <ndappreciation2>"
+	  ]
+    }
+  }
+]

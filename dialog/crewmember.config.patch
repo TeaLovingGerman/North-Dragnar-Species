@@ -4,11 +4,10 @@
 		"path": "/converse/northdragnar",
 		"value": {
 			"default": [
-				"Whate'er may be comin' our way, I'm ready for it.",
-				"Spacefarin's like sailin' o'er the vast seas. Alright, it's nothin' like it, but it ain't bad at all.",
-				"Space got loads to offer. We should be makin' use o' that.",
-				"As lon' as ye got me, ya don't 'ave to worry about dyin'.",
-				"Can't wait for the next tussle!"
+				"Whatever may be comin' our way, I'm ready for it!",
+				"Spacefarin's like sailin' over the vast seas. Alright, it's nothin' like it, but it ain't bad at all.",
+				"Space got loads to offer. We should be makin' use o' that!",
+				"As lon' as ye got me, ya don't have to worry about dyin'."
 			]
 		}
 	},
@@ -17,11 +16,10 @@
 		"path": "/converse/bignorthdragnar",
 		"value": {
 			"default": [
-				"Whate'er may be comin' our way, I'm ready for it.",
-				"Spacefarin's like sailin' o'er the vast seas. Alright, it's nothin' like it, but it ain't bad at all.",
-				"Space got loads to offer. We should be makin' use o' that.",
-				"As lon' as ye got me, ya don't 'ave to worry about dyin'.",
-				"Can't wait for the next tussle!"
+				"Whatever may be comin' our way, I'm ready for it!",
+				"Spacefarin's like sailin' over the vast seas. Alright, it's nothin' like it, but it ain't bad at all.",
+				"Space got loads to offer. We should be makin' use o' that!",
+				"As lon' as ye got me, ya don't have to worry about dyin'."
 			]
 		}
 	}

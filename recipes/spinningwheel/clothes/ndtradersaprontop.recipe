@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "fabric", "count" : 20 },
-	{ "item" : "cottonwool", "count" : 1 }
-  ],
-  "output" : { "item" : "ndtradersaprontop", "count" : 1 },
-  "groups" : [ "craftingwheel", "clothes" ]
-}

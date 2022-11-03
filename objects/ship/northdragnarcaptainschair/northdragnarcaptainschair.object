@@ -16,8 +16,8 @@
   "humanDescription" : "The Captain's chair. The person sitting here decides where the ship goes",
   "hylotlDescription" : "Sitting on the Captain's chair allows me to fly this ship.",
   "novakidDescription" : "The Captain's chair. The guy who sits here decides where the ship goes",
-  "northdragnarDescription" : "A comfortable chair fittin' for a ship captain! Where're we 'eadin' next?",
-  "bignorthdragnarDescription" : "A comfortable chair fittin' for a ship captain! Where're we 'eadin' next?",
+  "northdragnarDescription" : "A comfortable chair, fittin' for a ship captain's behind! Where're we headin' next?",
+  "bignorthdragnarDescription" : "A comfortable chair, fittin' for a ship captain's behind! Where're we headin' next?",
   "inventoryIcon" : "captainschairicon.png",
   "orientations" : [
     {

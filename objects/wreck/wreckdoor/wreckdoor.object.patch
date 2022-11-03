@@ -1,2 +1,2 @@
-[{"op":"add","path":"/northdragnarDescription","value":"All the rust on this door 'ere's makin' it 'ard to open."},
-{"op":"add","path":"/bignorthdragnarDescription","value":"All the rust on this door 'ere's makin' it 'ard to open."}]
+[{"op":"add","path":"/northdragnarDescription","value":"All the rust on this door's makin' it harder to open."},
+{"op":"add","path":"/bignorthdragnarDescription","value":"All the rust on this door's makin' it harder to open."}]

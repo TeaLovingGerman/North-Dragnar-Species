@@ -1,0 +1,34 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "value": [
+            "Well, ye're an alright handyman, are ye? It's a bit embarrasin' to admit, but I ain't much o' a handyman meself. ^green;Could you craft the ^orange;<craftedItems>^white; instead?",
+			"Ye've got the ^orange;<ingredients>^white; with ya! Uh, you wouldn't mind puttin' 'em together? I usually carve on thin's instead o' assemblin' 'em."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
+    "value": [
+            "Well, ye're an alright handyman, are ye? It's a bit embarrasin' to admit, but I ain't much o' a handyman meself. ^green;Could you craft the ^orange;<craftedItems>^white; instead?",
+			"Ye've got the ^orange;<ingredients>^white; with ya! Uh, you wouldn't mind puttin' 'em together? I usually carve on thin's instead o' assemblin' 'em."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
+    "value": [
+            "Ye've done this before, eh? Nice work! Let's get on with this plan o' mine.",
+			"That's some admirable craftmanship right there! I've got somethin' planned for that work o' yers."
+    ]
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
+    "value": [
+            "Ye've done this before, eh? Nice work! Let's get on with this plan o' mine.",
+			"That's some admirable craftmanship right there! I've got somethin' planned for that work o' yers."
+    ]
+  }
+]

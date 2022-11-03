@@ -1,0 +1,68 @@
+[
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/fluff",
+    "value": {
+		"ndappreciation": [
+            "Thanks for brin'in' me to <target>!",
+			"Thank ye, for accompanyin' me here!",
+			"I appreciate yer great help!",
+			"Thanks! Got to stress our legs a bit too!"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/first",
+    "value": {
+	  "northdragnar": [
+			"First, we'll be payin' ^orange;<target>^white;, a travellin' merchant, a visit, to trade in some goods for the ^orange;<items>^white;. The thin' is, they've managed to get lost somwhere around ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could ye be accompanyin' me on the search for <target>, so I can trade the goods with 'em^white;?"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/first",
+    "value": {
+	  "bignorthdragnar": [
+			"First, we'll be payin' ^orange;<target>^white;, a travellin' merchant, a visit, to trade in some goods for the ^orange;<items>^white;. The thin' is, they've managed to get lost somwhere around ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could ye be accompanyin' me on the search for <target>, so I can trade the goods with 'em^white;?"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default",
+    "value": {
+	  "northdragnar": [
+            "We'll be needin' ^orange;<items>^white; for the next step. It would've been pretty easy, if the merchant we're lookin' for, ^orange;<target>^white;, wouldn't have gotten 'emselves lost! Well, there's no changin' that now. ^green;We'll have to go lookin' for ^orange;<target>^white; near ^orange;<spawnPoint>^white;<spawnPoint.direction> ^green;so I can trade with 'em."
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/text/default",
+    "value": {
+	  "bignorthdragnar": [
+            "We'll be needin' ^orange;<items>^white; for the next step. It would've been pretty easy, if the merchant we're lookin' for, ^orange;<target>^white;, wouldn't have gotten 'emselves lost! Well, there's no changin' that now. ^green;We'll have to go lookin' for ^orange;<target>^white; near ^orange;<spawnPoint>^white;<spawnPoint.direction> ^green;so I can trade with 'em."
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default",
+    "value": {
+	  "northdragnar": [
+            "<ndappreciation> Ye mind holdin' on to these <items> for me plan?"
+	  ]
+    }
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default",
+    "value": {
+	  "bignorthdragnar": [
+            "<ndappreciation> Ye mind holdin' on to these <items> for me plan?"
+	  ]
+    }
+  }
+]
