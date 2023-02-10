@@ -11,10 +11,7 @@
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
   "mask" : "mask.png",
-  
   "builder" : "/armorAdapt/armorAdaptBuilder.lua",
-   
-   
   "colorOptions" : [
     // RED
     { "ffca8a" : "c06055", "e0975c" : "9a2d2d", "a85636" : "74111b", "6f2919" : "4d000f" },

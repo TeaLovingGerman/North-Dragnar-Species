@@ -1,0 +1,26 @@
+{
+  "materialId" : 1273,
+  "materialName" : "ndpointedscalerooftiles",
+  "particleColor" : [101, 52, 22, 255],
+  "itemDrop" : "ndpointedscalerooftiles",
+  "description" : "A set of pointed scale tiles made of strong wood.",
+  "shortdescription" : "Pointed Scale Roof Tiles",
+  "glitchdescription" : "Humbled. Neatly organized scale roofing. The craftsmanship is admirable.",
+  "florandescription" : "Roof tiless resemble pointy sspear tipsss.",
+  "novakiddescription" : "Don't want one of those piercin' my head when they drop down.",
+  "northdragnardescription" : "A pointed variant o' fishscale roofin'.",
+  "bignorthdragnardescription" : "A pointed variant o' fishscale roofin'.",
+  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "health" : 7,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "ndpointedscalerooftiles.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 4345
+  }
+}

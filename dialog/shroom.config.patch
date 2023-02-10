@@ -1,9 +1,8 @@
 [
   {
     "op": "add",
-    "path": "/hail/floran",
-	"value": {
-	  "northdragnar": [
+    "path": "/hail/floran/northdragnar",
+    "value": [
       "Halhoom, fiercething.",
       "Halmarr, fiercething nab sillypeck?",
       "Hoom. Halb fiercething mesti carve shopshroom?",
@@ -12,8 +11,12 @@
 	  "Hoom, carpa shopshroom fry clankbeast?",
 	  "Halmarr, mesti hop chop fiercething halb squishfish? Nabi?",
       "Halhoom! Fiercething habba big weepa!"
-	  ],
-	  "bignorthdragnar" : [
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hail/floran/bignorthdragnar",
+    "value": [
       "Halhoom, big fiercething.",
       "Halmarr, big fiercething nab big sillypeck?",
       "Hoom. Halb big fiercething mesti carve shopshroom?",
@@ -22,7 +25,6 @@
 	  "Hoom, carpa shopshroom fry clankbeast?",
 	  "Halmarr, mesti hop chop big fiercething halb squishfish? Nabi?",
       "Halhoom! Big fiercething habba BIG weepa!"
-      ]
-    }
+    ]
   }
 ]

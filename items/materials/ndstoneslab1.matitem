@@ -1,0 +1,13 @@
+{
+  "itemName" : "ndstoneslab",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "ndstoneslab.png",
+  "description" : "A wooden log. Good for building simple structures.",
+  "shortdescription" : "Wooden Log",
+  "glitchdescription" : "Impressed. These logs fit together closely and are effective for building.",
+  "florandescription" : "Floran likess wooden log wallss.",
+  "novakiddescription" : "Ain't uncommon to see logs laid like this in cabins.",
+  "materialId" : 357
+}

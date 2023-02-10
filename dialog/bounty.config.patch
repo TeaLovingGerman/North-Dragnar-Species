@@ -1,291 +1,189 @@
 [
   {
     "op": "add",
-    "path": "/flee/northdragnar",
-	"value": {
-	  "default": [
+    "path": "/flee/northdragnar/default",
+    "value": [
       "The lon' arm o' the law's here! Got to get goin'!",
       "A damned Paecekeeper! Time for abandonin' ship!",
       "I've been found already? I better be leavin' then!",
       "Ye're not catchin' me this time! Be seein' ya!",
       "Ey! Not yet! I'm fresh out o' a tussle!",
 	  "Oh, ye've got to be tuggin' me tail!"
-      ]
-    }
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/flee/northdragnar/default",
+    "path": "/flee/bignorthdragnar/default"
   },
   {
     "op": "add",
-    "path": "/flee/bignorthdragnar",
-	"value": {
-	  "default": [
-      "The lon' arm o' the law's here! Got to get goin'!",
-      "A damned Paecekeeper! Time for abandonin' ship!",
-      "I've been found already? I better be leavin' then!",
-      "Ye're not catchin' me this time! Be seein' ya!",
-      "Ey! Not yet! I'm fresh out o' a tussle!",
-	  "Oh, ye've got to be tuggin' me tail!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/caughtFleeing/northdragnar",
-	"value": {
-	  "default": [
+    "path": "/caughtFleeing/northdragnar/default",
+    "value": [
       "Alright, then! No more runnin' away!",
       "If I can't be fleein' from ya, then a fight it is!",
       "O' course runnin' away wouldn't be workin'! Let's fight, then!",
       "Stubborn one, are ye? I'm goin' to fix that!",
       "If ye're wantin' it the hard way, ye'll be gettin' it the hard way!",
 	  "Gah! There's no point in fleein' anyway!"
-      ]
-    }
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/caughtFleeing/northdragnar/default",
+    "path": "/caughtFleeing/bignorthdragnar/default"
   },
   {
     "op": "add",
-    "path": "/caughtFleeing/bignorthdragnar",
-	"value": {
-	  "default": [
-      "Alright, then! No more runnin' away!",
-      "If I can't be fleein' from ya, then a fight it is!",
-      "O' course runnin' away wouldn't be workin'! Let's fight, then!",
-      "Stubborn one, are ye? I'm goin' to fix that!",
-      "If ye're wantin' it the hard way, ye'll be gettin' it the hard way!",
-	  "Gah! There's no point in fleein' anyway!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/crazy/northdragnar",
-	"value": {
-	  "default": [
+    "path": "/crazy/northdragnar/default",
+    "value": [
       "No one's needin' these damned clothes! I've got more than enough fur for all o' us to spare!",
       "I can see meself standin' here in front o' ya! I CAN SEE THE DAMNED SIDE O' THE WALLS AND THE GROUND!",
       "I ate A PLANET'S WORTH O' SNOW, and now me head's never goin' to be rottin' from the PERMANENT BRAIN-FREEZE I've got!",
-      "The Tyrants! THE DAMN TYRANTS! I've been experiencin' what me ancestors 'ad to endure durin' their unendin' rule!",
+      "The Tyrants! THE DAMN TYRANTS! I've been experiencin' what me ancestors had to endure durin' their unendin' rule!",
       "GARGH! I TRIED TO BEND ME FURY TO ME WILL! I'M LOSIN' MORE AND MORE CONTROL OVER IT!",
 	  "YE'RE A SLAVE O' ANOTHER BEIN'! I'VE SEEN 'EM THROUGH THE EVER-PRESENT WINDOW O' THIS UNIVERSE!",
 	  "RARGH! I CAN'T BE REMEMBERIN' NOTHIN' ABOUT URDEN! BUT I'VE BEEN LIVIN' ON IT, I'M SURE O' IT!"
-      ]
-    }
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/crazy/northdragnar/default",
+    "path": "/crazy/bignorthdragnar/default"
   },
   {
     "op": "add",
-    "path": "/crazy/bignorthdragnar",
-	"value": {
-	  "default": [
-      "No one's needin' these damned clothes! I've got more than enough fur for all o' us to spare!",
-      "I can see meself standin' here in front o' ya! I CAN SEE THE DAMNED SIDE O' THE WALLS AND THE GROUND!",
-      "I ate A PLANET'S WORTH O' SNOW, and now me head's never goin' to be rottin' from the PERMANENT BRAIN-FREEZE I've got!",
-      "The Tyrants! THE DAMN TYRANTS! I've been experiencin' what me ancestors 'ad to endure durin' their unendin' rule!",
-      "GARGH! I TRIED TO BEND ME FURY TO ME WILL! I'M LOSIN' MORE AND MORE CONTROL OVER IT!",
-	  "YE'RE A SLAVE O' ANOTHER BEIN'! I'VE SEEN 'EM THROUGH THE EVER-PRESENT WINDOW O' THIS UNIVERSE!",
-	  "RARGH! I CAN'T BE REMEMBERIN' NOTHIN' ABOUT URDEN! BUT I'VE BEEN LIVIN' ON IT, I'M SURE O' IT!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/deceptive/northdragnar",
-	"value": {
-	  "default": [
+    "path": "/deceptive/northdragnar/default",
+    "value": [
       "There ain't no criminals around here. I made sure o' that meself!",
       "Lo, Peacekeeper! It's just me here! Um, ^orange;Biorn T. Ruthful^white;! There're no criminals here, not at all!",
       "Ah, a customer's comin' to me humble carvin' shop! You just have to leave me be for a moment so I can be takin' me wares out o' storage!",
       "What, alrea-? Err, I'm meanin to say that that fierce rogue ye're after's already left for another planet!",
       "Don't ye be mindin' me! I'm just some... Some stone-carvin' artist, that's lookin' for a bit o' inspiration!",
 	  "An outlaw? Oh, right! I've been chasin' 'em away with me fierce look! I can't be findin' 'em anymore though!"
-      ]
-    }
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/deceptive/northdragnar/default",
+    "path": "/deceptive/bignorthdragnar/default"
   },
   {
     "op": "add",
-    "path": "/deceptive/bignorthdragnar",
-	"value": {
-	  "default": [
-      "There ain't no criminals around here. I made sure o' that meself!",
-      "Lo, Peacekeeper! It's just me here! Um, ^orange;Biorn T. Ruthful^white;! There're no criminals here, not at all!",
-      "Ah, a customer's comin' to me humble carvin' shop! You just have to leave me be for a moment so I can be takin' me wares out o' storage!",
-      "Damn glasses ain't me size- Err, I'm meanin to say that that fierce rogue ye're after's already left for another planet!",
-      "Don't ye be mindin' me! I'm just some... Some stone-carvin' artist, that's lookin' for a bit o' inspiration!",
-	  "An outlaw? Oh, right! I've been chasin' 'em away with me fierce look! I can't be findin' 'em anymore though!"
-      ]
-    }
+    "path": "/converse/bignorthdragnar/default/-",
+    "value": "Damn glasses ain't me size- Err, I'm meanin' to say that that fierce rogue ye're after's already left for another planet!"
   },
   {
     "op": "add",
-    "path": "/deceptiveEnd/northdragnar",
-	"value": {
-	  "default": [
+    "path": "/deceptiveEnd/northdragnar/default",
+    "value": [
       "Damnit! O' course that wouldn't be workin'!",
       "I ain't the actin' type, alright?",
       "Enough o' hidin'! Let's just get this over with already!",
       "That was just gettin' awkward. I'd rather be fightin'!",
       "Actin' ain't me thin', but I'm much better at fightin'!",
 	  "There's no foolin' ya, eh? How about I start beatin' ye down instead?"
-      ]
-    }
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/deceptiveEnd/northdragnar/default",
+    "path": "/deceptiveEnd/bignorthdragnar/default"
   },
   {
     "op": "add",
-    "path": "/deceptiveEnd/bignorthdragnar",
-	"value": {
-	  "default": [
-      "Damnit! O' course that wouldn't be workin'!",
-      "I ain't the actin' type, alright?",
-      "Enough o' hidin'! Let's just get this over with already!",
-      "That was just gettin' awkward. I'd rather be fightin'!",
-      "Actin' ain't me thin', but I'm much better at fightin'!",
-	  "There's no foolin' ya, eh? How about I start beatin' ye down instead?"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/tricked/northdragnar",
-	"value": {
-	  "default": [
+    "path": "/tricked/northdragnar/default",
+    "value": [
       "Those were no real handcuffs! Ye haven't won just yet!",
       "Ye fell right for the fake handcuffs!",
       "Those handcuffs o' yers were easy to break! Ye shouldn't be reusin' 'em that much!",
       "We ain't done yet! Those fake handcuffs were comin' to use after all!"
-      ]
-    }
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/tricked/northdragnar/default",
+    "path": "/tricked/bignorthdragnar/default"
   },
   {
     "op": "add",
-    "path": "/tricked/bignorthdragnar",
-	"value": {
-	  "default": [
-      "Those were no real 'andcuffs! Ye 'a'en't won just yet!",
-      "Ye fell right for the fake 'andcuffs!",
-      "Those 'andcuffs o' yers were easy to break! Ye shouldn't be reusin' 'em that much!",
-      "We ain't done yet! Those fake 'andcuffs were comin' to use after all!",
-	  "Those tiny handcuffs were easy to burst open!"
-      ]
-    }
+    "path": "/tricked/bignorthdragnar/default/-",
+    "value": "Those tiny handcuffs were easy to burst open!"
   },
   {
     "op": "add",
-    "path": "/bribeWait/northdragnar",
-	"value": {
-	  "default": [
+    "path": "/bribeWait/northdragnar/default",
+    "value": [
       "Hold on for a moment! I've got an offer ye might be interested in!",
       "Wait! Can't we be makin' a deal or somethin'? I've got somethin' good with me here!",
       "Don't be actin' too quickly! I've got somethin' to offer for ye here!",
       "Before ye start tossin' me in jail, I've got somethin' to offer ye!"
-      ]
-    }
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/bribeWait/northdragnar/default",
+    "path": "/bribeWait/bignorthdragnar/default"
   },
   {
     "op": "add",
-    "path": "/bribeWait/bignorthdragnar",
-	"value": {
-	  "default": [
-      "Hold on for a moment! I've got an offer ye might be interested in!",
-      "Wait! Can't we be makin' a deal or somethin'? I've got somethin' good with me here!",
-      "Don't be actin' too quickly! I've got somethin' to offer for ye here!",
-      "Before ye start tossin' me in jail, I've got somethin' to offer ye!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/bribeMysteryItem/northdragnar",
-	"value": {
-	  "default": [
+    "path": "/bribeMysteryItem/northdragnar/default",
+    "value": [
       "If ye're lettin' me go, then I'll give ye a ^orange;valuable item^reset; I sto- Err, found! FOUND!",
       "If ye quit tryin' to arrest me, then I'll be givin ye this ^orange;valuable loot^reset; I've got with me!",
       "Ye can have this ^orange;valuable loot^reset; I've raided! IF ye're lettin' me off the hook!"
-      ]
-    }
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/bribeMysteryItem/northdragnar/default",
+    "path": "/bribeMysteryItem/bignorthdragnar/default"
   },
   {
     "op": "add",
-    "path": "/bribeMysteryItem/bignorthdragnar",
-	"value": {
-	  "default": [
-      "If ye're lettin' me go, then I'll give ye a ^orange;valuable item^reset; I sto- Err, found! FOUND!",
-      "If ye quit tryin' to arrest me, then I'll be givin ye this ^orange;valuable loot^reset; I've got with me!",
-      "Ye can have this ^orange;valuable loot^reset; I've raided! IF ye're lettin' me off the hook!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/bribeHat/northdragnar",
-	"value": {
-	  "default": [
+    "path": "/bribeHat/northdragnar/default",
+    "value": [
       "If ye're lettin' me go, then I'll give ye me ^orange;headwear^reset;! It's not fittin' me style anyway!",
       "If ye quit tryin' to arrest me, then I'll be givin ye me ^orange;headgear^reset;! It ain't cheap, for sure!",
       "Ye can have me ^orange;headgear^reset;! IF ye're lettin' me off the hook!",
 	  "How about ye're lettin' me go and take me ^orange;headwear^reset; instead? It'd look great on yer noggin!"
-      ]
-    }
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/bribeHat/northdragnar/default",
+    "path": "/bribeHat/bignorthdragnar/default"
   },
   {
     "op": "add",
-    "path": "/bribeHat/bignorthdragnar",
-	"value": {
-	  "default": [
-      "If ye're lettin' me go, then I'll give ye me ^orange;'eadwear^reset;! It ain't me size anyway!",
-      "If ye quit tryin' to arrest me, then I'll be givin ye me ^orange;headgear^reset;! It ain't cheap, for sure!",
-      "Ye can have me ^orange;headgear^reset;! IF ye're lettin' me off the hook!",
-	  "How about ye're lettin' me go and take me ^orange;headwear^reset; instead? It'd look great on yer noggin!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/bribeDeclined/northdragnar",
-	"value": {
-	  "default": [
+    "path": "/bribeDeclined/northdragnar/default",
+    "value": [
       "If I had some honour, I'd probably be understandin' this. I don't. So, YE'LL BE DAMNED!",
       "Pah! I'm takin' this to space jail, then!",
       "Why do ye Peacekeepers have to be this honourable?",
       "What?! I thought that'd be workin'! Damn yer useless honour!"
-      ]
-    }
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/bribeDeclined/northdragnar/default",
+    "path": "/bribeDeclined/bignorthdragnar/default"
   },
   {
     "op": "add",
-    "path": "/bribeDeclined/bignorthdragnar",
-	"value": {
-	  "default": [
-      "If I had some honour, I'd probably be understandin' this. I don't. So, YE'LL BE DAMNED!",
-      "Pah! I'm takin' this to space jail, then!",
-      "Why do ye Peacekeepers have to be this honourable?",
-      "What?! I thought that'd be workin'! Damn yer useless honour!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/bribeAccepted/northdragnar",
-	"value": {
-	  "default": [
-      "So much for bein' honourable! Alright, I shouldn't be complainin', ye're let me go after all!",
+    "path": "/bribeAccepted/northdragnar/default",
+    "value": [
+      "So much for bein' honourable! Alright, I shouldn't be complainin', ye're lettin' me go after all!",
       "Ye took the offer? Ye can be countin' me surprised! Thanks for that!",
       "Thanks! I ain't plannin' on crossin' ye again, that's for sure. See ye!",
       "Ye're really lettin' me run off? Aw, ye're almost makin' me regret that I've been fightin' ye!",
 	  "Well, that happened. I'm sort o' thinkin' about retirin' somewhere peaceful. Ha! We'll be seein' about that!",
 	  "Thank ye, for cooperatin'! I ought to pick me fights better next time!"
-      ]
-    }
+    ]
   },
   {
-    "op": "add",
-    "path": "/bribeAccepted/bignorthdragnar",
-	"value": {
-	  "default": [
-      "So much for bein' honourable! Alright, I shouldn't be complainin', ye're let me go after all!",
-      "Ye took the offer? Ye can be countin' me surprised! Thanks for that!",
-      "Thanks! I ain't plannin' on crossin' ye again, that's for sure. See ye!",
-      "Ye're really lettin' me run off? Aw, ye're almost makin' me regret that I've been fightin' ye!",
-	  "Well, that happened. I'm sort o' thinkin' about retirin' somewhere peaceful. Ha! We'll be seein' about that!",
-	  "Thank ye, for cooperatin'! I ought to pick me fights better next time!"
-      ]
-    }
+    "op": "copy",
+    "from": "/bribeAccepted/northdragnar/default",
+    "path": "/bribeAccepted/bignorthdragnar/default"
   }
 ]

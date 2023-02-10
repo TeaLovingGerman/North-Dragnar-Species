@@ -1,0 +1,26 @@
+{
+  "materialId" : 14602,
+  "materialName" : "ndcarvedwoodenbeam",
+  "particleColor" : [101, 52, 22, 255],
+  "itemDrop" : "ndcarvedwoodenbeam",
+  "shortdescription" : "Carved Wooden Beam",
+  "description" : "",
+  "glitchDescription" : "",
+  "floranDescription" : "",
+  "novakidDescription" : "All these carvings sure ain't anythin' like sharpening a stick.",
+  "northdragnarDescription" : "Ye need some 'specially sturdy tools, to be carvin' on wood like this.",
+  "bignorthdragnarDescription" : "Ye need some 'specially sturdy tools, to be carvin' on wood like this.",
+  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/nd_scb-pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "ndcarvedwoodenbeam.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 1942
+  }
+}

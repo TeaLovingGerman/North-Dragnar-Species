@@ -1,0 +1,37 @@
+[
+	{"op": "add", "path": "/baseParameters/dialog/intro/default/northdragnar",
+		"value": [
+			"Huh... A Dragnar.\nEsther must be getting desperate.",
+			"The lengths that this withered hag would go still manage to surprise, I'll give her that.",
+			"I don't pity your kind.\nAll the bloody deeds you've done await their punishment..."
+		]
+	},
+	{
+    "op": "copy",
+    "from": "/baseParameters/dialog/intro/default/northdragnar",
+    "path": "/baseParameters/dialog/intro/default/bignorthdragnar"
+    },
+	{"op": "add", "path": "/baseParameters/dialog/start/default/northdragnar",
+		"value": [
+			"And your death won't be the end of that punishment!"
+		]
+	},
+	{"op": "add", "path": "/baseParameters/dialog/start/default/bignorthdragnar",
+		"value": [
+			"And your death won't be the end of that punishment!"
+		]
+	},
+	{"op": "add", "path": "/baseParameters/dialog/death/default/northdragnar",
+		"value": [
+			"Huff...\nAll that false honour won't hide your species' true intentions from me...",
+			"Enjoy this little victory, as it'll be your last!",
+			"Because even with your mindless brawn on her side - Esther won't win.",
+			"It's too late now to stop what's been set in motion!"
+		]
+	},
+	{
+    "op": "copy",
+    "from": "/baseParameters/dialog/death/default/northdragnar",
+    "path": "/baseParameters/dialog/death/default/bignorthdragnar"
+	}
+]

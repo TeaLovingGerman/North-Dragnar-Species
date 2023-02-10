@@ -1,80 +1,45 @@
 [
 	{
 		"op": "add",
-		"path": "/beacon/northdragnar",
-		"value": {
-			"default": [
+		"path": "/beacon/northdragnar/default",
+		"value": [
 				"What do ye want?",
 				"Aye, what's the matter?",
 				"Ey, ye want to chatter or what?",
 				"Here I am! What did I miss?",
 				"Lo! Somethin' botherin' ya?"
-			],
-			"northdragnar": [
-				"What do ye want?",
-				"Aye, kin. What's the matter?",
-				"Here I am! What did I miss?",
-				"Greetin's, kin. Somethin' botherin' ya?"
-			],
-			"bignorthdragnar": [
-				"What do ye want?",
-				"Aye, kin. What's the matter?",
-				"Here I am! What did I miss?",
-				"Greetin's, kin. Somethin' botherin' ya?"
-			]
-		}
-	},
-  {
-		"op": "add",
-		"path": "/beacon/bignorthdragnar",
-		"value": {
-			"default" : [
-				"What do ye want?",
-				"Aye, what's the matter?",
-				"Ey, ye want to chatter or what?",
-				"Here I am! What did I miss?",
-				"Lo! Somethin' botherin' ya?"
-			],
-			"northdragnar": [
-				"What do ye want?",
-				"Aye, kin. What's the matter?",
-				"Here I am! What did I miss?",
-				"Greetin's, kin. Somethin' botherin' ya?"
-			],
-			"bignorthdragnar": [
-				"What do ye want?",
-				"Aye, kin. What's the matter?",
-				"Here I am! What did I miss?",
-				"Greetin's, kin. Somethin' botherin' ya?"
-	  ]
-	}
-  },
-	{
-		"op": "add",
-		"path": "/rent/northdragnar",
-		"value": {
-			"default": [
-				"Aye, here's somethin' for givin' me shelter.",
-				"Here. Don't ye be thinkin', that I ain't appreciatin' what ye've done for me.",
-				"I think ye're deservin' this, for givin me a roof over me head.",
-				"It's only fair, that I'm givin' somethin' back for yer help.",
-				"There ye go. Take it as way o' sayin' thanks for yer help!",
-				"Ta! Ye're deservin this."
-			]
-		}
+		]
 	},
 	{
 		"op": "add",
-		"path": "/rent/bignorthdragnar",
-		"value": {
-			"default": [
+		"path": "/beacon/northdragnar/default",
+		"value": [
+				"What do ye want?",
+				"Aye, kin. What's the matter?",
+				"Here I am! What did I miss?",
+				"Greetin's, kin. Somethin' botherin' ya?"
+		]
+	},
+	{
+    "op": "copy",
+    "from": "/beacon/northdragnar/default",
+    "path": "/beacon/bignorthdragnar/default"
+	},
+	{
+		"op": "add",
+		"path": "/rent/northdragnar/default",
+		"value": [
 				"Aye, here's somethin' for givin' me shelter.",
-				"Here. Don't ye be thinkin', that I ain't appreciatin' what ye've done for me.",
-				"I think ye're deservin' this, for givin me a roof over me head.",
+				"Here! Don't ye be thinkin', that I ain't appreciatin' what ye've done for me.",
+				"I think ye're deservin' this, for givin' me a roof over me head.",
 				"It's only fair, that I'm givin' somethin' back for yer help.",
 				"There ye go. Take it as way o' sayin' thanks for yer help!",
 				"Ta! Ye're deservin this."
-			]
-		}
+		]
+	},
+	{
+    "op": "copy",
+    "from": "/rent/northdragnar/default",
+    "path": "/rent/bignorthdragnar/default"
 	}
 ]

@@ -1,39 +1,26 @@
 [
   {
     "op": "add",
-    "path": "/attack/northdragnar",
-	"value": {
-	  "default": [
+    "path": "/attack/northdragnar/default",
+    "value": [
       "Ye're not throwin' me to jail without a fight!",
       "Show me what ye've got!",
-      "I'll be cleavin' the lon' arm o' the law, right here and then!",
+      "I'll be cleavin' the lon' arm o' the law, right here and now!",
       "Ye're goin' to regret, that ye've messed with the ^orange;<gangName>^reset;!",
       "We ain't ordinary bandits! We're the ^orange;<gangName>^reset;!",
 	  "Want to tussle with the ^orange;<gangName>^reset;? Ye'll be regrettin' this!",
 	  "Show me Peacekeeper! Show me how stron' ye really are!"
-      ]
-    }
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/attack/northdragnar/default",
+    "path": "/attack/bignorthdragnar/default"
   },
   {
     "op": "add",
-    "path": "/attack/bignorthdragnar",
-	"value": {
-	  "default": [
-      "Ye're not throwin' me to jail without a fight!",
-      "Show me what ye've got!",
-      "I'll be crushin' the lon' arm o' the law, right here and then!",
-      "Ye're goin' to regret, that ye've messed with the ^orange;<gangName>^reset;!",
-      "We ain't ordinary bandits! We're the ^orange;<gangName>^reset;!",
-	  "Want to tussle with the ^orange;<gangName>^reset;? Ye'll be regrettin' this!",
-	  "Show me Peacekeeper! Show me how stron' ye really are!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/resistArrest/northdragnar",
-	"value": {
-	  "default": [
+    "path": "/resistArrest/northdragnar/default",
+    "value": [
       "Ye're not goin' to be takin' me alive!",
       "Ye should've thought twice, before tryin' to catch me!",
       "We'll be seein' how well o' a fighter ye are!",
@@ -42,35 +29,22 @@
 	  "It's not goin' to be easy to catch ME, a member o' the ^orange;<gangName>^reset;!",
 	  "For the ^orange;<gangName>^reset;!",
 	  "Let's dance, ye wannabe hero!"
-      ]
-    }
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/resistArrest/northdragnar/default",
+    "path": "/resistArrest/bignorthdragnar/default"
   },
   {
     "op": "add",
-    "path": "/resistArrest/bignorthdragnar",
-	"value": {
-	  "default": [
-      "Ye're not goin' to be takin' me alive!",
-      "Ye should've thought twice, before tryin' to catch me!",
-      "We'll be seein' how well o' a fighter ye are!",
-      "I've been fightin' for years! No Peacekeeper's goin' to take me down that easily!",
-      "Ye're never goin' to take the ^orange;<gangName>^reset; down!",
-	  "It's not goin' to be easy to catch ME, a member o' the ^orange;<gangName>^reset;!",
-	  "For the ^orange;<gangName>^reset;!",
-	  "Let's dance, ye wannabe hero!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/arrested/northdragnar",
-	"value": {
-	  "default": [
+    "path": "/arrested/northdragnar/default",
+    "value": [
       "Wait, wha? Where'd these damned cuffs come from?!",
       "I'm not feelin' like fightin' anymore...",
       "And NOW I'll- Oh? Oh...",
       "Got to be admittin', ye're tougher than I thought.",
-      "That could've gone WAY better...",
+      "That could've gone WAY better!",
 	  "At least, I wasn't goin' down without a fight.",
 	  "What're ye thinkin' about a best-o'-three, eh? Five?...\nIs that a 'no'?",
 	  "Wait! I've got somethin' to of- GAH, NO! I forgot the loot in me other pants!",
@@ -79,138 +53,88 @@
 	  "These handcuffs ain't me size! Get 'em off, NOW!",
 	  "What?! The fight's over already?",
 	  "I can still beat yer head in with me hands cuffed! Come here!"
-      ]
-    }
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/arrested/northdragnar/default",
+    "path": "/arrested/bignorthdragnar/default"
   },
   {
     "op": "add",
-    "path": "/arrested/bignorthdragnar",
-	"value": {
-	  "default": [
-      "Wait, wha? Where'd these damned cuffs come from?!",
-      "I'm not feelin' like fightin' anymore...",
-      "And NOW I'll- Oh? Oh...",
-      "Got to be admittin', ye're tougher than I thought.",
-      "That could've gone WAY better...",
-	  "At least, I wasn't goin' down without a fight.",
-	  "What're ye thinkin' about a best-o'-three, eh? Five?...\nIs that a 'no'?",
-	  "Wait! I've got somethin' to of- GAH, NO! I forgot the loot in me other pants!",
-	  "My day's been fine, until ye peacekeepin' blaggard came in here and ruined it!",
-	  "This's all just a big misunderstandin'! I didn't do nothin'!",
-	  "OW! These cuffs're WAY below me size! Get 'em off, NOW!",
-	  "What?! The fight's over already?",
-	  "I can still beat yer head in with me hands cuffed! Come here!"
-      ]
-    }
+    "path": "/arrested/bignorthdragnar/default/-",
+    "value": "OW! These cuffs're WAY below me size! Get 'em off, NOW!"
   },
   {
     "op": "add",
-    "path": "/completeArrest/northdragnar",
-	"value": {
-	  "default": [
+    "path": "/completeArrest/northdragnar/default",
+    "value": [
       "Should've been stayin' with that guard post...",
       "Someone's had to catch me one day or another...",
       "So, this's what defeat's feelin' like...\nI'M HATIN' IT!",
       "Peacekeepers be damned! We could've done so MUCH without ye lot!",
       "I'm not regrettin' anythin'! Ye hear?",
 	  "So much for bein' a member o' the ^orange;<gangName>^reset;!",
-	  "And no reinforcements! The ^orange;<gangName>^reset; have let me down!",
+	  "And no damn reinforcements! The ^orange;<gangName>^reset; have let me down!",
 	  "Ye're goin' to be sorry, if we're ever crossin' paths again!",
 	  "I've been dreadin' this day...",
 	  "Ye're a better fighter than me... So be it, then."
-      ]
-    }
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/completeArrest/northdragnar/default",
+    "path": "/completeArrest/bignorthdragnar/default"
   },
   {
     "op": "add",
-    "path": "/completeArrest/bignorthdragnar",
-	"value": {
-	  "default": [
-      "Should've been stayin' with that guard post...",
-      "Someone's had to catch me one day or another...",
-      "So, this's what defeat's feelin' like...\nI'M HATIN' IT!",
-      "Peacekeepers be damned! We could've done so MUCH without ye lot!",
-      "I'm not regrettin' anythin'! Ye hear?",
-	  "So much for bein' a member o' the ^orange;<gangName>^reset;!",
-	  "And no reinforcements! The ^orange;<gangName>^reset; have let me down!",
-	  "Ye're goin' to be sorry, if we're ever crossin' paths again!",
-	  "I've been dreadin' this day...",
-	  "Ye're a better fighter than me... So be it, then."
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/reattack/northdragnar",
-	"value": {
-	  "default": [
+    "path": "/reattack/northdragnar/default",
+    "value": [
       "Come back here for me, have ya?",
       "I thought, that ye've tucked yer tail in already!",
       "Ye should've kept runnin'!",
       "Ye're not goin' to be catchin' me this time either!"
-      ]
-    }
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/reattack/northdragnar/default",
+    "path": "/reattack/bignorthdragnar/default"
   },
   {
     "op": "add",
-    "path": "/reattack/bignorthdragnar",
-	"value": {
-	  "default": [
-      "Come back here for me, have ya?",
-      "I thought, that ye've tucked yer tail in already!",
-      "Ye should've kept runnin'!",
-      "Ye're not goin' to be catchin' me this time either!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/killedTarget/northdragnar",
-	"value": {
-	  "default": [
+    "path": "/killedTarget/northdragnar/default",
+    "value": [
       "HA! Ye're not goin' to lock ME up!",
       "The ^orange;<gangName>^reset; ain't givin in today!",
       "'Nother win for the ^orange;<gangName>^reset;, 'nother win for ME!",
       "The fight's over already? Ye've got to be doin' MUCH better than that!"
-      ]
-    }
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/killedTarget/northdragnar/default",
+    "path": "/killedTarget/bignorthdragnar/default"
   },
   {
     "op": "add",
-    "path": "/killedTarget/bignorthdragnar",
-	"value": {
-	  "default": [
-      "HA! Ye're not goin' to lock ME up!",
-      "The ^orange;<gangName>^reset; ain't givin in today!",
-      "'Nother win for the ^orange;<gangName>^reset;, 'nother win for ME!",
-      "The fight's over already? Ye've got to be doin' MUCH better than that!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/lostTarget/northdragnar",
-	"value": {
-	  "default": [
-      "Was I really that fierce-lookin'? Fine with me!",
-      "Givin up and runnin' away, are ya? So much for bein' a Peacekeeper!",
+    "path": "/lostTarget/northdragnar/default",
+    "value": [
+      "Was I really that fierce-lookin'? Fine with me! Ha!",
+      "Givin' up and runnin' away, are ya? So much for bein' a Peacekeeper!",
       "Ohoho! Run, ye cowardin' Peacekeeper! Run!",
-      "Gone? What a damn coward...",
+      "Gone? What a damn coward.",
 	  "They've got to be around here somewhere..."
-      ]
-    }
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/killedTarget/northdragnar/default",
+    "path": "/killedTarget/bignorthdragnar/default"
   },
   {
     "op": "add",
-    "path": "/lostTarget/bignorthdragnar",
-	"value": {
-	  "default": [
-      "Was I really that fierce-lookin'? Fine with me!",
-      "Givin up and runnin' away, are ya? So much for bein' a Peacekeeper!",
-      "Ohoho! Run, ye cowardin' little Peacekeeper! Run!",
-      "Gone? What a damn coward...",
-	  "They've got to be around here somewhere..."
-      ]
-    }
+    "path": "/converse/avian/bignorthdragnar/-",
+    "value": "Ohoho! Run, ye cowardin' little Peacekeeper! Run!"
   }
 ]

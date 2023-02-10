@@ -1,9 +1,8 @@
 [
-  { 
-	"op": "add",
-    "path": "/scriptConfig/dialog/converse/apex",
-    "value": {
-	  "northdragnar": [
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/apex/northdragnar",
+    "value": [
 			"We appreciate the help of your people, North-Dragnar, we really do.",
 			"Have all Dragnar suffered under the rule of these ''Tyrants'' before? ",
 			"We all have our own tyrants to deal with. I'm not complaining about your kind's help with the Miniknog, though.",
@@ -35,40 +34,11 @@
 			"Many of us rebels have lost family and friends to the Miniknog. We won't rest until they're defeated.",
 			"Don't interrupt me, I am busy trying to overthrow an evil regime.",
 			"You seem like you won't cause much of a disturbance. Well, you sort of do, but I'm probably mistaken."
-			],
-	  "bignorthdragnar": [
-			"We appreciate the help of your people, North-Dragnar, we really do.",
-			"Have all Dragnar suffered under the rule of these ''Tyrants'' before? ",
-			"We all have our own tyrants to deal with. I'm not complaining about your kind's help with the Miniknog, though.",
-			"I could've remained under Big Ape's rule of oppression. But I'd rather die, trying to save our people from his iron fist.",
-			"You seem like you could handle yourself out in the field. Would you mind joining us, Dragnar?",
-			"We appreciate the support of your people. In times like these, we need all the help we can get.",
-			"The stories, that Dragnar have written about their uprisings, are some of my favourites. They give me hope...",
-			"It isn't uncommon nowadays, that you North-Dragnar take care of Apex refugees.",
-			"Carving wood has become one of my hobbies, after I visisted a North-Dragnarian village!",
-			"I'm surprised at how effective the bows of your people prove to be in combat.",
-			"Most Apex hate tyranical figures, just as much as you Dragnar do.",
-			"Sorry, but there are no North-Dragnarian units in this camp of ours.",
-			"Those Fero-Tooth raiders mostly leave us rebels alone. That's good. We don't need more trouble than we already have.",
-			"I miss my home. I hope I can return back to it, when all of this is over. I hope...",
-			"Being a rebel isn't the easiest way to live life. But it's far better than enduring the oppression of the Miniknog.",
-			"Do you assist the Grounded too? You know, those Avians that don't believe in Kluex? I could imagine that.",
-			"Big Ape is probably not comparable to these ''Tyrants'', that plagued your people. Nonetheless, Big Ape is still a tyrant.",
-			"You look like someone who lost their home, too.",
-			"How did these ''Tyrants'' treat your people? On second thought, don't tell me...",
-			"Are you here to support our never-ending struggle against the Miniknog?",
-			"We may be on the run from the Miniknog, but I've never felt so free!",
-			"The Miniknog call us insurgents, but we are freedom fighters!",
-			"We fight for the freedom of our people. What do you fight for?",
-			"Times have never been tougher, but we must not lose hope.",
-			"I wonder what Big Ape looks like in person.",
-			"I bet Big Ape isn't even that big.",
-			"You must know about the plight of the Apex, is that correct?",
-			"How much do you know about the Miniknog? They rule the Apex people, but they are cruel and brutal.",
-			"Many of us rebels have lost family and friends to the Miniknog. We won't rest until they're defeated.",
-			"Don't interrupt me, I am busy trying to overthrow an evil regime.",
-			"You seem like you won't cause much of a disturbance. Well, you sort of do, but I'm probably mistaken."
-	  ]
-    }
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/scriptConfig/dialog/converse/apex/northdragnar",
+    "path": "/scriptConfig/dialog/converse/apex/bignorthdragnar"
   }
 ]

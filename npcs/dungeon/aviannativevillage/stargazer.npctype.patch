@@ -1,26 +1,30 @@
 [
+  [{
+    "op" : "test",
+    "path" : "/dialog/converse",
+    "inverse" : true
+  },
   {
-	"op": "add",
-	"path": "/dialog/converse/avian",
-	"value": {
-	  "northdragnar": [
-            "Listen, North-Dragnar, to the word of Kluex! Tremble at his winged might! Marvel at his clawed compassion!",
-            "I am a Stargazer, herald of Kluex! You shall pay proper respect to his priests and disciples in their pressence!",
-			"Do not fret, nonbeliever, our merciful god, Kluex, will allow you his grace on this day!",
-            "Cherish the occasions, where Kluex will allow something good to happen to your people, for they will be few.",
-            "Your kind can never truly be followers of our god, Kluex. But we will tolerate your visit here, as long as you do not cause trouble.",
-            "You are not from around here. As long as you respect the laws of Kluex then we have no quarrel with you.",
-			"Heed my warning, Dragnar, if you dare to disrepect the mighty Kluex, then we shall punish you in his divine name!"
-		],
-	  "bignorthdragnar": [
-            "Listen, North-Dragnar, to the word of Kluex! Tremble at his winged might! Marvel at his clawed compassion!",
-            "I am a Stargazer, herald of Kluex! You shall pay proper respect to his priests and disciples in their pressence!",
-			"Do not fret, nonbeliever, our merciful god, Kluex, will allow you his grace on this day!",
-            "Cherish the occasions, where Kluex will allow something good to happen to your people, for they will be few.",
-            "Your kind can never truly be followers of our god, Kluex. But we will tolerate your visit here, as long as you do not cause trouble.",
-            "You are not from around here. As long as you respect the laws of Kluex then we have no quarrel with you.",
-			"Heed my warning, Dragnar, if you dare to disrepect the mighty Kluex, then we shall punish you in his divine name!"
-		]
-	}
-  }
+    "op" : "add",
+    "path" : "/dialog/converse",
+    "value" : []
+  }],
+ [{
+  "op": "add",
+  "path": "/dialog/converse/avian/northdragnar",
+  "value": [
+   "Listen, North-Dragnar, to the word of Kluex! Tremble at his winged might! Marvel at his clawed compassion!",
+   "I am a Stargazer, herald of Kluex! You shall pay proper respect to his priests and disciples in their pressence!",
+   "Do not fret, nonbeliever, our merciful god, Kluex, will allow you his grace on this day!",
+   "Cherish the occasions, where Kluex will allow something good to happen to your people, for they will be few.",
+   "Your kind can never truly be followers of our god, Kluex. But we will tolerate your visit here, as long as you do not cause trouble.",
+   "You are not from around here. As long as you respect the laws of Kluex then we have no quarrel with you.",
+   "Heed my warning, Dragnar, if you dare to disrepect the mighty Kluex, then we shall punish you in his divine name!"
+   ]
+  },
+  {
+    "op": "copy",
+    "from": "/dialog/converse/avian/northdragnar",
+    "path": "/dialog/converse/avian/bignorthdragnar"
+  }]
 ]

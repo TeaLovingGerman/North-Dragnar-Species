@@ -5,13 +5,13 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "headwear",
-  "description" : "",
+  "description" : "Chain mail fastened on the inside of a Dragnar's skull.",
   "shortdescription" : "Ring-Chained Skull",
   "tooltipKind" : "armor",
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
   "mask" : "mask.png",
-   
+  "builder" : "/armorAdapt/armorAdaptBuilder.lua",
   "colorOptions" : [
     // GREY
     { "ffca8a" : "b5b5b5", "e0975c" : "808080", "a85636" : "555555", "6f2919" : "303030" },

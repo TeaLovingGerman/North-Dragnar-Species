@@ -8,13 +8,10 @@
   "description" : "A combination of various brass pieces. These are usually worn by North-Dragnar on very special occasions.",
   "shortdescription" : "Ceremonial Headpieces",
   "tooltipKind" : "armor",
-  "maleFrames" : "head.png",
-  "femaleFrames" : "head.png",
+  "maleFrames" : "headm.png",
+  "femaleFrames" : "headf.png",
   "mask" : "mask.png",
-  
   "builder" : "/armorAdapt/armorAdaptBuilder.lua",
-   
-   
   "colorOptions" : [
     // POLISHED BRASS
     { "ffca8a" : "f0ce48", "e0975c" : "b58919", "a85636" : "613b05", "6f2919" : "361d04" },

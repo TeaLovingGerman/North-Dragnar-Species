@@ -1,586 +1,383 @@
 [
   {
 	"op": "add",
-	"path": "/share_secret/pleaseTakeReply/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/share_secret/pleaseTakeReply/northdragnar/default",
+    "value" : [
 		"Could ye take this reply here back to <questGiver> for me?"
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/share_secret/pleaseTakeReply/northdragnar/default",
+    "path": "/share_secret/pleaseTakeReply/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/share_secret/pleaseTakeReply/bignorthdragnar",
-	"value": {
-	  "default": [
-		"Could ye take this reply here back to <questGiver> for me?"
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/intimidate/intimidated/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/intimidate/intimidated/northdragnar/default",
+    "value" : [
 		"A <item>?! Hold on! Tell <questGiver> that I'll do what they want!",
 		"Ye didn't need to brin' a <item>! <questGiver> could've just asked me, damnit!",
-		"Ye're kiddin'! A <item>?! I'll do what <questGiver> wants. Just... Put that damned thin' away!"
-	  ]
-	}
+		"Ye're kiddin'! A <item>?! I'll do what <questGiver> wants. Just... put that damned thin' away!"
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/intimidate/intimidated/northdragnar/default",
+    "path": "/intimidate/intimidated/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/intimidate/intimidated/bignorthdragnar",
-	"value": {
-	  "default": [
-		"A <item>?! Hold on! Tell <questGiver> that I'll do what they want!",
-		"Ye didn't need to brin' a <item>! <questGiver> could've just asked me, damnit!",
-		"Ye're kiddin'! A <item>?! I'll do what <questGiver> wants. Just... Put that damned thin' away!"
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/intimidate/notIntimidated/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/intimidate/notIntimidated/northdragnar/default",
+    "value" : [
 		"<questGiver> sent ya? Well, I won't be complyin' any time soon!",
 		"Ha! Tryin' to intimidate me, are ya? <questGiver>'s got to do much better than sendin' ye!"
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/intimidate/notIntimidated/northdragnar/default",
+    "path": "/intimidate/notIntimidated/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/intimidate/notIntimidated/bignorthdragnar",
-	"value": {
-	  "default": [
-		"<questGiver> sent ya? Well, I won't be complyin' any time soon!",
-		"Ha! Tryin' to intimidate me, are ya? <questGiver>'s got to do much better than sendin' ye!"
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/bribe/giftAccepted/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/bribe/giftAccepted/northdragnar/default",
+    "value" : [
 		"<questGiver>'s bribin' me? I'll accept it. Just this once.",
 		"A bribe from <questGiver>? Alright, tell <questGiver>, that I'll be lookin' the other way, for now.",
 		"<questGiver> sent ya? I usually ain't acceptin' bribes, but I'm needin' this..."
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/bribe/giftAccepted/northdragnar/default",
+    "path": "/bribe/giftAccepted/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/bribe/giftAccepted/bignorthdragnar",
-	"value": {
-	  "default": [
-		"<questGiver>'s bribin' me? I'll accept it. Just this once.",
-		"A bribe from <questGiver>? Alright, tell <questGiver>, that I'll be lookin' the other way, for now.",
-		"<questGiver> sent ya? I usually ain't acceptin' bribes, but I'm needin' this..."
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/bribe/giftAccepted2/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/bribe/giftAccepted2/northdragnar/default",
+    "value" : [
 		"What's <questGiver> wantin' from me...",
 		"What's <questGiver> plannin' now?"
-		
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/bribe/giftAccepted2/northdragnar/default",
+    "path": "/bribe/giftAccepted2/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/bribe/giftAccepted2/bignorthdragnar",
-	"value": {
-	  "default": [
-		"What's <questGiver> wantin' from me...",
-		"What's <questGiver> plannin' now?"
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/bribe/requestAdditionToHouse/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/bribe/requestAdditionToHouse/northdragnar/default",
+    "value" : [
 		"This'll look good in me home! Would ye mind placin' it here?",
 		"This ''gift'' would be a fine addition to me home. Could ye put in here for me?"
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/bribe/requestAdditionToHouse/northdragnar/default",
+    "path": "/bribe/requestAdditionToHouse/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/bribe/requestAdditionToHouse/bignorthdragnar",
-	"value": {
-	  "default": [
-		"This'll look good in me home! Would ye mind placin' it here?",
-		"This ''gift'' would be a fine addition to me home. Could ye put in here for me?"
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/gift/giftAccepted/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/gift/giftAccepted/northdragnar/default",
+    "value" : [
 		"How nice o' <questGiver>! Do thank 'em for me, if ye have the time.",
 		"Now that's a nice-lookin' gift right here! Thank <questGiver> for me, will ya?"
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/gift/giftAccepted/northdragnar/default",
+    "path": "/gift/giftAccepted/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/gift/giftAccepted/bignorthdragnar",
-	"value": {
-	  "default": [
-		"How nice o' <questGiver>! Do thank 'em for me, if ye have the time.",
-		"Now that's a nice-lookin' gift right here! Thank <questGiver> for me, will ya?"
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/gift/giftAccepted2/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/gift/giftAccepted2/northdragnar/default",
+    "value" : [
 		"<questGiver>'s a good friend.",
 		"I'm feelin' true kinship with <questGiver>!"
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/gift/giftAccepted2/northdragnar/default",
+    "path": "/gift/giftAccepted2/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/gift/giftAccepted2/bignorthdragnar",
-	"value": {
-	  "default": [
-		"<questGiver>'s a good friend.",
-		"I'm feelin' true kinship with <questGiver>!"
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/gift/requestAdditionToHouse/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/gift/requestAdditionToHouse/northdragnar/default",
+    "value" : [
 		"This'll look good in me home! Would ye mind placin' it here?",
 		"This gift'd be a fine addition to me home. Could ye put in here for me?"
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/gift/requestAdditionToHouse/northdragnar/default",
+    "path": "/gift/requestAdditionToHouse/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/gift/requestAdditionToHouse/bignorthdragnar",
-	"value": {
-	  "default": [
-		"This'll look good in me home! Would ye mind placin' it here?",
-		"This gift'd be a fine addition to me home. Could ye put in here for me?"
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/return_stolen/objectTaken/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/return_stolen/objectTaken/northdragnar/default",
+    "value" : [
 		"The <item>? That ain't stolen! I- Damnit, just take it with ye and leave me be...",
-		"This <item>'s brought me enough trouble as is. Just... Just take it already."
-	  ]
-	}
+		"This <item>'s brought me enough trouble as is. Just- just take it already."
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/return_stolen/objectTaken/northdragnar/default",
+    "path": "/return_stolen/objectTaken/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/return_stolen/objectTaken/bignorthdragnar",
-	"value": {
-	  "default": [
-		"The <item>? That ain't stolen! I- Damnit, just take it with ye and leave me be...",
-		"This <item>'s brought me enough trouble as is. Just... Just take it already."
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/collect_fine/fineCollected/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/collect_fine/fineCollected/northdragnar/default",
+    "value" : [
 		"Alright, I'll pay the damn fine!",
 		"Sure, I'm payin' the fine. I've got enough trouble on me hands already."
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/collect_fine/fineCollected/northdragnar/default",
+    "path": "/collect_fine/fineCollected/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/collect_fine/fineCollected/bignorthdragnar",
-	"value": {
-	  "default": [
-		"Alright, I'll pay the damn fine!",
-		"Sure, I'm payin' the fine. I've got enough trouble on me hands already."
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/collect_gift/giftProvided/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/collect_gift/giftProvided/northdragnar/default",
+    "value" : [
 		"Here's the <item> ye need. Should be just what <questGiver>'s needin'.",
 		"<questGiver>'s hopefully goin' to like this <item>."
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/collect_gift/giftProvided/northdragnar/default",
+    "path": "/collect_gift/giftProvided/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/collect_gift/giftProvided/bignorthdragnar",
-	"value": {
-	  "default": [
-		"Here's the <item> ye need. Should be just what <questGiver>'s needin'.",
-		"<questGiver>'s hopefully goin' to like this <item>."
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/request_craft/giftProvided/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/request_craft/giftProvided/northdragnar/default",
+    "value" : [
 		"Ye're needin' this <item>? I've already got it here with me!",
 		"This here's the <item> I've been workin' on. Take it!"
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/request_craft/giftProvided/northdragnar/default",
+    "path": "/request_craft/giftProvided/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/request_craft/giftProvided/bignorthdragnar",
-	"value": {
-	  "default": [
-		"Ye're needin' this <item>? I've already got it here with me!",
-		"This here's the <item> I've been workin' on. Take it!"
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/borrow/giftProvided/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/borrow/giftProvided/northdragnar/default",
+    "value" : [
 		"I swear, if <questGiver> ain't returnin' this <item> soon, I'll be takin' it back meself!",
 		"If it ain't for too lon', <questGiver> can have the <item>."
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/borrow/giftProvided/northdragnar/default",
+    "path": "/borrow/giftProvided/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/borrow/giftProvided/bignorthdragnar",
-	"value": {
-	  "default": [
-		"I swear, if <questGiver> ain't returnin' this <item> soon, I'll be takin' it back meself!",
-		"If it ain't for too lon', <questGiver> can have the <item>."
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/extort/giftProvided/northdragnar",
-	"value": {
-	  "default": [
-		"<questGiver>'s an honourless blaggard! Take the <item> and leave me be already!",
+	"path": "/extort/giftProvided/northdragnar/default",
+    "value" : [
+		"<questGiver>, that honourless blaggard! Take the <item> and leave me be already!",
 		"<questGiver>'s goin' to regret this sooner or later..."
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/extort/giftProvided/northdragnar/default",
+    "path": "/extort/giftProvided/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/extort/giftProvided/bignorthdragnar",
-	"value": {
-	  "default": [
-		"<questGiver>'s an honourless blaggard! Take the <item> and leave me be already!",
-		"<questGiver>'s goin' to regret this sooner or later..."
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/hat/crafting/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/hat/crafting/northdragnar/default",
+    "value" : [
 		"It's lookin', like ye've got the materials! Give me a moment...",
 		"That'd be all we need! Just hold on a sec..."
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/hat/crafting/northdragnar/default",
+    "path": "/hat/crafting/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/hat/crafting/bignorthdragnar",
-	"value": {
-	  "default": [
-		"It's lookin', like ye've got the materials! Give me a moment...",
-		"That'd be all we need! Just hold on a sec..."
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/hat/crafted/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/hat/crafted/northdragnar/default",
+    "value" : [
 		"There ye go! <questGiver> should be likin' this new hat.",
 		"Done! Could ye brin' this noggin-warmer here to <questGiver>?"
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/hat/crafted/northdragnar/default",
+    "path": "/hat/crafted/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/hat/crafted/bignorthdragnar",
-	"value": {
-	  "default": [
-		"There ye go! <questGiver> should be likin' this new hat.",
-		"Done! Could ye brin' this noggin-warmer here to <questGiver>?"
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/helmet/crafting/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/helmet/crafting/northdragnar/default",
+    "value" : [
 		"It's lookin' like ye've got the materials! Give me a moment...",
 		"That'd be all we need! Just hold on a sec..."
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/helmet/crafting/northdragnar/default",
+    "path": "/helmet/crafting/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/helmet/crafting/bignorthdragnar",
-	"value": {
-	  "default": [
-		"It's lookin' like ye've got the materials! Give me a moment...",
-		"That'd be all we need! Just hold on a sec..."
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/helmet/crafted/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/helmet/crafted/northdragnar/default",
+    "value" : [
 		"There ye go! <questGiver> should be likin' this new helmet.",
 		"Done! Could ye brin' this noggin-shielder here to <questGiver>?"
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/helmet/crafted/northdragnar/default",
+    "path": "/helmet/crafted/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/helmet/crafted/bignorthdragnar",
-	"value": {
-	  "default": [
-		"There ye go! <questGiver> should be likin' this new helmet.",
-		"Done! Could ye brin' this noggin-shielder here to <questGiver>?"
-	  ]
-	}
+	"path": "/new_stock/trade/northdragnar/default",
+    "value" : [
+		"Thank ye for the delivery! Here's what <questGiver>'s needin'."
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/new_stock/trade/northdragnar/default",
+    "path": "/new_stock/trade/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/new_stock/trade/northdragnar",
-	"value": {
-	  "default": [
-		"Thank ye for the delivery! Here's what <questGiver>' needin'."
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/new_stock/trade/bignorthdragnar",
-	"value": {
-	  "default": [
-		"Thank ye for the delivery! Here's what <questGiver>' needin'."
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/kidnapping/kidnappersDead/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/kidnapping/kidnappersDead/northdragnar/default",
+    "value" : [
 		"I'll be damned! Someone's come to rescue me!",
 		"Thanks, I don't know how lon' I could've been endurin' this."
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/kidnapping/kidnappersDead/northdragnar/default",
+    "path": "/kidnapping/kidnappersDead/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/kidnapping/kidnappersDead/bignorthdragnar",
-	"value": {
-	  "default": [
-		"I'll be damned! Someone's come to rescue me!",
-		"Thanks, I don't know how lon' I could've been endurin' this."
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/kidnapping/followHome/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/kidnapping/followHome/northdragnar/default",
+    "value" : [
 		"Would ye mind escortin' me back home to <questGiver>?",
 		"I really ain't the fightin' type. Could ye take me back to <questGiver>?"
-	  ]
-	}
+    ]
   },
   {
 	"op": "add",
-	"path": "/kidnapping/followHome/bignorthdragnar",
-	"value": {
-	  "default": [
+	"path": "/kidnapping/followHome/bignorthdragnar/default",
+    "value" : [
 		"Would ye mind escortin' me back home to <questGiver>?",
 		"Sure, I'm big, but I really ain't the fightin' type. Could ye take me back to <questGiver>?"
-	  ]
-	}
+    ]
   },
   {
 	"op": "add",
-	"path": "/escort/found/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/escort/found/northdragnar/default",
+    "value" : [
 		"I'm hatin' to admit this, but I've got meself lost. Do ye know the way back to <questGiver>?",
 		"It's hard to be findin' yer way around here with no waypointers. Could ye show me the way back home?"
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/escort/found/northdragnar/default",
+    "path": "/escort/found/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/escort/found/bignorthdragnar",
-	"value": {
-	  "default": [
-		"I'm hatin' to admit this, but I've got meself lost. Do ye know the way back to <questGiver>?",
-		"It's hard to be findin' yer way around here with no waypointers. Could ye show me the way back home?"
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/barter/trade/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/barter/trade/northdragnar/default",
+    "value" : [
 		"Ye're here for <questGiver>'s <receivedItems>? Sure, here. Thank ye for the goods!"
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/barter/trade/northdragnar/default",
+    "path": "/barter/trade/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/barter/trade/bignorthdragnar",
-	"value": {
-	  "default": [
-		"Ye're here for <questGiver>'s <receivedItems>? Sure, here. Thank ye for the goods!"
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/escort_trade/collectDelivery/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/escort_trade/collectDelivery/northdragnar/default",
+    "value" : [
 		"Do ye have a delivery for me?",
 		"Have ye got the delivery?"
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/escort_trade/collectDelivery/northdragnar/default",
+    "path": "/escort_trade/collectDelivery/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/escort_trade/collectDelivery/bignorthdragnar",
-	"value": {
-	  "default": [
-		"Do ye have a delivery for me?",
-		"Have ye got the delivery?"
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/escort_trade/provideDelivery/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/escort_trade/provideDelivery/northdragnar/default",
+    "value" : [
 		"I've got the goods ye wanted right here with me!",
 		"Here's the goods, just like we've agreed on."
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/escort_trade/provideDelivery/northdragnar/default",
+    "path": "/escort_trade/provideDelivery/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/escort_trade/provideDelivery/bignorthdragnar",
-	"value": {
-	  "default": [
-		"I've got the goods ye wanted right here with me!",
-		"Here's the goods, just like we've agreed on."
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/kill_npcs/assistantIntro/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/kill_npcs/assistantIntro/northdragnar/default",
+    "value" : [
 		"I'm owin' <questGiver> a big favour. I'll be helpin' ye with strikin' the <enemy> down.",
 		"Lo! <questGiver> sent me to help ye with those troublin' <enemy>."
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/kill_npcs/assistantIntro/northdragnar/default",
+    "path": "/kill_npcs/assistantIntro/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/kill_npcs/assistantIntro/bignorthdragnar",
-	"value": {
-	  "default": [
-		"I'm owin' <questGiver> a big favour. I'll be helpin' ye with strikin' the <enemy> down.",
-		"Lo! <questGiver> sent me to help ye with those troublin' <enemy>."
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/kill_npc/surrender/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/kill_npc/surrender/northdragnar/default",
+    "value" : [
 		"I'm surrenderin'! Have mercy!",
 		"Put yer weapons away! We can talk this out!",
 		"Sheathe yer weapons! I know when I've been beaten."
-	  ]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/kill_npc/surrender/northdragnar/default",
+    "path": "/kill_npc/surrender/bignorthdragnar/default"
   },
   {
 	"op": "add",
-	"path": "/kill_npc/surrender/bignorthdragnar",
-	"value": {
-	  "default": [
-		"I'm surrenderin'! Have mercy!",
-		"Put yer weapons away! We can talk this out!",
-		"Sheathe yer weapons! I know when I've been beaten."
-	  ]
-	}
-  },
-  {
-	"op": "add",
-	"path": "/kill_npc/betray/northdragnar",
-	"value": {
-	  "default": [
+	"path": "/kill_npc/betray/northdragnar/default",
+    "value" : [
 		"Aha! Ye're nothin' short o' bein' naive!",
 		"Ye really thought, that I'd be givin' up that easily?",
 		"Ye're trustin' the wron' kind o' people."
-	  ]
-	}
+    ]
   },
   {
-	"op": "add",
-	"path": "/kill_npc/betray/bignorthdragnar",
-	"value": {
-	  "default": [
-		"Aha! Ye're nothin' short o' bein' naive!",
-		"Ye really thought, that I'd be givin' up that easily?",
-		"Ye're trustin' the wron' kind o' people."
-	  ]
-	}
+    "op": "copy",
+    "from": "/kill_npc/betray/northdragnar/default",
+    "path": "/kill_npc/betray/bignorthdragnar/default"
   }
 ]
-  

@@ -1,0 +1,15 @@
+{
+  "itemName" : "ndpalisade",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "ndpalisade.png",
+  "shortdescription" : "Large Palisade",
+  "description" : "These palisades are made of especially tough wood.",
+  "glitchDescription" : "Pleased. Palisades made of such dense wood prove to be a good defense.",
+  "floranDescription" : "Large pointy stickss of wood. Too large for Floran to ssstab with.",
+  "novakidDescription" : "A pretty effective way o' defendin' a fort.",
+  "northdragnarDescription" : "Forests full o' tough wooden trees allowed us to set up a lot o' these palisades in our settlements.",
+  "bignorthdragnarDescription" : "Forests full o' tough wooden trees allowed us to set up a lot o' these palisades in our settlements.",
+  "materialId" : 3000
+}

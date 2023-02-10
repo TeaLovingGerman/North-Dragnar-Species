@@ -1,26 +1,21 @@
 [
   {
     "op": "add",
-    "path": "/scriptConfig/dialog/converse/default",
-	"value": {
-	  "northdragnar": [
+    "path": "/scriptConfig/dialog/converse/default/northdragnar",
+    "value": [
             "Luckily, I'm used to these hot conditions!",
             "There must be something you need on this planet, otherwise you wouldn't come here.",
             "Welcome to the desert!",
             "If you like sand, you're in the right place.",
+			"You look like you'd prefer snow over all this sand.",
             "It's pretty dry here, huh? I don't mind it, myself.",
             "It's pretty hot out there.",
 			"All that fur you have must be pretty inconvenient, on a planet like this one."
-		],
-	  "bignorthdragnar": [
-            "Luckily, I'm used to these hot conditions!",
-            "There must be something you need on this planet, otherwise you wouldn't come here.",
-            "Welcome to the desert!",
-            "If you like sand, you're in the right place.",
-            "It's pretty dry here, huh? I don't mind it, myself.",
-            "It's pretty hot out there.",
-			"All that fur you have must be pretty inconvenient, on a planet like this one."
-		]
-    }
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/scriptConfig/dialog/converse/default/northdragnar",
+    "path": "/scriptConfig/dialog/converse/default/bignorthdragnar"
   }
 ]

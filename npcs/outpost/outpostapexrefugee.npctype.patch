@@ -1,14 +1,16 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/dialog/converse/apex",
-    "value": {
-	  "northdragnar": [
+    "path": "/scriptConfig/dialog/converse/apex/northdragnar",
+    "value": [
 			"Oh? A North-Dragnar? I come from an Apex refugee camp. Though, I do know a few Apex, that live in refugee camps, set up by your people."
-		],
-	  "bignorthdragnar": [
+      ]
+    },
+	{
+	"op": "add",
+    "path": "/scriptConfig/dialog/converse/apex/bignorthdragnar",
+    "value": [
 			"Oh? A North-Dragnar? I come from an Apex refugee camp. Though, I do know a few Apex, that live in refugee camps, set up by your people."
-	  ]
-    }
-  }
+      ]
+	}
 ]

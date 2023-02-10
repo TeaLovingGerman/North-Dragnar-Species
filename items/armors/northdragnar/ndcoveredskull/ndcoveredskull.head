@@ -11,7 +11,7 @@
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
   "mask" : "mask.png",
-   
+  "builder" : "/armorAdapt/armorAdaptBuilder.lua",
   "colorOptions" : [
     // DARK PINE GREEN
     { "ffca8a" : "6a853c", "e0975c" : "4e5f1c", "a85636" : "313908", "6f2919" : "121300" },

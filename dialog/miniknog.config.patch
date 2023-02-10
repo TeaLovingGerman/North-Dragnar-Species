@@ -1,9 +1,8 @@
 [  
   {  
     "op" : "add",
-    "path" : "/converse/default",
-    "value" : {  
-      "northdragnar" : [  
+    "path" : "/converse/default/northdragnar",
+    "value": [
         "We're watching you closely, Dragnar",
         "You better keep ''tyrant'' and our great leader Big Ape out of the same sentence.",
         "Watch yourself, Dragnar. this is Miniknog territory, Big Ape's territory.",
@@ -17,23 +16,16 @@
         "No force in this universe can equal the Miniknog!",
         "You can pass through, stranger. Just don't cause any trouble.",
         "The Miniknog are powerful, stranger. You'd do well to respect us."
-	  ],
-	  "bignorthdragnar" : [
-        "We're watching you closely, Dragnar",
-        "You better keep ''tyrant'' and our great leader Big Ape out of the same sentence.",
-        "Watch yourself, Dragnar. this is Miniknog territory, Big Ape's territory.",
-        "If you cause trouble, the Miniknog will deal with you, swiftly.",
-		"Keep your tyrant-talk to yourself.",
-		"Do not even think of starting a fight.",
-        "Independence is slavery. Subservience is strength.",
-        "As long as you don't make a scene, you won't get hurt around here.",
-        "Don't alarm anyone here. In fact, try not to make much noise at all.",
-        "The Miniknog are strong, and Big Ape is watching.",
-        "No force in this universe can equal the Miniknog!",
-        "You can pass through, stranger. Just don't cause any trouble.",
-        "The Miniknog are powerful, stranger. You'd do well to respect us.",
-		"Do not cause any trouble, that extra height of yours only makes you a bigger target."
-      ]
-    }
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/converse/default/northdragnar",
+    "path": "/converse/default/bignorthdragnar"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/bignorthdragnar/-",
+    "value": "Do not cause any trouble. That extra height of yours only makes you a bigger target."
   }
 ]

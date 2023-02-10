@@ -1,76 +1,48 @@
 [
-	{
-		"op": "add",
-		"path": "/scriptConfig/dialog/merchant/start/northdragnar",
-		"value": {
-			"default": [
+  { 
+	"op": "add",
+    "path": "/scriptConfig/dialog/merchant/start/northdragnar/default",
+    "value": [
 				"Don't be fearin' the night, go with a light!",
 				"I can help with enlightenin' yer home with me range o' products!",
 				"Need a light? Then ye're right!",
 				"I'm sellin' a variety o' light sources! There's bound to be one to yer likin'!",
 				"Don't ye feel safer in the light? I sure do! And I've got loads o' it for sale!",
 				"Brin' some light into yer home, to be maintainin' its beauty durin' the dark!"
-			]
-		}
-	},
-	{
-		"op": "add",
-		"path": "/scriptConfig/dialog/merchant/start/bignorthdragnar",
-		"value": {
-			"default": [
-				"Don't be fearin' the night, go with a light!",
-				"I can help with enlightenin' yer home with me range o' products!",
-				"Need a light? Then ye're right!",
-				"I'm sellin' a variety o' light sources! There's bound to be one to yer likin'!",
-				"Don't ye feel safer in the light? I sure do! And I've got loads o' it for sale!",
-				"Brin' some light into yer home, to be maintainin' its beauty durin' the dark!"
-			]
-		}
-	},
-	{
-		"op": "add",
-		"path": "/scriptConfig/dialog/merchant/welcome/northdragnar",
-		"value": {
-			"default": [
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/scriptConfig/dialog/merchant/start/northdragnar/default",
+    "path": "/scriptConfig/dialog/merchant/start/bignorthdragnar/default"
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/dialog/merchant/welcome/northdragnar/default",
+    "value": [
 				"Alright, which o' these lamps'd be fittin' best for yer decoratin' plans?",
 				"Welcome to me store! Here're all the lights I got for sale!",
 				"Are any o' these lights peakin' yer interest? If so, just tell me!"
-			]
-		}
-	},
-	{
-		"op": "add",
-		"path": "/scriptConfig/dialog/merchant/start/bignorthdragnar",
-		"value": {
-			"default": [
-				"Alright, which o' these lamps'd be fittin' best for yer decoratin' plans?",
-				"Welcome to me store! Here're all the lights I got for sale!",
-				"Are any o' these lights peakin' yer interest? If so, just tell me!"
-			]
-		}
-	},
-	{
-		"op": "add",
-		"path": "/scriptConfig/dialog/merchant/end/northdragnar",
-		"value": {
-			"default": [
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/scriptConfig/dialog/merchant/welcome/northdragnar/default",
+    "path": "/scriptConfig/dialog/merchant/welcome/bignorthdragnar/default"
+  },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/dialog/merchant/end/northdragnar/default",
+    "value": [
 				"I'll be here, if ye're ever in need o' more lights!",
 				"I'm lookin' forward to be doin' more business with ya!",
 				"Be sure to check back, once ye're needin' more lights!",
 				"Come back, when yer home's needin' more enlightment!"
-			]
-		}
-	},
-	{
-		"op": "add",
-		"path": "/scriptConfig/dialog/merchant/start/bignorthdragnar",
-		"value": {
-			"default": [
-				"I'll be here, if ye're ever in need o' more lights!",
-				"I'm lookin' forward to be doin' more business with ya!",
-				"Be sure to check back, once ye're needin' more lights!",
-				"Come back, when yer home's needin' more enlightment!"
-			]
-		}
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/scriptConfig/dialog/merchant/end/northdragnar/default",
+    "path": "/scriptConfig/dialog/merchant/end/bignorthdragnar/default"
+  }
 ]

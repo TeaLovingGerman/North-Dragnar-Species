@@ -1,9 +1,8 @@
 [
-	{
-		"op": "add",
-		"path": "/converse/default",
-		"value": {
-			"northdragnar": [
+  {
+    "op": "add",
+    "path": "/converse/default/northdragnar",
+    "value": [
 				"Yer kind got a fierce look about them. I like that!",
 				"Ye North-Dragnar are far from wee cravens. Just like we Alpacas!",
 				"Good tae see some other hardy folks around here!",
@@ -31,37 +30,21 @@
 				"Dinnae cause trouble and we'll treat ye like kin!",
 				"Some hardy stone furniture makes an Alpaca happy, I tell ye!",
 				"Ye dinnae look like a coward. I respect that."
-	  ],
-	  "bignorthdragnar" : [
-				"Yer kind got a fierce look about them. I like that!",
-				"Ye North-Dragnar are far from wee cravens. Just like we Alpacas!",
-				"Good tae see some other hardy folks around here!",
-				"I haven't tried meself at carving wood yet.",
-				"I consider yer kind as kin, I tell ye that!",
-				"I'm itching for a brawl. Ye dinnae mind a wee brawl?",
-				"We Alpacas are carving too. We dinnea carve anything else than tough stone, though.",
-				"Yer kin's always good company!",
-				"I'll tell ye, if I see any raiders around, alright?",
-				"I dinnae see many like ye around, I tell ye that!",
-				"I'm itching tae batter some beasties.",
-				"Are ye a fighter, or a craven?",
-				"I've been a warrior since I was a wee Alpaca.",
-				"I had some wee traveller ask me, if this was a costume...",
-				"Courage is better than keenest durasteel.",
-				"Always have a wee nap when ye can!",
-				"Keep the heid!",
-				"Be keepin' merry, big friend!",
-				"Eat well if ye want te fight well!",
-				"I dinnae care what ye look like, as long as ye strong of heart!",
-				"Do I look like I'm in a costume? Just askin', it dinnae mean anything...",
-				"We both got our fur coats to be keepin' warm.",
-				"I'm itching for a wee fight.",
-				"Do ye get many that look like ye?",
-				"Dinnae cause trouble and we'll treat ye like kin!",
-				"Some hardy stone furniture makes an Alpaca happy, I tell ye!",
-				"Ye dinnae look like a coward. I respect that.",
-				"Ye've been eatin' yer vegetables! Good on ye."
-			]
-		}
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/converse/default/northdragnar",
+    "path": "/converse/default/bignorthdragnar"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/bignorthdragnar/-",
+    "value": "Be keepin' merry, big friend!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/bignorthdragnar/-",
+    "value": "Someone has been eatin' their vegetables! Good on ye."
+  }
 ]

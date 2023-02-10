@@ -1,9 +1,8 @@
 [
   {
     "op": "add",
-    "path": "/converse/northdragnar",
-	"value": {
-	  "default": [
+    "path": "/converse/northdragnar/default",
+    "value" : [
       "Another spacefarer just like meself! Why don't ye rest a bit, while ye're already on baord, eh?",
       "Welcome aboard! I'm hopin' that gettin' here wasn't that hard.",
       "Sailin' through Space ain't nothin' like sailin' on the open seas. Still, I'd say it's pretty damn good.",
@@ -11,46 +10,17 @@
 	  "Ye must've been pilotin' a mech to get here. Been wishin' that I had one meself.",
       "Maintainin' a ship like ours ain't easy, but the more I'm workin' on it, the more I'm gettin' used to it.",
       "Can't wait to be gettin' back on solid ground! It's been quite a journey out here."
-	  ],
-	  "northdragnar": [
-      "Aye, it's good to be seein' one o' me kin out here in Space!",
-      "We normally ain't gettin' many visitors o' our kind on this ship here. Ye're a welcome guest, stranger!",
-      "Another spacefarer just like meself! Why don't ye rest a bit, while ye're already on baord, eh?",
-      "Welcome aboard! I'm hopin' that gettin' here wasn't that hard.",
-      "Sailin' through Space ain't nothin' like sailin' on the open seas. Still, I'd say it's pretty damn good.",
-	  "I know me ways around our ship's machinery.",
-	  "Ye must've been pilotin' a mech to get here. Been wishin' that I had one meself.",
-      "Maintainin' a ship like ours ain't easy, but the more I'm workin' on it, the more I'm gettin' used to it.",
-      "Can't wait to be gettin' back on solid ground! It's been quite a journey out here."
-	  ],
-	  "bignorthdragnar" : [
-      "Aye, it's good to be seein' one o' me kin out here in Space!",
-      "We normally ain't gettin' many visitors o' our kind on this ship here. Ye're a welcome guest, stranger!",
-      "Another spacefarer just like meself! Why don't ye rest a bit, while ye're already on baord, eh?",
-      "Welcome aboard! I'm hopin' that gettin' here wasn't that hard.",
-      "Sailin' through Space ain't nothin' like sailin' on the open seas. Still, I'd say it's pretty damn good.",
-	  "I know me ways around our ship's machinery.",
-	  "Ye must've been pilotin' a mech to get here. Been wishin' that I had one meself.",
-      "Maintainin' a ship like ours ain't easy, but the more I'm workin' on it, the more I'm gettin' used to it.",
-      "Can't wait to be gettin' back on solid ground! It's been quite a journey out here.",
-	  "Careful! Don't want to be bumpin' yer head on the ship's machinery, do ya?"
-      ]
-    }
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/converse/northdragnar/default",
+    "path": "/converse/bignorthdragnar/default"
   },
   {
     "op": "add",
-    "path": "/converse/bignorthdragnar",
-	"value": {
-	  "default": [
-      "Another spacefarer just like meself! Why don't ye rest a bit, while ye're already on baord, eh?",
-      "Welcome aboard! I'm hopin' that gettin' here wasn't that hard.",
-      "Sailin' through Space ain't nothin' like sailin' on the open seas. Still, I'd say it's pretty damn good.",
-	  "I know me ways around our ship's machinery.",
-	  "Ye must've been pilotin' a mech to get here. Been wishin' that I had one meself.",
-      "Maintainin' a ship like ours ain't easy, but the more I'm workin' on it, the more I'm gettin' used to it.",
-      "Can't wait to be gettin' back on solid ground! It's been quite a journey out here."
-	  ],
-	  "northdragnar": [
+    "path": "/converse/northdragnar/northdragnar",
+    "value" : [
       "Aye, it's good to be seein' one o' me kin out here in Space!",
       "We normally ain't gettin' many visitors o' our kind on this ship here. Ye're a welcome guest, stranger!",
       "Another spacefarer just like meself! Why don't ye rest a bit, while ye're already on baord, eh?",
@@ -60,8 +30,17 @@
 	  "Ye must've been pilotin' a mech to get here. Been wishin' that I had one meself.",
       "Maintainin' a ship like ours ain't easy, but the more I'm workin' on it, the more I'm gettin' used to it.",
       "Can't wait to be gettin' back on solid ground! It's been quite a journey out here."
-	  ],
-	  "bignorthdragnar" : [
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/converse/northdragnar/northdragnar",
+    "path": "/converse/bignorthdragnar/northdragnar"
+  },
+  {
+    "op": "add",
+    "path": "/converse/northdragnar/bignorthdragnar",
+    "value" : [
       "Aye, it's good to be seein' one o' me kin out here in Space!",
       "We normally ain't gettin' many visitors o' our kind on this ship here. Ye're a welcome guest, stranger!",
       "Another spacefarer just like meself! Why don't ye rest a bit, while ye're already on baord, eh?",
@@ -71,8 +50,17 @@
 	  "Ye must've been pilotin' a mech to get here. Been wishin' that I had one meself.",
       "Maintainin' a ship like ours ain't easy, but the more I'm workin' on it, the more I'm gettin' used to it.",
       "Can't wait to be gettin' back on solid ground! It's been quite a journey out here.",
-	  "Watch yer head around the ship. Me head already had a few meetin's with the ship's lower parts."
-      ]
-    }
+	  "Careful! Don't want to be bumpin' yer head on the ship's insides, do ya?"
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/converse/northdragnar/bignorthdragnar",
+    "path": "/converse/bignorthdragnar/bignorthdragnar"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/bignorthdragnar/-",
+    "value": "Watch yer head around the ship. Me head already had a few meetin's with the ship's lower parts."
   }
 ]

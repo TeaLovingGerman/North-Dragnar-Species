@@ -1,110 +1,71 @@
 [  
   {  
     "op" : "add",
-    "path" : "/tagCriteria/northdragnar",
-    "value" : {  
-      "default" : [  
+    "path" : "/tagCriteria/northdragnar/default",
+    "value" : [
         "This ain't what I'm used to...",
 		"This just doesn't feel right."
-      ]
-    }
+    ]
   },
-  {  
-    "op" : "add",
-    "path" : "/tagCriteria/bignorthdragnar",
-    "value" : {  
-      "default" : [  
-        "This ain't what I'm used to...",
-		"This just doesn't feel right."
-      ]
-    }
+  {
+    "op": "copy",
+    "from": "/tagCriteria/northdragnar/default",
+    "path": "/tagCriteria/bignorthdragnar/default"
   },
-  {  
+  {
     "op" : "add",
-    "path" : "/enclosedArea/northdragnar",
-    "value" : {  
-      "default" : [  
+    "path" : "/enclosedArea/northdragnar/default",
+    "value" : [
         "I'm thinkin', that there might be a leak or two here.",
 		"This's feelin' about as comfortable as a leakin' ship on the sea..."
-      ]
-    }
+    ]
   },
-  {  
-    "op" : "add",
-    "path" : "/enclosedArea/bignorthdragnar",
-    "value" : {  
-      "default" : [  
-        "I'm thinkin', that there might be a leak or two here.",
-		"This's feelin' about as comfortable as a leakin' ship on the sea..."
-      ]
-    }
+  {
+    "op": "copy",
+    "from": "/enclosedArea/northdragnar/default",
+    "path": "/enclosedArea/bignorthdragnar/default"
   },
-  {  
+  {
     "op" : "add",
-    "path" : "/otherDeed/northdragnar",
-    "value" : {  
-      "default" : [  
+    "path" : "/otherDeed/northdragnar/default",
+    "value" : [
         "Got nothin' against sharin', but I do need some place for meself too.",
         "What's that other deed there for?",
 		"Can't I have a room for meself for once?"
-      ]
-    }
+    ]
   },
-  {  
-    "op" : "add",
-    "path" : "/otherDeed/bignorthdragnar",
-    "value" : {  
-      "default" : [  
-        "Got nothin' against sharin', but I do need some place for meself too.",
-        "What's that other deed there for?",
-		"Can't I have a room for meself for once?"
-      ]
-    }
+  {
+    "op": "copy",
+    "from": "/otherDeed/northdragnar/default",
+    "path": "/otherDeed/bignorthdragnar/default"
   },
-  {  
+  {
     "op" : "add",
-    "path" : "/severe/northdragnar",
-    "value" : {  
-      "default" : [  
+    "path" : "/severe/northdragnar/default",
+    "value" : [
         "I might abandon ship, if ye don't plan on fixin' this.",
         "This really ain't lookin' good. Would ye mind fixin' this?",
 		"We do have openin's for airin' our homes, but this's just too much."
-      ]
-    }
+    ]
   },
-  {  
-    "op" : "add",
-    "path" : "/severe/bignorthdragnar",
-    "value" : {  
-      "default" : [  
-        "I might abandon ship, if ye don't plan on fixin' this.",
-        "This really ain't lookin' good. Would ye mind fixin' this?",
-		"We do have openin's for airin' our homes, but this's just too much."
-      ]
-    }
+  {
+    "op": "copy",
+    "from": "/severe/northdragnar/default",
+    "path": "/severe/bignorthdragnar/default"
   },
-  {  
+  {
     "op" : "add",
-    "path" : "/final/northdragnar",
-    "value" : {  
-      "default" : [  
+    "path" : "/final/northdragnar/default",
+    "value" : [
         "I can only be takin' so much nonesense. I'm leavin'!",
         "I'd rather be on a sinkin' ship than here! Speakin' o'...",
 		"I've had enough! I'm abandonin' ship!",
 		"This place be damned! I'm leavin'!"
-      ]
-    }
+    ]
   },
-  {  
-    "op" : "add",
-    "path" : "/final/bignorthdragnar",
-    "value" : {  
-      "default" : [  
-        "I can only be takin' so much nonesense. I'm leavin'!",
-        "I'd rather be on a sinkin' ship than here! Speakin' o'...",
-		"I've had enough! I'm abandonin' ship!",
-		"This place be damned! I'm leavin'!"
-      ]
-    }
+  {
+    "op": "copy",
+    "from": "/final/northdragnar/default",
+    "path": "/final/bignorthdragnar/default"
   }
 ]

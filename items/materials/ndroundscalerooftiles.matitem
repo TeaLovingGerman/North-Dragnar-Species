@@ -1,0 +1,15 @@
+{
+  "itemName" : "ndroundscalerooftiles",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "ndroundscalerooftilesicon.png",
+  "description" : "A set of round fishscale tiles made of strong wood.",
+  "shortdescription" : "Round Scale Roof Tiles",
+  "glitchdescription" : "Humbled. Neatly organized scale roofing. The craftsmanship is admirable.",
+  "florandescription" : "Roof tiless resemble scaless of fish.",
+  "novakiddescription" : "These tiles must've come from one mighty big wooden fish!",
+  "northdragnardescription" : "The shapes o' these roof tiles's inspired by the scales o' fish.",
+  "bignorthdragnardescription" : "The shapes o' these roof tiles's inspired by the scales o' fish.",
+  "materialId" : 1277
+}

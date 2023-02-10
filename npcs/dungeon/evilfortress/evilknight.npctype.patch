@@ -1,9 +1,8 @@
 [
   {
 	"op": "add",
-	"path": "/scriptConfig/dialog/attack/glitch",
-	"value": {
-	  "northdragnar": [
+	"path": "/scriptConfig/dialog/attack/glitch/northdragnar",
+    "value": [
             "Menacing. You do not want to mess with us!",
             "Eager. I have been itching for a fight!",
             "Aggressive. Did you just look at me funny?",
@@ -14,19 +13,11 @@
 			"Boasting. You barbarians will never defeat a seasoned knight like myself!",
 			"Foolhardy. I do not fear you, brute!",
 			"Disrespecting. You bloodthristy raiders shall never take us down!"
-		],
-	  "bignorthdragnar": [
-            "Menacing. You do not want to mess with us!",
-            "Eager. I have been itching for a fight!",
-            "Aggressive. Did you just look at me funny?",
-            "Excited. I have been waiting for a fight!",
-            "Uncertain. I have fought... Somewhat bigger foes than you before.",
-            "Haughty. You do not look like much of a threat.",
-            "Irate. You have messed with the wrong knight!",
-			"Boasting. You barbarians will never defeat a seasoned knight like myself!",
-			"Foolhardy. I do not fear you, brute!",
-			"Disrespecting. You bloodthristy raiders shall never take us down!"
-		]
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/scriptConfig/dialog/attack/glitch/northdragnar",
+    "path": "/scriptConfig/dialog/attack/glitch/bignorthdragnar"
   }
 ]

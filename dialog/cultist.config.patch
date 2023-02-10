@@ -1,9 +1,8 @@
 [
     {
-		"op": "add",
-		"path": "/attack/human",
-		"value": {
-			"northdragnar": [
+    "op": "add",
+    "path": "/attack/human/northdragnar",
+    "value": [
 			    "This just isn't your day!",
 				"We are the Occasus! You can't stop us!",
 				"You shall not stop our plans!",
@@ -18,24 +17,16 @@
 				"You brutes will not stop us!",
 				"We will be rid of your kind soon enough!",
 				"You cannot stop the Occasus, brute!"
-	  ],
-	  "bignorthdragnar" : [
-			    "This just isn't your day!",
-				"We are the Occasus! You can't stop us!",
-				"You shall not stop our plans!",
-				"You won't leave this place!",
-				"The universe doesn't need you North-Dragnarian brutes!",
-				"You'll die today, bloodthirsty brute!",
-				"No one needs a bunch of raiders like you!",
-				"Your kind is nothing but raiders!",
-				"The Occasus will wipe you brutish raiders out!",
-				"The nonbelievers of Urden cannot hide from us forever!",
-				"First we'll end you barbarians, then the entirety of Urden!",
-				"You brutes will not stop us!",
-				"We will be rid of your kind soon enough!",
-				"You cannot stop the Occasus, brute!",
-				"Your size won't save you from the wrath of the Occasus!"
-			]
-		}
-    }
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/attack/human/northdragnar",
+    "path": "/attack/human/bignorthdragnar"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/bignorthdragnar/-",
+    "value": "Your size won't save you from the wrath of the Occasus!"
+  }
 ]

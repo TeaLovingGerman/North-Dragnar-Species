@@ -1,0 +1,26 @@
+[
+	{"op": "add", "path": "/baseParameters/dialog/intro/default/northdragnar",
+		"value": [
+			"Hhnn... You're as thick-skulled as I imagined. I'm surprised that Esther was able to tune your head...",
+			"I think I'll have a much easier time with simply cutting it off."
+		]
+	},
+	{
+    "op": "copy",
+    "from": "/baseParameters/dialog/intro/default/northdragnar",
+    "path": "/baseParameters/dialog/intro/default/bignorthdragnar"
+	},
+	{"op": "add", "path": "/baseParameters/dialog/death/default/northdragnar",
+		"value": [
+            "A mindless raider like you would never understand. You still haven't won!",
+			"All the loot you pillaged and all the people you've slain, none of it will matter.",
+			"You barbarians and all of Urden will pay...",
+            "The Ruin will still awaken, and soon cleanse this universe of ALL BUT HUMANS!"
+		]
+	},
+	{
+    "op": "copy",
+    "from": "/baseParameters/dialog/death/default/northdragnar",
+    "path": "/baseParameters/dialog/death/default/bignorthdragnar"
+	}
+]

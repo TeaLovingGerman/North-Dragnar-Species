@@ -1,26 +1,17 @@
 [
 	{
-		"op": "add",
-		"path": "/converse/northdragnar",
-		"value": {
-			"default": [
+    "op": "add",
+    "path": "/converse/northdragnar/default",
+    "value": [
 				"Whatever may be comin' our way, I'm ready for it!",
 				"Spacefarin's like sailin' over the vast seas. Alright, it's nothin' like it, but it ain't bad at all.",
 				"Space got loads to offer. We should be makin' use o' that!",
 				"As lon' as ye got me, ya don't have to worry about dyin'."
-			]
-		}
-	},
-	{
-		"op": "add",
-		"path": "/converse/bignorthdragnar",
-		"value": {
-			"default": [
-				"Whatever may be comin' our way, I'm ready for it!",
-				"Spacefarin's like sailin' over the vast seas. Alright, it's nothin' like it, but it ain't bad at all.",
-				"Space got loads to offer. We should be makin' use o' that!",
-				"As lon' as ye got me, ya don't have to worry about dyin'."
-			]
-		}
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/converse/northdragnar/default",
+    "path": "/converse/bignorthdragnar/default"
+  }
 ]

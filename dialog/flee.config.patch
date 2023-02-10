@@ -1,9 +1,8 @@
 [
 	{
 		"op": "add",
-		"path": "/helpme/northdragnar",
-		"value": {
-			"default": [
+		"path": "/helpme/northdragnar/default",
+		"value": [
 				"What're ye doin'?",
 				"Someone do somethin'!",
 				"Oh, this ain't good...",
@@ -12,32 +11,18 @@
 				"Gah!",
 				"Leg it, damnit!",
 				"Honourless blaggard!",
-				"What's 'appenin'?!"
-			]
-		}
-	},
-	{
+				"What's happenin'?!"
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/helpme/northdragnar/default",
+    "path": "/helpme/bignorthdragnar/default"
+  },
+  {
 		"op": "add",
-		"path": "/helpme/bignorthdragnar",
-		"value": {
-			"default": [
-				"What're ye doin'?",
-				"Someone do somethin'!",
-				"Oh, this ain't good...",
-				"This ain't fair! I'm unarmed!",
-				"Help me! I can't handle this on me own!",
-				"Gah!",
-				"Leg it, damnit!",
-				"Honourless blaggard!",
-				"What's 'appenin'?!"
-			]
-		}
-	},
-	{
-		"op": "add",
-		"path": "/safe/northdragnar",
-		"value": {
-			"default": [
+		"path": "/safe/northdragnar/default",
+    "value": [
 				"Oh, I really need a drink...",
 				"If I had me a weapon...",
 				"I better stay vigilant.",
@@ -48,25 +33,11 @@
 				"Ye're not gettin' me this time, world.",
 				"Close one...",
 				"Whoah, I'm needin' a break..."
-			]
-		}
-	},
-	{
-		"op": "add",
-		"path": "/safe/bignorthdragnar",
-		"value": {
-			"default": [
-				"Oh, I really need a drink...",
-				"If I had me a weapon...",
-				"I better stay vigilant.",
-				"I usually have nothin' against a brawl, but that...",
-				"It's over? Whew, it's over.",
-				"Live to die another day.",
-				"Pickin' on someone who can't defend 'emself! No damn honour.",
-				"Ye're not gettin' me this time, world.",
-				"Close one...",
-				"Whoah, I'm needin' a break..."
-			]
-		}
-	}
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/safe/northdragnar/default",
+    "path": "/safe/bignorthdragnar/default"
+  }
 ]

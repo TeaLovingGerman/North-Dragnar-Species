@@ -4,18 +4,18 @@
 	"path" : "/outOfRangeText",
 	"value" : {
 	  "northdragnar" : [
-		"Whate'er it is, it's out o' reach for the scanner.",
+		"Whatever it is, it's out o' reach for the scanner.",
 		"The scanner ain't readin' a thin', it's too far away.",
 		"I ought to be gettin' closer for a clear readin'.",
-		"Gah, this thin ain't much better than me own eyes. It's out o' range.",
+		"Gah, this thin' ain't much better than me own eyes. It's out o' range.",
 		"I ain't close enough.",
 		"Could be anythin'. I got to get closer."
 	  ],
 	  "bignorthdragnar" : [
-		"Whate'er it is, it's out o' reach for the scanner.",
+		"Whatever it is, it's out o' reach for the scanner.",
 		"The scanner ain't readin' a thin', it's too far away.",
 		"I ought to be gettin' closer for a clear readin'.",
-		"Gah, this thin ain't much better than me own eyes. It's out o' range.",
+		"Gah, this thin' ain't much better than me own eyes. It's out o' range.",
 		"I ain't close enough.",
 		"Could be anythin'. I got to get closer."
       ]
@@ -29,17 +29,17 @@
 		"Me own pair o' eyes can tell, that there's nothin' to be scanned.",
 		"Just a whole bunch o' nothin'.",
 		"I ain't noticin' anythin' noteable.",
-		"The only thin' o' note 'ere is, that there's nothin'.",
+		"The only thin' o' note here is that there's nothin'.",
 		"Nah, nothin'.",
-		"Be'old! It's absolutely nothin'..."
+		"Behold! It's absolutely nothin'..."
 	  ],
 	  "bignorthdragnar" : [
 		"Me own pair o' eyes can tell, that there's nothin' to be scanned.",
 		"Just a whole bunch o' nothin'.",
 		"I ain't noticin' anythin' noteable.",
-		"The only thin' o' note 'ere is, that there's nothin'.",
+		"The only thin' o' note here is that there's nothin'.",
 		"Nah, nothin'.",
-		"Be'old! It's absolutely nothin'..."
+		"Behold! It's absolutely nothin'..."
       ]
     }
   }

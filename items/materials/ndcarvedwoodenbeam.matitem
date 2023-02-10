@@ -3,7 +3,7 @@
   "price" : 0,
   "category" : "block",
   "rarity" : "Common",
-  "inventoryIcon" : "ndcarvedwoodenbeamicon.png",
+  "inventoryIcon" : "ndcarvedwoodenbeam.png",
   "shortdescription" : "Carved Wooden Beam",
   "description" : "",
   "glitchDescription" : "",

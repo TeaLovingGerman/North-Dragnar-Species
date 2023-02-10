@@ -5,13 +5,13 @@
   "maxStack" : 1,
   "rarity" : "common",
   "category" : "headwear",
-  "description" : "A layered hood over a coif keeps almost the entire head warm.",
+  "description" : "A layered hood over a coif. Keeps almost the entire head covered.",
   "shortdescription" : "Layered Hood and Coif",
   "tooltipKind" : "armor",
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
   "mask" : "mask.png",
-   
+  "builder" : "/armorAdapt/armorAdaptBuilder.lua",
   "colorOptions" : [
     // BROWN
     { "ffca8a" : "a6814a", "e0975c" : "805426", "a85636" : "5a2f0d", "6f2919" : "341200" },

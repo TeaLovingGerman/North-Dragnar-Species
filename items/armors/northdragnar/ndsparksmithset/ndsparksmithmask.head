@@ -11,7 +11,7 @@
   "maleFrames" : "headm.png",
   "femaleFrames" : "headf.png",
   "mask" : "mask.png",
-   
+  "builder" : "/armorAdapt/armorAdaptBuilder.lua",
   "colorOptions" : [
     // DEFAULT (DARK LEATHER)
     { "ffca8a" : "9e9385", "e0975c" : "776453", "a85636" : "513a2d", "6f2919" : "2b1812" },

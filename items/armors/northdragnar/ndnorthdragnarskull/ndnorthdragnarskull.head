@@ -8,10 +8,10 @@
   "description" : "Wearing the bones of deceased kin or beasts is a common tradition amongst North-Dragnarian nufenitu.",
   "shortdescription" : "North-Dragnar Skull",
   "tooltipKind" : "armor",
-  "maleFrames" : "head.png",
-  "femaleFrames" : "head.png",
+  "maleFrames" : "headm.png",
+  "femaleFrames" : "headf.png",
   "mask" : "mask.png",
-   
+  "builder" : "/armorAdapt/armorAdaptBuilder.lua",
   "colorOptions" : [
     // BONE BEIGE
     { "ffca8a" : "e7dfbd", "e0975c" : "bcad80", "a85636" : "8d7b58", "6f2919" : "5d4f34" },

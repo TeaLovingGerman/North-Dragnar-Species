@@ -1,0 +1,25 @@
+{
+  "materialId" : 1282,
+  "materialName" : "ndlayeredturf1",
+  "particleColor" : [61, 38, 11, 255],
+  "itemDrop" : "ndlayeredturf1",
+  "description" : "A simple layer of solid turf.",
+  "shortdescription" : "Layered Turf ^orange;(1)^white;",
+  "glitchdescription" : "Informed. This turf serves as a simple base for walls or other structures.",
+  "florandescription" : "Turf consissting of decompossed plants.",
+  "novakiddescription" : "Nothin' but a layer of plain turf.",
+  "northdragnardescription" : "These layers o' turf're usually placed in a herrin'bone pattern.",
+  "bignorthdragnardescription" : "These layers o' turf're usually placed in a herrin'bone pattern.",
+  "footstepSound" : "/sfx/blocks/footstep_dirt.ogg",
+  "health" : 5,
+  "category" : "materials",
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "ndlayeredturf1.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 1911
+  }
+}
