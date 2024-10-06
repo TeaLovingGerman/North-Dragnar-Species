@@ -1,15 +1,15 @@
 {
-  "itemName" : "ndpointedscalerooftiles",
+  "itemName" : "TD_pointedscalerooftiles",
   "price" : 0,
   "category" : "block",
   "rarity" : "Common",
-  "inventoryIcon" : "ndpointedscalerooftilesicon.png",
+  "inventoryIcon" : "TD_pointedscalerooftilesicon.png",
   "description" : "A set of pointed scale tiles made of strong wood.",
   "shortdescription" : "Pointed Scale Roof Tiles",
   "glitchdescription" : "Humbled. Neatly organized scale roofing. The craftsmanship is admirable.",
   "florandescription" : "Roof tiless resemble pointy sspear tipsss.",
   "novakiddescription" : "Don't want one of those piercin' my head when they drop down.",
-  "northdragnardescription" : "A pointed variant o' fishscale roofin'.",
-  "bignorthdragnardescription" : "A pointed variant o' fishscale roofin'.",
+  "thornurdrikedescription" : "A pointed variant o' fishscale roofin'.",
+  "bigthornurdrikedescription" : "A pointed variant o' fishscale roofin'.",
   "materialId" : 1273
 }

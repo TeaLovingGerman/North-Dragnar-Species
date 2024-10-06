@@ -1,0 +1,23 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "crewSize" : 10
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "thornurdrikeT7.png",
+      "position" : [10.375, -2.5],
+      "fullbright" : true
+    },
+    {
+      "image" : "thornurdrikeT7lit.png",
+      "position" : [10.375, -2.5]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "thornurdrikeT7blocks.png"
+}

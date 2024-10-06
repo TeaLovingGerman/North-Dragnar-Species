@@ -1,62 +1,41 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText",
-    "value": {
-	  "northdragnar": [
-            "^cyan;We could be doin' well with some more company around the place. I've already got somethin' planned to be solvin' that!",
-            "^cyan;Some more company's usually a good thin'. Would ye mind helpin' me with makin' this place a little livelier?"
-	  ]
-    }
+    "path": "/scriptConfig/generatedText/goalText/thornurdrike",
+    "value": [
+            "^cyan;Ve could be doin' vell vith some more company around the place. I've already got somethin' planned to be solvin' that!",
+            "^cyan;Some more company's usually a good thin'. Vould yew mind helpin' mei vith makin' this place a little livelier?"
+    ]
     },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default",
-    "value": {
-	  "northdragnar": [
-            "All that's left now's to ^green;build a shelter for our newcomer, kit it out with ^orange;<furnitureSet>.^white;, ^green;place a ^orange;Colony Deed,^white; and ye should be good to go!",
-            "Our new mate here's as good as settled in with the ^orange;<furnitureSet>.^white;! ^green;Pack 'em in a shelter with a ^orange;Colony Deed^white; and our flock here should be gettin' a bit bigger!"
-	  ]
-    }
+    "path": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "value": [
+            "All that's left now's to ^green;build a shelter for our newcomer, kit it out vith ^orange;<furnitureSet>.^white;, ^green;place a ^orange;Colony Deed,^white; and yew should be good to go!",
+            "Our new mate here's as good as settled in vith the ^orange;<furnitureSet>.^white;! ^green;Pack those in a shelter vith a ^orange;Colony Deed^white; and our flock here should be gettin' a bit bigger!"
+    ]
     },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default",
-    "value": {
-	  "northdragnar": [
-            "Ye've done some great work there! Let's hope that they're gettin 'emselves comfortable in their new home!",
-            "Thanks a bunch for yer handywork! I'll be makin' sure to give our new mate a warm welcome later!"
-	  ]
-    }
+    "path": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "value": [
+            "Yew've done some great vork there! Let's hope that they're gettin theimselves comfortable in their new home!",
+            "Thanks a bunch for yewr handyvork! I'll be makin' sure to give our new mate a varm velcome later!"
+    ]
+    },
+  { 
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/goalText/thornurdrike",
+    "path": "/scriptConfig/generatedText/goalText/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText",
-    "value": {
-	  "bignorthdragnar": [
-            "^cyan;We could be doin' well with some more company around the place. I've already got somethin' planned to be solvin' that!",
-            "^cyan;Some more company's usually a good thin'. Would ye mind helpin' me with makin' this place a little livelier?"
-	  ]
-    }
-    },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default",
-    "value": {
-	  "bignorthdragnar": [
-            "All that's left now's to ^green;build a shelter for our newcomer, kit it out with ^orange;<furnitureSet>.^white;, ^green;place a ^orange;Colony Deed,^white; and ye should be good to go!",
-            "Our new mate here's as good as settled in with the ^orange;<furnitureSet>.^white;! ^green;Pack 'em in a shelter with a ^orange;Colony Deed^white; and our flock here should be gettin' a bit bigger!"
-	  ]
-    }
-    },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default",
-    "value": {
-	  "bignorthdragnar": [
-            "Ye've done some great work there! Let's hope that they're gettin 'emselves comfortable in their new home!",
-            "Thanks a bunch for yer handywork! I'll be makin' sure to give our new mate a warm welcome later!"
-	  ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/default/bigthornurdrike"
+  },
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/default/bigthornurdrike"
   }
 ]

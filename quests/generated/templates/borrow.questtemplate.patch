@@ -1,66 +1,54 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/northdragnar",
+    "path": "/scriptConfig/generatedText/text/first/thornurdrike",
     "value": [
-            "We're needin' ^orange;<item>^white; before continuin'. ^orange;<target>^white;'d probably be ready to let us borrow <target.pronoun.possessive>. ^green;Would ye mind fetchin' it?",
-            "I saw ^orange;<target>^white; struttin' about the place with ^orange;<item>^white;. They won't be mindin', if we borrow <target.pronoun.possessive> for our plan here. ^green;Askin' 'em to borrow it should be enough to gettin' this plan started."
+            "Ve're needin' ^orange;<item>^white; before continuin'. ^orange;<target>^white;'d probably be ready to let us borrow <target.pronoun.possessive>. ^green;Vould yew mind fetchin' it?",
+            "I saw ^orange;<target>^white; struttin' about the place vith ^orange;<item>^white;. Thei von't be mindin', if ve borrow <target.pronoun.possessive> for our plan here. ^green;Askin' theim to borrow it should be enough to gettin' this plan started."
     ]
     },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/northdragnar",
+    "path": "/scriptConfig/generatedText/text/default/thornurdrike",
     "value": [
-            "^orange;<target>^white;'s got the next step o' this plan with 'em: ^orange;<item>^white;! ^green;Try askin' 'em, if they'd be mindin' to let us borrow the ^orange;<item>^white;.",
-            "I never thought, that it'd be comin' to this, but we're goin' to ''borrow'' the ^orange;<item>^white; from ^orange;<target>^white; for this plan to be workin' out! ^green;Maybe they'll give in, if ye're askin' 'em nicely?"
+            "^orange;<target>^white;'s got the next step o' this plan vith theim: ^orange;<item>^white;! ^green;Try askin' theim, if thei'd be mindin' to let us borrow the ^orange;<item>^white;.",
+            "I never thought, that it'd be comin' to this, but ve're goin' to ''borrow'' the ^orange;<item>^white; from ^orange;<target>^white; for this plan to be vorkin' out! ^green;Maybe thei'll give in, if yew're askin' theim nicely?"
     ]
     },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/northdragnar",
+    "path": "/scriptConfig/generatedText/completionText/first/thornurdrike",
     "value": [
-            "Great! 'opefully <target> ain't missin' this <item> too much. I'll be compensatin' 'em later.",
-            "There's the <item> for our plan! Did <target> really give this to ye that easily? I'll be owin' 'em a favour, that's for sure."
+            "Great! Hopefully <target> ain't missin' this <item> too much. I'll be compensatin' theim later.",
+            "There's the <item> for our plan! Did <target> really give this to yew that easily? I'll be owin' theim a favour aftervards, that's for sure."
     ]
     },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/northdragnar",
+    "path": "/scriptConfig/generatedText/completionText/default/thornurdrike",
     "value": [
-            "That sure went smoother than I was expectin'. I ain't complainin', though. Well, maybe I'll be complainin' once <target>'s tryin' to bite me ear off, for not returnin' the <item>, but ye don't have to worry about that now.",
-            "We might not be able to return this <item> to <target> after we're done here. I'll have to be thinkin' about how I'm gettin' <target> to forgive me for that later."
+            "That sure vent smoother than I vas expectin'. I ain't complainin' now, though. Maybe I'll be complainin' once <target>'s tryin' to bite mei ear off for not returnin' the <item>. Don't vorry about that.",
+            "Ve might not be able to return this <item> to <target> after ve're done here. I'll have to be thinkin' about how I'm gettin' <target> to forgive mei for that later."
     ]
     },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/bignorthdragnar",
-    "value": [
-            "We're needin' ^orange;<item>^white; before continuin'. ^orange;<target>^white;'d probably be ready to let us borrow <target.pronoun.possessive>. ^green;Would ye mind fetchin' it?",
-            "I saw ^orange;<target>^white; struttin' about the place with ^orange;<item>^white;. They won't be mindin', if we borrow <target.pronoun.possessive> for our plan here. ^green;Askin' 'em to borrow it should be enough to gettin' this plan started."
-    ]
-    },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/bignorthdragnar",
-    "value": [
-            "^orange;<target>^white;'s got the next step o' this plan with 'em: ^orange;<item>^white;! ^green;Try askin' 'em, if they'd be mindin' to let us borrow the ^orange;<item>^white;.",
-            "I never thought, that it'd be comin' to this, but we're goin' to ''borrow'' the ^orange;<item>^white; from ^orange;<target>^white; for this plan to be workin' out! ^green;Maybe they'll give in, if ye're askin' 'em nicely?"
-    ]
-    },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/bignorthdragnar",
-    "value": [
-            "Great! 'opefully <target> ain't missin' this <item> too much. I'll be compensatin' 'em later.",
-            "There's the <item> for our plan! Did <target> really give this to ye that easily? I'll be owin' 'em a favour, that's for sure."
-    ]
-    },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/bignorthdragnar",
-    "value": [
-            "That sure went smoother than I was expectin'. I ain't complainin', though. Well, maybe I'll be complainin' once <target>'s tryin' to bite me ear off, for not returnin' the <item>, but ye don't have to worry about that now.",
-            "We might not be able to return this <item> to <target> after we're done here. I'll have to be thinkin' about how I'm gettin' <target> to forgive me for that later."
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/first/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/first/bigthornurdrike"
+  },
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/default/bigthornurdrike"
+  },
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/first/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/first/bigthornurdrike"
+  },
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/default/bigthornurdrike"
   }
 ]

@@ -1,0 +1,26 @@
+{
+  "materialId" : 14602,
+  "materialName" : "TD_carvedwoodenbeam",
+  "particleColor" : [101, 52, 22, 255],
+  "itemDrop" : "TD_carvedwoodenbeam",
+  "shortdescription" : "Carved Wooden Beam",
+  "description" : "",
+  "glitchDescription" : "",
+  "floranDescription" : "",
+  "novakidDescription" : "More ornate than those carvings I've seen on bar tables.",
+  "thornurdrikeDescription" : "Yew need some especially sturdy tools, to be carvin' on this type o' vood.",
+  "bigthornurdrikeDescription" : "Yew need some especially sturdy tools, to be carvin' on this type o' vood.",
+  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/TD__scb-pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "TD_carvedwoodenbeam.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 1942
+  }
+}

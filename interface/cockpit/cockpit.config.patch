@@ -15,7 +15,7 @@
   [  //THIS MOD PRESENT
     {
       "op": "add",
-      "path": "/mods_present/NorthDragnarSpecies",
+      "path": "/mods_present/ThornurDrikeSpecies",
       "value": true
     }
   ],

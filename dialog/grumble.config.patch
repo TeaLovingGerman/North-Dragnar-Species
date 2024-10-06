@@ -1,71 +1,71 @@
 [  
   {  
     "op" : "add",
-    "path" : "/tagCriteria/northdragnar/default",
+    "path" : "/tagCriteria/thornurdrike/default",
     "value" : [
-        "This ain't what I'm used to...",
+        "This ain't vhat I'm used to...",
 		"This just doesn't feel right."
     ]
   },
   {
     "op": "copy",
-    "from": "/tagCriteria/northdragnar/default",
-    "path": "/tagCriteria/bignorthdragnar/default"
+    "from": "/tagCriteria/thornurdrike/default",
+    "path": "/tagCriteria/bigthornurdrike/default"
   },
   {
     "op" : "add",
-    "path" : "/enclosedArea/northdragnar/default",
+    "path" : "/enclosedArea/thornurdrike/default",
     "value" : [
-        "I'm thinkin', that there might be a leak or two here.",
+        "I'm thinkin', that there might be a leak or two here...",
 		"This's feelin' about as comfortable as a leakin' ship on the sea..."
     ]
   },
   {
     "op": "copy",
-    "from": "/enclosedArea/northdragnar/default",
-    "path": "/enclosedArea/bignorthdragnar/default"
+    "from": "/enclosedArea/thornurdrike/default",
+    "path": "/enclosedArea/bigthornurdrike/default"
   },
   {
     "op" : "add",
-    "path" : "/otherDeed/northdragnar/default",
+    "path" : "/otherDeed/thornurdrike/default",
     "value" : [
-        "Got nothin' against sharin', but I do need some place for meself too.",
-        "What's that other deed there for?",
-		"Can't I have a room for meself for once?"
+        "Got nothin' against sharin', but I do need some place for meiself too!",
+        "Vhat's that other deed there for?",
+		"Can't I have a room for meiself for once?"
     ]
   },
   {
     "op": "copy",
-    "from": "/otherDeed/northdragnar/default",
-    "path": "/otherDeed/bignorthdragnar/default"
+    "from": "/otherDeed/thornurdrike/default",
+    "path": "/otherDeed/bigthornurdrike/default"
   },
   {
     "op" : "add",
-    "path" : "/severe/northdragnar/default",
+    "path" : "/severe/thornurdrike/default",
     "value" : [
-        "I might abandon ship, if ye don't plan on fixin' this.",
-        "This really ain't lookin' good. Would ye mind fixin' this?",
-		"We do have openin's for airin' our homes, but this's just too much."
+        "I might abandon ship, if yew don't plan on fixin' this!",
+        "This really ain't lookin' good. Vould yew mind fixin' this?",
+		"Ve do have openin's for airin' in our homes, but this's takin' it too far!"
     ]
   },
   {
     "op": "copy",
-    "from": "/severe/northdragnar/default",
-    "path": "/severe/bignorthdragnar/default"
+    "from": "/severe/thornurdrike/default",
+    "path": "/severe/bigthornurdrike/default"
   },
   {
     "op" : "add",
-    "path" : "/final/northdragnar/default",
+    "path" : "/final/thornurdrike/default",
     "value" : [
-        "I can only be takin' so much nonesense. I'm leavin'!",
-        "I'd rather be on a sinkin' ship than here! Speakin' o'...",
+        "I can only be takin' this much nonesense. I'm leavin'!",
+        "I'd rather be on a sinkin' ship than here!\nSpeakin' o'...",
 		"I've had enough! I'm abandonin' ship!",
 		"This place be damned! I'm leavin'!"
     ]
   },
   {
     "op": "copy",
-    "from": "/final/northdragnar/default",
-    "path": "/final/bignorthdragnar/default"
+    "from": "/final/thornurdrike/default",
+    "path": "/final/bigthornurdrike/default"
   }
 ]

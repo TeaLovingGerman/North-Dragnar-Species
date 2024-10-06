@@ -1,0 +1,20 @@
+{
+  "itemName" : "TD_toughhoe",
+  "price" : 200,
+  "category" : "Tool",
+  "inventoryIcon" : "TD_toughhoeicon.png",
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "description" : "A durable hoe made of wood from Tough Trunk trees. Used to till soil and grow crops on said soil.",
+  "shortdescription" : "^orange;Tough Hoe^white;",
+  "tooltipKind" : "tool",
+  "image" : "TD_toughhoe.png",
+  "handPosition" : [-7, -15],
+  "fireTime" : 0.25,
+  "blockRadius" : 7,
+  "altBlockRadius" : 1,
+  "twoHanded" : true,
+  "strikeSounds" : [ "/sfx/tools/pickaxe_hit.ogg" ],
+
+  "pickupQuestTemplates" : [ "firstcrops" ]
+}

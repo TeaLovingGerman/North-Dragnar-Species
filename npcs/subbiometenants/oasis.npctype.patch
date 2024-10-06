@@ -1,5 +1,5 @@
 [
-    {"op": "add", "path": "/items/northdragnar", "value": [
+    {"op": "add", "path": "/items/thornurdrike", "value": [
         [0,[
             {
                 "head": [
@@ -20,7 +20,7 @@
             }
         ]]]
     },
-    {"op": "add", "path": "/items/bignorthdragnar", "value": [
+    {"op": "add", "path": "/items/bigthornurdrike", "value": [
         [0,[
             {
                 "head": [

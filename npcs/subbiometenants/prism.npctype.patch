@@ -1,45 +1,45 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/dialog/merchant/start/northdragnar/default",
+    "path": "/scriptConfig/dialog/merchant/start/thornurdrike/default",
     "value": [
-				"Guide light into yer home with with some solid, but beautiful window installations!",
-				"Thinkin' o' lettin' some light into yer home? I've got loads o' different windows to offer for ya!",
-				"Want some more light in yer house without the need for lamps? Me windows got ye covered!",
-				"Get yerself some windows! They let light shine into yer home, while providin' a convenient view outside o' it!"
+				"Guide light into yewr home vith some solid and pristine vindow installations!",
+				"Thinkin' o' lettin' some light into yewr home? I've got loads o' different vindows to offer to yew!",
+				"Vant some more light in yewr house vithout the need for lamps? Mei vindows got yew covered!",
+				"Get yewrself some vindows! They let light shine into yewr home, vhile providin' a convenient view o' the outside!"
     ]
   },
   {
     "op": "copy",
-    "from": "/scriptConfig/dialog/merchant/start/northdragnar/default",
-    "path": "/scriptConfig/dialog/merchant/start/bignorthdragnar/default"
+    "from": "/scriptConfig/dialog/merchant/start/thornurdrike/default",
+    "path": "/scriptConfig/dialog/merchant/start/bigthornurdrike/default"
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/dialog/merchant/welcome/northdragnar/default",
+    "path": "/scriptConfig/dialog/merchant/welcome/thornurdrike/default",
     "value": [
-				"Great! What type o' window're ye lookin' for?",
-				"There we go. have a good look at and through these windows!",
-				"There, I've got windows, that're already assembled, as well as materials for makin' yer own!"
+				"Great! Vhat type o' vindow're yew lookin' for?",
+				"There ve go. Have a good look at and through these vindows!",
+				"There, I've got vindows, that're already assembled, as vell as materials for makin' yewr own!"
     ]
   },
   {
     "op": "copy",
-    "from": "/scriptConfig/dialog/merchant/welcome/northdragnar/default",
-    "path": "/scriptConfig/dialog/merchant/welcome/bignorthdragnar/default"
+    "from": "/scriptConfig/dialog/merchant/welcome/thornurdrike/default",
+    "path": "/scriptConfig/dialog/merchant/welcome/bigthornurdrike/default"
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/dialog/merchant/end/northdragnar/default",
+    "path": "/scriptConfig/dialog/merchant/end/thornurdrike/default",
     "value": [
-				"If ye're in need o' more windows, I'll be here!",
-				"Got everythin' ye need? Well, come back soon!",
-				"I'm lookin' forward to lettin' more light into yer home!"
+				"If yew're in need o' more vindows, I'll be here!",
+				"Got everythin' yew need? Vell, come back soon!",
+				"I'm lookin' forvard to lettin' more light into yewr home!"
     ]
   },
   {
     "op": "copy",
-    "from": "/scriptConfig/dialog/merchant/end/northdragnar/default",
-    "path": "/scriptConfig/dialog/merchant/end/bignorthdragnar/default"
+    "from": "/scriptConfig/dialog/merchant/end/thornurdrike/default",
+    "path": "/scriptConfig/dialog/merchant/end/bigthornurdrike/default"
   }
 ]

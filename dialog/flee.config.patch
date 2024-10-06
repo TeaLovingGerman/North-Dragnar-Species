@@ -1,43 +1,52 @@
 [
 	{
 		"op": "add",
-		"path": "/helpme/northdragnar/default",
+		"path": "/helpme/thornurdrike/default",
 		"value": [
-				"What're ye doin'?",
+				"Vhat're yu doin'?",
 				"Someone do somethin'!",
 				"Oh, this ain't good...",
 				"This ain't fair! I'm unarmed!",
-				"Help me! I can't handle this on me own!",
+				"Help mei! I can't handle this on mei own!",
 				"Gah!",
 				"Leg it, damnit!",
-				"Honourless blaggard!",
-				"What's happenin'?!"
+				"Honourless good-for-nothin'!",
+				"Vhat's happenin'?!",
+				"Make for the hills!",
+				"Make for the voods!",
+				"Time for runnin' like a coward!",
+				"Please! I've done nei harm to anyone!",
+				"Don't let me die like this!"
     ]
   },
   {
     "op": "copy",
-    "from": "/helpme/northdragnar/default",
-    "path": "/helpme/bignorthdragnar/default"
+    "from": "/helpme/thornurdrike/default",
+    "path": "/helpme/bigthornurdrike/default"
   },
   {
 		"op": "add",
-		"path": "/safe/northdragnar/default",
+		"path": "/safe/thornurdrike/default",
     "value": [
 				"Oh, I really need a drink...",
-				"If I had me a weapon...",
 				"I better stay vigilant.",
-				"I usually have nothin' against a brawl, but that...",
-				"It's over? Whew, it's over.",
+				"I usually've nothin' against a brawl. But that...",
+				"It's over?\nVhew, it's over.",
 				"Live to die another day.",
-				"Pickin' on someone who can't defend 'emself! No damn honour.",
-				"Ye're not gettin' me this time, world.",
+				"Yu're not gettin' me this time, vorld.",
 				"Close one...",
-				"Whoah, I'm needin' a break..."
+				"Vhoah, I'm needin' a break...",
+				"Still got all mei limbs!",
+				"I ain't dyin' today!",
+				"Death's overrated anyvays...",
+				"I should really be learnin' how to fight.",
+				"Is this how it's feelin' to be hunted? Damn...",
+				"I ain't cut out for fightin'..."
     ]
   },
   {
     "op": "copy",
-    "from": "/safe/northdragnar/default",
-    "path": "/safe/bignorthdragnar/default"
+    "from": "/safe/thornurdrike/default",
+    "path": "/safe/bigthornurdrike/default"
   }
 ]

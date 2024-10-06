@@ -1,133 +1,165 @@
 [
-	{
-		"op": "add",
-		"path": "/attack/northdragnar/default",
-		"value": [
-				"Great, I was gettin' bored!",
-				"Brin' it on!",
-				"Let's see what ye got!",
-				"A fight? I'm in!",
-				"Damnit!",
-				"Up for a tussle, are ya?",
-				"A fight it is, then!",
-				"Ye're goin' to regret this!",
-				"I won't be goin' down so easily!",
-				"Ye better be ready, to even have a chance!",
-				"Ye better not be pullin' any tricks, ya hear?"
-    ]
+  {
+    "op": "add",
+    "path": "/reattack/thornurdrike",
+    "value": {
+	  "default" : [
+		"Back for more, are yu?",
+		"Yu're just lookin' to die!",
+		"Look at that! The coward's back for a beatin'!",
+		"There yu are!",
+		"I'm not lettin' yu get avay again!"
+	  ]
+    }
   },
   {
     "op": "copy",
-    "from": "/attack/northdragnar/default",
-    "path": "/attack/bignorthdragnar/default"
-  },
-  {
-		"op": "add",
-		"path": "/killedTarget/northdragnar/default",
-		"value": [
-				"Done and done.",
-				"Victory. For now...",
-				"Didn't even break a damn sweat!",
-				"Victory's mine!",
-				"That's taken care o'.",
-				"Hope there's enough time for a break.",
-				"I should be preparin' for another tussle.",
-				"'Nother foe, struck down.",
-				"Got ya!",
-				"Ye should've picked a fight with someone weaker!",
-				"Tough one...",
-				"Glad that's over with."
-    ]
-  },
-  {
-    "op": "copy",
-    "from": "/killedTarget/northdragnar/default",
-    "path": "/killedTarget/bignorthdragnar/default"
+    "from": "/reattack/thornurdrike/default",
+    "path": "/reattack/bigthornurdrike/default"
   },
   {
     "op": "add",
-    "path": "/killedTarget/bignorthdragnar/default/-",
-    "value": "Ha! Should've picked on someone that ain't me size!"
-  },
-  {
-		"op": "add",
-		"path": "/lostTarget/northdragnar/default",
-		"value": [
-				"Damn coward...",
-				"Startin' a fight, just to run off? Ye kiddin'?",
-				"That's right! Flee while ye still can!",
-				"Are ye afraid o' facin' a challenge?",
-				"Come out and let's get this over with!",
-				"Blaggard!",
-				"Was I really that fierce-lookin'?",
-				"Come back when ye've grown some guts, ye wuss!"
-    ]
+    "path": "/attack/thornurdrike",
+    "value": {
+	  "default" : [
+		"Great, I vas gettin' bored!",
+		"Brin' it on!",
+		"Let's see vhat yu got!",
+		"A fight? I'm in!",
+		"Damnit!",
+		"Up for a tussle, are yu?",
+		"A fight it is, then!",
+		"Yu're goin' to regret this!",
+		"I von't be goin' down so easily!",
+		"Yu better not be pullin' any tricks, yu hear?"
+	  ]
+    }
   },
   {
     "op": "copy",
-    "from": "/lostTarget/northdragnar/default",
-    "path": "/lostTarget/bignorthdragnar/default"
+    "from": "/attack/thornurdrike/default",
+    "path": "/attack/bigthornurdrike/default"
   },
   {
     "op": "add",
-    "path": "/lostTarget/bignorthdragnar/default/-",
-    "value": "Come back when ye've grown some guts, ye little wuss!"
-  },
-  {
-		"op": "add",
-		"path": "/reattack/northdragnar/default",
-		"value": [
-				"There ye are!",
-				"Ready to face me now?",
-				"Ha! Thought I lost ya!",
-				"Come back to fight, have ya?",
-				"Ye won't be gettin' away this time!",
-				"Ye want some more? Ya can have it!",
-				"If ye run again, I swear..."
-    ]
-  },
-  {
-    "op": "copy",
-    "from": "/reattack/northdragnar/default",
-    "path": "/reattack/bignorthdragnar/default"
-  },
-  {
-		"op": "add",
-		"path": "/cantReach/northdragnar/default",
-		"value": [
-				"Ey! What're ye doin' over there?",
-				"Get back over here, ye wuss!",
-				"I can't be teachin' ye a lesson from there! Get back here!",
-				"Ye're not safe over there for lon'!",
-				"Damn ye, Get back here!"
-    ]
+    "path": "/killedTarget/thornurdrike",
+    "value": {
+	  "default" : [
+		"Done and done.",
+		"Victory. For now...",
+		"Didn't even break a damn sveat!",
+		"Victory's mine!",
+		"That's taken care o'.",
+		"Hope there's enough time for a break.",
+		"I should be preparin' for another tussle.",
+		"'Nother foe, struck down.",
+		"Got yu!",
+		"Yu should've picked a fight vith someone veaker!",
+		"Tough one...",
+		"Glad that's over vith.",
+		"Can't catch a damn break in this universe!"
+	  ]
+    }
   },
   {
     "op": "copy",
-    "from": "/cantReach/northdragnar/default",
-    "path": "/cantReach/bignorthdragnar/default"
+    "from": "/killedTarget/thornurdrike/default",
+    "path": "/killedTarget/bigthornurdrike/default"
   },
   {
     "op": "add",
-    "path": "/cantReach/bignorthdragnar/default/-",
-    "value": "Get back over here, ye little wuss!"
+    "path": "/killedTarget/bigthornurdrike",
+    "value": {
+	  "default" : [
+		"Should've picked a fight vith someone smaller!"
+	  ]
+    }
   },
   {
-		"op": "add",
-		"path": "/cheerOn/northdragnar/default",
-		"value": [
-				"What're ye waitin' for? I ain't gettin' exhausted!",
-				"C'mere!",
-				"I still got fight left in me!",
-				"I'll have a drink to yer defeat!",
-				"Ye can't be holdin' out forever!",
-				"Stubborn one, are ya?",
-				"Eventually..."
-    ]
+    "op": "add",
+    "path": "/lostTarget/thornurdrike",
+    "value": {
+	  "default" : [
+		"Damn coward...",
+		"Startin' a fight, just to run off? Yu kiddin'?",
+		"That's right! Flee vhile yu still can!",
+		"Are yu afraid o' facin' a challenge? Coward!",
+		"Come out and let's get this over vith!",
+		"Useless!",
+		"Vas I really THAT fierce-lookin'?",
+		"Come back vhen yu've grown some guts, yu vuss!",
+		"Afraid o' gettin' hurt or vhat?",
+		"Yu better keep runnin'!",
+		"Pah! Suits me fine.",
+		"The less trouble the better...",
+		"Startin' a fight vithout endin' it. Vhat an insult!",
+		"Bah, thei'll be comin' back.",
+	  ]
+    }
   },
   {
     "op": "copy",
-    "from": "/cheerOn/northdragnar/default",
-    "path": "/cheerOn/bignorthdragnar/default"
+    "from": "/lostTarget/thornurdrike/default",
+    "path": "/lostTarget/bigthornurdrike/default"
+  },
+  {
+    "op": "add",
+    "path": "/outOfSight/thornurdrike",
+    "value": {
+	  "default" : [
+		"Vhere'd thei run off to?",
+		"I know yu're still there !",
+		"Vuss!",
+		"Coward!",
+		"Yu got nei courage!",
+		"I ain't up for playin' hidin' games!"
+	  ]
+    }
+  },
+  {
+    "op": "copy",
+    "from": "/outOfSight/thornurdrike/default",
+    "path": "/outOfSight/bigthornurdrike/default"
+  },
+  {
+    "op": "add",
+    "path": "/cantReach/thornurdrike",
+    "value": {
+	  "default" : [
+		"Hai! Vhat're yu doin' over there?",
+		"Get back over here, yu vuss!",
+		"I can't be teachin' yu a lesson from over here! Get back, NOW!",
+		"Yu're not safe over there for lon'!",
+		"Damn yu, get back here!",
+		"Come in range o' mei veapons so I can put an end to this!"
+	  ]
+    }
+  },
+  {
+    "op": "copy",
+    "from": "/cantReach/thornurdrike/default",
+    "path": "/cantReach/bigthornurdrike/default"
+  },
+  {
+    "op": "add",
+    "path": "/cheerOn/thornurdrike",
+    "value": {
+	  "default" : [
+		"Vhat're yu stallin' for? I ain't gettin' exhausted!",
+		"C'mere!",
+		"I still got fight left in me!",
+		"I'll have a drink to yur defeat!",
+		"Yu can't be holdin' out forever!",
+		"Stubborn one, are yu?",
+		"Eventually...",
+		"Just run avay, so yu can keep that life o' yurs!",
+		"I'm not goin' to give up now!"
+	  ]
+    }
+  },
+  {
+    "op": "copy",
+    "from": "/cheerOn/thornurdrike/default",
+    "path": "/cheerOn/bigthornurdrike/default"
   }
 ]

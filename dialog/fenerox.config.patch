@@ -1,31 +1,31 @@
 [
   {
     "op": "add",
-    "path": "/converse/default/northdragnar",
+    "path": "/converse/default/thornurdrike",
     "value": [
       "Odd person. Seeing first. Feeling cautious!",
-      "Stranger fierce. Fenerox cautious. Feeling awkward!",
+      "Stranger fierce. Being cautious. Feeling awkward!",
       "Scaled person. Furred person. Feeling curious!",
-      "Meeting stranger. Appearing peaceful. Fenerox polite!",
-      "Fenerox hunting. Person promising. Person hunting?",
-	  "Meeting stranger. Seeming nice. Feeling nice!",
+      "Meeting stranger. Appearing peaceful. Being polite!",
+      "Hunting soon. Stranger capable. Showing prowess?",
+	  "Meeting stranger. Seeming nice. Feeling good!",
 	  "Odd person. Hopefully nice. Feeling cautious!",
       "Weird person. Not Fenerox. Being polite!",
       "Meeting stranger. Being friendly. New experience!",
       "Odd person. Saying hello. Not Fenerox?",
       "Friendly stranger. Feeling awkward. Cautiously optimistic!",
       "New stranger. Not confident. Saying hello!",
-	  "Fierce stranger. Fenerox curious. Stranger hunting?"
+	  "Fierce stranger. Fenerox curious. Stranger hunter?"
     ]
   },
   {
     "op": "copy",
-    "from": "/converse/default/northdragnar",
-    "path": "/converse/default/bignorthdragnar"
+    "from": "/converse/default/thornurdrike",
+    "path": "/converse/default/bigthornurdrike"
   },
   {
     "op": "add",
-    "path": "/converse/default/bignorthdragnar/-",
+    "path": "/converse/default/bigthornurdrike/-",
     "value": "Big stranger. Looking fierce. Fenerox cautious!"
   }
 ]

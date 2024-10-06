@@ -1,66 +1,54 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/first/northdragnar",
+    "path": "/scriptConfig/generatedText/text/first/thornurdrike",
     "value": [
-            "To start this whole deal, we'll be needin' ^orange;<item>^white; from ^orange;<target>^white;. ^green;Find ^orange;<target>^green; and tell ^orange;'em^green;, that a tussle's awaitin', if they're not givin' it up!",
-			"First, we're goin' to need a ^orange;<item>^white;. I already know, that we're goin' to get one from <target>. They're owin' me BIG time! Find ^orange;<target>^green;, mention me name and take it from 'em. Easy."
+            "To start this whole deal, ve'll be needin' ^orange;<item>^white; from ^orange;<target>^white;. ^green;Find ^orange;<target>^green; and tell ^orange;theim^green;, that a tussle's avaitin', if thei're not givin' it up!",
+			"First, ve're goin' to need a ^orange;<item>^white;. I already know, that ve're goin' to get one from <target>. Thei're owin' mei BIG time! Find ^orange;<target>^green;, mention mei name and take it from theim. Easy."
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/first/bignorthdragnar",
+    "path": "/scriptConfig/generatedText/text/default/thornurdrike",
     "value": [
-            "To start this whole deal, we'll be needin' ^orange;<item>^white; from ^orange;<target>^white;. ^green;Find ^orange;<target>^green; and tell ^orange;'em^green;, that a tussle's awaitin', if they're not givin' it up!",
-			"First, we're goin' to need a ^orange;<item>^white;. I already know, that we're goin' to get one from <target>. They're owin' me BIG time! Find ^orange;<target>^green;, mention me name and take it from 'em. Easy."
+            "Next step o' the plan's about to begin! Yew're lookin' fierce enough ^green;to get us that ^orange;<item>^green; from ^orange;<target>^green;.^white; Trust mei, thei're goin' to give the ^orange;<item>^white; to yew vithout any trouble, I made sure o' that!",
+			"Next up, ^green;yew'll be takin' the ^orange;<item>^green; from mei good ''friend'' ^orange;<target>^green;. ^white;That coward's goin' to give in, once yew've mentioned mei name!"
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "path": "/scriptConfig/generatedText/completionText/first/thornurdrike",
     "value": [
-            "Next step o' the plan's about to begin! Ye're lookin' fierce enough ^green;to get us that ^orange;<item>^green; from ^orange;<target>^green;.^white; Trust me, they're goin' to give the ^orange;<item>^white; to ya without any trouble, I made sure o' that before!",
-			"Next up, ^green;ye'll be takin' the ^orange;<item>^green; from me good ''friend'' ^orange;<target>^green;. ^white;That coward's goin' to give in, once ye're mentionin' me name!"
+            "Aha! <target>'s <item>'ll do more than fine for mei plan!",
+			"See? Vasn't that hard now, vas it? Anyvay, ve'll be needin' this <item> for the next step."
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
+    "path": "/scriptConfig/generatedText/completionText/default/thornurdrike",
     "value": [
-            "Next step o' the plan's about to begin! Ye're lookin' fierce enough ^green;to get us that ^orange;<item>^green; from ^orange;<target>^green;.^white; Trust me, they're goin' to give the ^orange;<item>^white; to ya without any trouble, I made sure o' that before!",
-			"Next up, ^green;ye'll be takin' the ^orange;<item>^green; from me good ''friend'' ^orange;<target>^green;. ^white;That coward's goin' to give in, once ye're mentionin' me name!"
+			"Looks like <target> tucked their tail in to give yew that <item>! Just as I suspected.",
+			"I sort o' regret not seein' the fear o' <target>, vhen yew've told theim vhat yew came for. I'll get that chance another day. Yew did vell!" 
     ]
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/first/northdragnar",
-    "value": [
-            "Ha! <target>'s <item>'ll do more than fine for me plan!",
-			"See? Wasn't that hard now, was it? Anyway, we'll be needin' this <item> for the next step."
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/first/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/first/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/first/bignorthdragnar",
-    "value": [
-            "Ha! <target>'s <item>'ll do more than fine for me plan!",
-			"See? Wasn't that hard now, was it? Anyway, we'll be needin' this <item> for the next step."
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/default/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
-    "value": [
-			"Looks like <target> tucked their tail in to give ya that <item>! Just as I suspected.",
-			"I sort o' regret not seein' the fear o' <target> when ye've told 'em what ye came for. That'll have to be waitin' for another day. Ye did well!" 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/first/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/first/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
-    "value": [
-			"Looks like <target> tucked their tail in to give ya that <item>! Just as I suspected.",
-			"I sort o' regret not seein' the fear o' <target> when ye've told 'em what ye came for. That'll have to be waitin' for another day. Ye did well!" 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/default/bigthornurdrike"
   }
 ]

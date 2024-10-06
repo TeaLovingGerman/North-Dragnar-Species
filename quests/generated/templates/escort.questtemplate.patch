@@ -3,7 +3,7 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-		"ndfriend": [
+		"ND_friend": [
             "mate",
 			"kin",
 			"close friend",
@@ -12,101 +12,83 @@
 	  ]
     }
   },
-  { 
+  {
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-		"ndtimeofloss": [
+		"ND_timeofloss": [
             "for a lon' while",
 			"for a few days",
 			"since yesterday",
 			"for more than an hour",
 			"since a few hours, at least",
-			"for lon'er than they usually do"
+			"for lon'er than thei usually do"
 	  ]
     }
   },
-  { 
+  {
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-		"ndactivity": [
+		"ND_activity": [
             "on a huntin' trip",
-			"and help me with our tapestry",
-			"and give me some advice for doin' pottery",
+			"and help mei vith our tapestry",
+			"and give mei some advice for doin' pottery",
 			"for a round o' drinks",
 			"for a sleep-over",
 			"for a campin' trip",
-			"to join me on a stroll",
-			"to blather a little about what's been goin' on lately"
+			"to join mei on a stroll",
+			"to blather a little about vhat's been goin' on lately"
 	  ]
     }
   },
-  { 
+  {
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-		"ndadditional": [
-            "<targetNpcType>'d better stay with me for a while.",
+		"ND_additional": [
+            "<targetNpcType>'d better stay vith mei for a while.",
 			"<targetNpcType>'ll be more careful next time, hopefully.",
 			"I'll be accompanyin' <targetNpcType> next time.",
-			"We both're owin' ya!",
-			"<targetNpcType> ain't leavin' again without a compass and a map!"
+			"Ve both're owin' yew!",
+			"<targetNpcType> ain't leavin' again vithout a compass and a map."
 	  ]
     }
   },
+  {
+	"op": "add",
+    "path": "/scriptConfig/generatedText/goalText/thornurdrike",
+    "value": [
+			"^cyan;<targetNpcType> has been missin' <ND_timeofloss>."
+    ]
+    },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/default",
-    "value": {
-	  "northdragnar": [
-			"^cyan;<targetNpcType> has been missin' <ndtimeofloss>."
-	  ]
-    }
+    "path": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "value": [
+            "Mei <ND_friend> ^orange;<targetNpcType>^white; vas supposed to meet mei <ND_activity>, but thei must've gotten lost out there. ^orange;<targetNpcType>^white; vas last seen near ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could yew please return theim back to mei?"
+    ]
+    },
+  { 
+	"op": "add",
+    "path": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "value": [
+            "Thank yew, for brin'in' <targetNpcType> back to mei! <ND_additional>"
+    ]
+    },
+  { 
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/goalText/thornurdrike",
+    "path": "/scriptConfig/generatedText/goalText/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/default",
-    "value": {
-	  "bignorthdragnar": [
-			"^cyan;<targetNpcType> has been missin' <ndtimeofloss>."
-	  ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/default/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default",
-    "value": {
-	  "northdragnar": [
-            "Me <ndfriend> ^orange;<targetNpcType>^white; was s'posed to meet me <ndactivity>, but they must've gotten lost out there. ^orange;<targetNpcType>^white; was last seen near ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could ye please return 'em back to me?"
-	  ]
-    }
-  },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default",
-    "value": {
-	  "bignorthdragnar": [
-            "Me <ndfriend> ^orange;<targetNpcType>^white; was s'posed to meet me <ndactivity>, but they must've gotten lost out there. ^orange;<targetNpcType>^white; was last seen near ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could ye please return 'em back to me?"
-	  ]
-    }
-  },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default",
-    "value": {
-	  "northdragnar": [
-            "Thank ye, for brin'in' <targetNpcType> back to me! <ndadditional>"
-	  ]
-    }
-  },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default",
-    "value": {
-	  "bignorthdragnar": [
-            "Thank ye, for brin'in' <targetNpcType> back to me! <ndadditional>"
-	  ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/default/bigthornurdrike"
   }
 ]

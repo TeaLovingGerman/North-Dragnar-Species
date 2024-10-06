@@ -1,0 +1,53 @@
+{
+  "objectName" : "TD_hardydoor",
+  "colonyTags" : ["thornurdrike","door"],
+  "rarity" : "Common",
+  "category" : "door",
+  "price" : 95,
+  "description" : "A hand-crafted door. Its planks are held together by metal.",
+  "shortdescription" : "Hardy Door",
+  "race" : "thornurdrike",
+  "apexDescription" : "This wooden door beats the quality of standard issue doors by miles.",
+  "avianDescription" : "",
+  "floranDescription" : "Strong wood isss good choice for ssturdy door!",
+  "glitchDescription" : "Admiring. The metal support of this door has been formed with utmost precision.",
+  "humanDescription" : "I definetly don't want my face to get slammed by this door. Looks tough!",
+  "hylotlDescription" : "A hand-crafted door, built to last.",
+  "novakidDescription" : "",
+  "thornurdrikeDescription" : "This door's crafted from tough vood. The metal supports're there to hold the planks together.",
+  "bigthornurdrikeDescription" : "This door's crafted from tough vood. The metal supports're there to hold the planks together.",
+  "inventoryIcon" : "TD_hardydooricon.png",
+  "tooltipKind" : "door",
+  "largeImage" : "TD_hardydoor.png:right",
+  
+  "orientations" : [
+    {
+      "dualImage" : "TD_hardydoor.png:default",
+      "imagePosition" : [-16, 0],
+      "renderLayer" : "Object+5",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ]
+    }
+  ],
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/wooddoor_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/wooddoor_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "TD_hardydoor.png"
+  },
+  "animationPosition" : [-16, 0],
+  "inputNodes" : [ [0, 4] ],
+  "outputNodes" : [ [0, 0] ]
+}

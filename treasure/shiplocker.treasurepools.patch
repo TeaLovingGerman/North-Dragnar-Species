@@ -1,12 +1,11 @@
 [
   {
     "op": "add",
-    "path": "/northdragnarStarterTreasure",
+    "path": "/thornurdrikeStarterTreasure",
     "value": [[0, {
       "fill" : [
 	    {"item" : [ "flashlight" ]},
         {"item" : [ "torch", 10 ]},
-        {"item" : [ "northdragnarsword", 1 ]},
         {"item" : [ "cannedfood", 1 ]},
         {"item" : [ "cannedfood", 1 ]},
         {"item" : [ "cannedfood", 1 ]},
@@ -16,12 +15,11 @@
   },
   {
     "op": "add",
-    "path": "/bignorthdragnarStarterTreasure",
+    "path": "/bigthornurdrikeStarterTreasure",
     "value": [[0, {
       "fill" : [
 	    {"item" : [ "flashlight" ]},
         {"item" : [ "torch", 10 ]},
-        {"item" : [ "northdragnarsword", 1 ]},
         {"item" : [ "cannedfood", 1 ]},
         {"item" : [ "cannedfood", 1 ]},
         {"item" : [ "cannedfood", 1 ]},

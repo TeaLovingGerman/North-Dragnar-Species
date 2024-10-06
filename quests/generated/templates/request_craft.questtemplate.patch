@@ -1,82 +1,54 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/first",
-    "value": {
-	  "northdragnar": [
-            "To start, I'm needin' one ^orange;<item>^white;. ^orange;<target>^white;'s got a real hand for craftin' items like these! ^green;Ask 'em, if they're willin' to make ^orange;<item>^green; for me.",
-			"First, I'm goin' to redeem a favour from ^orange;<target>^white;, by askin' 'em to craft a ^orange;<item>^white; for me. All ye've got to do is to ^green;ask ^orange;<target>^green; for it and brin' it to me."
-	  ]
-    }
+    "path": "/scriptConfig/generatedText/text/first/thornurdrike",
+    "value": [
+            "To start, I'm needin' one ^orange;<item>^white;. ^orange;<target>^white;'s got a real hand for craftin' items like these! ^green;Ask theim, if thei're villin' to make ^orange;<item>^green; for mei.",
+			"First, I'm goin' to redeem a favour from ^orange;<target>^white;, by askin' theim to craft a ^orange;<item>^white; for mei. All yew've got to do is to ^green;ask ^orange;<target>^green; for it and brin' it to mei."
+    ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default",
-    "value": {
-	  "northdragnar": [
-            "I'm in need o' one ^orange;<item>^white;. ^orange;<target>^white; has agreed to help me out, by craftin' it. Could you ^green;go meet ^orange;<target>^green; and brin' the ^orange;<item>^green; they'll make back to me?",
-			"I've asked ^orange;<target>^white; to craft me one ^orange;<item>^white; quite a while ago. ^orange;<target>^white; probably forgot about it. Could you ^green;remind 'em o' me resquest and deliver me the ^orange;<item>^green;?"
-	  ]
-    }
+    "path": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "value": [
+            "I'm in need o' one ^orange;<item>^white;. ^orange;<target>^white; has agreed to help mei out, by craftin' it. Could you ^green;go meet ^orange;<target>^green; and brin' the ^orange;<item>^green; thei'll make back to mei?",
+			"I've asked ^orange;<target>^white; to craft mei one ^orange;<item>^white; quite a while ago. ^orange;<target>^white; probably forgot about it. Could yew ^green;remind theim o' mei resquest and deliver mei the ^orange;<item>^green;?"
+    ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/last",
-    "value": {
-	  "northdragnar": [
-            "This'll do more than good for me plan! <target>'s got the talent to make the best <item>!",
-			"Thanks for brin'in' me the <item> I asked for! I'll be thankin' <target> too, when I've got the time for it."
-	  ]
-    }
+    "path": "/scriptConfig/generatedText/completionText/last/thornurdrike",
+    "value": [
+            "This'll do more than good for mei plan! <target>'s got the talent to make the best <item>!",
+			"Thanks for brin'in' mei the <item> I asked for! I'll be thankin' <target> too, vhen I've got the time for it."
+    ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default",
-    "value": {
-	  "northdragnar": [
-            "I enjoy admirin' the fine craftsmanship o' <target>! I'll be admirin' this <item> here later, though. I've got a plan to work on!",
-			"It ain't the best <item> out there, but its small faults give it some more personality! This'll definetly work for me plan I've got brewin'."
-	  ]
-    }
+    "path": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "value": [
+            "I enjoy admirin' the fine craftsmanship o' <target>! I'll be admirin' this <item> here later, though. I've got a plan to vork on!",
+			"It ain't the best <item> out there, but its small faults give it more personality! This'll definetly vork for mei plan I've got brewin'."
+    ]
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText",
-    "value": {
-	  "bignorthdragnar": [
-            "To start, I'm needin' one ^orange;<item>^white;. ^orange;<target>^white;'s got a real hand for craftin' items like these! ^green;Ask 'em, if they're willin' to make ^orange;<item>^green; for me.",
-			"First, I'm goin' to redeem a favour from ^orange;<target>^white;, by askin' 'em to craft a ^orange;<item>^white; for me. All ye've got to do is to ^green;ask ^orange;<target>^green; for it and brin' it to me."
-	  ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/first/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/first/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default",
-    "value": {
-	  "bignorthdragnar": [
-            "I'm in need o' one ^orange;<item>^white;. ^orange;<target>^white; has agreed to help me out, by craftin' it. Could you ^green;go meet ^orange;<target>^green; and brin' the ^orange;<item>^green; they'll make back to me?",
-			"I've asked ^orange;<target>^white; to craft me one ^orange;<item>^white; quite a while ago. ^orange;<target>^white; probably forgot about it. Could you ^green;remind 'em o' me resquest and deliver me the ^orange;<item>^green;?"
-	  ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/default/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/last",
-    "value": {
-	  "bignorthdragnar": [
-            "This'll do more than good for me plan! <target>'s got the talent to make the best <item>!",
-			"Thanks for brin'in' me the <item> I asked for! I'll be thankin' <target> too, when I've got the time for it."
-	  ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/last/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/last/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default",
-    "value": {
-	  "bignorthdragnar": [
-            "I enjoy admirin' the fine craftsmanship o' <target>! I'll be admirin' this <item> here later, though. I've got a plan to work on!",
-			"It ain't the best <item> out there, but its small faults give it some more personality! This'll definetly work for me plan I've got brewin'."
- 	  ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/default/bigthornurdrike"
   }
 ]

@@ -1,44 +1,44 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/dialog/merchant/start/northdragnar/default",
+    "path": "/scriptConfig/dialog/merchant/start/thornurdrike/default",
     "value": [
 				"I've got minin' produce and equipment! All fresh from the foundry!",
-				"All the equipment ye'd be needin' for a minin' trip, right here!",
-				"Welcome! Take as much as ye're needin'. I got direct access to the foundries' stock!"
+				"All the equipment yew'd be needin' for a minin' trip, available right here!",
+				"Velcome! Take as much as yew're needin'. I got direct access to the foundries' stock!"
     ]
   },
   {
     "op": "copy",
-    "from": "/scriptConfig/dialog/merchant/start/northdragnar/default",
-    "path": "/scriptConfig/dialog/merchant/start/bignorthdragnar/default"
+    "from": "/scriptConfig/dialog/merchant/start/thornurdrike/default",
+    "path": "/scriptConfig/dialog/merchant/start/bigthornurdrike/default"
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/dialog/merchant/welcome/northdragnar/default",
+    "path": "/scriptConfig/dialog/merchant/welcome/thornurdrike/default",
     "value": [
-				"Here. If ye're lookin' for metals, then ye've come to the right place!",
-				"There we are! So, what kind o' equipment or metals do ye want?",
-				"Here's what I got. Metals and minin' equipment made from our foundries!"
+				"Here. If yew're lookin' for metals, then yew've come to the right place!",
+				"There ve are! So, vhat kind o' equipment or metals're yew lookin' for?",
+				"Here's vhat I got. Metals and minin' equipment made from our foundries!"
     ]
   },
   {
     "op": "copy",
-    "from": "/scriptConfig/dialog/merchant/welcome/northdragnar/default",
-    "path": "/scriptConfig/dialog/merchant/welcome/bignorthdragnar/default"
+    "from": "/scriptConfig/dialog/merchant/welcome/thornurdrike/default",
+    "path": "/scriptConfig/dialog/merchant/welcome/bigthornurdrike/default"
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/dialog/merchant/end/northdragnar/default",
+    "path": "/scriptConfig/dialog/merchant/end/thornurdrike/default",
     "value": [
-				"I'll always have some raw metals for sale. Come back when ye're needin' more!",
-				"I've got the ores, when ye're wantin' to save yerself another minin' trip!",
-				"Come back, whenever ye're missin' the equipment for yer next minin' trip!"
+				"I'll alvays have some raw metals for sale. Come back vhen yew're needin' more!",
+				"I've got the ores, vhen yew're vantin' to save yewrself another minin' trip!",
+				"Come back, vhenever yew're missin' the equipment for yewr next minin' trip!"
     ]
   },
   {
     "op": "copy",
-    "from": "/scriptConfig/dialog/merchant/end/northdragnar/default",
-    "path": "/scriptConfig/dialog/merchant/end/bignorthdragnar/default"
+    "from": "/scriptConfig/dialog/merchant/end/thornurdrike/default",
+    "path": "/scriptConfig/dialog/merchant/end/bigthornurdrike/default"
   }
 ]

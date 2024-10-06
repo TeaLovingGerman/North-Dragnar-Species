@@ -3,7 +3,7 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-		"ndupset": [
+		"ND_upset": [
             "furious",
 			"an'ered",
 			"upset",
@@ -16,7 +16,7 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndgroup": [
+	  "ND_group": [
             "group",
 			"horde",
 			"pack",
@@ -28,8 +28,8 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndwild": [
-            "wild",
+	  "ND_wild": [
+            "vild",
 			"an'ry",
 			"rabid",
 			"fierce",
@@ -46,7 +46,7 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndambush": [
+	  "ND_ambush": [
             "ambushed",
 			"surprised",
 			"pounced",
@@ -63,11 +63,11 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndexploring": [
+	  "ND_exploring": [
             "out explorin'",
 			"strollin'",
-			"out wanderin'",
-			"takin' a brief walk",
+			"out vanderin'",
+			"takin' a brief valk",
 			"out campin'",
 			"restin'",
 			"runnin'"
@@ -78,13 +78,13 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "nddestroyed": [
+	  "ND_destroyed": [
             "destroyed",
 			"ruined",
 			"broke",
 			"smashed",
-			"swallowed",
-			"wrecked",
+			"svallowed",
+			"vrecked",
 			"demolished"
 	  ]
     }
@@ -93,7 +93,7 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndbelonging": [
+	  "ND_belonging": [
             "a precious family heirloom",
 			"huntin' trophy",
 			"carvin' tools",
@@ -110,7 +110,7 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndearlier": [
+	  "ND_earlier": [
             "earlier",
 			"recently",
 			"not too lon' ago",
@@ -126,12 +126,12 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndrevenge1": [
-            "takin' revenge on 'em",
-			"huntin' 'em down",
-			"teachin' 'em a lesson",
-			"slayin' 'em",
-			"showin' 'em yer fightin' skills"
+	  "ND_revenge1": [
+            "takin' revenge on theim",
+			"huntin' theim down",
+			"teachin' theim a lesson",
+			"slayin' theim",
+			"showin' theim yewr fightin' skills"
 	  ]
     }
   },
@@ -139,11 +139,11 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndrevenge2": [
-            "put a stop to 'em",
-			"take care o' 'em",
-			"teach 'em a lesson",
-			"hunt 'em down"
+	  "ND_revenge2": [
+            "put a stop to theim",
+			"take care o' theim",
+			"teach theim a lesson",
+			"hunt theim down"
 	  ]
     }
   },
@@ -151,7 +151,7 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndrumours": [
+	  "ND_rumours": [
             "barely escapin'",
 			"narrowly avoidin'",
 			"all the talk about",
@@ -165,13 +165,13 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndloitering": [
-            "which're givin people a hard time'",
-			"which're becomin' local annoyances",
-			"which're keepin' people up at night",
-			"which're destroyin' our produce",
-			"which're startin' to become a threat",
-			"which're makin' people feel worried about an attack"
+	  "ND_loitering": [
+            "vhich're givin' people a hard time'",
+			"vhich're becomin' local annoyances",
+			"vhich're keepin' people up at night",
+			"vhich're destroyin' our produce",
+			"vhich're startin' to become a threat",
+			"vhich're makin' people feel vorried about an attack"
 	  ]
     }
   },
@@ -179,11 +179,11 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndappreciation1": [
+	  "ND_appreciation1": [
             "Those <monster> ain't goin' to bother anyone anymore.",
 			"The hunter's returnin' from a successful hunt, it seems!",
 			"Did the <monster> put up a good fight?",
-			"Aha! I knew I was pickin' the right person for this hunt!"
+			"Aha! I knew I vas trustin' the right person for this hunt!"
 	  ]
     }
   },
@@ -191,67 +191,48 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndappreciation2": [
-            "Well, with that taken care o', here's yer reward.",
-			"Good work! May yer future huntin' trips be bountiful!",
-			"Yer work ain't remainin' unrewarded, that's for sure!"
+	  "ND_appreciation2": [
+            "Vell, vith that taken care o', here's yewr revard.",
+			"Good vork! May yewr future hunts be bountiful!",
+			"Yewr vork ain't remainin' unrevarded. I'll make sure o' that!"
 	  ]
     }
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/default",
-    "value": {
-	  "northdragnar": [
+    "path": "/scriptConfig/generatedText/goalText/thornurdrike",
+    "value": [
 			"^cyan;There're some beasts to be taken care o'."
-	  ]
-    }
-  },
+    ]
+    },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/default",
-    "value": {
-	  "bignorthdragnar": [
-			"^cyan;There're some beasts to be taken care o'."
- 	  ]
-    }
-  },
+    "path": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "value": [
+            "Some <ND_group> o' <ND_wild> ^orange;<monster>^white; <ND_ambush> mei vhile I vas <ND_exploring> and <ND_destroyed> mei <ND_belonging>! All o' this happened <ND_earlier> at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;I'm goin' to need yewr help vith <ND_revenge1>. ^white;Vould yew be mindin'?",
+			"I'm startin' to get concerned about mei safety, after <ND_rumours> a <ND_group> o' <ND_wild> ^orange;<monster>^white;, <ND_loitering>. Apparently thei vere last seen near ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could yew go out there and <ND_revenge2>?"
+    ]
+    },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default",
-    "value": {
-	  "northdragnar": [
-            "Some <ndgroup> o' <ndwild> ^orange;<monster>^white; <ndambush> me while I was <ndexploring> and <nddestroyed> me <ndbelonging>! All o' this happened <ndearlier> at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;I'm goin' to need yer help with <ndrevenge1>. ^white;Would ye be mindin'?",
-			"I'm startin' to get concerned about me safety, after <ndrumours> a <ndgroup> o' <ndwild> ^orange;<monster>^white;, <ndloitering>. 'Parently they were last seen near ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could ye go out there and <ndrevenge2>?"
-	  ]
-    }
-  },
+    "path": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "value": [
+            "<ND_appreciation1> <ND_appreciation2>"
+    ]
+    },
   { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default",
-    "value": {
-	  "bignorthdragnar": [
-            "Some <ndgroup> o' <ndwild> ^orange;<monster>^white; <ndambush> me while I was <ndexploring> and <nddestroyed> me <ndbelonging>! All o' this happened <ndearlier> at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;I'm goin' to need yer help with <ndrevenge>. ^white;Would ye be mindin'?",
-			"I'm startin' to get concerned about me safety, after <ndrumours> a <ndgroup> o' <ndwild> ^orange;<monster>^white;, <ndloitering>. 'Parently they were last seen near ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could ye go out there and <ndrevenge2>?"
-	  ]
-    }
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/goalText/thornurdrike",
+    "path": "/scriptConfig/generatedText/goalText/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default",
-    "value": {
-	  "northdragnar": [
-            "<ndappreciation1> <ndappreciation2>"
-	  ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/default/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default",
-    "value": {
-	  "bignorthdragnar": [
-            "<ndappreciation1> <ndappreciation2>"
-	  ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/default/bigthornurdrike"
   }
 ]

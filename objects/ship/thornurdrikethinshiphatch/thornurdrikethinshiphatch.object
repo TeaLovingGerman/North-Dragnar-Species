@@ -1,0 +1,63 @@
+{
+  "objectName" : "thornurdrikethinshiphatch",
+  "colonyTags" : ["thornurdrike","door"],
+  "rarity" : "Common",
+  "category" : "door",
+  "price" : 100,
+  "description" : "A hatch suitable for a spaceship.",
+  "shortdescription" : "Thornur-Drike Thin Ship Hatch",
+  "race" : "thornurdrike",
+  "apexDescription" : "Hatches are used on all our ships.",
+  "avianDescription" : "A thin spaceship hatch.",
+  "floranDescription" : "Thin ssspaceship hatch.",
+  "glitchDescription" : "Proud. A thin ship hatch.",
+  "humanDescription" : "Cool, thin hatch.",
+  "hylotlDescription" : "A basic ship hatch.",
+  "novakidDescription" : "A thin hatch.",
+  "thornurdrikeDescription" : "This thin hatch's fittin' for a spaceship.",
+  "bigthornurdrikeDescription" : "This thin hatch's fittin' for a spaceship.",
+  "inventoryIcon" : "thornurdrikethinshiphatchicon.png",
+  "orientations" : [
+    {
+      "image" : "thornurdrikethinshiphatch.png:default",
+      "imagePosition" : [-16, 0],
+      "renderLayer" : "Object+5",
+      "animationPosition" : [-16, 0],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "spaces" : [[-2,0],[-1,0],[0,0],[1,0],[2,0]],
+      "anchors" : [ "left", "right" ]
+    },
+    {
+      "image" : "thornurdrikethinshiphatch.png:default",
+      "imagePosition" : [-16, 0],
+      "renderLayer" : "Object+5",
+      "animationPosition" : [-16, 0],
+      "direction" : "right",
+
+      "spaces" : [[-2,0],[-1,0],[0,0],[1,0],[2,0]],
+      "anchors" : [ "left", "right" ]
+    }
+  ],
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "thornurdrikethinshiphatch.png"
+  },
+  "inputNodes" : [ [-1, 4] ],
+  "outputNodes" : [ [0, 0] ]
+}

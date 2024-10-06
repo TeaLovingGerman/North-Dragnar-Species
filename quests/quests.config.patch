@@ -1,14 +1,14 @@
 [
 	{
 		"op": "add",
-		"path": "/initialquests/northdragnar",
+		"path": "/initialquests/thornurdrike",
 		"value": [
 			"protectorate"
 		]
 	},
 	{
 		"op": "add",
-		"path": "/pronounGenders/northdragnar",
+		"path": "/pronounGenders/thornurdrike",
 		"value": {
 			"male": "neutral",
 			"female": "neutral"
@@ -16,14 +16,14 @@
 	},
 	{
 		"op": "add",
-		"path": "/initialquests/bignorthdragnar",
+		"path": "/initialquests/bigthornurdrike",
 		"value": [
 			"protectorate"
 		]
 	},
 	{
 		"op": "add",
-		"path": "/pronounGenders/bignorthdragnar",
+		"path": "/pronounGenders/bigthornurdrike",
 		"value": {
 			"male": "neutral",
 			"female": "neutral"

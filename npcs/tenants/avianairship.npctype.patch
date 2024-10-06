@@ -1,19 +1,19 @@
 [
    {
 	"op": "add",
-    "path": "/scriptConfig/dialog/converse/avian/northdragnar",
+    "path": "/scriptConfig/dialog/converse/avian/thornurdrike",
     "value": [
             "I used to be part of a big crew! It's quieter here.",
             "Yo-ho-ho, it's the Grounded life for me!",
             "I joined an airship crew when I stopped believing in Kluex. Happy days riding the wind.",
             "Fresh air and freedom, that's the life for me!",
             "It's always good to know, that your people support the Grounded!",
-			"Do you think that I could join a North-Dragnarian crew? Just curious."
+			"Do you think I have what it takes to join a Thornur-Driken crew? Just curious."
     ]
   },
   {
     "op": "copy",
-    "from": "/scriptConfig/dialog/converse/avian/northdragnar",
-    "path": "/scriptConfig/dialog/converse/avian/bignorthdragnar"
+    "from": "/scriptConfig/dialog/converse/avian/thornurdrike",
+    "path": "/scriptConfig/dialog/converse/avian/bigthornurdrike"
   }
 ]

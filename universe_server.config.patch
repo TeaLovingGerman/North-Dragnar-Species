@@ -1,30 +1,30 @@
 [
 	{ "op" : "add",
-		"path" : "/speciesShips/northdragnar",
+		"path" : "/speciesShips/thornurdrike",
 		"value" : [
-		    "/ships/northdragnar/northdragnart0.structure",
-			"/ships/northdragnar/northdragnart1.structure",
-			"/ships/northdragnar/northdragnart2.structure",
-			"/ships/northdragnar/northdragnart3.structure",
-			"/ships/northdragnar/northdragnart4.structure",
-			"/ships/northdragnar/northdragnart5.structure",
-			"/ships/northdragnar/northdragnart6.structure",
-			"/ships/northdragnar/northdragnart7.structure",
-			"/ships/northdragnar/northdragnart8.structure"
+		    "/ships/thornurdrike/thornurdriket0.structure",
+			"/ships/thornurdrike/thornurdriket1.structure",
+			"/ships/thornurdrike/thornurdriket2.structure",
+			"/ships/thornurdrike/thornurdriket3.structure",
+			"/ships/thornurdrike/thornurdriket4.structure",
+			"/ships/thornurdrike/thornurdriket5.structure",
+			"/ships/thornurdrike/thornurdriket6.structure",
+			"/ships/thornurdrike/thornurdriket7.structure",
+			"/ships/thornurdrike/thornurdriket8.structure"
 		]
 	},
 	{ "op" : "add",
-		"path" : "/speciesShips/bignorthdragnar",
+		"path" : "/speciesShips/bigthornurdrike",
 		"value" : [
-		    "/ships/northdragnar/northdragnart0.structure",
-			"/ships/northdragnar/northdragnart1.structure",
-			"/ships/northdragnar/northdragnart2.structure",
-			"/ships/northdragnar/northdragnart3.structure",
-			"/ships/northdragnar/northdragnart4.structure",
-			"/ships/northdragnar/northdragnart5.structure",
-			"/ships/northdragnar/northdragnart6.structure",
-			"/ships/northdragnar/northdragnart7.structure",
-			"/ships/northdragnar/northdragnart8.structure"
+		    "/ships/thornurdrike/thornurdriket0.structure",
+			"/ships/thornurdrike/thornurdriket1.structure",
+			"/ships/thornurdrike/thornurdriket2.structure",
+			"/ships/thornurdrike/thornurdriket3.structure",
+			"/ships/thornurdrike/thornurdriket4.structure",
+			"/ships/thornurdrike/thornurdriket5.structure",
+			"/ships/thornurdrike/thornurdriket6.structure",
+			"/ships/thornurdrike/thornurdriket7.structure",
+			"/ships/thornurdrike/thornurdriket8.structure"
 		]
 	}
 ]

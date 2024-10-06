@@ -1,18 +1,18 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/dialog/converse/apex/northdragnar",
+    "path": "/scriptConfig/dialog/converse/apex/thornurdrike",
     "value": [
 			"I am here doing ground research for the Miniknog. Do not worry, I will be nice, I promise!",
-			"I never thought that I would get stationed here, of all places!",
+			"I never thought that I would get stationed here, of all places...",
 			"Great, how am I supposed to- Oh, hey there! Nonono, I was not planning anything!",
 			"I will not even bother to ask, if you support the rebel's cause...\nJust do not interrupt my research, will you?",
-			"Let me be clear, I am just here for ground research on behalf of the Miniknog.\nI DO NOT participate in questionable experiments!"
+			"Let me be clear, I am just here for ground research on behalf of the Miniknog.\nI DO NOT participate in morally questionable experiments!"
     ]
   },
   {
     "op": "copy",
-    "from": "/scriptConfig/dialog/converse/apex/northdragnar",
-    "path": "/scriptConfig/dialog/converse/apex/bignorthdragnar"
+    "from": "/scriptConfig/dialog/converse/apex/thornurdrike",
+    "path": "/scriptConfig/dialog/converse/apex/bigthornurdrike"
   }
 ]

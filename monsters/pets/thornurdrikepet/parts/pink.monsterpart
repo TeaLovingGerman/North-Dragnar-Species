@@ -1,0 +1,8 @@
+{
+  "name" : "pink",
+  "category" : "thornurdrikepet",
+  "type" : "body",
+  "frames" : {
+    "body" : "pink.png"
+  }
+}

@@ -1,34 +1,28 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "path": "/scriptConfig/generatedText/text/default/thornurdrike",
     "value": [
-            "Well, ye're an alright handyman, are ye? It's a bit embarrasin' to admit, but I ain't much o' a handyman meself. ^green;Could you craft the ^orange;<craftedItems>^white; instead?",
-			"Ye've got the ^orange;<ingredients>^white; with ya! Uh, you wouldn't mind puttin' 'em together? I usually carve on thin's instead o' assemblin' 'em."
+            "Vell, yew're an alright handyman, are yew? It's a bit embarrasin' to admit, but I ain't much o' a handyman meiself. ^green;Could you craft the ^orange;<craftedItems>^white; instead?",
+			"Yew've got the ^orange;<ingredients>^white; vith yew! Er, yew vouldn't mind puttin' theim together? I usually carve on thin's instead o' assemblin' theim."
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
+    "path": "/scriptConfig/generatedText/completionText/default/thornurdrike",
     "value": [
-            "Well, ye're an alright handyman, are ye? It's a bit embarrasin' to admit, but I ain't much o' a handyman meself. ^green;Could you craft the ^orange;<craftedItems>^white; instead?",
-			"Ye've got the ^orange;<ingredients>^white; with ya! Uh, you wouldn't mind puttin' 'em together? I usually carve on thin's instead o' assemblin' 'em."
+            "Yew've done this before, eh? Nice vork! Let's get on vith this plan o' mine.",
+			"That's some admirable craftsmanship right there! I've got somethin' planned for that vork o' yewrs."
     ]
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
-    "value": [
-            "Ye've done this before, eh? Nice work! Let's get on with this plan o' mine.",
-			"That's some admirable craftmanship right there! I've got somethin' planned for that work o' yers."
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/default/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
-    "value": [
-            "Ye've done this before, eh? Nice work! Let's get on with this plan o' mine.",
-			"That's some admirable craftmanship right there! I've got somethin' planned for that work o' yers."
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/default/bigthornurdrike"
   }
 ]

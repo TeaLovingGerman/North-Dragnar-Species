@@ -1,50 +1,41 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/northdragnar",
+    "path": "/scriptConfig/generatedText/goalText/thornurdrike",
     "value": [
             "^cyan;How about makin' this place a little more lively?",
-			"^cyan;This place could be doin' with a new neighbour. I've got somethin' planned."
+			"^cyan;This place could be doin' vith a new neighbour. I've got somethin' planned."
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "path": "/scriptConfig/generatedText/text/default/thornurdrike",
     "value": [
-            "We could use some more <tag>-type around here. Would ye mind ^green; placin' ^orange;3^green; <tag>^green; in an enlcosed space. Oh, and o' course ^green;a ^orange;Colony Deed^green; a ^orange;light, and a door!",
-			"All ye'd have to be doin', for a <tag> tenant to move in, would be ^green; placin' ^orange;3^green; <tag>^green; a ^orange;Colony Deed^green; a ^orange;light, and a door in a closed space." 
+            "Ve could use some more <tag>-type around here. Vould yew mind ^green; placin' ^orange;3^green; <tag>^green; in an enlcosed space. Oh, and o' course ^green;a ^orange;Colony Deed^green; a ^orange;light, and a door!",
+			"All yew'd have to be doin', for a <tag> tenant to move in, vould be ^green; placin' ^orange;3^green; <tag>^green; a ^orange;Colony Deed^green; a ^orange;light, and a door in a closed space." 
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
+    "path": "/scriptConfig/generatedText/completionText/default/thornurdrike",
     "value": [
-            "It's lookin' like our new neighbour's likin' the place ye built! Great work there!",
-			"It's good to be seein' a new face around here! Let's hope, that they've got no problems with settlin' here." 
+            "It's lookin' like our new neighbour's likin' the place yew built! Great vork there!",
+			"It's good to be seein' a new face around here! Let's hope, that thei've got nei problems vith settlin' here." 
     ]
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/bignorthdragnar",
-    "value": [
-            "^cyan;How about makin' this place a little more lively?",
-			"^cyan;This place could be doin' with a new neighbour. I've got somethin' planned."
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/goalText/thornurdrike",
+    "path": "/scriptConfig/generatedText/goalText/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
-    "value": [
-            "We could use some more <tag>-type around here. Would ye mind ^green; placin' ^orange;3^green; <tag>^green; in an enlcosed space. Oh, and o' course ^green;a ^orange;Colony Deed^green; a ^orange;light, and a door!",
-			"All ye'd have to be doin', for a <tag> tenant to move in, would be ^green; placin' ^orange;3^green; <tag>^green; a ^orange;Colony Deed^green; a ^orange;light, and a door in a closed space." 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/default/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
-    "value": [
-            "It's lookin' like our new neighbour's likin' the place ye built! Great work there!",
-			"It's good to be seein' a new face around here! Let's hope, that they've got no problems with settlin' here." 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/default/bigthornurdrike"
   }
 ]

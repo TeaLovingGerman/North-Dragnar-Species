@@ -1,0 +1,41 @@
+{
+  "itemName" : "TD_ceremonialheadpieces",
+  "price" : 100,
+  "inventoryIcon" : "headicon.png",
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "category" : "headwear",
+  "description" : "Various brass pieces, usually worn during special occasions.",
+  "shortdescription" : "Ceremonial Headpieces",
+  "tooltipKind" : "armor",
+  "maleFrames" : "headm.png",
+  "femaleFrames" : "headf.png",
+  "mask" : "mask.png",
+  "builder" : "/armorAdapt/armorAdaptBuilder.lua",
+  "colorOptions" : [
+    // POLISHED BRASS
+    { "ffca8a" : "f0ce48", "e0975c" : "b58919", "a85636" : "613b05", "6f2919" : "361d04" },
+    // BLACK
+    { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
+    // GREY
+    { "ffca8a" : "b5b5b5", "e0975c" : "808080", "a85636" : "555555", "6f2919" : "303030" },
+    // WHITE
+    { "ffca8a" : "e6e6e6", "e0975c" : "b6b6b6", "a85636" : "7b7b7b", "6f2919" : "373737" },
+    // RED
+    { "ffca8a" : "c06055", "e0975c" : "9a2d2d", "a85636" : "74111b", "6f2919" : "4d000f" },
+    // ORANGE
+    { "ffca8a" : "da9661", "e0975c" : "b46235", "a85636" : "8e3514", "6f2919" : "681401" },
+    // YELLOW
+    { "ffca8a" : "dac962", "e0975c" : "b49736", "a85636" : "8e6815", "6f2919" : "683f01" },
+    // GREEN
+    { "ffca8a" : "549e47", "e0975c" : "397824", "a85636" : "24520c", "6f2919" : "142c00" },
+    // BLUE
+    { "ffca8a" : "5d64bb", "e0975c" : "344495", "a85636" : "162e6f", "6f2919" : "031d49" },
+    // PURPLE
+    { "ffca8a" : "9255c0", "e0975c" : "632e9c", "a85636" : "381072", "6f2919" : "19004d" },
+    // PINK
+    { "ffca8a" : "da82c7", "e0975c" : "b450a7", "a85636" : "8e2a89", "6f2919" : "650f68" },
+    // BROWN
+    { "ffca8a" : "a6814a", "e0975c" : "805426", "a85636" : "5a2f0d", "6f2919" : "341200" }
+  ]
+}

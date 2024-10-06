@@ -1,6 +1,6 @@
-[{"op":"add","path":"/northdragnarDescription","value":"An anvil and a few tools, han'in' on it. Should be enough for craftin' some basic equipment."},
-{"op":"add","path":"/bignorthdragnarDescription","value":"An anvil and a few tools, han'in' on it. Should be enough for craftin' some basic equipment."},
-{"op":"add","path":"/upgradeStages/1/itemSpawnParameters/northdragnarDescription","value":"This forge'll allow me to craft more equipment from titanium and other, more advanced metals."},
-{"op":"add","path":"/upgradeStages/1/itemSpawnParameters/bignorthdragnarDescription","value":"This forge'll allow me to craft more equipment from titanium and other, more ad'anced metals."},
-{"op":"add","path":"/upgradeStages/2/itemSpawnParameters/northdragnarDescription","value":"A replicator, for creatin' high-tech equipment with more special materials. There's addons for it, but o' course they ain't included..."},
-{"op":"add","path":"/upgradeStages/2/itemSpawnParameters/bignorthdragnarDescription","value":"A replicator, for creatin' high-tech equipment with more special materials. There's addons for it, but o' course they ain't included..."}]
+[{"op":"add","path":"/thornurdrikeDescription","value":"An anvil and a few tools, han'in' off it. Should be enough for craftin' basic equipment."},
+{"op":"add","path":"/bigthornurdrikeDescription","value":"An anvil and a few tools, han'in' off it. Should be enough for craftin' basic equipment."},
+{"op":"add","path":"/upgradeStages/1/itemSpawnParameters/thornurdrikeDescription","value":"This forge'll allow mei to craft equipment from titanium and other, more advanced metals."},
+{"op":"add","path":"/upgradeStages/1/itemSpawnParameters/bigthornurdrikeDescription","value":"This forge'll allow mei to craft equipment from titanium and other, more advanced metals."},
+{"op":"add","path":"/upgradeStages/2/itemSpawnParameters/thornurdrikeDescription","value":"A replicator, for creatin' high-tech equipment vith special materials. There's addons for it, but o' course thei ain't included..."},
+{"op":"add","path":"/upgradeStages/2/itemSpawnParameters/bigthornurdrikeDescription","value":"A replicator, for creatin' high-tech equipment vith special materials. There's addons for it, but o' course thei ain't included..."}]

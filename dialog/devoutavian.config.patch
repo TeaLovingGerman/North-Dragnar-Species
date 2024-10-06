@@ -1,30 +1,30 @@
 [
   {
     "op": "add",
-    "path": "/converse/avian/northdragnar",
+    "path": "/converse/avian/thornurdrike",
     "value": [
 		"Stay away from our holy relics!",
-		"Watch your tongue around here, North-Dragnar.",
-		"Does your kind even worship any other divine being?",
-		"I have heard of North-Dragnarian raiders, that have plundered temples of Kluex!",
+		"Watch your tongue around here, Drike.",
+		"Does your kind even worship any divine being?",
+		"I have heard of Driken raiders, that have plundered temples of Kluex! You're not one of them, are you?",
 		"I pray to Kluex, that you aren't a spy of these cursed Fero-Tooth Raiders...",
 		"I'm not sure how Kluex would feel about your kind...",
-		"We have only sacrificed very few North-Dragnar.",
+		"We have only sacrificed very few Thornur-Drikes, I think",
 		"No feathers at all? At least you have fur to keep you warm.",
 		"Kluex values the strong, even if they don't believe in Kluex.",
-		"I wonder, could a North-Dragnar take part in an Ascension?",
-		"North-Dragnarian warriors might match up with Avian warriors, but we have Kluex on our side.",
+		"I wonder, could a Thornur-Drike like you take part in an Ascension?",
+		"Thornur-Driken warriors might match up with Avian warriors, but we have Kluex on our side.",
 		"Good day, featherless one.",
-		"Dragnar, I'm afraid of Kluex and his believers...",
-		"I-Is Kluex really a tyrant? Oh! Please, don't tell anyone that I doubted Kluex, please!",
+		"Drike, I'm afraid of Kluex and his believers...",
+		"I-Is Kluex really a tyrant?\nOh! Please, don't tell anyone that I doubted Kluex, please!",
 		"Kluex is far from being a tyrant! Can't you see how far we have come with Kluex's guidance?",
-		"Your people have been deceived by the Grounded's propaganda! May Kluex forgive your foolishness...",
+		"Your people have been deceived by the Grounded's fogged visions! May Kluex forgive your foolishness...",
 		"I would prefer you not climbing up on one of our Celestial towers.",
 		"It's a shame, that your people don't believe in Kluex. They would be great fighters along us Avians.",
-		"Don't fear the Stargazers, they usually don't sacrifice nonbelievers like your kind. Foul blood and all that...",
+		"Don't fear the Stargazers, they usually don't sacrifice nonbelievers like your kind.\nFoul blood and all that...",
 		"Your people should feel no pity for the Grounded. They have deliberately turned their backs on the mighty Kluex.",
 		"Kluex be with you.",
-		"You seem like a nice Dragnar! Thanks be to Kluex.",
+		"You seem like a nice Drike! Praise be to Kluex.",
 		"Kluex bless you.",
 		"Hello.",
 		"Welcome to our village.",
@@ -33,7 +33,7 @@
 		"Good to meet you.",
 		"May your life be filled with light.",
 		"Bless you.",
-		"May you- Oh, a North-Dragnar?",
+		"May you- Oh, a Thornur-Drike?",
 		"Hello there.",
 		"How do you do?",
 		"Welcome, visitor.",
@@ -41,10 +41,10 @@
 		"May you find Kluex's light...",
 		"By the sacred lands of Avos, it's good to meet you!",
 		"Don't worry, this isn't a time of sacrifice.",
-		"By Kluex's wings! A North-Dragnar!",
+		"By Kluex's wings! A Thornur-Drike!",
 		"May Kluex take you under his wing.",
-		"May Kluex make you strong, Dragnar",
-		"May Kluex... guide your hand in battle, away from us.",
+		"May Kluex grant you strength, Drike.",
+		"May Kluex guide your hand in battle... away from us.",
 		"The mighty Kluex defends all who Kluex deems worthy.",
 		"Nice to meet you, traveller.",
 		"Let Kluex guide your travels.",
@@ -62,22 +62,22 @@
   },
   {
     "op": "copy",
-    "from": "/converse/avian/northdragnar",
-    "path": "/converse/avian/bignorthdragnar"
+    "from": "/converse/avian/thornurdrike",
+    "path": "/converse/avian/bigthornurdrike"
   },
   {
     "op": "add",
-    "path": "/converse/avian/bignorthdragnar/-",
-    "value": "We have only sacrificed very few North-Dragnar, much less about as big as you are."
+    "path": "/converse/avian/bigthornurdrike/-",
+    "value": "We have only sacrificed very few Thornur-Drike, even fewer that are about as big as you are."
   },
   {
     "op": "add",
-    "path": "/converse/avian/bignorthdragnar/-",
-    "value": "May you- Oh, a North-Dragnar? You are bigger than I imagined..."
+    "path": "/converse/avian/bigthornurdrike/-",
+    "value": "May you- Oh, a Thornur-Drike?\nYou are bigger than I imagined..."
   },
   {
     "op": "add",
-    "path": "/converse/avian/bignorthdragnar/-",
-    "value": "By Kluex's wings! A North-Dragnar! And a rather big one too."
+    "path": "/converse/avian/bigthornurdrike/-",
+    "value": "By Kluex's wings! A Thornur-Drike!\nAnd a rather big one too."
   }
 ]		

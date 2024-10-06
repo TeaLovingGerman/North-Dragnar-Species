@@ -1,46 +1,38 @@
 [
-  {
-	"op" : "add",
-	"path" : "/outOfRangeText",
-	"value" : {
-	  "northdragnar" : [
-		"Whatever it is, it's out o' reach for the scanner.",
-		"The scanner ain't readin' a thin', it's too far away.",
-		"I ought to be gettin' closer for a clear readin'.",
-		"Gah, this thin' ain't much better than me own eyes. It's out o' range.",
-		"I ain't close enough.",
-		"Could be anythin'. I got to get closer."
-	  ],
-	  "bignorthdragnar" : [
-		"Whatever it is, it's out o' reach for the scanner.",
-		"The scanner ain't readin' a thin', it's too far away.",
-		"I ought to be gettin' closer for a clear readin'.",
-		"Gah, this thin' ain't much better than me own eyes. It's out o' range.",
-		"I ain't close enough.",
-		"Could be anythin'. I got to get closer."
-      ]
-    }
-  },
-  {
-	"op" : "add",
-	"path" : "/nothingThereText",
-	"value" : {
-	  "northdragnar" : [
-		"Me own pair o' eyes can tell, that there's nothin' to be scanned.",
-		"Just a whole bunch o' nothin'.",
-		"I ain't noticin' anythin' noteable.",
-		"The only thin' o' note here is that there's nothin'.",
-		"Nah, nothin'.",
-		"Behold! It's absolutely nothin'..."
-	  ],
-	  "bignorthdragnar" : [
-		"Me own pair o' eyes can tell, that there's nothin' to be scanned.",
-		"Just a whole bunch o' nothin'.",
-		"I ain't noticin' anythin' noteable.",
-		"The only thin' o' note here is that there's nothin'.",
-		"Nah, nothin'.",
-		"Behold! It's absolutely nothin'..."
-      ]
-    }
-  }
+ {
+  "op": "add",
+  "path": "/nothingThereText/thornurdrike",
+  "value": [
+	"Vhatever it is, it's out o' reach for the scanner.",
+	"The scanner ain't readin' a thin', it's too far avay.",
+	"I ought to be gettin' closer for a clear readin'.",
+	"Gah, this thin' ain't much better than mei own eyes. It's out o' range.",
+	"I ain't close enough.",
+	"Could be anythin'. I got to get closer."
+  ]
+ },
+ {
+    "op": "copy",
+    "from": "/nothingThereText/thornurdrike",
+    "path": "/nothingThereText/bigthornurdrike"
+ },
+ {
+  "op": "add",
+  "path": "/outOfRangeText/thornurdrike",
+  "value": [
+	"Mei own pair o' eyes can tell, that there's nothin' to be scanned.",
+	"Just a whole bunch o' nothin'.",
+	"I ain't noticin' anythin' noteable.",
+	"The only thin' o' note is, that there's nothin'.",
+	"Nei, nothin'.",
+	"Behold! It's absolutely nothin'...",
+	"Nothin'",
+	"Nothin' interestin'."
+  ]
+ },
+ {
+    "op": "copy",
+    "from": "/outOfRangeText/thornurdrike",
+    "path": "/outOfRangeText/bigthornurdrike"
+ }
 ]

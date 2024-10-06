@@ -3,10 +3,10 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-		"ndactivity": [
-          "was goin' for a walk to <ndpersonal>",
-		  "went on a little trip to <ndpersonal>",
-		  "was trottin' around the place to <ndpersonal>"
+		"ND_activity": [
+          "vas goin' for a valk to <ND_personal>",
+		  "vent on a little trip to <ND_personal>",
+		  "vas trottin' around the place to <ND_personal>"
 	  ]
     }
   },
@@ -14,15 +14,15 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndpersonal": [
-          "think o' me next project",
-		  "be ponderin' what I'd be able to hunt",
-		  "gather... Me thoughts for a bit",
+	  "ND_personal": [
+          "think o' mei next project",
+		  "be ponderin' vhat I'd be able to hunt",
+		  "gather... mei thoughts for a bit",
 		  "take a breather from some trouble",
 		  "explore the area",
-		  "do somethin', but I forgot what on the way",
+		  "do somethin', but I forgot vhat on the vay",
 		  "gather some forage",
-		  "give me legs some work"
+		  "give me legs some vork"
 	  ]
     }
   },
@@ -30,7 +30,7 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndearlier": [
+	  "ND_earlier": [
             "earlier",
 			"recently",
 			"not too lon' ago",
@@ -46,10 +46,10 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndcrime1": [
-          "took me by surprise and <ndcrime2>",
-          "came out o' nowhere and <ndcrime2>",
-          "suddenly appeared and <ndcrime2>"
+	  "ND_crime1": [
+          "took mei by surprise and <ND_crime2>",
+          "came out o' novhere and <ND_crime2>",
+          "suddenly appeared and <ND_crime2>"
 	  ]
     }
   },
@@ -57,15 +57,15 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndcrime2": [
-          "stole me <ndcrime3>",
-          "forcefully took me <ndcrime3> from me",
-          "made me hand over me <ndcrime3>",
-          "threatened me to give 'em me <ndcrime3>, or else,",
-          "I had no other choice, but to hand over me <ndcrime3>",
-		  "beat me to the ground",
-		  "were askin' me to rate their attempt o' robbin' me",
-		  "''lightened me load'', as they put it,"
+	  "ND_crime2": [
+          "stole mei <ND_crime3>",
+          "forcefully took mei <ND_crime3>",
+          "made mei hand over mei <ND_crime3>",
+          "threatened mei to give theim mei <ND_crime3>, or else,",
+          "I had nei other choice, but to hand over mei <ND_crime3>",
+		  "beat mei to the ground",
+		  "vere askin' mei to rate their attempt o' robbin' mei",
+		  "''lighte mei load'', as thei put it,"
 	  ]
     }
   },
@@ -73,7 +73,7 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndcrime3": [
+	  "ND_crime3": [
             "necklace",
 			"purse",
 			"money",
@@ -87,11 +87,12 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndreaction": [
+	  "ND_reaction": [
             "humiliated",
 			"frustrated",
 			"upset",
-			"infuriated"
+			"infuriated",
+			"furious"
 	  ]
     }
   },
@@ -99,10 +100,10 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndjustice1": [
-            " want is <ndjustice2>",
-			" need is <ndjustice2>",
-			"'m askin' for <ndjustice2>"
+	  "ND_justice1": [
+            " vant's <ND_justice2>",
+			" need's <ND_justice2>",
+			"'m askin' for <ND_justice2>"
 	  ]
     }
   },
@@ -110,7 +111,7 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndjustice2": [
+	  "ND_justice2": [
             "justice",
 			"payback",
 			"revenge",
@@ -123,10 +124,10 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndrequest": [
-            "make those blaggards pay",
-			"teach 'em what they deserve",
-			"give 'em what they've got comin'"
+	  "ND_request": [
+            "make those thieves pay",
+			"deliver vhat they deserve",
+			"give 'eim vhat they've got comin'"
 	  ]
     }
   },
@@ -134,11 +135,11 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndappreciation": [
-            "Thanks for brin'in' justice to those blaggards.",
-			"Yer help honours me! Take this.",
-			"Aha! Those rogues should've thought twice before takin' ya on!",
-			"Ye'd prove to be a great guard, I tell ya!"
+	  "ND_appreciation": [
+            "Thanks for brin'in' justice to those thieves.",
+			"Yewr help honours mei! Take this.",
+			"Aha! Those rogues should've thought tvice before takin' yew on!",
+			"Yew'd prove to be a great guard, I tell yew!"
 	  ]
     }
   },
@@ -146,10 +147,10 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndoverheard": [
+	  "ND_overheard": [
             "overheard",
 			"eavesdropped on",
-			"was spyin' on"
+			"vas spyin' on"
 	  ]
     }
   },
@@ -157,10 +158,10 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "nddoubt": [
-            "I might've misheard 'em",
-			"It was hard to be understandin' their mumblin'",
-			"I'm almost somewhat uncertain o' what I heard"
+	  "ND_doubt": [
+            "I might've misheard theim",
+			"It vas hard to be understandin' their mumblin'",
+			"I'm almost somevhat uncertain o' vhat I heard"
 	  ]
     }
   },
@@ -168,7 +169,7 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "nddiscussing": [
+	  "ND_discussing": [
             "blatherin' about",
 			"schemin' about",
 			"havin' a chat about",
@@ -180,76 +181,55 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "nddiscussion": [
-            " where to strike next.",
-			"... Suspicious soundin' stuff.",
-			" when they'd be startin' an ambush they prepared.",
-			" which crimes to commit next.",
+	  "ND_discussion": [
+            " vhere to strike next.",
+			"... suspicious soundin' stuff.",
+			" vhen thei'd be startin' an ambush thei prepared.",
+			" vhich crimes to commit next.",
 			" their secret plans.",
-			" how they should be splittin' the spoils o' their past crimes.",
-			" plans on recruitin' beasts to do the dirty work for 'em.",
-			" how they're wantin' to make illegal activities legal."
+			" how thei should be splittin' the spoils o' their past crimes.",
+			" plans on recruitin' beasts to do the dirty vork for 'eim.",
+			" how thei're vantin' to make illegal activities legal."
 	  ]
     }
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/default",
-    "value": {
-	  "northdragnar": [
-			"^cyan;I crossed paths with <enemy> <ndearlier>.",
-			"^cyan;I was able to spy on some <enemy> <ndearlier>."
-	  ]
-    }
-  },
+    "path": "/scriptConfig/generatedText/goalText/thornurdrike",
+    "value": [
+			"^cyan;I crossed paths vith <enemy> <ND_earlier>.",
+			"^cyan;I vas able to spy on some <enemy> <ND_earlier>."
+    ]
+    },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/default",
-    "value": {
-	  "bignorthdragnar": [
-			"^cyan;I crossed paths with <enemy> <ndearlier>.",
-			"^cyan;I was able to spy on some <enemy> <ndearlier>."
-	  ]
-    }
-  },
+    "path": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "value": [
+            "I <ND_activity>, vhen a couple o' ^orange;<enemy>^white; <crime1>. Those crooks <ND_reaction> mei and I<ND_justice1>, for vhat thei've done! Thei fled to the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could yew <ND_request>?",
+			"I <ND_overheard> some ^orange;<enemy>^white; near ^orange;<spawnPoint>^white;. <ND_doubt>, but it sounded like thei vere <ND_discussing><ND_discussion> ^green;It's probably vorth investigatin', vhatever those ^orange;<enemy>^green; are up to."
+    ]
+    },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default",
-    "value": {
-	  "northdragnar": [
-            "I <ndactivity> <ndearlier>, when a couple o' ^orange;<enemy>^white; <crime1>. Those crooks <ndreaction> me and I<ndjustice1>, for what they've done! They fled to the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could ya <ndrequest>?",
-			"I <ndoverheard> some ^orange;<enemy>^white; near ^orange;<spawnPoint>^white; <ndearlier>. <nddoubt>, but it sounded like they were <nddiscussing><nddiscussion> ^green;It's probably worth investigatin', whatever those ^orange;<enemy>^green; are up to."
-	  ]
-    }
-  },
+    "path": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "value": [
+            "Are those good-for-nothin's taken care o'? <ND_appreciation>",
+			"And? Vere yew able to find out what those <enemy> were up to? I'm already satisfied vith theim bein' gone, in any case. <ND_appreciation>"
+    ]
+    },
   { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default",
-    "value": {
-	  "bignorthdragnar": [
-            "I <ndactivity> <ndearlier>, when a couple o' ^orange;<enemy>^white; <crime1>. Those crooks <ndreaction> me and I<ndjustice1>, for what they've done! They fled to the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could ya <ndrequest>?",
-			"I <ndoverheard> some ^orange;<enemy>^white; near ^orange;<spawnPoint>^white; <ndearlier>. <nddoubt>, but it sounded like they were <nddiscussing><nddiscussion> ^green;It's probably worth investigatin', whatever those ^orange;<enemy>^green; are up to."
-	  ]
-    }
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/goalText/thornurdrike",
+    "path": "/scriptConfig/generatedText/goalText/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default",
-    "value": {
-	  "northdragnar": [
-            "Are those good-for-nothin's taken care o'? <ndappreciation>",
-			"And? Were ye able to find out what those <enemy> were up to? <ndappreciation>"
-	  ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/default/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default",
-    "value": {
-	  "bignorthdragnar": [
-            "Are those good-for-nothin's taken care o'? <ndappreciation>",
-			"And? Were ye able to find out what those <enemy> were up to? <ndappreciation>"
-	  ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/default/bigthornurdrike"
   }
 ]

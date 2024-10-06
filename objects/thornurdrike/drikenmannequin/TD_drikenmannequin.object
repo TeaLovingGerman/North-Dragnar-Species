@@ -1,0 +1,50 @@
+{
+  "objectName" : "TD_drikenmannequin",
+  "colonyTags" : [],
+  "printable" : false,
+  "rarity" : "Common",
+
+  "category" : "other",
+  "price" : 500,
+  "description" : "This engraved mannequin will gladly display any Thornur-Driken outfits.",
+  "shortdescription" : "Driken Mannequin",
+  "race" : "thornurdrike",
+  
+  "apexDescription" : "A rather unusual amount of detail for a mannequin. It appears more like a piece of art.",
+  "avianDescription" : "A life-sized carving of a Thornur-Drike that acts as a mannequin.",
+  "floranDescription" : "Wooden ssculpture of weird birdman can hold armour.",
+  "glitchDescription" : "Remarking. A detailed wooden mannequin, formed after the likeness of a Thornur-Drike.",
+  "humanDescription" : "I bet, someone could mistake this mannequin with an actual Thornur-Drike from far away.",
+  "hylotlDescription" : "One could interpret this mannequin as a manifestation of the Thornur-Driken people's obstinate nature.",
+  "novakidDescription" : "Just as hardy-lookin' as the folks that it's representin'.",
+  "thornurdrikeDescription" : "This fella's got just the right shape to be holdin' mei kin's clothes and armour.",
+  "bigthornurdrikeDescription" : "This fella's got just the right shape to be holdin' mei kin's clothes and armour. A bit below mei size, though",
+
+  "inventoryIcon" : "mannequinicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "mannequin.png",
+      "imagePosition" : [-21, 0],
+
+      "spaces" : [[-1, 0], [-1, 1], [-1, 2], [-1, 3], [0, 0], [0, 1], [0, 2], [0, 3]],
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "animation" : "mannequin.animation",
+  "animationPosition" : [-21, 0],
+
+  "health" : 1.5,
+
+  "objectType" : "container",
+
+  "openSounds" : [ "/sfx/objects/mannequin_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/mannequin_close.ogg" ],
+  "slotCount" : 4,
+  "uiConfig" : "/interface/scripted/mannequin/mannequingui.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600,
+
+  "scripts" : [ "/objects/generic/mannequin/mannequin.lua" ],
+  "scriptDelta" : 5
+}

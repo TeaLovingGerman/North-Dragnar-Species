@@ -1,12 +1,12 @@
 [
   {
 	"op": "add",
-	"path": "/scriptConfig/dialog/attack/avian/northdragnar",
+	"path": "/scriptConfig/dialog/attack/avian/thornurdrike",
     "value": [
-            "Dragnar! Leave this hallowed resting ground!",
+            "Drike! Leave this hallowed resting ground!",
             "Stop right where you are!",
             "You dishonour Kluex and the his deceased followers!",
-            "You are unwelcome, Dragnar!",
+            "You are unwelcome, Drike!",
             "Today, Kluex claims another soul!",
             "The wrath of Kluex will fall upon you!",
             "The power of Kluex compels me to slay you!",
@@ -19,7 +19,7 @@
   },
   {
     "op": "copy",
-    "from": "/scriptConfig/dialog/attack/avian/northdragnar",
-    "path": "/scriptConfig/dialog/attack/avian/bignorthdragnar"
+    "from": "/scriptConfig/dialog/attack/avian/thornurdrike",
+    "path": "/scriptConfig/dialog/attack/avian/bigthornurdrike"
   }
 ]

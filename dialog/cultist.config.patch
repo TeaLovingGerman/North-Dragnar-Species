@@ -1,13 +1,13 @@
 [
     {
     "op": "add",
-    "path": "/attack/human/northdragnar",
+    "path": "/attack/human/thornurdrike",
     "value": [
 			    "This just isn't your day!",
 				"We are the Occasus! You can't stop us!",
 				"You shall not stop our plans!",
 				"You won't leave this place!",
-				"The universe doesn't need you North-Dragnarian brutes!",
+				"The universe doesn't need you Driken brutes!",
 				"You'll die today, bloodthirsty brute!",
 				"No one needs a bunch of raiders like you!",
 				"Your kind is nothing but raiders!",
@@ -21,12 +21,12 @@
   },
   {
     "op": "copy",
-    "from": "/attack/human/northdragnar",
-    "path": "/attack/human/bignorthdragnar"
+    "from": "/attack/human/thornurdrike",
+    "path": "/attack/human/bigthornurdrike"
   },
   {
     "op": "add",
-    "path": "/converse/avian/bignorthdragnar/-",
+    "path": "/attack/human/bigthornurdrike/-",
     "value": "Your size won't save you from the wrath of the Occasus!"
   }
 ]

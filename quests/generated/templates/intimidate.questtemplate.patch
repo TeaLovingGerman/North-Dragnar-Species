@@ -1,146 +1,119 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/northdragnar",
+    "path": "/scriptConfig/generatedText/goalText/thornurdrike",
     "value": [
-            "^cyan;<target>'s thinkin' that nobody's tough enough to persuade 'em into helpin' me. We're goin' to change that!",
-			"^cyan;<target>'s refusin' to help me out with... somethin'. We'll be teachin' 'em a lesson!"
+            "^cyan;<target>'s thinkin' that nobody's tough enough to persuade theim into helpin' mei. Ve're goin' to change that!",
+			"^cyan;<target>'s refusin' to help mei out vith... somethin'. Ve'll be teachin' theim a lesson!"
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/first/northdragnar",
+    "path": "/scriptConfig/generatedText/text/first/thornurdrike",
     "value": [
-            "Fear's the best way o' makin' a stubborn oaf like ^orange;<target> ^white;obedient. So, ye're goin' to start this plan by ^green;grabbin' a ^orange;<item> ^green;. Ye'll be able to convince ^orange;<target> ^green; with that imposin' ^orange;<item> ^green; in a simple chat! No violence needed. Ohoh!",
-			"First we'll have to change ^orange;<target>'s ^white; mind the hard way, because they're not goin' to assist me otherwise... Go on out and ^green;fetch a ^orange;<item>. Then start a conversation with ^orange;<target>^green;, and make sure to point that ^orange;<item> ^green;right at their snout! Ye better not be forgettin'the last part! It's VERY important!" 
+            "Fear's the best vay o' makin' a stubborn oaf like ^orange;<target> ^white;obedient. So, yew're goin' to start this plan by ^green;grabbin' a ^orange;<item> ^green;. Yew'll be able to convince ^orange;<target> ^green; vith that imposin' ^orange;<item> ^green; in a simple chat! Nei violence needed. Ohoh!",
+			"First ve'll have to change ^orange;<target>'s ^white; mind the hard vay, because thei're not goin' to assist mei othervise... Go on out and ^green;fetch a ^orange;<item>. Then start a conversation vith ^orange;<target>^green;, and make sure to point that ^orange;<item> ^green;right at their snout! Yew better not be forgettin' the last part! It's VERY important!" 
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/next/northdragnar",
+    "path": "/scriptConfig/generatedText/text/next/thornurdrike",
     "value": [
-            "Next, we'll be needin' the helpin' hands o' ^orange;<target> ^white;, but we're goin' to need to convince ^orange;<target> ^white; to be lendin' their hands, by intimidatin' 'em! Ye'll just have to ^green;take a ^orange;<item> ^green; and wave it in front o' their face durin' a little chat.",
-			"Now that that's over with, I'm needin' ya to intimidate ^orange;<target> ^white; for me. They didn't want to take the easy route, which means ye're goin' to ^green;grab a ^orange;<item>^green; from somewhere and talk with ^orange;<item> ^green;. Make sure that ^orange;<item> ^green;'s in their plain view!"
+            "Next, ve'll be needin' the helpin' hands o' ^orange;<target> ^white;, but ve're goin' to need to convince ^orange;<target> ^white; to be lendin' those hands, by intimidatin' theim! Yew'll just have to ^green;take a ^orange;<item> ^green; and vave it in front o' their face durin' a little chat.",
+			"Now that that's over vith, I'm needin' yew to intimidate ^orange;<target> ^white; for mei. Thei didn't vant to take the easy route, vhich means yew're goin' to ^green;grab a ^orange;<item>^green;, don't care from vhere, and talk vith ^orange;<item> ^green;. Make sure that ^orange;<item> ^green;'s in their plain view!"
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/last/northdragnar",
+    "path": "/scriptConfig/generatedText/text/last/thornurdrike",
     "value": [
-            "We're almost done with me plans. Ye'll just have to persuade ^orange;<target> ^white;into helpin' out an... Old friend. Try to ^green;get yer hands on a ^orange;<item>^green; walk on over to ^orange;<target>^green; for a short conversation and show 'em this ^orange;<item>^green;, proudly!",
-			"Now there's only that stubborn-headed ^orange;<target>^white; remainin' in the way o' this plan! I'm goin' to need ^orange;<target>^white;'s help, but they're not goin' to give in willin'ly. ^green;Get yerself a ^orange;<item>^green; from whereever, I'm not carin' from where, and brag about it in a chat with ^orange;<target>^green;!" 
+            "Ve're almost done vith mei plans. Yew'll just have to persuade ^orange;<target> ^white;into helpin' out an... old friend. Try to ^green;get yewr hands on a ^orange;<item>^green;, valk on over to ^orange;<target>^green; for a short conversation and show theim this ^orange;<item>^green;, proudly!",
+			"Now there's only that stubborn-headed ^orange;<target>^white; remainin' in the vay o' this plan! I'm goin' to need ^orange;<target>^white;'s help, but thei're not goin' to give in villin'ly. ^green;Get yewrself a ^orange;<item>^green; from vhereever, I'm not carin' from vhere, and brag about it in a chat vith ^orange;<target>^green;!" 
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "path": "/scriptConfig/generatedText/text/default/thornurdrike",
     "value": [
-            "It'd be good to have ^orange;<target>^white; as an accomplice for a future plan o' mine, but I'm not fierce enough to convince 'em on me own. However, if ye ^green;get a hold o' a ^orange;<item>^green;, and have it at yer side durin' a chat with ^orange;<target>^green;, ye'd be workin' wonders!",
-			"I'm needin' a favour from ^orange;<target>^white;, but words're not goin' to cut it! Even if ^orange;<target>^white;'s pretendin' like they're afraid o' nothin', I know ^orange;<target>^white;'s scared o' ^orange;<item>^white;. ^green;Get one ^orange;<item>^green; and pack it out in front o' ^orange;<target>^green;'s face while ye're chattin' with 'em!"
+            "It'd be good to have ^orange;<target>^white; as an accomplice for a future plan o' mine, but I'm not fierce enough to convince theim on mei own. However, if yew ^green;get a hold o' a ^orange;<item>^green;, and have it at yewr side durin' a chat vith ^orange;<target>^green;, yew'd be vorkin' vonders!",
+			"I'm needin' a favour from ^orange;<target>^white;, but vords're not goin' to cut it! Even if ^orange;<target>^white;'s pretendin' like they're afraid o' nothin', I know ^orange;<target>^white;'s scared o' ^orange;<item>^white;. ^green;Get one ^orange;<item>^green; and pack it out in front o' ^orange;<target>^green;'s face vhile yew're chattin' vith theim!"
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/first/northdragnar",
+    "path": "/scriptConfig/generatedText/completionText/first/thornurdrike",
     "value": [
-            "Ye and that <item>'re makin' for a fierce pair o' negotiators! <target>'s help's goin' to prove useful to me, soon.",
-			"I knew that <target>'d be givin' in! Though we're just gettin' started..." 
+            "Yew and that <item>'re makin' for a fierce pair o' negotiators! <target>'s help's goin' to prove useful to mei, soon.",
+			"I knew that <target>'d be givin' in! Though ve're just gettin' started..." 
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/next/northdragnar",
+    "path": "/scriptConfig/generatedText/completionText/next/thornurdrike",
     "value": [
-            "That was one fine intimidation! Now we can be movin' on to the next step o' me plan.",
-			"Ohoho! Couldn't have done it better meself! Let's hope, that the next step's goin' to be just as easy."
+            "That vas one fine intimidation! Now ve can be movin' on to the next step o' mei plan.",
+			"Ohoho! Couldn't've done it better meiself! Let's hope, that the next step's goin' to be just as easy."
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/last/northdragnar",
+    "path": "/scriptConfig/generatedText/completionText/last/thornurdrike",
     "value": [
-            "Aha! Worked like a damned charm! <target>'s extra muscle's goin' to be o' good use to me.",
-			"Well done! <target> ain't goin' to be a problem for the time bein'. Quite the opposite actually! Aha!" 
+            "Aha! Vorked like a damned charm! <target>'s extra muscle's goin' to be o' good use to mei.",
+			"Vell done! <target> ain't goin' to be a problem for the time bein'. Quite the opposite actually! Oho!" 
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
+    "path": "/scriptConfig/generatedText/completionText/default/thornurdrike",
     "value": [
-            "Haven't had a single doubt about yer fierceness! <target>'s knowin' their place now.",
-			"A persuasive one, are ye? Ahaha! Fine convincin' ye've done there!" 
+            "Haven't had a sin'le doubt about yewr fierceness! <target>'s knowin' their place now.",
+			"A persuasive one, are yew? Ahaha! Fine convincin' yew've done there!" 
     ]
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/bignorthdragnar",
-    "value": [
-            "^cyan;<target>'s thinkin' that nobody's tough enough to persuade 'em into helpin' me. We're goin' to change that!",
-			"^cyan;<target>'s refusin' to help me out with... somethin'. We'll be teachin' 'em a lesson!"
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/goalText/thornurdrike",
+    "path": "/scriptConfig/generatedText/goalText/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/first/bignorthdragnar",
-    "value": [
-            "Fear's the best way o' makin' a stubborn oaf like ^orange;<target> ^white;obedient. So, ye're goin' to start this plan by ^green;grabbin' a ^orange;<item> ^green;. Ye'll be able to convince ^orange;<target> ^green; with that imposin' ^orange;<item> ^green; in a simple chat! No violence needed. Ohoh!",
-			"First we'll have to change ^orange;<target>'s ^white; mind the hard way, because they're not goin' to assist me otherwise... Go on out and ^green;fetch a ^orange;<item>. Then start a conversation with ^orange;<target>^green;, and make sure to point that ^orange;<item> ^green;right at their snout! Ye better not be forgettin'the last part! It's VERY important!" 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/first/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/first/thornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/next/bignorthdragnar",
-    "value": [
-            "Next, we'll be needin' the helpin' hands o' ^orange;<target> ^white;, but we're goin' to need to convince ^orange;<target> ^white; to be lendin' their hands, by intimidatin' 'em! Ye'll just have to ^green;take a ^orange;<item> ^green; and wave it in front o' their face durin' a little chat.",
-			"Now that that's over with, I'm needin' ya to intimidate ^orange;<target> ^white; for me. They didn't want to take the easy route, which means ye're goin' to ^green;grab a ^orange;<item>^green; from somewhere and talk with ^orange;<item> ^green;. Make sure that ^orange;<item> ^green;'s in their plain view!"
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/next/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/next/thornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/last/bignorthdragnar",
-    "value": [
-            "We're almost done with me plans. Ye'll just have to persuade ^orange;<target> ^white;into helpin' out an... Old friend. Try to ^green;get yer hands on a ^orange;<item>^green; walk on over to ^orange;<target>^green; for a short conversation and show 'em this ^orange;<item>^green;, proudly!",
-			"Now there's only that stubborn-headed ^orange;<target>^white; remainin' in the way o' this plan! I'm goin' to need ^orange;<target>^white;'s help, but they're not goin' to give in willin'ly. ^green;Get yerself a ^orange;<item>^green; from whereever, I'm not carin' from where, and brag about it in a chat with ^orange;<target>^green;!" 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/last/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/last/thornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
-    "value": [
-            "It'd be good to have ^orange;<target>^white; as an accomplice for a future plan o' mine, but I'm not fierce enough to convince 'em on me own. However, if ye ^green;get a hold o' a ^orange;<item>^green;, and have it at yer side durin' a chat with ^orange;<target>^green;, ye'd be workin' wonders!",
-			"I'm needin' a favour from ^orange;<target>^white;, but words're not goin' to cut it! Even if ^orange;<target>^white;'s pretendin' like they're afraid o' nothin', I know ^orange;<target>^white;'s scared o' ^orange;<item>^white;. ^green;Get one ^orange;<item>^green; and pack it out in front o' ^orange;<target>^green;'s face while ye're chattin' with 'em!"
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/default/thornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/first/bignorthdragnar",
-    "value": [
-            "Ye and that <item>'re makin' for a fierce pair o' negotiators! <target>'s help's goin' to prove useful to me, soon.",
-			"I knew that <target>'d be givin' in! Though we're just gettin' started..." 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/first/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/first/thornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/next/bignorthdragnar",
-    "value": [
-            "That was one fine intimidation! Now we can be movin' on to the next step o' me plan.",
-			"Ohoho! Couldn't have done it better meself! Let's hope, that the next step's goin' to be just as easy."
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/next/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/next/thornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/last/bignorthdragnar",
-    "value": [
-            "Aha! Worked like a damned charm! <target>'s extra muscle's goin' to be o' good use to me.",
-			"Well done! <target> ain't goin' to be a problem for the time bein'. Quite the opposite actually! Aha!" 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/last/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/last/thornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
-    "value": [
-            "Haven't had a single doubt about yer fierceness! <target>'s knowin' their place now.",
-			"A persuasive one, are ye? Ahaha! Fine convincin' ye've done there!" 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/default/thornurdrike"
   }
 ]

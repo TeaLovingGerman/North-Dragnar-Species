@@ -1,66 +1,54 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/first/northdragnar",
+    "path": "/scriptConfig/generatedText/text/first/thornurdrike",
     "value": [
-            "To begin, we'll be needin' one ^orange;<item>^white; from ^orange;<target>^white;. ^green;Just ask away and we might be gettin' what we're needin'.",
-			"To get this whole thin' rollin', we're goin' to need one ^orange;<item>^white;. I'm pretty sure that ^orange;<target>^white;'s got one o' 'em. ^green;Would ye mind askin' ^orange;<target>^white;, ^green;and see, if' they're willin' to part with it?"
+            "To begin, ve'll be needin' one ^orange;<item>^white; from ^orange;<target>^white;. ^green;Just ask avay and ve might be gettin' vhat ve're lookin' for.",
+			"To get this whole thin' rollin', ve're goin' to need one ^orange;<item>^white;. I'm pretty sure that ^orange;<target>^white;'s got one o' those. ^green;Vould yew mind askin' ^orange;<target>^white;, ^green;and see, if' thei'd be villin' to part vith it?"
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "path": "/scriptConfig/generatedText/text/default/thornurdrike",
     "value": [
-            "Alright, we'll be needin one ^orange;<item>^white; to be continuin' with our plan. ^orange;<target>^white; should have one o' those with 'em. ^green;Ask 'em on me behalf, they're owin' me a favour anyway.",
-			"Next we're goin' to need to get our hands on ^orange;<item>^white;. Luckily ^orange;<target>^white;, a good mate o' mine, has got just what we're needin'! ^green;Askin' 'em should be all it takes to convince 'em o' helpin' us." 
+            "Alright, ve'll be needin' one ^orange;<item>^white; to be continuin' vith our plan. ^orange;<target>^white; should have one o' those vith theim. ^green;Ask theim on mei behalf, they're owin' mei a favour anyvay.",
+			"Next ve're goin' to need to get our hands on ^orange;<item>^white;. Luckily ^orange;<target>^white;, a good mate o' mine, has got just vhat ve're needin'! ^green;Askin' theim nicely should be all it takes to convince theim o' helpin' us." 
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/last/northdragnar",
+    "path": "/scriptConfig/generatedText/completionText/last/thornurdrike",
     "value": [
-            "And there's the <item>! Thank ye for fetchin' it. I'll be thankin' <target> later for their contribution to our plan as well!",
-			"Ah, seems like ye've got the <item> from <target>! Yer and <target>'s help's much appreciated!"
+            "And there's the <item>! Thank yew for fetchin' it. I'll be thankin' <target> later for their contribution to our plan as vell!",
+			"Ah, seems like yew've got the <item> from <target>! Yewr and <target>'s help's much appreciated!"
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
+    "path": "/scriptConfig/generatedText/completionText/default/thornurdrike",
     "value": [
-            "Looks like <target>'s been willin' to hand ye the <item>! Almost nothin's standin' in our way to completin' this plan now!",
-			"Thanks to both o' yer efforts, we can be continuin' with our plan now!" 
+            "Looks like <target>'s been villin' to hand yew the <item>! Almost nothin's standin' in our vay to completin' this plan now!",
+			"Thanks to both o' yewr efforts, ve can be continuin' vith our plan now!" 
     ]
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/first/bignorthdragnar",
-    "value": [
-            "To begin, we'll be needin' one ^orange;<item>^white; from ^orange;<target>^white;. ^green;Just ask away and we might be gettin' what we're needin'.",
-			"To get this whole thin' rollin', we're goin' to need one ^orange;<item>^white;. I'm pretty sure that ^orange;<target>^white;'s got one o' 'em. ^green;Would ye mind askin' ^orange;<target>^white;, ^green;and see, if' they're willin' to part with it?"
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/first/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/first/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
-    "value": [
-            "Alright, we'll be needin one ^orange;<item>^white; to be continuin' with our plan. ^orange;<target>^white; should have one o' those with 'em. ^green;Ask 'em on me behalf, they're owin' me a favour anyway.",
-			"Next we're goin' to need to get our hands on ^orange;<item>^white;. Luckily ^orange;<target>^white;, a good mate o' mine, has got just what we're needin'! ^green;Askin' 'em should be all it takes to convince 'em o' helpin' us." 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/default/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/last/bignorthdragnar",
-    "value": [
-            "And there's the <item>! Thank ye for fetchin' it. I'll be thankin' <target> later for their contribution to our plan as well!",
-			"Ah, seems like ye've got the <item> from <target>! Yer and <target>'s help's much appreciated!"
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/last/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/last/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
-    "value": [
-            "Looks like <target>'s been willin' to hand ye the <item>! Almost nothin's standin' in our way to completin' this plan now!",
-			"Thanks to both o' yer efforts, we can be continuin' with our plan now!" 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/default/bigthornurdrike"
   }
 ]

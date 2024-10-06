@@ -1,0 +1,25 @@
+{
+  "materialId" : 3000,
+  "materialName" : "TD_palisade",
+  "particleColor" : [78, 47, 29, 255],
+  "itemDrop" : "TD_palisade",
+  "shortdescription" : "Palisade",
+  "description" : "These palisades are made of especially tough wood to keep out especially tough invaders.",
+  "glitchDescription" : "Pleased. Palisades made of such dense wood prove to be a good defense.",
+  "floranDescription" : "Large pointy stickss of wood. Too large for Floran to ssstab with.",
+  "novakidDescription" : "A pretty effective way o' defendin' a fort.",
+  "thornurdrikeDescription" : "Vood's a reliable material for these sorts o' palisades, because there's usually plenty o' it to be found.",
+  "bigthornurdrikeDescription" : "Vood's a reliable material for these sorts o' palisades, because there's usually plenty o' it to be found.",
+  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "health" : 20,
+  "category" : "materials",
+  "renderTemplate" : "/tiles/columntemplate.config",
+  "renderParameters" : {
+    "texture" : "TD_palisade.png",
+    "variants" : 10,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 1900
+  }
+}

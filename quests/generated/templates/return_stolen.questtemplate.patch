@@ -1,182 +1,119 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText",
-    "value": {
-	  "northdragnar": [
-            "^cyan;One o' <victim>'s items has been stolen. Let's help 'em out.",
-			"^cyan;<thief> stole one o' <victim>'s items. Help me with brin'in' <thief> to justice."
-	  ]
-    }
+    "path": "/scriptConfig/generatedText/goalText/thornurdrike",
+    "value": [
+            "^cyan;One o' <victim>'s item's been stolen. Let's help theim out.",
+			"^cyan;<thief> stole one o' <victim>'s items. Help mei vith brin'in' <thief> to justice."
+    ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/first",
-    "value": {
-	  "northdragnar": [
-            "^orange;<thief>^white; has decided to rob ^orange;<item>^white; from ^orange;<victim>^white;'s home. I saw it with me own pair o' eyes! Could ye ^green;take the ^orange;<item>^green; from^orange;<thief>^green; and return it to ^orange;<victim>^green;'s place?",
-			"I've witnessed, that ^orange;<thief>^white; stole ^orange;<victim>^white;'s ^orange;<item>^white;. Since ^orange;<thief>^white; stole the ^orange;<item>^white; it'd only be fair, if ye ^green;take it and brin' it back to ^orange;<victim>^green;'s home." 
-	  ]
-    }
+    "path": "/scriptConfig/generatedText/text/first/thornurdrike",
+    "value": [
+            "^orange;<thief>^white; has decided to rob ^orange;<item>^white; from ^orange;<victim>^white;'s home. I saw it vith mei own pair o' eyes! Could yew ^green;take the ^orange;<item>^green; from^orange;<thief>^green; and return it to ^orange;<victim>^green;'s place?",
+			"I've vitnessed, that ^orange;<thief>^white; stole ^orange;<victim>^white;'s ^orange;<item>^white;. Since ^orange;<thief>^white; stole the ^orange;<item>^white; it'd only be fair, if yew ^green;take it and brin' it back to ^orange;<victim>^green;'s home." 
+    ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/next",
-    "value": {
-	  "northdragnar": [
-            "I need ye to take care o' somethin' before we continue. That swindlin' ^orange;<thief>^white; snuck into ^orange;<victim>^white;'s home and ran off with their ^orange;<item>^white;. All ye need to do to brin' justice, is to ^green;walk into ^orange;<thief>^green;'s home and return the ^orange;<item>^green; to their rightful owner.",
-			"I'd like to continue with me plan, but there's somethin' botherin' me. ^orange;<thief>^white; wanted one ^orange;<item>^white; desperately and resorted to stealin' one from ^orange;<victim>^white;. Could ye undo ^orange;<thief>^white;'s thievery, by ^green;goin' into their home, takin' the ^orange;<item>^green; and placin' it back in ^orange;<victim>^green;'s stead?" 
-	  ]
-    }
+    "path": "/scriptConfig/generatedText/text/next/thornurdrike",
+    "value": [
+            "I need yew to take care o' somethin' before ve continue. That svindlin' ^orange;<thief>^white; snuck into ^orange;<victim>^white;'s home and ran off vith their ^orange;<item>^white;. All yew need to do to brin' justice, is to ^green;enter ^orange;<thief>^green;'s home and return the ^orange;<item>^green; to its rightful owner.",
+			"I'd like to continue vith mei plan, but there's somethin' botherin' mei. ^orange;<thief>^white; vanted one ^orange;<item>^white; desperately and resorted to stealin' one from ^orange;<victim>^white;. Could yew undo ^orange;<thief>^white;'s thievery, by ^green;goin' into their home, takin' the ^orange;<item>^green; and placin' it back in ^orange;<victim>^green;'s stead?" 
+    ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/last",
-    "value": {
-	  "northdragnar": [
-            "Ye've done well so far, but I've got one last request for ye. Me friend ^orange;<victim>^white;'s ^orange;<item>^white; got robbed and I've got the suspicion, that ^orange;<thief>^white; nicked it, because they just got a ^orange;<item>^white; lookin' just like the stolen one! Could ye return ^orange;<thief>^white;'s favour and ^green;place the ^orange;<item>^green; back where it's belon'in'?",
-			"There've been witnesses o' a petty thievery. ^orange;<thief>^white; has taken one ^orange;<item>^white; from ^orange;<victim>^white; durin' the night. Even if it's petty, we can't just let it slide! ^green;Go to ^orange;<thief>^green;'s place and take the ^orange;<item>^green; back to ^orange;<victim>^green;'s home, where it belon's." 
-	  ]
-    }
+    "path": "/scriptConfig/generatedText/text/last/thornurdrike",
+    "value": [
+            "Yew've done vell so far, but I've got one last request for yew. Mei friend ^orange;<victim>^white;'s ^orange;<item>^white; got robbed and I've got the suspicion, that ^orange;<thief>^white; nicked it, because thei just got a ^orange;<item>^white; lookin' just like the stolen one! Could yew return ^orange;<thief>^white;'s favour and ^green;place the ^orange;<item>^green; back vhere it's belon'in'?",
+			"There've been vitnesses o' a petty thievery. ^orange;<thief>^white; has taken one ^orange;<item>^white; from ^orange;<victim>^white; durin' the night. Even if it's petty, ve can't just let it slide! ^green;Go to ^orange;<thief>^green;'s place and take the ^orange;<item>^green; back to ^orange;<victim>^green;'s home, vhere it belon's." 
+    ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default",
-    "value": {
-	  "northdragnar": [
-            "^orange;<victim>^white;'s ^orange;<item>^white; got stolen by ^orange;<thief>^white;, accordin' to reports o' the crime. Well, ^orange;<thief>^white; made the mistake o' gettin' caught, so the ^orange;<item>^white;'s s'posed to be taken back to ^orange;<victim>^white;. Could ye ^green;fetch the ^orange;<item>^green; and return it to ^orange;<victim>^green;'s stead?",
-			"Me friend ^orange;<victim>^white;'s devastated after their ^orange;<item>^white; got stolen by that jealous ^orange;<thief>^white;! I ain't judgin' on a whim. I saw how ^orange;<thief>^white; left ^orange;<victim>^white;'s home with that ^orange;<item>^white; in their hands. I'll deal with ^orange;<thief>^white; later. Would ye mind ^green;returnin' the stolen item back to ^orange;<victim>^green;'s home?" 
-	  ]
-    }
+    "path": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "value": [
+            "^orange;<victim>^white;'s ^orange;<item>^white; got stolen by ^orange;<thief>^white;, accordin' to reports o' the crime. ^orange;<thief>^white; made the mistake o' gettin' caught, so the ^orange;<item>^white;'s supposed to be taken back to ^orange;<victim>^white;. Could yew ^green;fetch the ^orange;<item>^green; and return it to ^orange;<victim>^green;'s stead?",
+			"Mei friend ^orange;<victim>^white;'s devastated after their ^orange;<item>^white; got stolen by that jealous ^orange;<thief>^white;! I ain't judgin' on a vhim. I saw how ^orange;<thief>^white; left ^orange;<victim>^white;'s home vith that ^orange;<item>^white; in their hands. I'll deal vith ^orange;<thief>^white; later. Vould yew mind ^green;returnin' the stolen item back to ^orange;<victim>^green;'s home?" 
+    ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/first",
-    "value": {
-	  "northdragnar": [
-            "Oho! If that ain't teachin' <thief> a lesson, then I don't know what will! We ain't done yet, though.",
-			"<victim>'ll be glad to have the <item> back! Now with that good deed done, let's move on to the next step." 
-	  ]
-    }
+    "path": "/scriptConfig/generatedText/completionText/first/thornurdrike",
+    "value": [
+            "Oho! If that ain't teachin' <thief> a lesson, then I don't know vhat vill! Ve ain't done yet, though.",
+			"<victim>'ll be glad to have the <item> back! Now vith that good deed done, let's move on to the next step." 
+    ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/next",
-    "value": {
-	  "northdragnar": [
-            "Feels good to be givin' swindlers a taste o' their own medicine, doesn't it? Anyway, I've got more work, if ye're up for it.",
-			"It's like the <item> never got stolen in the first place! Ye still got some energy for more work?"
-	  ]
-    }
+    "path": "/scriptConfig/generatedText/completionText/next/thornurdrike",
+    "value": [
+            "Feels good to be givin' thieves a taste o' their own medicine, doesn't it? Anyvay, I've got more vork, if yew're up for it.",
+			"It's like the <item> never got stolen in the first place! Yew still got some energy for more vork?"
+    ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/last",
-    "value": {
-	  "northdragnar": [
-            "I knew I could be countin' on ya! I'll be deliverin' <victim> the good news. Here's somethin' for the trouble.",
-			"Committin' crimes ain't comin' without consequences! I'll be confrontin' <thief> sometime soon about this, face-to-face." 
-	  ]
-    }
+    "path": "/scriptConfig/generatedText/completionText/last/thornurdrike",
+    "value": [
+            "I knew I could be countin' on yew! I'll be deliverin' <victim> the good news. Here's somethin' for the trouble.",
+			"Committin' crimes ain't comin' vithout consequences! I'll be confrontin' <thief> sometime soon about this, face-to-face." 
+    ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default",
-    "value": {
-	  "northdragnar": [
+    "path": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "value": [
             "Thanks for returnin' <victim>'s <item>! I'll be keepin' an eye on <thief> in the future, just to be safe.",
-			"Seems like <thief> wasn't givin' ya any problems. They were probably too scared o' ya!" 
-	  ]
-    }
+			"Seems like <thief> vasn't givin' yew any problems. Thei vere probably too scared o' yew!" 
+    ]
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText",
-    "value": {
-	  "bignorthdragnar": [
-            "^cyan;One o' <victim>'s items has been stolen. Let's help 'em out.",
-			"^cyan;<thief> stole one o' <victim>'s items. Help me with brin'in' <thief> to justice."
-	  ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/goalText/thornurdrike",
+    "path": "/scriptConfig/generatedText/goalText/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/first",
-    "value": {
-	  "bignorthdragnar": [
-            "^orange;<thief>^white; has decided to rob ^orange;<item>^white; from ^orange;<victim>^white;'s home. I saw it with me own pair o' eyes! Could ye ^green;take the ^orange;<item>^green; from^orange;<thief>^green; and return it to ^orange;<victim>^green;'s place?",
-			"I've witnessed, that ^orange;<thief>^white; stole ^orange;<victim>^white;'s ^orange;<item>^white;. Since ^orange;<thief>^white; stole the ^orange;<item>^white; it'd only be fair, if ye ^green;take it and brin' it back to ^orange;<victim>^green;'s home." 
-	  ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/first/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/first/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/next",
-    "value": {
-	  "bignorthdragnar": [
-            "I need ye to take care o' somethin' before we continue. That swindlin' ^orange;<thief>^white; snuck into ^orange;<victim>^white;'s home and ran off with their ^orange;<item>^white;. All ye need to do to brin' justice, is to ^green;walk into ^orange;<thief>^green;'s home and return the ^orange;<item>^green; to their rightful owner.",
-			"I'd like to continue with me plan, but there's somethin' botherin' me. ^orange;<thief>^white; wanted one ^orange;<item>^white; desperately and resorted to stealin' one from ^orange;<victim>^white;. Could ye undo ^orange;<thief>^white;'s thievery, by ^green;goin' into their home, takin' the ^orange;<item>^green; and placin' it back in ^orange;<victim>^green;'s stead?" 
-	  ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/next/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/next/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/last",
-    "value": {
-	  "bignorthdragnar": [
-            "Ye've done well so far, but I've got one last request for ye. Me friend ^orange;<victim>^white;'s ^orange;<item>^white; got robbed and I've got the suspicion, that ^orange;<thief>^white; nicked it, because they just got a ^orange;<item>^white; lookin' just like the stolen one! Could ye return ^orange;<thief>^white;'s favour and ^green;place the ^orange;<item>^green; back where it's belon'in'?",
-			"There've been witnesses o' a petty thievery. ^orange;<thief>^white; has taken one ^orange;<item>^white; from ^orange;<victim>^white; durin' the night. Even if it's petty, we can't just let it slide! ^green;Go to ^orange;<thief>^green;'s place and take the ^orange;<item>^green; back to ^orange;<victim>^green;'s home, where it belon's." 
-	  ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/last/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/last/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default",
-    "value": {
-	  "bignorthdragnar": [
-            "^orange;<victim>^white;'s ^orange;<item>^white; got stolen by ^orange;<thief>^white;, accordin' to reports o' the crime. Well, ^orange;<thief>^white; made the mistake o' gettin' caught, so the ^orange;<item>^white;'s s'posed to be taken back to ^orange;<victim>^white;. Could ye ^green;fetch the ^orange;<item>^green; and return it to ^orange;<victim>^green;'s stead?",
-			"Me friend ^orange;<victim>^white;'s devastated after their ^orange;<item>^white; got stolen by that jealous ^orange;<thief>^white;! I ain't judgin' on a whim. I saw how ^orange;<thief>^white; left ^orange;<victim>^white;'s home with that ^orange;<item>^white; in their hands. I'll deal with ^orange;<thief>^white; later. Would ye mind ^green;returnin' the stolen item back to ^orange;<victim>^green;'s home?" 
-	  ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/default/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/first",
-    "value": {
-	  "bignorthdragnar": [
-            "Oho! If that ain't teachin' <thief> a lesson, then I don't know what will! We ain't done yet, though.",
-			"<victim>'ll be glad to have the <item> back! Now with that good deed done, let's move on to the next step." 
-	  ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/first/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/first/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/next",
-    "value": {
-	  "bignorthdragnar": [
-            "Feels good to be givin' swindlers a taste o' their own medicine, doesn't it? Anyway, I've got more work, if ye're up for it.",
-			"It's like the <item> never got stolen in the first place! Ye still got some energy for more work?"
-	  ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/next/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/next/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/last",
-    "value": {
-	  "bignorthdragnar": [
-            "I knew I could be countin' on ya! I'll be deliverin' <victim> the good news. Here's somethin' for the trouble.",
-			"Committin' crimes ain't comin' without consequences! I'll be confrontin' <thief> sometime soon about this, face-to-face." 
-	  ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/last/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/last/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default",
-    "value": {
-	  "bignorthdragnar": [
-            "Thanks for returnin' <victim>'s <item>! I'll be keepin' an eye on <thief> in the future, just to be safe.",
-			"Seems like <thief> wasn't givin' ya any problems. They were probably too scared o' ya!" 
-	  ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/default/bigthornurdrike"
   }
 ]

@@ -1,174 +1,162 @@
 [
   {
     "op": "add",
-    "path": "/converse/human/northdragnar",
+    "path": "/converse/thornurdrike/thornurdrike",
     "value": [
-        "Traveling through Space is pretty different from sailing the seas, I imagine.",
-        "Do you Dragnar feel at least somewhat comfortable in Space?",
-        "What brings you here?",
-        "We're both a long way from home, aren't we?",
-        "It's usually cold in Space. I guess that's something comparable to your homeland?",
-        "Are there many North-Dragnarian colonies out in Space?",
-        "The style of your ships remind me of vikings. They're long gone though.",
-        "I've seen a purple ship drifting through Space one time. If I remember correctly then those are cultists' ships. You should stay away from them.",
-        "Do you have something like a ''Terrene Protectorate'' on Urden? Just asking...",
-		"When I hear of places like Urden I feel at ease... Don't know why though."
+	    "Vethkja, fellow kin!",
+        "Do yew know, vhy ve're the only people that got displaced? Lookin' out there just gets me thinkin'...",
+        "How's life in Space, kin? I meiself still've to be gettin' used to it.",
+        "I'm headin' to a local archive soon. Feelin' like I've got to refresh mei memories.",
+        "Those damned Rinafin raiders're raidin' space stations too! Sometimes it's feelin' like novhere's safe from theim...",
+		"Ve can be countin' ourselves lucky, that the Tower-Shields got their own space fleets.",
+		"Have yew ever imagined vhat it'd be like, to be part o' one o' the Tower-Shields space fleets?",
+		"Vhat do yew prefer? Sailin' on a ship through Space, or sailin' on a lon'boat over seas? I do like both options!",
+		"Kin, keep out o' Minikno' territory, alright? I've heard terrible rumours about vhat thei do to our kin..."
     ]
   },
   {
     "op": "copy",
-    "from": "/converse/human/northdragnar",
-    "path": "/converse/human/bignorthdragnar"
-  },
-  {
-    "op": "copy",
-    "from": "/converse/human/northdragnar",
-    "path": "/converse/ningen/northdragnar"
-  },
-  {
-    "op": "copy",
-    "from": "/converse/ningen/northdragnar",
-    "path": "/converse/ningen/bignorthdragnar"
+    "from": "/converse/thornurdrike/thornurdrike",
+    "path": "/converse/bigthornurdrike/thornurdrike"
   },
   {
     "op": "add",
-    "path": "/converse/northdragnar/northdragnar",
+    "path": "/converse/thornurdrike/default",
     "value": [
-	    "Lo, fellow kin!",
-        "Do ye know, why we're the only species that's left Urden? Lookin' out there just gets me thinkin'...",
-        "How's life in Space, kin? I've still got to be gettin' used to it.",
-        "I'm headin' to a local archive soon. Feelin' like I've got to refresh some stuff.",
-        "Those damned Rinaffin raiders're raidin' space stations too! Sometimes it's feelin' like nowhere's safe...",
-		"We can be countin' ourselves lucky, that the Tower-Shields got their own space fleets.",
-		"Have ye ever imagined what it'd be like, to be joinin' a space fleet o' the Tower-Shields?",
-		"What do ye prefer? Sailin' on a ship through Space, or sailin' on a lon'boat over seas? I like both options!"	
-    ]
-  },
-  {
-    "op": "copy",
-    "from": "/converse/northdragnar/northdragnar",
-    "path": "/converse/bignorthdragnar/northdragnar"
-  },
-  {
-    "op": "add",
-    "path": "/converse/northdragnar/default",
-    "value": [
-        "Lo, fellow Space traveller!",
-        "If only me ma and da could be seein' me now...",
-        "Ye like it around here?",
-        "This ain't no lon'ship, but it'll do just fine.",
-        "I still need to get used to this whole Space travellin' deal.",
-        "Never thought, that I'd be travellin' through Space. Guess I thought wron'.",
-        "Space ain't so lonely, if ye go travellin' with the right folks.",
-        "There's not much face-to-face fightin' out here in Space.",
-        "Our ship architects usually take great inspiration from their own homeland.",
-        "Can't wait to get me feet back on solid ground!",
+        "Vethkja, fellow Space traveller!",
+        "If only mei ma and da could be seein' me now...",
+        "Yew like it around here?",
+        "This ain't nei lon'ship, but it'll do just fine.",
+        "I still need to get used to this whole Space-deal.",
+        "Never thought, that I'd be travellin' through Space. Guess I thought vron' back then.",
+        "Space ain't so lonely, if yew go travellin' vith the right folks.",
+        "There's not much face-to-face fightin' out here in Space, for better or for vorse.",
+        "Our ship architects took inspiration from the boats our ancestors used to sail.",
+        "Can't vait to get mei feet back on solid ground again!",
         "Out here, all these stars and planets appear like a bunch o' colourful snowflakes.",
         "Space's infinte ain't it? Still not used to that kind o' fact...",
-        "It get's borin' out here sometimes.",
-        "Ahoy! Welcome aboard!",
-        "It's always night out here. Pretty confusin' when ye're used to referin' to suns and moons for time.",
-        "As far as I know, we're the only species that's left Urden.",
-		"We took a bunch o' data with us from Urden. If ye're wantin' to learn more about Urden, I'd recommend ye to check some o' our archives.",
-		"Herdin' livestock ain't easy on a station, floatin' in Space. Our stock usually remains on a planet, where they're feelin' comfortable.",
-		"Most space staions're pretty bland-lookin'. Could do with a few tapestries to brin' some more colour.",
-		"Do ye believe, that Urden's floatin' somewhere out there?",
-		"How lon' did it take yer kin to be takin' to the stars?",
-		"Somewhere out there in these clusters o' stars, Urden may be waitin' for us to discover it again..."
+        "It gets really borin' out here sometimes.",
+        "Ahoy! Velcome aboard!",
+        "It looks like it's alvays night out here. Pretty confusin' vhen yew're used to referin' to suns and moons for time.",
+        "As far as I know, ve're the only people that got... dislpaced.\nOdd, ain't it?",
+		"A bunch o' data from Urden's been preserved. If yew're vantin' to learn more about our home galaxy, I'd recommend yew to check some o' our archives.",
+		"Herdin' livestock ain't easy on a station, floatin' in Space. Our stock usually remains on a planet, vhere thei're feelin' comfortable.",
+		"Most space staions're pretty bland-lookin'. Could do vith a few tapestries here and there to brin' some more colour.",
+		"Do yew believe, that Urden's floatin' somevhere out there, vaitin' to be discovered again?",
+		"How lon' did it take yewr kin to be takin' to the stars?",
+		"Somevhere out there in these clusters o' stars, Urden may be vaitin' for us to discover it again...",
+		"Gettin' lost in Space sounds more terrifyin' than gettin' lost in the voods...",
+		"One day I'll find a place vhere I feel at home. One day...",
+		"Travellin' through Space used to be special back then. Now it's about as commonplace as sailin' boats.",
+		"Other Driken took to the stars too, before ve got disaplaced.",
+		"Suppose I'll never get the chance to be seein' other spacefarin' Driken-kin apart from mei own...",
+		"There're so many stars out there! Ought to be a place vhere I can be settlin' down, right?",
+		"Is gettin' space-sick a thin'? Sure feels like it is...",
+		"Vatch out for raider ships! The Rinafin's ships're easy to tell by the orange colourin'.",
+		"Back then, people vere instructed to not get close to any o' mei kin's ships. Probably because o' the early raids after the displacement.",
+		"I'm surprised that raidin' still's so commonplace around here.",
+		"I'm not lookin' for a place to call home. Bein' a nomad and all."
     ]
   },
   {
     "op": "copy",
-    "from": "/converse/northdragnar/default",
-    "path": "/converse/bignorthdragnar/default"
+    "from": "/converse/thornurdrike/default",
+    "path": "/converse/bigthornurdrike/default"
   },
   {
     "op": "add",
-    "path": "/converse/northdragnar/apex",
+    "path": "/converse/thornurdrike/apex",
     "value": [
-        "Lo, Apex.",
-        "Always a welcome sight, to be seein' one o' yer kind, travellin' freely through Space!",
-        "I'm hopin', that ye're not a spy o' those damned Minikno'.",
-        "Haven't seen any Minikno' spaceships so far. Do they even have major spacefleets o' any sort?",
+        "Vethkja, Apex.",
+        "Alvays a velcome sight, seein' one o' yewr kind travellin' freely through Space!",
+        "I'm hopin', that yew're not a spy o' those damned Minikno'.",
+        "Haven't seen any Minikno' spaceships so far. Do thei even have major spacefleets o' any sort?",
         "Big Ape's not seemin' that big from out here, ain't he?",
-        "Do yer kin's rebels posess spaceships o' their own? I'm sure some o' our shipyards'd be glad to offer a few.",
-        "Stay safe out there, Apex. Enjoy yer life o' freedom!"
+        "Do yewr kin's rebels have spaceships o' their own? I'm sure some o' our shipyards'd be glad to offer a few.",
+        "Stay safe out there, Apex. Enjoy yewr life o' freedom!",
+		"How do yew know that yew're enterin' Minikno' space territory? I'd rather not fly into trouble, yew know.",
+		"Heard that the Minikno' shoot down mei kin's ships on sight! Do yew know if that's true?",
+		"Stay safe out there, Apex. Stay free too vhile yew're at it.",
+		"The early displacement raids had a great impact on our relationship vith the Minikno'...",
+		"Do yew plan on helpin' yewr kin vith their rebellion?",
+		"I ain't trustin' theim Minikno' for a good reason. I hope yew're not one o' their clawlickers."
     ]
   },
   {
     "op": "copy",
-    "from": "/converse/northdragnar/apex",
-    "path": "/converse/bignorthdragnar/apex"
+    "from": "/converse/thornurdrike/apex",
+    "path": "/converse/bigthornurdrike/apex"
   },
   {
     "op": "add",
-    "path": "/converse/northdragnar/avian",
+    "path": "/converse/thornurdrike/avian",
     "value": [
-        "Lo, Avian.",
-        "May yer future flights be wonderful, Avian!",
-        "I feel like travellin' through Space's much more amazin' than flyin'. What do ye think?",
-        "Roughly how many o' ye Avians get to be travellin' through Space?",
-        "Don't ye be worryin'. The influence o' Kluex's priests ain't reachin' this far out.",
-        "",
-        "",
-        ""
+        "Vethkja, Avian.",
+        "May yewr future flights be vonderful, Avian!",
+        "I feel like travellin' through Space's much more amazin' than flyin'. Vhat do yew think?",
+        "Roughly how many o' yew Avians get to be travellin' through Space?",
+        "Don't yew be vorryin'. The influence o' Kluex's priests ain't reachin' this far out.",
+        "Do those stargazin' Avians o' yewrs see space travel as blasphemy?",
+        "Yew think that Kluex could actually be out or... beyond there somevhere?",
+        "Do yewr kin use theim red crystals for spaceships too?"
     ]
   },
   {
     "op": "copy",
-    "from": "/converse/northdragnar/avian",
-    "path": "/converse/bignorthdragnar/avian"
+    "from": "/converse/thornurdrike/avian",
+    "path": "/converse/bigthornurdrike/avian"
   },
   {
     "op": "add",
-    "path": "/converse/northdragnar/floran",
+    "path": "/converse/thornurdrike/floran",
     "value": [
-        "Lo, Floran.",
-        "Ey there, good to be seein' another capable hunter out in Space.",
-        "Ain't much to stab out here, eh? Well, nothin' that wouldn't be gettin' ye in real trouble.",
+        "Vethkja, Floran.",
+        "Hai there, good to be seein' another capable hunter out in Space.",
+        "Ain't much to stab out here, eh? Vell, nothin' that vouldn't be gettin' yew in real trouble.",
         "Is there a thin' such as Floran hunters in Space?",
-        "Were ye tired o' sproutin' roots on yer homeplanet? I sure was.",
-        "I'm hopin', that the conditions here're bearable for yer kind. If that's even an issue for ya.",
+        "Vere yew tired o' sproutin' roots on yewr homeplanet? I sure vas.",
+        "I'm hopin', that the conditions here're bearable for yewr kind. If that's even an issue for yew.",
 		"Florans're usually salvagin' parts from other spaceships to create their own, ain't that right?",
-		"I've heard that yer kin's usin' plants to hold their ships together. Must be some tough plants!"
+		"I've heard that yewr kin's usin' plants to hold their ships together. Must be some tough plants!",
+		"Heard that you Florans became space-worthy by reverse-engineerin' a crashed ship. Impressive!"
     ]
   },
   {
     "op": "copy",
-    "from": "/converse/northdragnar/floran",
-    "path": "/converse/bignorthdragnar/floran"
+    "from": "/converse/thornurdrike/floran",
+    "path": "/converse/bigthornurdrike/floran"
   },
   {
     "op": "add",
-    "path": "/converse/northdragnar/human",
+    "path": "/converse/thornurdrike/human",
     "value": [
-        "Lo, Human.",
+        "Vethkja, Human.",
         "It's seemin' like ther're many Humans still roamin' through Space. Glad to know, that so many're still survivin'.",
-        "Are ye lookin' for a new home after... Err, sorry for brin'in' it up.",
-        "If ye know any Humans in need o' a home, me kin'd be glad to help 'em out.",
-        "Sometimes I'm fearin' that me kin lost our homeplanet too. Like we just... forgot all about it.",
-        "Were those ''vikings'' I heard o' still around when Humans started travellin' through Space?",
-		"May ye be findin' a place that ye can call home."
+        "Are yew lookin' for a new home after...\nErm, sorry for brin'in' that up...",
+        "If yew know any Humans in need o' a home, mei kin'd be glad to help theim out.",
+        "Sometimes I'm fearin' that mei kin lost our homeplanet too. Like it just... vanished alon' vith the rest o' out universe.",
+        "Vere those ''vikings'' I heard o' still around vhen Humans started travellin' through Space?",
+		"May yew be findin' a place that yew can call home."
     ]
   },
   {
     "op": "copy",
-    "from": "/converse/northdragnar/human",
-    "path": "/converse/bignorthdragnar/human"
+    "from": "/converse/thornurdrike/human",
+    "path": "/converse/bigthornurdrike/human"
   },
   {
     "op": "copy",
-    "from": "/converse/northdragnar/ningen",
-    "path": "/converse/northdragnar/ningen"
+    "from": "/converse/thornurdrike/ningen",
+    "path": "/converse/thornurdrike/ningen"
   },
   {
     "op": "copy",
-    "from": "/converse/northdragnar/ningen",
-    "path": "/converse/bignorthdragnar/ningen"
+    "from": "/converse/thornurdrike/ningen",
+    "path": "/converse/bigthornurdrike/ningen"
   },
   {
     "op": "add",
-    "path": "/converse/northdragnar/hylotl",
+    "path": "/converse/thornurdrike/hylotl",
     "value": [
         "",
         "",
@@ -179,48 +167,47 @@
   },
   {
     "op": "copy",
-    "from": "/converse/northdragnar/hylotl",
-    "path": "/converse/bignorthdragnar/hylotl"
+    "from": "/converse/thornurdrike/hylotl",
+    "path": "/converse/bigthornurdrike/hylotl"
   },
   {
     "op": "add",
-    "path": "/converse/northdragnar/glitch",
+    "path": "/converse/thornurdrike/glitch",
     "value": [
-        "Lo there, Glitch.",
-        "Yer kind seems like they'd be good at maintainin' space ships and the likes.",
-        "Could ye be imaginin', that most o' yer kind would've taken to space travel too, if it weren't for that malfunction?",
-        "I'm wonderin' 'ow many o' ye rogue Glitch actually made it to Space...",
-        "Is Space affectin' ye, as a mechanical bein', in any way different than me?",
-        "I'm wishin' ye unhindered travels, Glitch."
+        "Vethkja, Glitch.",
+        "Yewr kind seems like thei'd be good at maintainin' spaceships and the likes.",
+        "Could yew be imaginin', that most o' yewr kind vould've taken to space travel by now, if it veren't for that malfunction?",
+        "I'm vonderin' how many o' yew rogue Glitch actually made it to Space...",
+        "Is Space affectin' yew, as a mechanical bein', in any vay different than mei kin?",
+        "I'm vishin' yew unhindered travels, Glitch."
     ]
   },
   {
     "op": "copy",
-    "from": "/converse/northdragnar/glitch",
-    "path": "/converse/bignorthdragnar/glitch"
+    "from": "/converse/thornurdrike/glitch",
+    "path": "/converse/bigthornurdrike/glitch"
   },
   {
     "op": "add",
-    "path": "/converse/northdragnar/novakid",
+    "path": "/converse/thornurdrike/novakid",
     "value": [
-        "Lo, Novakid.",
-        "Howdy, pardner! Is that how yer kin says it?",
-        "Ye should've seen me face, when I saw a damn train soarin' through Space! Thought that I had too much to drink!",
-        "I feel like I've seen these steamin' trains o' yer kind before...",
-        "Sometimes I wish I could be glowin' in the dark. Most o' the time though, I don't.",
-        "Yer kin's space ship manufacturers seem to have taken inspiration from the vehicles back on yer homeplanet. So did ours!",
-        "Ye're lookin' like ye belon' out here, amon' the stars.",
-        "I'll be damned! We've got a star on board! Ohoho, sorry. I couldn't be resistin'."
+        "Vethkja, Novakid.",
+        "Howdy, pardner!\nIs that how yewr kin says it?",
+        "Yew should've seen mei face, vhen I saw a damn train soarin' through Space! Thought that I had too much to drink!",
+        "Sometimes I vish I could be glowin' in the dark.\nMost o' the time though, I don't.",
+        "Yewr kin's space ship manufacturers seem to have taken inspiration from the vehicles back on yewr homeplanet. So did ours!",
+        "Yew're lookin' like yew belon' out here, amon' the stars.",
+        "I'll be damned! Ve've got a star on board!\nOhoho, sorry. I couldn't be resistin'."
     ]
   },
   {
     "op": "copy",
-    "from": "/converse/northdragnar/novakid",
-    "path": "/converse/bignorthdragnar/novakid"
+    "from": "/converse/thornurdrike/novakid",
+    "path": "/converse/bigthornurdrike/novakid"
   },
   {
     "op": "add",
-    "path": "/converse/northdragnar/aegi",
+    "path": "/converse/thornurdrike/aegi",
     "value": [
         "",
         "",
@@ -231,35 +218,35 @@
   },
   {
     "op": "copy",
-    "from": "/converse/northdragnar/aegi",
-    "path": "/converse/bignorthdragnar/aegi"
+    "from": "/converse/thornurdrike/aegi",
+    "path": "/converse/bigthornurdrike/aegi"
   },
   {
     "op": "add",
-    "path": "/converse/northdragnar/avikan",
+    "path": "/converse/thornurdrike/avikan",
     "value": [
-        "Lo, Avikan.",
+        "Vethkja, Avikan.",
 		"Hello there, fellow spacefarer!",
-        "With somethin' as big as the Nomada, yer kind must've been used to spacefarin' for a lon' while.",
-        "We've got large spacefleets too. Might not come close to the size o' that Nomada, but they're still pretty amazin'.",
+        "Vith somethin' as big as the Nomada, yewr kind must've been used to spacefarin' for a lon' vhile.",
+        "Ve've got large spacefleets too. Might not come close to the size o' that Nomada, but thei're still pretty amazin'.",
         "How likely's it, that an Avikan chooses to live on a spaceship?",
-        "I'm admirin' the ingenuity o' yer kin's ships!",
+        "I'm admirin' the ingenuity o' yewr kin's ships!",
         "Say, is the Nomada open for visitin'?",
-        "Ain't much to hunt here in Space. 'Specially somethin' with bones.",
-        "Have there been Avikan captains, who used to be hunters? Would they be wearin' bones, if so?"
+        "Ain't much to hunt here in Space. Especially somethin' vith bones.",
+        "Have there been Avikan captains, who used to be hunters? Vould thei be vearin' bones over their uniforms, if so?"
     ]
   },
   {
     "op": "copy",
-    "from": "/converse/northdragnar/avikan",
-    "path": "/converse/bignorthdragnar/avikan"
+    "from": "/converse/thornurdrike/avikan",
+    "path": "/converse/bigthornurdrike/avikan"
   },
   {
     "op": "add",
-    "path": "/converse/northdragnar/trink",
+    "path": "/converse/thornurdrike/trink",
     "value": [
-        "Lo, Trink.",
-        "Yer ships got some unusual shapes. Is there a reason why ye've built 'em like that?",
+        "Vethkja, Trink.",
+        "Yewr ships got some unusual shapes. Is there a reason vhy yew've built theim like that?",
         "",
         "",
         ""
@@ -267,47 +254,47 @@
   },
   {
     "op": "copy",
-    "from": "/converse/northdragnar/trink",
-    "path": "/converse/bignorthdragnar/trink"
+    "from": "/converse/thornurdrike/trink",
+    "path": "/converse/bigthornurdrike/trink"
   },
   {
     "op": "add",
-    "path": "/converse/apex/northdragnar",
+    "path": "/converse/apex/thornurdrike",
     "value": [
-        "Greetings, North-Dragnar.",
-		"It's always a pleasure to meet another free space traveller!",
+        "Greetings, Thornur-Drike.",
+		"It's always a pleasure to meet another free-flying space traveller!",
         "Have you ever thought about what would happen, if the Miniknog were to defeat our rebellion? I did...",
-        "It seems like there are no ''normal'' bananas anymore. All of them have been apparently genetically engineered.",
-        "I never thought, that I would be living out here, free from the Mininknog's iron grasp.",
+        "It seems like there are no ''normal'' bananas anymore. All of them have apparently been genetically engineered.",
+        "I never thought that I would be living out here, free from the Mininknog's iron grasp.",
         "Big Ape doesn't seem all that big, whenever I look out into the endlessness of Space.",
-		"It feels good to be around machinery, that is not made to spy on all of my activities.",
-		"Out there, strewn around the universe, the rebels fight for the freedom of our people. I hope for the best."
+		"It feels good to be around machinery for a change, that is not made to spy on all of my activities.",
+		"Out there, strewn around the universe, rebels fight for the freedom of our people. I hope for the best."
     ]
   },
   {
     "op": "add",
-    "path": "/converse/hylotl/northdragnar",
+    "path": "/converse/hylotl/thornurdrike",
     "value": [
-	  "Greetings, North-Dragnar.",
+	  "Greetings, Thornur-Drike.",
 	  "Has the endless potential of this universe brought you out here as well?",
-      "Have any other species from Urden undertaken Space travel?",
+      "Have any other species from Urden undertaken Space travel before you were displaced?",
       "Do you wish to return to your homeplanet sometimes? I certainly do.",
-      "Some North-Dragnarian spaceships appear like they belong on the tempestous seas instead of vast Space.",
-      "Greetings, North-Dragnarian spacefarer.",
+      "Some Thornur-Drikeian spaceships appear like they belong on the tempestous seas instead of vast Space.",
+      "Greetings, Thornur-Driken spacefarer.",
       "Would you like to learn about our ship's engineering?",
       "The design of your peoples' spacefaring vessels must be inspired by longboats, am I correct?",
-	  "Travelling through Space shows, in certain aspects, striking similarities to swimming through water. I thoroughly enjoy it!"
+	  "Travelling through Space shows, the way I interpret it, striking similarities to swimming through water. I thoroughly enjoy it!"
     ]
   },
   {
     "op": "add",
-    "path": "/converse/floran/northdragnar",
+    "path": "/converse/floran/thornurdrike",
     "value": [
-	  "Hello, furred lizard!",
+	  "Hello, furred lizard-bird!",
 	  "More hunterss in Space makesss for good competition!",
       "Floran not find much prey in open Ssspace.",
-      "Floran flying through Ssspace just like you, furred lizard!",
-	  "Does furred lizard know any good planets to hunt on?",
+      "Floran flying through Ssspace just like you, furred lizard-bird!",
+	  "Does furred lizard-bird know any good planets to hunt on?",
 	  "Floran wantss to pilot mech one day to fight space beassts out there!",
 	  "Life in Sspace is much different for Floran than living in forestss. Ssspace iss strange experience.",
 	  "Floran wanted to explore beyond the trees' crownsss. Floran did explore way higher than expected!"
@@ -315,9 +302,40 @@
   },
   {
     "op": "add",
-    "path": "/converse/glitch/northdragnar",
+    "path": "/converse/human/thornurdrike",
     "value": [
-	  "Cordial. Salutations, Dragnar.",
+        "Traveling through Space is pretty different from sailing the seas, I imagine.",
+        "Do you Drikes feel at least somewhat comfortable in Space?",
+        "What brings you out here?",
+        "We're both a long way from home, aren't we?",
+        "It's usually cold in Space. I guess that's something comparable to your homeland?",
+        "Are there many Thornur-Drikeian colonies out in Space?",
+        "The style of your ships remind me of vikings. They're long gone though.",
+        "I've seen a purple ship drifting through Space one time. Must be ships of those cultists. You should steer away from them!",
+        "Did you have something like a ''Terrene Protectorate'' on Urden? Just asking...",
+		"When I hear of places like Urden my imagination starts going wild..."
+     ]
+  },
+  {
+    "op": "copy",
+    "from": "/converse/human/thornurdrike",
+    "path": "/converse/human/bigthornurdrike"
+  },
+  {
+    "op": "copy",
+    "from": "/converse/human/thornurdrike",
+    "path": "/converse/ningen/thornurdrike"
+  },
+  {
+    "op": "copy",
+    "from": "/converse/ningen/thornurdrike",
+    "path": "/converse/ningen/bigthornurdrike"
+  },
+  {
+    "op": "add",
+    "path": "/converse/glitch/thornurdrike",
+    "value": [
+	  "Cordial. Salutations, Drike.",
 	  "Joyous. I am always delighted to meet another spacefarer like yourself!",
       "Relieved. There is much more freedom to be found out in Space, than in the town I was once part of.",
       "Curious. What brought you to this far corner of Space?",
@@ -325,18 +343,18 @@
       "Bothered. Please refrain from fighting on spaceships. One wrong move and bad things could happen...",
 	  "Bored. Space travel has its upsides, but it is certainly not exciting...",
 	  "Welcoming. Greetings, fellow spacefarer!",
-	  "Pondering. Many Glitch can not even dream of taking flight to the stars. It is a rather... pressing matter to myself."
+	  "Pondering. Many Glitch can not even dream of taking flight to the stars. It is a rather... pressing matter for myself."
     ]
   },
   {
     "op": "add",
-    "path": "/converse/avian/northdragnar",
+    "path": "/converse/avian/thornurdrike",
     "value": [
-	  "Hello, Dragnar.",
-      "We have no wings, yet here we are! In Space! Is it not wonderful?",
+	  "Hello, Drike.",
+      "We have no wings, yet here we are! In Space! Isn't it wonderful?",
       "I bet those Tyrants never thought, that your people would make it to Space.",
-      "I may have not overthrown our ''god'', Kluex, but at least I'm free from his grasp now.",
-      "Who needs wings anyway? I do not! I have already reached heights beyond those I could've reached with wings alone!",
+      "I may have not overthrown Kluex, but at least I'm free from his grasp now.",
+      "Who needs wings anyway? I don't! I have already reached heights beyond those I could've reached with wings alone!",
 	  "I'm afraid, that Kluex' followers might find me out here...",
 	  "At least I will not catch any sand in my feathers out here.",
 	  "I may have escaped the tight grip of the Stargazers, but I feel like Kluex is still somehow haunting me..."
@@ -344,18 +362,16 @@
   },
   {
     "op": "add",
-    "path": "/converse/novakid/northdragnar",
+    "path": "/converse/novakid/thornurdrike",
     "value": [
-	  "Well, how-dy, fellow space traveller!",
-	  "Howdy, Dragnar.",
-      "Since when have North-Dragnar been Space travelers? I must've forgotten...",
+	  "Well how-dy, fellow space traveller!",
+	  "Howdy, Drike.",
+      "Since when have Thornur-Drike been Space travelers? I must've forgotten...",
       "If you meet a star, tell 'em <selfname> said 'Howdy'!",
-	  "Havin' a brawl on a spaceship ain't nothin' like a good ol' brawl in the saloon.",
-	  "Do tell me, are you North-Dragnar fellows the only folks from Urden out in Space? Can't remember for the glow of mine...",
-	  "In Space there ain't no compass directions. So... Can I just call ya a Dragnar?",
-	  "I can't tell ya why, but I do feel like I'm 'round kin amon' all these stars.",
+	  "Do tell me, are you Thornur-Drike fellows the only folks from Urden out in Space? Can't remember for the glow of mine...",
+	  "I can't tell ya why, but I do feel like I'm 'round family amon' all these stars.",
 	  "All this space is offerin' lots o' hideouts for raiders, desperate prospectors an' other varmints. Be on your guard out there, pardner.",
-	  "Nobody ain't goin' to hear ya out in Space. Unless you've got a radio transmitter with ya!"
+	  "Nobody ain't goin' to hear ya out in Space. Unless you've got a audio transmitter with ya!"
     ]
   }
 ]

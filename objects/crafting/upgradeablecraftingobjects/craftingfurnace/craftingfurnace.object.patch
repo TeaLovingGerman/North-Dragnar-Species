@@ -1,8 +1,8 @@
-[{"op":"add","path":"/northdragnarDescription","value":"This furnace's able to be smeltin' down most basic ores."},
-{"op":"add","path":"/bignorthdragnarDescription","value":"This furnace's able to be smeltin' down most basic ores."},
-{"op":"add","path":"/upgradeStages/0/itemSpawnParameters/northdragnarDescription","value":"This furnace's able to be smeltin' down most basic ores."},
-{"op":"add","path":"/upgradeStages/0/itemSpawnParameters/bignorthdragnarDescription","value":"This furnace's able to be smeltin' down most basic ores."},
-{"op":"add","path":"/upgradeStages/1/itemSpawnParameters/northdragnarDescription","value":"This industrial furnace's made for smeltin' titanium bars and other, stron'er alloys."},
-{"op":"add","path":"/upgradeStages/1/itemSpawnParameters/bignorthdragnarDescription","value":"This industrial furnace's made for smeltin' titanium bars and other, stron'er alloys."},
-{"op":"add","path":"/upgradeStages/2/itemSpawnParameters/northdragnarDescription","value":"An advanced atomic furnace. This one can be creatin' very powerful alloys such as ferozium and the likes!"},
-{"op":"add","path":"/upgradeStages/2/itemSpawnParameters/bignorthdragnarDescription","value":"An advanced atomic furnace. This one can be creatin' very powerful alloys such as ferozium and the likes!"}]
+[{"op":"add","path":"/thornurdrikeDescription","value":"This furnace's able to be smeltin' down most basic ores."},
+{"op":"add","path":"/bigthornurdrikeDescription","value":"This furnace's able to be smeltin' down most basic ores."},
+{"op":"add","path":"/upgradeStages/0/itemSpawnParameters/thornurdrikeDescription","value":"This furnace's able to be smeltin' down most basic ores."},
+{"op":"add","path":"/upgradeStages/0/itemSpawnParameters/bigthornurdrikeDescription","value":"This furnace's able to be smeltin' down most basic ores."},
+{"op":"add","path":"/upgradeStages/1/itemSpawnParameters/thornurdrikeDescription","value":"This industrial furnace's made for smeltin' titanium bars and other, stron'er alloys."},
+{"op":"add","path":"/upgradeStages/1/itemSpawnParameters/bigthornurdrikeDescription","value":"This industrial furnace's made for smeltin' titanium bars and other, stron'er alloys."},
+{"op":"add","path":"/upgradeStages/2/itemSpawnParameters/thornurdrikeDescription","value":"An advanced atomic furnace. This one can be creatin' very powerful alloys such as ferozium and the likes!"},
+{"op":"add","path":"/upgradeStages/2/itemSpawnParameters/bigthornurdrikeDescription","value":"An advanced atomic furnace. This one can be creatin' very powerful alloys such as ferozium and the likes!"}]

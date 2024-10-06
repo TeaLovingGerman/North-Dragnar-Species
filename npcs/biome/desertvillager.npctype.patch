@@ -1,7 +1,7 @@
 [
   {
     "op": "add",
-    "path": "/scriptConfig/dialog/converse/default/northdragnar",
+    "path": "/scriptConfig/dialog/converse/default/thornurdrike",
     "value": [
             "Luckily, I'm used to these hot conditions!",
             "There must be something you need on this planet, otherwise you wouldn't come here.",
@@ -15,7 +15,7 @@
   },
   {
     "op": "copy",
-    "from": "/scriptConfig/dialog/converse/default/northdragnar",
-    "path": "/scriptConfig/dialog/converse/default/bignorthdragnar"
+    "from": "/scriptConfig/dialog/converse/default/thornurdrike",
+    "path": "/scriptConfig/dialog/converse/default/bigthornurdrike"
   }
 ]

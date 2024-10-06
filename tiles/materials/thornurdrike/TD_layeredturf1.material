@@ -1,0 +1,25 @@
+{
+  "materialId" : 1282,
+  "materialName" : "TD_layeredturf1",
+  "particleColor" : [61, 38, 11, 255],
+  "itemDrop" : "TD_layeredturf1",
+  "description" : "A simple layer of solid turf.",
+  "shortdescription" : "Layered Turf ^orange;(1)^white;",
+  "glitchdescription" : "Informed. This turf serves as a simple base for walls or other structures.",
+  "florandescription" : "Turf made of decompossed plantsss.",
+  "novakiddescription" : "Nothin' but a layer of plain turf.",
+  "thornurdrikedescription" : "These layers o' turf're usually placed in an alternatin' pattern.",
+  "bigthornurdrikedescription" : "These layers o' turf're usually placed in an alternatin' pattern.",
+  "footstepSound" : "/sfx/blocks/footstep_dirt.ogg",
+  "health" : 5,
+  "category" : "materials",
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "TD_layeredturf1.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 1911
+  }
+}

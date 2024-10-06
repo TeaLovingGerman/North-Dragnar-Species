@@ -1,30 +1,67 @@
 [
-  [{
-    "op" : "test",
-    "path" : "/dialog/converse",
-    "inverse" : true
-  },
+  [
+    {
+      "op" : "test",
+      "path" : "/scriptConfig/questGenerator/pools/1",
+      "value" : "tenant"
+    },
+    {
+      "op" : "remove",
+      "path" : "/scriptConfig/questGenerator/pools/1"
+    }
+  ],
+  [
+    {
+      "op" : "test",
+      "path" : "/behaviorConfig",
+      "inverse" : false
+    },
+    {
+      "op" : "test",
+      "path" : "/scriptConfig/behaviorConfig",
+      "inverse" : true
+    },
+    {
+      "op" : "move",
+      "from": "/behaviorConfig",
+      "path": "/scriptConfig/behaviorConfig"
+    }
+  ],
+  [
+    {
+      "op" : "test",
+      "path" : "/dialog",
+      "inverse" : false
+    },
+    {
+      "op" : "test",
+      "path" : "/scriptConfig/dialog",
+      "inverse" : true
+    },
+    {
+      "op" : "move",
+      "from": "/dialog",
+      "path": "/scriptConfig/dialog"
+    }
+  ],
+  [
   {
-    "op" : "add",
-    "path" : "/dialog/converse",
-    "value" : []
-  }],
- [{
   "op": "add",
-  "path": "/dialog/converse/avian/northdragnar",
+  "path": "/scriptConfig/dialog/converse/avian/thornurdrike",
   "value": [
-   "Listen, North-Dragnar, to the word of Kluex! Tremble at his winged might! Marvel at his clawed compassion!",
+   "Listen, Thornur-Drike, to the word of Kluex! Tremble at his winged might! Marvel at his clawed compassion!",
    "I am a Stargazer, herald of Kluex! You shall pay proper respect to his priests and disciples in their pressence!",
    "Do not fret, nonbeliever, our merciful god, Kluex, will allow you his grace on this day!",
    "Cherish the occasions, where Kluex will allow something good to happen to your people, for they will be few.",
    "Your kind can never truly be followers of our god, Kluex. But we will tolerate your visit here, as long as you do not cause trouble.",
    "You are not from around here. As long as you respect the laws of Kluex then we have no quarrel with you.",
-   "Heed my warning, Dragnar, if you dare to disrepect the mighty Kluex, then we shall punish you in his divine name!"
+   "Heed my warning, Drike, if you dare to disrepect the mighty Kluex, then we shall punish you in his divine name!"
    ]
   },
   {
     "op": "copy",
-    "from": "/dialog/converse/avian/northdragnar",
-    "path": "/dialog/converse/avian/bignorthdragnar"
-  }]
+    "from": "/scriptConfig/dialog/converse/avian/thornurdrike",
+    "path": "/scriptConfig/dialog/converse/avian/bigthornurdrike"
+  }
+  ]
 ]

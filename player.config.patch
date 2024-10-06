@@ -1,4 +1,4 @@
 [
-{ "op" : "add", "path" : "/defaultCodexes/northdragnar", "value" : [ "protectorate1", "protectorate2", "protectorate3" ] },
-{ "op" : "add", "path" : "/defaultCodexes/bignorthdragnar", "value" : [ "protectorate1", "protectorate2", "protectorate3" ] }
+{ "op" : "add", "path" : "/defaultCodexes/thornurdrike", "value" : [ "protectorate1", "protectorate2", "protectorate3" ] },
+{ "op" : "add", "path" : "/defaultCodexes/bigthornurdrike", "value" : [ "protectorate1", "protectorate2", "protectorate3" ] }
 ]

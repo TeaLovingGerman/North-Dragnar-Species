@@ -1,39 +1,43 @@
 [  
   {
     "op" : "add",
-    "path" : "/hail/northdragnar/default",
+    "path" : "/hail/thornurdrike/default",
     "value" : [
-        "Ye best behave yerself, or we'll have ourselves a problem.",
-        "Ye're seemin' like ye won't cause any trouble. Don't ye go makin' me regret makin' that observation.",
-        "If ye want to pick a fight, ye best announce it before.",
+        "Yew best behave yewrself, or ve'll have ourselves a problem.",
+        "Yew're seemin' like yew von't cause any trouble. Don't yew go makin' me regret that observation!",
+        "If yew vant to pick a fight, yew best announce it before.",
         "Haven't met any raiders for a lon' time. That's good.",
-		"As lon' as ye're pickin' fair and honourable fights, there won't be any problems.",
-		"Fancy yerself the explorin' type, eh?",
-		"I knew some folks who used to be thieves. That was until they took arrows to their heads.",
-		"Yer welcome, as lon' as ye don't cause any trouble.",
-		"Lo, traveller.",
-		"If ye're thinkin' o' thievin', then ye best leave, before this gets ugly.",
-		"If ye cause trouble, ye get trouble. Understood?",
-		"Ye don't have to worry about us guards, lon' as ye behave.",
-		"Here to trade? That's fine by us.",
+		"Fancy yewrself the explorin' type, eh?",
+		"I knew some folks who used to be thieves. That vas before thei got turned into pin chushions.",
+		"Yew're velcome, as lon' as yew don't cause any trouble.",
+		"Vethkja, traveller.",
+		"Stay out o' trouble.",
+		"Vethkja.",
+		"Yu plannin' on doin' troublesome business? Go do that some other place!"
+		"If yew're thinkin' o' thievin', then yew best leave before this gets ugly.",
+		"If yew cause trouble, yew get trouble. Understood?",
+		"Yew don't have to vorry about us guards, lon' as yew behave.",
+		"Here to trade? Best leave it at tradin' legal goods.",
 		"Just passin' through?",
-		"Ye treat others with honour here and ye'll get the same treatment. Simple.",
-		"No killin' durin' a fair fight. In fact, no killin' at all. Got it?",
+		"Yew treat others vith honour here and yew'll get the same treatment. Simple.",
+		"Nei killin' durin' a fair fight. In fact, nei killin' at all. Got it?",
 		"Stay out o' trouble!",
-		"Ye're not lookin' like much trouble.",
+		"Yew're not lookin' like much trouble.",
 		"We've got ourselves a visitor!",
-		"This place's under our watch. Ye best watch yer step, when ye're thinkin' o' causin' trouble.",
-		"No foolin' around."
+		"This place's under our vatch. So yew best vatch yewr step, vhen yew're thinkin' o' causin' trouble.",
+		"No foolin' around.",
+		"Ve're vary o' strangers for a good reason...",
+		"A stranger?"
     ]
   },
   {
     "op": "copy",
-    "from": "/hail/northdragnar/default",
-    "path": "/hail/bignorthdragnar/default"
+    "from": "/hail/thornurdrike/default",
+    "path": "/hail/bigthornurdrike/default"
   },
   {
     "op": "add",
-    "path": "/hail/bignorthdragnar/default/-",
-    "value": "I've got a good enough view from up here, so you better not be tryin' somethin' illegal."
+    "path": "/hail/bigthornurdrike/default/-",
+    "value": "I've got a good enough view from up here, so yew better not be tryin' somethin' funny."
   }
 ]

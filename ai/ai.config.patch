@@ -1,20 +1,20 @@
 [
 	{
 		"op" : "add",
-		"path" : "/species/northdragnar",
+		"path" : "/species/thornurdrike",
 		"value" : {
-			"aiFrames" : "northdragnarAI.png",
-			"portraitFrames" : "portraits/northdragnarportrait.png",
-			"staticFrames" : "staticnorthdragnar.png"	
+			"aiFrames" : "thornurdrikeAI.png",
+			"portraitFrames" : "portraits/thornurdrikeportrait.png",
+			"staticFrames" : "staticthornurdrike.png"	
 		}
 	},
 	{
 		"op" : "add",
-		"path" : "/species/bignorthdragnar",
+		"path" : "/species/bigthornurdrike",
 		"value" : {
-			"aiFrames" : "northdragnarAI.png",
-			"portraitFrames" : "portraits/northdragnarportrait.png",
-			"staticFrames" : "staticnorthdragnar.png"	
+			"aiFrames" : "thornurdrikeAI.png",
+			"portraitFrames" : "portraits/thornurdrikeportrait.png",
+			"staticFrames" : "staticthornurdrike.png"	
 		}
 	}
 ]

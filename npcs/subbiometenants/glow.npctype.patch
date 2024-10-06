@@ -1,48 +1,48 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/dialog/merchant/start/northdragnar/default",
+    "path": "/scriptConfig/dialog/merchant/start/thornurdrike/default",
     "value": [
-				"Don't be fearin' the night, go with a light!",
-				"I can help with enlightenin' yer home with me range o' products!",
-				"Need a light? Then ye're right!",
-				"I'm sellin' a variety o' light sources! There's bound to be one to yer likin'!",
-				"Don't ye feel safer in the light? I sure do! And I've got loads o' it for sale!",
-				"Brin' some light into yer home, to be maintainin' its beauty durin' the dark!"
+				"Don't be fearin' the night, go vith a light!",
+				"I can help vith enlightenin' yewr home vith mei range o' products!",
+				"Need a light? Mei stock's glowin' bright!",
+				"I'm sellin' a variety o' light sources! There's bound to be one to yewr likin'!",
+				"Don't yew feel safer in the light? I sure do! And I've got loads o' lights for sale!",
+				"Brin' some light into yewr home, to be maintainin' its beauty durin' the dark!"
     ]
   },
   {
     "op": "copy",
-    "from": "/scriptConfig/dialog/merchant/start/northdragnar/default",
-    "path": "/scriptConfig/dialog/merchant/start/bignorthdragnar/default"
+    "from": "/scriptConfig/dialog/merchant/start/thornurdrike/default",
+    "path": "/scriptConfig/dialog/merchant/start/bigthornurdrike/default"
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/dialog/merchant/welcome/northdragnar/default",
+    "path": "/scriptConfig/dialog/merchant/welcome/thornurdrike/default",
     "value": [
-				"Alright, which o' these lamps'd be fittin' best for yer decoratin' plans?",
-				"Welcome to me store! Here're all the lights I got for sale!",
-				"Are any o' these lights peakin' yer interest? If so, just tell me!"
+				"Alright, vhich o' these lamps'd be fittin' best for yewr decoratin' plans?",
+				"Velcome to mei store! Here're all the lights I got for sale!",
+				"Are any o' these lights peakin' yewr interest? If so, just tell me!"
     ]
   },
   {
     "op": "copy",
-    "from": "/scriptConfig/dialog/merchant/welcome/northdragnar/default",
-    "path": "/scriptConfig/dialog/merchant/welcome/bignorthdragnar/default"
+    "from": "/scriptConfig/dialog/merchant/welcome/thornurdrike/default",
+    "path": "/scriptConfig/dialog/merchant/welcome/bigthornurdrike/default"
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/dialog/merchant/end/northdragnar/default",
+    "path": "/scriptConfig/dialog/merchant/end/thornurdrike/default",
     "value": [
-				"I'll be here, if ye're ever in need o' more lights!",
-				"I'm lookin' forward to be doin' more business with ya!",
-				"Be sure to check back, once ye're needin' more lights!",
-				"Come back, when yer home's needin' more enlightment!"
+				"I'll be here, if yew're ever in need o' more lights!",
+				"I'm lookin' forvard to be doin' more business vith yew!",
+				"Be sure to check back, once yew're needin' more lights!",
+				"Come back, vhen yewr home's needin' more enlightenment!"
     ]
   },
   {
     "op": "copy",
-    "from": "/scriptConfig/dialog/merchant/end/northdragnar/default",
-    "path": "/scriptConfig/dialog/merchant/end/bignorthdragnar/default"
+    "from": "/scriptConfig/dialog/merchant/end/thornurdrike/default",
+    "path": "/scriptConfig/dialog/merchant/end/bigthornurdrike/default"
   }
 ]

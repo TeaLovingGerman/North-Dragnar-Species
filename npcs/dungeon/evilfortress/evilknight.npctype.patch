@@ -1,7 +1,7 @@
 [
   {
 	"op": "add",
-	"path": "/scriptConfig/dialog/attack/glitch/northdragnar",
+	"path": "/scriptConfig/dialog/attack/glitch/thornurdrike",
     "value": [
             "Menacing. You do not want to mess with us!",
             "Eager. I have been itching for a fight!",
@@ -12,12 +12,12 @@
             "Irate. You have messed with the wrong knight!",
 			"Boasting. You barbarians will never defeat a seasoned knight like myself!",
 			"Foolhardy. I do not fear you, brute!",
-			"Disrespecting. You bloodthristy raiders shall never take us down!"
+			"Disrespectful. You bloodthristy raiders shall never take us down!"
     ]
   },
   {
     "op": "copy",
-    "from": "/scriptConfig/dialog/attack/glitch/northdragnar",
-    "path": "/scriptConfig/dialog/attack/glitch/bignorthdragnar"
+    "from": "/scriptConfig/dialog/attack/glitch/thornurdrike",
+    "path": "/scriptConfig/dialog/attack/glitch/bigthornurdrike"
   }
 ]

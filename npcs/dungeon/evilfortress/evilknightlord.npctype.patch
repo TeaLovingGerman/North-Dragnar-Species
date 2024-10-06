@@ -1,7 +1,7 @@
 [
   {
 	"op": "add",
-	"path": "/scriptConfig/dialog/attack/glitch/northdragnar",
+	"path": "/scriptConfig/dialog/attack/glitch/thornurdrike",
     "value": [
             "Menacing. This is my fortress! You will pay for coming here!",
             "Proud. You are no match for me, even my own knights fear me!",
@@ -12,7 +12,7 @@
   },
   {
     "op": "copy",
-    "from": "/scriptConfig/dialog/attack/glitch/northdragnar",
-    "path": "/scriptConfig/dialog/attack/glitch/bignorthdragnar"
+    "from": "/scriptConfig/dialog/attack/glitch/thornurdrike",
+    "path": "/scriptConfig/dialog/attack/glitch/bigthornurdrike"
   }
 ]

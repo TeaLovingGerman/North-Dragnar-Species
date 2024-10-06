@@ -1,50 +1,41 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/northdragnar",
+    "path": "/scriptConfig/generatedText/goalText/thornurdrike",
     "value": [
-            "^cyan;I think we're in need o' more protection around here. I've got somethin' planned already...",
-			"^cyan;We're lackin' a bit o' protection, I feel. Let's change that."
+            "^cyan;I think ve're in need o' more protection around here. I've got somethin' planned already...",
+			"^cyan;Ve're lackin' a bit o' protection, I feel. Let's change that."
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "path": "/scriptConfig/generatedText/text/default/thornurdrike",
     "value": [
-            "All that's left now, is to ^green;place ^orange;<guardObject> ^white; into the future home o' the <tag> guard, alon' with ^green;3 ^orange;<tag>^green;-fittin' items^white;. And o' course ye need to ^green;place the base essentials like a ^orange;Colony Deed^green;, ^orange;light source^green; and a ^orange;door^green;!",
-			"Now comes the buildin' and decoratin' part! To make a <tag> guard feel homely in their new home, ye're goin' to need at least ^green;3 ^orange;<tag>^green; objects^white;. And don't be forgettin' to ^green;place a ^orange;Colony Deed^green;, ^orange;light source^green; as well as a ^orange;door^green;!" 
+            "All that's left now, is to ^green;place ^orange;<guardObject> ^white; into the future home o' the <tag> guard, alon' vith ^green;3 ^orange;<tag>^green;-fittin' items^white;. And o' course yew need to ^green;place the base essentials like a ^orange;Colony Deed^green;, ^orange;light source^green; and a ^orange;door^green;!",
+			"Now comes the buildin' and decoratin' part! To make a <tag> guard feel homely in their new home, yew're goin' to need at least ^green;3 ^orange;<tag>^green; objects^white;. And don't be forgettin' to ^green;place a ^orange;Colony Deed^green;, ^orange;light source^green; as vell as a ^orange;door^green;!" 
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
+    "path": "/scriptConfig/generatedText/completionText/default/thornurdrike",
     "value": [
-            "Thanks to yer efforts, we now got a new guard patrollin' this place. I'm feelin' safer already!",
-			"Looks like we've got some more security movin' in here! Ta, for makin' this place feel safer!" 
+            "Thanks to yewr efforts, ve now got a new guard patrollin' this place. I'm feelin' safer already!",
+			"Looks like ve've got some more security movin' in here! Tahk, for makin' this place feel safer!" 
     ]
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/bignorthdragnar",
-    "value": [
-            "^cyan;I think we're in need o' more protection around here. I've got somethin' planned already...",
-			"^cyan;We're lackin' a bit o' protection, I feel. Let's change that."
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/goalText/thornurdrike",
+    "path": "/scriptConfig/generatedText/goalText/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
-    "value": [
-            "All that's left now, is to ^green;place ^orange;<guardObject> ^white; into the future home o' the <tag> guard, alon' with ^green;3 ^orange;<tag>^green;-fittin' items^white;. And o' course ye need to ^green;place the base essentials like a ^orange;Colony Deed^green;, ^orange;light source^green; and a ^orange;door^green;!",
-			"Now comes the buildin' and decoratin' part! To make a <tag> guard feel homely in their new home, ye're goin' to need at least ^green;3 ^orange;<tag>^green; objects^white;. And don't be forgettin' to ^green;place a ^orange;Colony Deed^green;, ^orange;light source^green; as well as a ^orange;door^green;!" 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/default/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
-    "value": [
-            "Thanks to yer efforts, we now got a new guard patrollin' this place. I'm feelin' safer already!",
-			"Looks like we've got some more security movin' in here! Ta, for makin' this place feel safer!" 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/default/bigthornurdrike"
   }
 ]

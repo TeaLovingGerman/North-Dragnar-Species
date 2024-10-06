@@ -1,17 +1,18 @@
 [
 	{
     "op": "add",
-    "path": "/converse/northdragnar/default",
+    "path": "/converse/thornurdrike/default",
     "value": [
-				"Whatever may be comin' our way, I'm ready for it!",
-				"Spacefarin's like sailin' over the vast seas. Alright, it's nothin' like it, but it ain't bad at all.",
-				"Space got loads to offer. We should be makin' use o' that!",
-				"As lon' as ye got me, ya don't have to worry about dyin'."
+				"Vhatever may be comin' our vay, I'm ready for it!",
+				"Spacefarin's like sailin' over the vast seas!\nAlright, it's nothin' like it, but it ain't bad at all.",
+				"Space got loads to offer for us. Ve should be makin' good use o' that!",
+				"As lon' as yew've got me by yewr side, yew don't have to vorry about dyin'.",
+				"This universe's a dangerous place. Best tackle it vith some company."
     ]
   },
   {
     "op": "copy",
-    "from": "/converse/northdragnar/default",
-    "path": "/converse/bignorthdragnar/default"
+    "from": "/converse/thornurdrike/default",
+    "path": "/converse/bigthornurdrike/default"
   }
 ]

@@ -1,0 +1,21 @@
+{
+  "itemName" : "thornurdrikefossil3",
+  "rarity" : "Uncommon",
+  "itemTags" : ["fossil"],
+
+  "description" : "A fossilised pair of Thornur-Drike legs.",
+  "category" : "mediumFossil",
+
+  "shortdescription" : "Thornur-Drike Legs",
+  "race" : "thornurdrike",
+  "price" : 50,
+
+  "inventoryIcon" : "thornurdrikefossil3icon.png",
+
+  "displayImage" : "/objects/fossils/humanoidfossils/fossilthornurdrike/thornurdrikelegsdisplay.png",
+  "displayoffset" :[0, 0],
+
+  "fossilSetName" : "thornurdrikeSkeleton",
+  "setIndex" : 3,
+  "setCount" : 3
+}

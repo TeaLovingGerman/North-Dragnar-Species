@@ -3,8 +3,8 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-		"ndwild": [
-            "wild",
+		"ND_wild": [
+            "vild",
 			"terrifyin'",
 			"bone-chillin'",
 			"frenzied",
@@ -18,11 +18,11 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndexploring": [
+	  "ND_exploring": [
             "out explorin'",
 			"strollin'",
-			"out wanderin'",
-			"takin' a brief walk",
+			"out vanderin'",
+			"takin' a brief valk",
 			"out campin'",
 			"restin'",
 			"runnin'"
@@ -33,10 +33,10 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "nddisaster": [
+	  "ND_disaster": [
             "somethin' terrible happened",
 			"I barely escaped",
-			"I was bein' hunted, but managed to escape",
+			"I vas bein' hunted, but managed to escape",
 			"I had a pretty tight call"
 	  ]
     }
@@ -45,11 +45,11 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndfate": [
-            "nearly tore me to pieces",
+	  "ND_fate": [
+            "nearly tore mei to pieces",
 			"almost landed a fatal blow",
-			"tried to make me its dinner",
-			"was close to beatin' me to a pulp"
+			"tried to make mei its dinner",
+			"vas close to beatin' mei to a pulp"
 	  ]
     }
   },
@@ -57,7 +57,7 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndearlier": [
+	  "ND_earlier": [
             "earlier",
 			"recently",
 			"not too lon' ago",
@@ -73,17 +73,17 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndrumour": [
+	  "ND_rumour": [
             "smells fear",
 			"ambushes others terribly effective",
 			"despises anythin', that ain't itself",
 			"never sleeps and hunts all the time",
 			"has already claimed the lives o' many careless travellers",
 			"prefers eatin' brave adventurers",
-			"knows exactly when its prey lets their guard down",
+			"knows exactly vhen its prey lets their guard down",
 			"is unusually intelligent",
-			"has been wanted dead for years",
-			"has s'posedly returned from the dead"
+			"has been vanted dead for years",
+			"has supposedly returned from the dead"
 	  ]
     }
   },
@@ -91,12 +91,12 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndrequest": [
+	  "ND_request": [
             "put a stop to it",
 			"take care o' it",
 			"teach it a lesson",
 			"hunt it down",
-			"deliver it a beatin' in me name"
+			"deliver it a beatin' in mei name"
 	  ]
     }
   },
@@ -104,11 +104,11 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndappreciation1": [
-            "That <ndwild> <monster> ain't goin' to bother anyone anymore!",
-			"The <monster> didn't stand a chance against ya!",
+	  "ND_appreciation1": [
+            "That <ND_wild> <monster> ain't goin' to bother anyone anymore!",
+			"The <monster> didn't stand a chance against yew!",
 			"I'm imaginin', that that <monster> put up a good fight.",
-			"Ye're like a born <monster> hunter!"
+			"Yew're like a born <monster> hunter!"
 	  ]
     }
   },
@@ -116,68 +116,49 @@
 	"op": "add",
     "path": "/scriptConfig/generatedText/fluff",
     "value": {
-	  "ndappreciation2": [
-            "Well, with that taken care o', here's yer reward.",
-			"Ye've done a great service! I'm hopin' this reward's compensatin' for the trouble.",
-			"Here, take this alon' with the spoils o' yer hunt.",
-			"I can be sleepin' well, knowin' that <monster>'s no more!"
+	  "ND_appreciation2": [
+            "Vell, vith that taken care o', here's yewr revard.",
+			"Yew've done a great service! I'm hopin' this revard's compensatin' for the trouble.",
+			"Here, take this alon' vith the spoils o' yewr hunt.",
+			"I can be sleepin' vell, knowin' that <monster>'s nei more!"
 	  ]
     }
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/default",
-    "value": {
-	  "northdragnar": [
+    "path": "/scriptConfig/generatedText/goalText/thornurdrike",
+    "value": [
 			"^cyan;There's a beast, that needs to be slain."
-	  ]
-    }
-  },
+    ]
+    },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/default",
-    "value": {
-	  "bignorthdragnar": [
-			"^cyan;There's a beast, that needs to be slain."
-	  ]
-    }
-  },
+    "path": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "value": [
+            "There's been sightin' o' a <ND_wild> ^orange;<monster>^white; around the area near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Rumours have been circlin', that it <ND_rumour>! ^green;Can yew <ND_request>, ^white;to rid this place o' that beast?",
+            "I've been <ND_exploring> <ND_earlier> near the ^orange;<spawnPoint>^white;<spawnPoint.direction>, vhere <ND_disaster>! I met some <ND_wild> ^orange;<monster>^white; and it <ND_fate>. Could yew <ND_request>, before it claims anyone else as its prey?"
+    ]
+    },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default",
-    "value": {
-	  "northdragnar": [
-            "There's been sightin' o' a <ndgiant> ^orange;<monster>^white; around the area near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Rumours have been circlin', that it <ndrumour>! ^green;Can ye <ndrequest>, ^white;to rid this place o' that beast?",
-            "I've been <ndexploring> <ndearlier> near the ^orange;<spawnPoint>^white;<spawnPoint.direction>, where <nddisaster>! I met some <ndgiant> ^orange;<monster>^white; and it <ndfate>. Could ye <ndrequest>, before it claims anyone else as its prey?"
-	  ]
-    }
-  },
+    "path": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "value": [
+            "<ND_appreciation1> <ND_appreciation2>"
+    ]
+    },
   { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default",
-    "value": {
-	  "bignorthdragnar": [
-            "There's been sightin' o' a <ndgiant> ^orange;<monster>^white; around the area near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Rumours have been circlin', that it <ndrumour>! ^green;Can ye <ndrequest>, ^white;to rid this place o' that beast?",
-            "I've been <ndexploring> <ndearlier> near the ^orange;<spawnPoint>^white;<spawnPoint.direction>, where <nddisaster>! I met some <ndgiant> ^orange;<monster>^white; and it <ndfate>. Could ye <ndrequest>, before it claims anyone else as its prey?"
-	  ]
-    }
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/goalText/thornurdrike",
+    "path": "/scriptConfig/generatedText/goalText/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default",
-    "value": {
-	  "northdragnar": [
-            "<ndappreciation1> <ndappreciation2>"
-	  ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/default/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default",
-    "value": {
-	  "bignorthdragnar": [
-            "<ndappreciation1> <ndappreciation2>"
-	  ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/default/bigthornurdrike"
   }
 ]

@@ -1,50 +1,41 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/northdragnar",
+    "path": "/scriptConfig/generatedText/goalText/thornurdrike",
     "value": [
-            "^cyan;I'm thinkin' o' prettyin' this place up a bit. I've already got somethin' in me mind.",
-            "^cyan;This place o' mine's missin' somethin'. I might've a plan for fixin' that."
+            "^cyan;I'm thinkin' o' prettyin' this place up a bit. I've already got somethin' in mei mind.",
+            "^cyan;This place o' mine's missin' somethin'. I've got a plan for fixin' that."
     ]
     },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/northdragnar",
+    "path": "/scriptConfig/generatedText/text/default/thornurdrike",
     "value": [
-            "Ye've got the ^orange;<object> ^white; with ya! ^green;Would ye be mindin' to place it down in me home?",
-            "Since ye went through the trouble o' gettin' the ^orange;<object> ^white;, ^green;I'm leavin' the choice, on where to be puttin' it in me home, for yerself!"
+            "Yew've got the ^orange;<object> ^white; vith yew! ^green;Vould yew be mindin' to place it down in mei home?",
+            "Since yew vent through the trouble o' gettin' the ^orange;<object> ^white;, ^green;I'm leavin' the choice, on vhere to be puttin' it in mei home, for yewrself!"
     ]
     },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/northdragnar",
+    "path": "/scriptConfig/generatedText/completionText/default/thornurdrike",
     "value": [
-            "Lookin' more homely already! Thank ye for helpin' me with decoratin' the place!",
-            "Just as I've been imaginin' it! Ye've done me and me home a big favour!"
+            "Lookin' more homely already! Thank yew for helpin' mei vith decoratin' the place.",
+            "Just as I've been imaginin' it! Yew've done mei and mei home a big favour!"
     ]
     },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/bignorthdragnar",
-    "value": [
-            "^cyan;I'm thinkin' o' prettyin' this place up a bit. I've already got somethin' in me mind.",
-            "^cyan;This place o' mine's missin' somethin'. I might've a plan for fixin' that."
-    ]
-    },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/bignorthdragnar",
-    "value": [
-            "Ye've got the ^orange;<object> ^white; with ya! ^green;Would ye be mindin' to place it down in me home?",
-            "Since ye went through the trouble o' gettin' the ^orange;<object> ^white;, ^green;I'm leavin' the choice, on where to be puttin' it in me home, for yerself!"
-    ]
-    },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/bignorthdragnar",
-    "value": [
-            "Lookin' more homely already! Thank ye for helpin' me with decoratin' the place!",
-            "Just as I've been imaginin' it! Ye've done me and me home a big favour!"
-    ]
-    }
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/goalText/thornurdrike",
+    "path": "/scriptConfig/generatedText/goalText/bigthornurdrike"
+  },
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/default/bigthornurdrike"
+  },
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/default/bigthornurdrike"
+  }
 ]

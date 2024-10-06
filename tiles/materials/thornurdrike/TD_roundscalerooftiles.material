@@ -1,0 +1,26 @@
+{
+  "materialId" : 1277,
+  "materialName" : "TD_roundscalerooftiles",
+  "particleColor" : [101, 52, 22, 255],
+  "itemDrop" : "TD_roundscalerooftiles",
+  "description" : "A set of round fishscale tiles made of strong wood.",
+  "shortdescription" : "Round Scale Roof Tiles",
+  "glitchdescription" : "Humbled. Neatly organized scale roofing. The craftsmanship is admirable.",
+  "florandescription" : "Roof tiless look like fish scalesss.",
+  "novakiddescription" : "These tiles must've come from one mighty big wood fish!",
+  "thornurdrikedescription" : "The shape o' these roof tiles's inspired by the scales o' fish.",
+  "bigthornurdrikedescription" : "The shape o' these roof tiles's inspired by the scales o' fish.",
+  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "health" : 7,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "TD_roundscalerooftiles.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 4346
+  }
+}

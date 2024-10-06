@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "fabric", "count" : 10 },
+	{ "item" : "cottonwool", "count" : 1 }
+  ],
+  "output" : { "item" : "ND_wanderertrousers", "count" : 1 },
+  "groups" : [ "craftingwheel", "clothes" ]
+}

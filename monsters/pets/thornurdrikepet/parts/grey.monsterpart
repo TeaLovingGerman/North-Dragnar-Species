@@ -1,0 +1,8 @@
+{
+  "name" : "grey",
+  "category" : "thornurdrikepet",
+  "type" : "body",
+  "frames" : {
+    "body" : "grey.png"
+  }
+}

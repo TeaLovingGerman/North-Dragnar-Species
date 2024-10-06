@@ -1,11 +1,11 @@
 [
 	{ "op" : "add",
 		"path" : "/npc/species/-",
-		"value" : "northdragnar"
+		"value" : "thornurdrike"
 	},
 	{ "op" : "add",
 		"path" : "/npc/species/-",
-		"value" : "bignorthdragnar"
+		"value" : "bigthornurdrike"
 	},
 	{ "op" : "add",
 		"path" : "/prefix/-",

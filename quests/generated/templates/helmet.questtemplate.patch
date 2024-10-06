@@ -1,50 +1,41 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/northdragnar",
+    "path": "/scriptConfig/generatedText/goalText/thornurdrike",
     "value": [
-            "^cyan;I want to be lookin' more <adjective> than the other guards. I got somethin' prepared...",
-			"^cyan;I'm wishin' to stand out amon'st me fellow guards, by lookin' more <adjective>."
+            "^cyan;I vant to be lookin' more <adjective> than the other guards. I got somethin' prepared...",
+			"^cyan;I'm vishin' to stand out amon'st mei fellow guards, by lookin' more <adjective>."
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/bignorthdragnar",
-    "value": [
-            "^cyan;I want to be lookin' more <adjective> than the other guards. I got somethin' prepared...",
-			"^cyan;I'm wishin' to stand out amon'st me fellow guards, by lookin' more <adjective>."
-    ]
-  },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "path": "/scriptConfig/generatedText/text/default/thornurdrike",
     "value": [
             "All that's left now's to ^green;brin' the ^orange;<clothingIngredients>^green; to ^orange;<friend>^white;. ^orange;<friend>^white;'s skilled at creatin' thin's such as ^orange;headwear^white;!",
-			"Lastly ye'll have to ^green;brin' the ^orange;<clothingIngredients>^green; here to ^orange;<friend>^green; and return the ^orange;headwear^green; back to me. ^orange;<friend>^white;'s already waitin' for the ^orange;<clothingIngredients>^white;."
+			"Lastly yew'll have to ^green;brin' the ^orange;<clothingIngredients>^green; here to ^orange;<friend>^green; and return the ^orange;headwear^green; back to mei. ^orange;<friend>^white;'s already vaitin' for the ^orange;<clothingIngredients>^white;."
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
+    "path": "/scriptConfig/generatedText/completionText/default/thornurdrike",
     "value": [
-            "All that's left now's to ^green;brin' the ^orange;<clothingIngredients>^green; to ^orange;<friend>^white;. ^orange;<friend>^white;'s skilled at creatin' thin's such as ^orange;headwear^white;!",
-			"Lastly ye'll have to ^green;brin' the ^orange;<clothingIngredients>^green; here to ^orange;<friend>^green; and return the ^orange;headwear^green; back to me. ^orange;<friend>^white;'s already waitin' for the ^orange;<clothingIngredients>^white;."
-    ]
-  },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
-    "value": [
-            "Ha! Now I'm lookin' much more <adjective> than before! I'll be thankin' ye now and <friend> later!",
+            "Aha! Now I'm lookin' much more <adjective> than before! I'll be thankin' yew now and <friend> later!",
 			"Ain't I lookin' more <adjective> now, eh? In any case, I'm lovin' it! Thanks a bunch!"
     ]
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
-    "value": [
-            "Ha! Now I'm lookin' much more <adjective> than before! I'll be thankin' ye now and <friend> later!",
-			"Ain't I lookin' more <adjective> now, eh? In any case, I'm lovin' it! Thanks a bunch!"
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/goalText/thornurdrike",
+    "path": "/scriptConfig/generatedText/goalText/bigthornurdrike"
+  },
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/default/bigthornurdrike"
+  },
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/default/bigthornurdrike"
   }
 ]

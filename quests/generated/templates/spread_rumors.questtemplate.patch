@@ -1,146 +1,119 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/northdragnar",
+    "path": "/scriptConfig/generatedText/goalText/thornurdrike",
     "value": [
-            "^cyan;I'd like to make friends with <target>, but <other>'s preventin' me from it!",
-			"^cyan;<other>'s always swindlin' 'emselves between me and <target>! I've got a plan to be changin' that."
+            "^cyan;I'd like to make friends vith <target>, but <other>'s preventin' mei from it!",
+			"^cyan;<other>'s alvays svindlin' theimselves betveen mei and <target>! I've got a plan to be changin' that."
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/first/northdragnar",
+    "path": "/scriptConfig/generatedText/text/first/thornurdrike",
     "value": [
-            "To start, I'm goin' to be needin' the help o' ye, to get the attention 'o ^orange;<target>^white;. Why? Because ^orange;<target>^white; has suddenly decided to abandon me for ^orange;<other>^white;! Here, ^green;give this little ^orange;note^green; to ^orange;<other>^white;. This ^orange;note^white;'s containin' a secret I've made up about ^orange;<other>^white;.",
-			"Before we're gettin' started with the plan, there's somethin', no, someONE botherin' me. Ya see, ^orange;<target>^white; was s'posed to help me with another plan o' mine, but now they're occupied with meetin' ^orange;<other>^white; almost all the damn time! I'm not askin' ye to beat up ^orange;<other>^white;, give ^orange;<target>^white; this ^orange;note^white; instead. These bunch o' words'll hurt ^orange;<target>^white; without causin' too much trouble." 
+            "To start, I'm goin' to be needin' yew to get the attention 'o ^orange;<target>^white;. Vhy? Because ^orange;<target>^white; has suddenly decided to abandon mei for ^orange;<other>^white;! Here, ^green;give this little ^orange;note^green; to ^orange;<other>^white;. This ^orange;note^white;'s containin' a secret I've made up about ^orange;<other>^white;.",
+			"Before ve're gettin' started vith the plan, there's somethin', nei, someONE botherin' mei. Yew see, ^orange;<target>^white; vas supposed to help mei vith another plan o' mine, but now they're occupied vith meetin' ^orange;<other>^white; almost all the damn time! I'm not askin' yew to beat up ^orange;<other>^white;, give ^orange;<target>^white; this ^orange;note^white; instead. These bunch o' vords'll do the trick ^orange;<target>^white; vithout causin' too much trouble." 
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/next/northdragnar",
+    "path": "/scriptConfig/generatedText/text/next/thornurdrike",
     "value": [
-            "I'd like to continue with this plan we've got goin', but me mate ^orange;<target>^white;'s busy han'in' out with ^orange;<other>^white;! Ye'll have to un-distract 'em, by ^green;givin ^orange;<target>^green; this mean little ^orange;note^white;, containin' an unfortunate secret about ^orange;<other>^white;. This ''secret'' 's made up, but it should be doin' the trick.",
-			"First, help me get me mind off o' ^orange;<other>^white;. They've persuaded' ^orange;<target>^white; into thinkin' that I ripped ^orange;<target>^white;'s tapestries apart! I know how I'm gettin' back at ^orange;<other>^white; with yer help. ^green;Take this ^orange;note^green; and hand it to ^orange;<target>^white;. This ought to be changin' their opinion o' ^orange;<target>^white;." 
+            "I'd like to continue vith this plan ve've got goin', but mei mate ^orange;<target>^white;'s busy han'in' out vith ^orange;<other>^white;! Yew'll have to un-distract theim, by ^green;givin' ^orange;<target>^green; this mean little ^orange;note^white;, containin' an unfortunate secret about ^orange;<other>^white;. This ''secret'' 's made up, but it should be doin' the trick.",
+			"First, help mei get mei mind off o' ^orange;<other>^white;. Thei've persuaded' ^orange;<target>^white; into thinkin' that I ripped ^orange;<target>^white;'s tapestries apart! I know how I'm gettin' back at ^orange;<other>^white; vith yewr help. ^green;Take this ^orange;note^green; and hand it to ^orange;<target>^white;. This ought to be changin' their opinion o' ^orange;<target>^white;." 
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/last/northdragnar",
+    "path": "/scriptConfig/generatedText/text/last/thornurdrike",
     "value": [
-            "There's one thin' remainin' now. There's this problem I'm havin', goes by the name o' ^orange;<other>^white;. They've been preventin' me from han'in' out with me friend ^orange;<target>^white;. I need ya to take care o' ^orange;<target>^white;. No! I'm not askin' ye to kill 'em. ^green;Give ^orange;<target>^green; this ^orange;note^white; instead. That's a way less excessive method o' gettin' this done, trust me.",
-			"We're almost done. The only thin' remainin's to get ^orange;<target>^white;'s attention for another project I've planned. Problem is, that ^orange;<target>^white;'s attention's focussin' on ^orange;<other>^white; o' all people! I need ya to ^green;hand this ^orange;note^green; here to ^orange;<target>^white;. This may be soundin' silly, but it already worked for me more times than ye'd be imaginin'." 
+            "There's one thin' remainin' now. There's this problem I'm havin', goes by the name o' ^orange;<other>^white;. Thei've been preventin' mei from han'in' out vith mei friend ^orange;<target>^white;. I need yew to take care o' ^orange;<target>^white;. And nei, I'm not askin' yew to kill theim! ^green;Give ^orange;<target>^green; this ^orange;note^white; instead. That's a vay less excessive method o' gettin' this done, trust mei.",
+			"Ve're almost done. The only thin' remainin's to get ^orange;<target>^white;'s attention for another project I've planned. Problem is, that ^orange;<target>^white;'s attention's focussin' on ^orange;<other>^white; o' all people! I need yew to ^green;hand this ^orange;note^green; here to ^orange;<target>^white;. This may be soundin' silly, but it already vorked for mei more times than yew'd be imaginin'." 
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "path": "/scriptConfig/generatedText/text/default/thornurdrike",
     "value": [
-            "^orange;<target>^white; used to be a good mate o' mine, until ^orange;<other>^white; had decided to snow in! I'm needin' yer help with ^green;deliverin' this little ^orange;note^green; to me friend ^orange;<target>^white; in order to convince 'em o' leavin' ^orange;<other>^white; behind.",
-			"Ye've been lendin' me yer hands well, but there's just one last problem remainin'. I've been tryin' to become friends with ^orange;<target>^white;, but ^orange;<other>^white;'s always keepin' 'em away from me, I know it! All it'll take to solve this problem, is for ye to ^green;deliver this ^orange;note^green;, containin' one o' ^orange;<other>^green;'s well-kept secrets, to ^orange;<other>^white;." 
+            "^orange;<target>^white; used to be a good mate o' mine, until ^orange;<other>^white; decided to snow in! I'm needin' yewr help vith ^green;deliverin' this little ^orange;note^green; to mei friend ^orange;<target>^white; in order to convince theim o' leavin' ^orange;<other>^white; behind.",
+			"Yew've been lendin' mei yewr hands vell, but there's just one last problem remainin'. I've been tryin' to become friends vith ^orange;<target>^white;, but ^orange;<other>^white;'s alvays keepin' theim avay from mei, I know it! All it'll take to solve this problem, is for yew to ^green;deliver this ^orange;note^green;, containin' one o' ^orange;<other>^green;'s vell-kept secrets, to ^orange;<other>^white;." 
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/first/northdragnar",
+    "path": "/scriptConfig/generatedText/completionText/first/thornurdrike",
     "value": [
-            "With <other> out o' the way, we can be continuin' with the rest o' me plan!",
-			"I'm already hearin' rumours circlin' around <other>. The note must've worked like a spell! Let's continue now, shall we?" 
+            "Vith <other> out o' the vay, ve can be continuin' vith the rest o' mei plan!",
+			"I'm already hearin' rumours circlin' about <other>. The note must've vorked like a spell! Let's keep this streak goin'!" 
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/next/northdragnar",
+    "path": "/scriptConfig/generatedText/completionText/next/thornurdrike",
     "value": [
-            "That worked better than I've been expectin'. <target> gave <other> some really mean looks already! Onto the next step...",
-			"Some words can really work wonders, eh? Thanks for deliverin' that note. Let's move on!" 
+            "That vorked better than I've been expectin'. <target> gave <other> some really mean looks already! Onto the next step...",
+			"Some vords can really vork vonders, eh? Thanks for deliverin' that note. Let's move on!" 
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/last/northdragnar",
+    "path": "/scriptConfig/generatedText/completionText/last/thornurdrike",
     "value": [
-            "That did it! <target> 'as offered me to undertake some carvin' with 'em! Ta, mate!",
-			"Thanks a bunch! Ye've satisfied all me needs after gettin' back at <other>!" 
+            "That did it! <target> has offered mei to undertake some carvin' vith theim! Tahk, mate!",
+			"Thanks a bunch! Yew've satisfied all mei needs after gettin' back at <other>!" 
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
+    "path": "/scriptConfig/generatedText/completionText/default/thornurdrike",
     "value": [
-            "Makin' friends with <target> should be much easier now, with <other> out o' the way!",
-			"If that ain't convincin' <target> o' ditchin' <other>, then I don't know what will! Thanks for yer help!" 
+            "Makin' friends vith <target> should be much easier now, vith <other> out o' the vay!",
+			"If that ain't convincin' <target> o' ditchin' <other>, then I don't know vhat vill! Thanks for yewr help!" 
     ]
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/bignorthdragnar",
-    "value": [
-            "^cyan;I'd like to make friends with <target>, but <other>'s preventin' me from it!",
-			"^cyan;<other>'s always swindlin' 'emselves between me and <target>! I've got a plan to be changin' that."
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/goalText/thornurdrike",
+    "path": "/scriptConfig/generatedText/goalText/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/first/bignorthdragnar",
-    "value": [
-            "To start, I'm goin' to be needin' the help o' ye, to get the attention 'o ^orange;<target>^white;. Why? Because ^orange;<target>^white; has suddenly decided to abandon me for ^orange;<other>^white;! Here, ^green;give this little ^orange;note^green; to ^orange;<other>^white;. This ^orange;note^white;'s containin' a secret I've made up about ^orange;<other>^white;.",
-			"Before we're gettin' started with the plan, there's somethin', no, someONE botherin' me. Ya see, ^orange;<target>^white; was s'posed to help me with another plan o' mine, but now they're occupied with meetin' ^orange;<other>^white; almost all the damn time! I'm not askin' ye to beat up ^orange;<other>^white;, give ^orange;<target>^white; this ^orange;note^white; instead. These bunch o' words'll hurt ^orange;<target>^white; without causin' too much trouble." 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/first/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/first/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/next/bignorthdragnar",
-    "value": [
-            "I'd like to continue with this plan we've got goin', but me mate ^orange;<target>^white;'s busy han'in' out with ^orange;<other>^white;! Ye'll have to un-distract 'em, by ^green;givin ^orange;<target>^green; this mean little ^orange;note^white;, containin' an unfortunate secret about ^orange;<other>^white;. This ''secret'' 's made up, but it should be doin' the trick.",
-			"First, help me get me mind off o' ^orange;<other>^white;. They've persuaded' ^orange;<target>^white; into thinkin' that I ripped ^orange;<target>^white;'s tapestries apart! I know how I'm gettin' back at ^orange;<other>^white; with yer help. ^green;Take this ^orange;note^green; and hand it to ^orange;<target>^white;. This ought to be changin' their opinion o' ^orange;<target>^white;." 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/next/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/next/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/last/bignorthdragnar",
-    "value": [
-            "There's one thin' remainin' now. There's this problem I'm havin', goes by the name o' ^orange;<other>^white;. They've been preventin' me from han'in' out with me friend ^orange;<target>^white;. I need ya to take care o' ^orange;<target>^white;. No! I'm not askin' ye to kill 'em. ^green;Give ^orange;<target>^green; this ^orange;note^white; instead. That's a way less excessive method o' gettin' this done, trust me.",
-			"We're almost done. The only thin' remainin's to get ^orange;<target>^white;'s attention for another project I've planned. Problem is, that ^orange;<target>^white;'s attention's focussin' on ^orange;<other>^white; o' all people! I need ya to ^green;hand this ^orange;note^green; here to ^orange;<target>^white;. This may be soundin' silly, but it already worked for me more times than ye'd be imaginin'." 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/last/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/last/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
-    "value": [
-            "^orange;<target>^white; used to be a good mate o' mine, until ^orange;<other>^white; had decided to snow in! I'm needin' yer help with ^green;deliverin' this little ^orange;note^green; to me friend ^orange;<target>^white; in order to convince 'em o' leavin' ^orange;<other>^white; behind.",
-			"Ye've been lendin' me yer hands well, but there's just one last problem remainin'. I've been tryin' to become friends with ^orange;<target>^white;, but ^orange;<other>^white;'s always keepin' 'em away from me, I know it! All it'll take to solve this problem, is for ye to ^green;deliver this ^orange;note^green;, containin' one o' ^orange;<other>^green;'s well-kept secrets, to ^orange;<other>^white;." 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/default/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/first/bignorthdragnar",
-    "value": [
-            "With <other> out o' the way, we can be continuin' with the rest o' me plan!",
-			"I'm already hearin' rumours circlin' around <other>. The note must've worked like a spell! Let's continue now, shall we?" 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/first/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/first/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/next/bignorthdragnar",
-    "value": [
-            "That worked better than I've been expectin'. <target> gave <other> some really mean looks already! Onto the next step...",
-			"Some words can really work wonders, eh? Thanks for deliverin' that note. Let's move on!" 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/next/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/next/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/last/bignorthdragnar",
-    "value": [
-            "That did it! <target> 'as offered me to undertake some carvin' with 'em! Ta, mate!",
-			"Thanks a bunch! Ye've satisfied all me needs after gettin' back at <other>!" 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/last/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/last/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
-    "value": [
-            "Makin' friends with <target> should be much easier now, with <other> out o' the way!",
-			"If that ain't convincin' <target> o' ditchin' <other>, then I don't know what will! Thanks for yer help!" 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/default/bigthornurdrike"
   }
 ]

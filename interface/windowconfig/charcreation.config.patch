@@ -1,4 +1,4 @@
 [
- { "op" : "add", "path" : "/speciesOrdering/-", "value" : "northdragnar" }, 
- { "op" : "add", "path" : "/speciesOrdering/-", "value" : "bignorthdragnar" }
+ { "op" : "add", "path" : "/speciesOrdering/-", "value" : "thornurdrike" }, 
+ { "op" : "add", "path" : "/speciesOrdering/-", "value" : "bigthornurdrike" }
 ]

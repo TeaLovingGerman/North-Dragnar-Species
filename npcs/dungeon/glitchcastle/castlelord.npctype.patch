@@ -1,7 +1,7 @@
 [
   {
 	"op": "add",
-	"path": "/scriptConfig/dialog/attack/glitch/northdragnar",
+	"path": "/scriptConfig/dialog/attack/glitch/thornurdrike",
     "value": [
           "Terrified. Guards! To me!",
           "Afraid. A raider! Guards!",
@@ -13,10 +13,5 @@
           "Aggressive. You will leave this place... in pieces!",
 		  "Entitled. My guards will punish you, for disrespecting me and my court!"
     ]
-  },
-  {
-    "op": "copy",
-    "from": "/scriptConfig/dialog/attack/glitch/northdragnar",
-    "path": "/scriptConfig/dialog/attack/glitch/bignorthdragnar"
   }
 ]

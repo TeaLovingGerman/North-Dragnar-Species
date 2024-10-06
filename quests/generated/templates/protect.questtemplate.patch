@@ -1,114 +1,93 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/northdragnar",
+    "path": "/scriptConfig/generatedText/goalText/thornurdrike",
     "value": [
-            "^cyan;I've got reasons to believe, that <target>'s at risk o' an attack. I'll make savin' <target> worth yer while, I promise!",
-			"^cyan;I ain't sure what <target> did, but they're in danger. I ain't capable enough to defend <target>, so I'm hopin' that ye're willin' help 'em out!"
+            "^cyan;I've got reasons to believe, that <target>'s at risk o' an attack. I'll make savin' <target> vorth yewr vhile, I promise!",
+			"^cyan;I ain't sure vhat <target> did, but thei're in danger. I ain't capable enough to defend <target>, so I'm hopin' that yew're villin' help theim out!"
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/first/northdragnar",
+    "path": "/scriptConfig/generatedText/text/first/thornurdrike",
     "value": [
-            "I've spotted a bunch o' ^orange;<threat>^white; headin' towards the same direction as ^orange;<target>^white;, to the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Keep ^orange;<target>^green; breathin', by protectin' 'em from those damned ^orange;<threat>^white;.",
+            "I've spotted a bunch o' ^orange;<threat>^white; headin' tovards the same direction as ^orange;<target>^white;, to the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Keep ^orange;<target>^green; breathin', by protectin' theim from those damned ^orange;<threat>^white;!",
 			"^orange;<threat>^white; have been threatenin' ^orange;<target>^white; lately and I ain't likin' how this might end. ^orange;<target>^white; ran off to the ^orange;<spawnPoint>^white;<spawnPoint.direction> to escape. ^green;Go there and protect ^orange;<target>^white;!" 
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/next/northdragnar",
+    "path": "/scriptConfig/generatedText/text/next/thornurdrike",
     "value": [
-            "Next up's somethin' urgent. Me friend ^orange;<target>^white;'s been messin' with the wron' kinds o' folks. I recently got informed, that ^orange;<threat>^white;'re plannin to ambush ^orange;<target>^white; near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Ye've got to ^green;protect ^orange;<target>^green; from those blaggards, please!",
-			"Ye've done well so far, but I'm needin' a little more help from ya. I ain't sure what ^orange;<target>^white; did, but they got the wron' kind o' attention from it. A rotten bunch o' ^orange;<threat>^white; chased ^orange;<target>^white; away to ^orange;<spawnPoint>^white;<spawnPoint.direction>. Those ^orange;<threat>^white; sure haven't invited ^orange;<target>^white; for a nice picnic, so ye've got to ^green;protect ^orange;<target>^green;!" 
+            "Next up's somethin' urgent. Mei friend ^orange;<target>^white;'s been messin' vith the vron' kinds o' folks. I recently got informed, that ^orange;<threat>^white;'re plannin to ambush ^orange;<target>^white; near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Yew've got to ^green;protect ^orange;<target>^green; from those tyrants, please!",
+			"Yew've done vell so far, but I'm needin' more help from yew for a serious issue. I ain't sure vhat ^orange;<target>^white; did, but thei got the vron' kind o' attention from it. A rotten bunch o' ^orange;<threat>^white; chased ^orange;<target>^white; avay to ^orange;<spawnPoint>^white;<spawnPoint.direction>. Those ^orange;<threat>^white; sure haven't invited ^orange;<target>^white; for a drink, so yew've got to ^green;protect ^orange;<target>^green;!" 
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "path": "/scriptConfig/generatedText/text/default/thornurdrike",
     "value": [
-            "^orange;<target>^white; has recently reappeared after disappearin' for a while. Unfortunately some ^orange;<threat>^white; have appeared alo'nside, and I'm worried about what they might do to ^orange;<target>^white;! Please, ^green;go to ^orange;<spawnPoint>^green;<spawnPoint.direction> and make sure that ^orange;<target>^green; keeps their hide!",
-			"See, me mate ^orange;<target>^white;, and I ain't sure how, got on the bad side o' a group o' ^orange;<threat>^white;. Now ^orange;<target>^white;'s hidin' out near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. I'm afraid, that those damned ^orange;<threat>^white; might attack soon. Please, ^green;go and protect ^orange;<target>^green; before the ^orange;<threat>^green; get 'em!" 
+            "^orange;<target>^white; has recently reappeared after disappearin' for a while. Unfortunately some ^orange;<threat>^white; have appeared alo'nside, and I'm vorried about vhat thei might do to ^orange;<target>^white;! Please, ^green;go to ^orange;<spawnPoint>^green;<spawnPoint.direction> and make sure that ^orange;<target>^green; keeps their hide!",
+			"See, mei mate ^orange;<target>^white;, and I ain't sure how, got on the bad side o' a group o' ^orange;<threat>^white;. Now ^orange;<target>^white;'s hidin' out near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. I'm afraid, that those damned ^orange;<threat>^white; might attack soon. Please, ^green;go and protect ^orange;<target>^green; before the ^orange;<threat>^green; get theim!" 
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/first/northdragnar",
+    "path": "/scriptConfig/generatedText/completionText/first/thornurdrike",
     "value": [
-            "It's good, that ye're both still in one piece! Ye've got our deepest thanks!",
-			"Ta, for savin' <target>! We appreciate it!" 
+            "Yew've got nei idea how glad I am, that yew're both still in one piece! Yew've got our deepest thanks!",
+			"Tahk, for savin' <target>! Ve really appreciate yewr honourable deed!" 
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/next/northdragnar",
+    "path": "/scriptConfig/generatedText/completionText/next/thornurdrike",
     "value": [
-            "Good work out there! <target>'ll be glad to help us out after that heroic act o' yers!",
-			"Ha! I'm bettin', that those <threat> weren't expectin' this much resistance! Thanks for providin' that extra resistance!" 
+            "Good vork out there! <target>'ll be glad to help us out after that heroic act o' yewrs!",
+			"Ha! I'm bettin', that those <threat> veren't expectin' this much resistance! Thanks for providin' said resistance!" 
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
+    "path": "/scriptConfig/generatedText/completionText/default/thornurdrike",
     "value": [
-            "<target>'s still got their hide and we eaarned <target>'s trust as well!",
-			"Me and <target>'re both glad that ye came alon' to help! Ohoho, I guess I'm owin' ye a favour now!" 
+            "<target>'s still got their hide and ve earned <target>'s trust as a bonus!",
+			"Mei and <target>'re both glad that yew came alon' to help! Ohoho, I guess I'm owin' yew a favour now!" 
     ]
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/bignorthdragnar",
-    "value": [
-            "^cyan;I've got reasons to believe, that <target>'s at risk o' an attack. I'll make savin' <target> worth yer while, I promise!",
-			"^cyan;I ain't sure what <target> did, but they're in danger. I ain't capable enough to defend <target>, so I'm hopin' that ye're willin' help 'em out!"
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/goalText/thornurdrike",
+    "path": "/scriptConfig/generatedText/goalText/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/first/bignorthdragnar",
-    "value": [
-            "I've spotted a bunch o' ^orange;<threat>^white; headin' towards the same direction as ^orange;<target>^white;, to the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Keep ^orange;<target>^green; breathin', by protectin' 'em from those damned ^orange;<threat>^white;.",
-			"^orange;<threat>^white; have been threatenin' ^orange;<target>^white; lately and I ain't likin' how this might end. ^orange;<target>^white; ran off to the ^orange;<spawnPoint>^white;<spawnPoint.direction> to escape. ^green;Go there and protect ^orange;<target>^white;!" 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/first/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/first/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/next/bignorthdragnar",
-    "value": [
-            "Next up's somethin' urgent. Me friend ^orange;<target>^white;'s been messin' with the wron' kinds o' folks. I recently got informed, that ^orange;<threat>^white;'re plannin to ambush ^orange;<target>^white; near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Ye've got to ^green;protect ^orange;<target>^green; from those blaggards, please!",
-			"Ye've done well so far, but I'm needin' a little more help from ya. I ain't sure what ^orange;<target>^white; did, but they got the wron' kind o' attention from it. A rotten bunch o' ^orange;<threat>^white; chased ^orange;<target>^white; away to ^orange;<spawnPoint>^white;<spawnPoint.direction>. Those ^orange;<threat>^white; sure haven't invited ^orange;<target>^white; for a nice picnic, so ye've got to ^green;protect ^orange;<target>^green;!" 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/next/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/next/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
-    "value": [
-            "^orange;<target>^white; has recently reappeared after disappearin' for a while. Unfortunately some ^orange;<threat>^white; have appeared alo'nside, and I'm worried about what they might do to ^orange;<target>^white;! Please, ^green;go to ^orange;<spawnPoint>^green;<spawnPoint.direction> and make sure that ^orange;<target>^green; keeps their hide!",
-			"See, me mate ^orange;<target>^white;, and I ain't sure how, got on the bad side o' a group o' ^orange;<threat>^white;. Now ^orange;<target>^white;'s hidin' out near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. I'm afraid, that those damned ^orange;<threat>^white; might attack soon. Please, ^green;go and protect ^orange;<target>^green; before the ^orange;<threat>^green; get 'em!" 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/default/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/first/bignorthdragnar",
-    "value": [
-            "It's good, that ye're both still in one piece! Ye've got our deepest thanks!",
-			"Ta, for savin' <target>! We appreciate it!" 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/first/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/first/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/next/bignorthdragnar",
-    "value": [
-            "Good work out there! <target>'ll be glad to help us out after that heroic act o' yers!",
-			"Ha! I'm bettin', that those <threat> weren't expectin' this much resistance! Thanks for providin' that extra resistance!" 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/next/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/next/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
-    "value": [
-            "<target>'s still got their hide and we eaarned <target>'s trust as well!",
-			"Me and <target>'re both glad that ye came alon' to help! Ohoho, I guess I'm owin' ye a favour now!" 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/default/bigthornurdrike"
   }
 ]

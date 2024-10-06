@@ -1,50 +1,41 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/northdragnar",
+    "path": "/scriptConfig/generatedText/goalText/thornurdrike",
     "value": [
-            "^cyan;I'm plannin' on broadenin' me shop's stock a little. Would ye mind helpin' me out?",
-			"^cyan;Could ye help me out with expandin' the range o' goods for me shop?"
+            "^cyan;I'm plannin' on broadenin' mei shop's stock a little. Vould yew mind helpin' mei out?",
+			"^cyan;Could yew help mei out vith expandin' the range o' goods for mei shop?"
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "path": "/scriptConfig/generatedText/text/default/thornurdrike",
     "value": [
-            "I've recently heard, that ^orange;<target>^white;, a travellin' merchant, has just arrived here and's restin' at ^orange;<spawnPoint>^white;<spawnPoint.direction>. Lucky for me, they've got just what I'm needin', and they'd be willin' to part with some o' their stock in eschange for me ^orange;<tradedItems>^white;. ^green;Brin' the ^orange;<tradedItems>^green; to ^orange;<target>^green;, then return the goods they'll be givin' ya back to me.",
-			"I got word, that ^orange;<target>^white;, a fellow travellin' merchant, is currently near ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;I need ya to carry this ^orange;<tradedItems>^green; from me stock over to ^orange;<target>^green; and deliver their goods back to me." 
+            "I've recently heard, that ^orange;<target>^white;, a travellin' merchant, has just arrived here and's restin' at ^orange;<spawnPoint>^white;<spawnPoint.direction>. Lucky for mei, thei've got just vhat I'm lookin' for, and thei'd be villin' to part vith some o' their stock in exchange for mei ^orange;<tradedItems>^white;. ^green;Brin' the ^orange;<tradedItems>^green; to ^orange;<target>^green;, then return the goods thei'll be givin' yew back to mei.",
+			"I got vord, that ^orange;<target>^white;, a fellow merchant, is currently near ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;I need yew to carry this ^orange;<tradedItems>^green; from mei stock over to ^orange;<target>^green; and deliver their goods back to mei." 
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
+    "path": "/scriptConfig/generatedText/completionText/default/thornurdrike",
     "value": [
-            "Me stock's now richer in <newItem>! <target> and ye've been good business partners in this trade!",
-			"Ta! These <newItem>'re a good new addition to me shop's stock! Me customers'll be pleased."
+            "Mei stock's now richer in <newItem>! <target> and yew've been good business partners in this trade!",
+			"Tahk! These <newItem>'re a good new addition to mei shop's stock! Mei customers'll be pleased."
     ]
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/bignorthdragnar",
-    "value": [
-            "^cyan;I'm plannin' on broadenin' me shop's stock a little. Would ye mind helpin' me out?",
-			"^cyan;Could ye help me out with expandin' the range o' goods for me shop?"
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/goalText/thornurdrike",
+    "path": "/scriptConfig/generatedText/goalText/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
-    "value": [
-            "I've recently heard, that ^orange;<target>^white;, a travellin' merchant, has just arrived here and's restin' at ^orange;<spawnPoint>^white;<spawnPoint.direction>. Lucky for me, they've got just what I'm needin', and they'd be willin' to part with some o' their stock in eschange for me ^orange;<tradedItems>^white;. ^green;Brin' the ^orange;<tradedItems>^green; to ^orange;<target>^green;, then return the goods they'll be givin' ya back to me.",
-			"I got word, that ^orange;<target>^white;, a fellow travellin' merchant, is currently near ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;I need ya to carry this ^orange;<tradedItems>^green; from me stock over to ^orange;<target>^green; and deliver their goods back to me." 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/default/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
-    "value": [
-            "Me stock's now richer in <newItem>! <target> and ye've been good business partners in this trade!",
-			"Ta! These <newItem>'re a good new addition to me shop's stock! Me customers'll be pleased."
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/default/bigthornurdrike"
   }
 ]

@@ -1,33 +1,33 @@
 [
   {
     "op": "add",
-    "path": "/scriptConfig/chatSounds/northdragnar",
+    "path": "/scriptConfig/chatSounds/thornurdrike",
     "value": {
       "male": [
-        "/sfx/humanoid/northdragnarchatter_male1.ogg",
-        "/sfx/humanoid/northdragnarchatter_male2.ogg",
-        "/sfx/humanoid/northdragnarchatter_male3.ogg"
+        "/sfx/humanoid/thornurdrikechatter_male1.ogg",
+        "/sfx/humanoid/thornurdrikechatter_male2.ogg",
+        "/sfx/humanoid/thornurdrikechatter_male3.ogg"
       ],
       "female": [
-        "/sfx/humanoid/northdragnarchatter_female1.ogg",
-        "/sfx/humanoid/northdragnarchatter_female2.ogg",
-        "/sfx/humanoid/northdragnarchatter_female3.ogg"
+        "/sfx/humanoid/thornurdrikechatter_female1.ogg",
+        "/sfx/humanoid/thornurdrikechatter_female2.ogg",
+        "/sfx/humanoid/thornurdrikechatter_female3.ogg"
       ]
     }
   },
   {
     "op": "add",
-    "path": "/scriptConfig/chatSounds/bignorthdragnar",
+    "path": "/scriptConfig/chatSounds/bigthornurdrike",
     "value": {
       "male": [
-        "/sfx/humanoid/bignorthdragnarchatter_male1.ogg",
-        "/sfx/humanoid/bignorthdragnarchatter_male2.ogg",
-        "/sfx/humanoid/bignorthdragnarchatter_male3.ogg"
+        "/sfx/humanoid/bigthornurdrikechatter_male1.ogg",
+        "/sfx/humanoid/bigthornurdrikechatter_male2.ogg",
+        "/sfx/humanoid/bigthornurdrikechatter_male3.ogg"
       ],
       "female": [
-        "/sfx/humanoid/bignorthdragnarchatter_female1.ogg",
-        "/sfx/humanoid/bignorthdragnarchatter_female2.ogg",
-        "/sfx/humanoid/bignorthdragnarchatter_female3.ogg"
+        "/sfx/humanoid/bigthornurdrikechatter_female1.ogg",
+        "/sfx/humanoid/bigthornurdrikechatter_female2.ogg",
+        "/sfx/humanoid/bigthornurdrikechatter_female3.ogg"
       ]
     }
   }

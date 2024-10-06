@@ -1,0 +1,26 @@
+{
+  "materialId" : 14600,
+  "materialName" : "TD_roughwoodenbeam",
+  "particleColor" : [101, 52, 22, 255],
+  "itemDrop" : "TD_roughwoodenbeam",
+  "shortdescription" : "Rough Wooden Beam",
+  "description" : "A rough, but incredibly sturdy wooden beam.",
+  "glitchDescription" : "Impressed. The density of this wooden beam is extremely high. More than adeqaute for supporting buildings.",
+  "floranDescription" : "Floran wants to ssit on sturdy wooden beam and jump on prey by surprissse!",
+  "novakidDescription" : "That's one tough-as-rock beam.",
+  "thornurdrikeDescription" : "This vooden beam's been cut from a Tough-Trunk tree.",
+  "bigthornurdrikeDescription" : "This vooden beam's been cut from a Tough-Trunk tree.",
+  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/TD__scb-pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "TD_roughwoodenbeam.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 1950
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "objectName" : "ND_thornurdrikeflag",
+  "colonyTags" : ["thornurdrike"],
+  "printable" : false,
+  "rarity" : "Common",
+  "objectType" : "teleporter",
+  "category" : "teleportMarker",
+  "price" : 70,
+  "radioMessagesOnPickup" : [ "pickupflag" ],
+  
+  "description" : "The flag of the Thornur-Drike. Use ^green;[E]^white; to bookmark a teleportation location.",
+  "shortdescription" : "Thornur-Drike Flag",
+  "race" : "thornurdrike",
+  "apexDescription" : "A Thornur-Driken flag. I can use this as a waypoint for teleportation.",
+  "avianDescription" : "This Thornur-Driken flag can be bookmarked as a destination for my ship teleporter.",
+  "floranDescription" : "Weird lizard flag makess good point to teleport back to ussing teleporter",
+  "glitchDescription" : "Observant. A small locator module attached to this Thornur-Driken flag allows it to be bookmarked for teleportation.",
+  "humanDescription" : "This Thornur-Driken flag can be saved as a location for my teleporter. Then I can return to it at any time.",
+  "hylotlDescription" : "This Thornur-Driken flag can act as a way point, enabling me to return to this point using a teleporter.",
+  "novakidDescription" : "I can bookmark this Thornur-Driken flag for quick teleportin'.",
+  "thornurdrikeDescription" : "This fla's bearin' the symbol o' our kin. It'd be a good vaypoint for mei ship's teleporter.",
+  "bigthornurdrikeDescription" : "This fla's bearin' the symbol o' our kin. It'd be a good vaypoint for mei ship's teleporter.",
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/destinationonly.config",
+  "inventoryIcon" : "thornurdrikeflagicon.png",
+  "orientations" : [
+    {
+      "image" : "thornurdrikeflag.png",
+      "flipImages" : true,
+      "direction" : "left",
+      "imagePosition" : [-17, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "thornurdrikeflag.png",
+      "direction" : "right",
+      "imagePosition" : [1, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+  //"soundEffect" : "/sfx/objects/flag_flap_loop.ogg"
+}

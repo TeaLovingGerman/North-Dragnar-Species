@@ -118,7 +118,7 @@
     {
       "drawables" : [
         {
-          "image" : "/cinematics/respawn/bignorthdragnar/layer1.png:<frame>"
+          "image" : "/cinematics/respawn/bigthornurdrike/layer1.png:<frame>"
         }
       ],
       "keyframes" : [

@@ -1,8 +1,1 @@
-[{"op":"add","path":"/northdragnarDescription","value":"A table, covered in blueprints for some other basic craftin' stations."},
-{"op":"add","path":"/bignorthdragnarDescription","value":"A table, covered in blueprints for some other basic craftin' stations."},
-{"op":"add","path":"/upgradeStages/0/itemSpawnParameters/northdragnarDescription","value":"A table, covered in blueprints for some other basic craftin' stations."},
-{"op":"add","path":"/upgradeStages/0/itemSpawnParameters/bignorthdragnarDescription","value":"A table, covered in blueprints for some other basic craftin' stations."},
-{"op":"add","path":"/upgradeStages/1/itemSpawnParameters/northdragnarDescription","value":"A modern plannin' table with helpful tools and blueprints for more advanced craftin' stations."},
-{"op":"add","path":"/upgradeStages/1/itemSpawnParameters/bignorthdragnarDescription","value":"A modern plannin' table with helpful tools and blueprints for more advanced craftin' stations."},
-{"op":"add","path":"/upgradeStages/2/itemSpawnParameters/northdragnarDescription","value":"The database of this table's offerin' lots o' detailed blueprints for high-tech and basic craftin' stations alike."},
-{"op":"add","path":"/upgradeStages/2/itemSpawnParameters/bignorthdragnarDescription","value":"The database of this table's offerin' lots o' detailed blueprints for high-tech and basic craftin' stations alike."}]
+[{"op":"add","path":"/thornurdrikeDescription","value":"A table covered in blueprints for some other basic craftin' stations."}]

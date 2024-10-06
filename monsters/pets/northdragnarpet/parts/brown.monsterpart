@@ -1,8 +1,0 @@
-{
-  "name" : "brown",
-  "category" : "northdragnarpet",
-  "type" : "body",
-  "frames" : {
-    "body" : "brown.png"
-  }
-}

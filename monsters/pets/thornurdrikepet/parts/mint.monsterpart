@@ -1,0 +1,8 @@
+{
+  "name" : "mint",
+  "category" : "thornurdrikepet",
+  "type" : "body",
+  "frames" : {
+    "body" : "mint.png"
+  }
+}

@@ -1,180 +1,129 @@
 [
   {
     "op" : "add",
-    "path" : "/merchantStart/northdragnar/default",
+    "path" : "/merchantStart/thornurdrike/default",
     "value" : [
-        "Here's what I got!",
-        "Anythin' catchin' yer eye?",
-        "I'd be willin' to part with some o' me stock.",
-        "I can help, if ye're needin' anythin' sold as well.",
+        "Here's vhat I got!",
+        "Anythin' catchin' yewr eye?",
+        "I'm villin' to part vith mei stock, for the right price!",
+        "I can help, if yew're needin' anythin' sold as vell.",
 		"Needin' somethin' sold? Got some connections who're lookin' for supplies!",
-		"Take yer time with browsin'."
+		"Take yewr time vith browsin'."
     ]
   },
   {
-    "op": "copy",
-    "from": "/merchantStart/northdragnar/default",
-    "path": "/merchantStart/bignorthdragnar/default"
-  },
-  {
     "op" : "add",
-    "path" : "/merchantEnd/northdragnar/default",
+    "path" : "/merchantEnd/thornurdrike/default",
     "value" : [
-        "I'll be here, if ye're in need o' supplies!",
-        "Tell yer kin about me shop!",
-        "Pleasure doin' business with ya!",
-        "Ye know where to find me, if ye're needin' more supplies.",
-        "Hopin' to make business with ye again soon!",
-		"Thanks for lendin' some o' yer time!"
+        "I'll be here, if yew're in need o' supplies!",
+        "Tell yewr kin about mei shop!",
+        "Pleasure doin' business vith yew!",
+        "Yew know vhere to find me, if yew're needin' more supplies.",
+        "Hopin' to make business vith yew again soon!",
+		"Thanks for lendin' some o' yewr time!"
     ]
   },
   {
-    "op": "copy",
-    "from": "/merchantEnd/northdragnar/default",
-    "path": "/merchantEnd/bignorthdragnar/default"
-  },
-  {
     "op" : "add",
-    "path" : "/follow/northdragnar/default",
+    "path" : "/follow/thornurdrike/default",
     "value" : [
-        "Me store's this way. Just follow me.",
+        "Mei store's this vay. Just follow me.",
         "Store's over there. Follow me!",
-        "Me stock's over by me shop. Follow me lead!"
+        "Mei stock's over by mei shop. Follow mei lead!",
+		"Mei shop's right this vay.",
+		"Come vith me. Mei supplies're by mei shop."
     ]
   },
   {
-    "op": "copy",
-    "from": "/follow/northdragnar/default",
-    "path": "/follow/bignorthdragnar/default"
-  },
-  {
     "op" : "add",
-    "path" : "/welcome/northdragnar/default",
+    "path" : "/welcome/thornurdrike/default",
     "value" : [
-        "Take yer time browsin'.",
-        "There we are. Take a good look.",
-        "Wantin' to toss yer equipment? Why not sell it?",
-		"Have a look around."
+        "Take yewr time browsin'.",
+        "There ve are. Take a good look.",
+        "Feelin' like tossin' avay yewr equipment? Vhy not sell it instead?",
+		"Have a good look around."
     ]
   },
   {
-    "op": "copy",
-    "from": "/welcome/northdragnar/default",
-    "path": "/welcome/bignorthdragnar/default"
-  },
-  {
     "op" : "add",
-    "path" : "/tout/northdragnar/default",
+    "path" : "/tout/thornurdrike/default",
     "value" : [
         "Come on over here! Got a fresh stock o' supplies!",
-        "I'm up for hagglin'. As lon' as ye stay reasonable!",
-        "I offer ye fair prices!",
-        "Got a variety o' stuff. There's sure to be somethin' for satisfyin' yer needs!",
-		"Get yer supplies right here!"
+        "Set and stable prices over here! Nei hagglin'!",
+        "I offer yew fair prices!",
+        "Got a variety o' stuff. There's sure to be somethin' for satisfyin' yewr needs!",
+		"Get yewr supplies right here by mei store!",
+		"I sell vhat yew need and buy vhat yew don't need!"
     ]
-  },
-  {
-    "op": "copy",
-    "from": "/tout/northdragnar/default",
-    "path": "/tout/bignorthdragnar/default"
   },
   {
     "op" : "add",
-    "path" : "/tagCriteria/northdragnar/default",
+    "path" : "/tagCriteria/thornurdrike/default",
     "value" : [
-        "Me store doesn't feel right... Did ye make it this way?",
-        "This place just feels... Off.",
-        "Me store felt more comfortable to me before. Can ye change it back?"
+        "Mei store doesn't feel right...\nDid yew make it this vay?",
+        "This place just feels... off.",
+        "Mei store felt more comfortable to me before. Can yew change it back?"
     ]
-  },
-  {
-    "op": "copy",
-    "from": "/tagCriteria/northdragnar/default",
-    "path": "/tagCriteria/bignorthdragnar/default"
   },
   {
     "op" : "add",
-    "path" : "/enclosedArea/northdragnar/default",
+    "path" : "/enclosedArea/thornurdrike/default",
     "value" : [
-        "All this damage ain't good for business. Could ye be fixin' it?",
-        "If I were a handyman, I'd be takin' care of this meself. I'm no handyman though...",
-        "That wall ain't lookin' all that well. Would ye mind fixin' it?"
+        "All this damage ain't good for business. Could yew be fixin' it?",
+        "If I vere a handyman, I'd be takin' care of this meiself. I'm no handyman though...",
+        "That vall ain't lookin' all that vell. Vould yew mind fixin' it?"
     ]
-  },
-  {
-    "op": "copy",
-    "from": "/enclosedArea/northdragnar/default",
-    "path": "/enclosedArea/bignorthdragnar/default"
   },
   {
     "op" : "add",
-    "path" : "/otherDeed/northdragnar/default",
+    "path" : "/otherDeed/thornurdrike/default",
     "value" : [
-        "Ey! Since when'm I s'posed to be sharin' this space?",
-        "A shop needs its space, ye know? That other deed's takin' that space!",
-        "I'm sure there's more space for another person. But it ain't here in me store."
+        "Hai! Since vhen'm I supposed to be sharin' this space?",
+        "A shop needs its space, yew know? That other deed's takin' up said space!",
+        "I'm sure there's more space for another person someplace else. It sure ain't here in mei store."
     ]
-  },
-  {
-    "op": "copy",
-    "from": "/otherDeed/northdragnar/default",
-    "path": "/otherDeed/bignorthdragnar/default"
   },
   {
     "op" : "add",
-    "path" : "/severe/northdragnar/default",
+    "path" : "/severe/thornurdrike/default",
     "value" : [
-        "This store's an eyesore! Who'd be wantin' to buy anythin' from a place like this?",
-        "If me store stays like this, I'm takin' me business elsewhere!",
-        "I really can't be continuin' me business like this! Do ye mind fixin' this place?"
+        "This store's an eyesore! Who'd be vantin' to buy anythin' from a place like this?",
+        "If mei store stays like this, I'll be takin' mei business elsevhere!",
+        "I really can't be continuin' mei business in this state! Do yew mind fixin' this place?"
     ]
-  },
-  {
-    "op": "copy",
-    "from": "/severe/northdragnar/default",
-    "path": "/severe/bignorthdragnar/default"
   },
   {
     "op" : "add",
-    "path" : "/final/northdragnar/default",
+    "path" : "/final/thornurdrike/default",
     "value" : [
-        "Who's s'posed to be runnin' a shop under these conditions? I'm leavin'!",
-        "I'm takin' me business elsewhere! This's unbearable!",
-        "There ain't no way, that I'm continuin' me business here! Good riddance!"
+        "Who's supposed to be runnin' a shop under these conditions? I'm takin' mei leave!",
+        "I'm takin' mei business elsewhere! This's unbearable!",
+        "There ain't nei vay, that I'm continuin' mei business here! Good riddance!",
+		"I'm desperate, but I ain't THIS desperate! I'm off, lookin' for another storespace!"
     ]
-  },
-  {
-    "op": "copy",
-    "from": "/final/northdragnar/default",
-    "path": "/final/bignorthdragnar/default"
   },
   {
     "op" : "add",
-    "path" : "/beacon/northdragnar/default",
+    "path" : "/beacon/thornurdrike/default",
     "value" : [
-        "Ye want to talk business or blather a little?",
-        "Aye, what do ye need?",
-        "Lo, what's the matter?"
+        "Yew vant to talk business or blather a little?",
+        "Yoa, vhat do yew need?",
+        "Vethkja, vhat's the matter?"
     ]
-  },
-  {
-    "op": "copy",
-    "from": "/beacon/northdragnar/default",
-    "path": "/beacon/bignorthdragnar/default"
   },
   {
     "op" : "add",
-    "path" : "/rent/northdragnar/default",
+    "path" : "/rent/thornurdrike/default",
     "value" : [
-        "Here ye go. Ye're deservin' it!",
-        "It's only fair, for givin' me business a sittin' place.",
-        "Rent's due, ain't it? Here, take this.",
-		"Business's doin' well! Here's yer share."
+        "Here yew go. Yew've deserved it!",
+        "It's only fair, for givin' mei business a sittin' place.",
+        "Rent's due, ain't it?\nHere yew go.",
+		"Business's doin' vell! Here's yewr share."
     ]
   },
   {
-    "op": "copy",
-    "from": "/rent/northdragnar/default",
-    "path": "/rent/bignorthdragnar/default"
+  "op": "copy",
+    "from": "/merchant/thornurdrike",
+    "path": "/merchant/bigthornurdrike"
   }
 ]

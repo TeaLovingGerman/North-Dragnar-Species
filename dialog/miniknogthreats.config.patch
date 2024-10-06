@@ -1,23 +1,23 @@
 [  
   {  
     "op" : "add",
-    "path" : "/attack/apex/northdragnar",
+    "path" : "/attack/apex/thornurdrike",
     "value": [
-        "Dragnar sighted. Open fire on sight!",
+        "Drike sighted. Open fire on sight!",
         "Eliminate the opposer of Big Ape!",
-        "This is what Dragnar deserve, for defacing Big Ape as a tyrant!"
 		"Enemies of the Miniknog!",
         "Glory to Big Ape! Destroy the agitator!",
         "Hostile sighted! Eliminate them!",
         "For our glorious leader!",
         "Enemy sighted! Fire at will!",
         "Hostiles in sight!",
-        "Kill the dissident, get a promotion!"
+        "Kill the dissident, get a promotion!",
+		"Possible rebel ally sighted. Open fire!"
     ]
   },
   {
     "op": "copy",
-    "from": "/attack/apex/northdragnar",
-    "path": "/attack/apex/bignorthdragnar"
+    "from": "/attack/apex/thornurdrike",
+    "path": "/attack/apex/bigthornurdrike"
   }
 ]

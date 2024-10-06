@@ -1,15 +1,15 @@
 {
-  "itemName" : "ndlayeredturf1",
+  "itemName" : "TD_layeredturf1",
   "price" : 0,
   "category" : "block",
   "rarity" : "Common",
-  "inventoryIcon" : "ndlayeredturf1icon.png",
+  "inventoryIcon" : "TD_layeredturf1icon.png",
   "description" : "A simple layer of solid turf.",
   "shortdescription" : "Layered Turf ^orange;(1)",
   "glitchdescription" : "Informed. This turf serves as a simple base for walls or other structures.",
-  "florandescription" : "Turf consissting of decompossed plants.",
+  "florandescription" : "Turf made of decompossed plants.",
   "novakiddescription" : "Nothin' but a layer of plain turf.",
-  "northdragnardescription" : "These layers o' turf're usually placed in a herrin'bone pattern.",
-  "bignorthdragnardescription" : "These layers o' turf're usually placed in a herrin'bone pattern.",
+  "thornurdrikedescription" : "These layers o' turf're usually placed in an alternatin' pattern.",
+  "bigthornurdrikedescription" : "These layers o' turf're usually placed in an alternatin' pattern.",
   "materialId" : 1282
 }

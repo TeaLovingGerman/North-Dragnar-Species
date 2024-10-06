@@ -1,17 +1,17 @@
 [
   {
     "op": "add",
-    "path": "/converse/default/northdragnar",
+    "path": "/converse/default/thornurdrike",
     "value": [
 				"Yer kind got a fierce look about them. I like that!",
-				"Ye North-Dragnar are far from wee cravens. Just like we Alpacas!",
+				"Ye Drikes are far from wee cravens. Just like we Alpacas!",
 				"Good tae see some other hardy folks around here!",
-				"I haven't tried meself at carving wood yet.",
+				"I haven't tried meself at carving wood yet. Got any advice?",
 				"I consider yer kind as kin, I tell ye that!",
 				"I'm itching for a brawl. Ye dinnae mind a wee brawl?",
 				"We Alpacas are carving too. We dinnea carve anything else than tough stone, though.",
 				"Yer kin's always good company!",
-				"I'll tell ye, if I see any raiders around, alright?",
+				"I'll tell ye, if I see any craven raiders around, alright?",
 				"I dinnae see many like ye around, I tell ye that!",
 				"I'm itching tae batter some beasties.",
 				"Are ye a fighter, or a craven?",
@@ -34,17 +34,17 @@
   },
   {
     "op": "copy",
-    "from": "/converse/default/northdragnar",
-    "path": "/converse/default/bignorthdragnar"
+    "from": "/converse/default/thornurdrike",
+    "path": "/converse/default/bigthornurdrike"
   },
   {
     "op": "add",
-    "path": "/converse/default/bignorthdragnar/-",
+    "path": "/converse/default/bigthornurdrike/-",
     "value": "Be keepin' merry, big friend!"
   },
   {
     "op": "add",
-    "path": "/converse/default/bignorthdragnar/-",
-    "value": "Someone has been eatin' their vegetables! Good on ye."
+    "path": "/converse/default/bigthornurdrike/-",
+    "value": "Looks like someone has been eatin' their vegetables! Good on ye."
   }
 ]

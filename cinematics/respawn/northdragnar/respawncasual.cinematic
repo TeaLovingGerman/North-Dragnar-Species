@@ -118,7 +118,7 @@
     {
       "drawables" : [
         {
-          "image" : "/cinematics/respawn/northdragnar/layer1.png:<frame>"
+          "image" : "/cinematics/respawn/thornurdrike/layer1.png:<frame>"
         }
       ],
       "keyframes" : [

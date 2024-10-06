@@ -1,66 +1,54 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/first/northdragnar",
+    "path": "/scriptConfig/generatedText/text/first/thornurdrike",
     "value": [
-            "Would ye mind ^green;fetchin' me ^orange;<fetchedItems>^white;? I've got somethin' planned with it.",
-			"I'm in need o' ^orange;<fetchedItems>^white;. ^green;Could ye fetch 'em for me? ^white; O' course I ain't lettin' ye leave empty-handed, if ye do!"
+            "Vould yew mind ^green;fetchin' mei ^orange;<fetchedItems>^white;? I've got somethin' special planned vith it.",
+			"I'm in need o' ^orange;<fetchedItems>^white;. ^green;Could yew fetch theim for mei? ^white; O' course I ain't lettin' yew leave empty-handed, if yew do!"
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/first/bignorthdragnar",
+    "path": "/scriptConfig/generatedText/text/default/thornurdrike",
     "value": [
-            "Would ye mind ^green;fetchin' me ^orange;<fetchedItems>^white;? I've got somethin' planned with it.",
-			"I'm in need o' ^orange;<fetchedItems>^white;. ^green;Could ye fetch 'em for me? ^white; O' course I ain't lettin' ye leave empty-handed, if ye do!"
+            "I'm goin' to need ^orange;<fetchedItems>^white; for the next step o' mei plan. Yew're lookin' capable enough to ^green;find ^orange;<fetchedItems>^green;.",
+			"I've been failin' o get a hold o' ^orange;<fetchedItems>^white;, but I really need those for mei plan! Say, could yew help mei, by fetchin' ^orange;<fetchedItems>^green;?"
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "path": "/scriptConfig/generatedText/completionText/first/thornurdrike",
     "value": [
-            "I'm goin' to need ^orange;<fetchedItems>^white; for the next step o' me plan. Ye're lookin' capable enough to ^green;find ^orange;<fetchedItems>^green;.",
-			"I've been failin' o get a hold o' ^orange;<fetchedItems>^white;, but I really need 'em for me plan! Say, could ye help me, by fetchin' ^orange;<fetchedItems>^green;?"
+            "Just vhat I've been needin'! Ve'll be puttin' <fetchedItems> to use soon.",
+			"Thank yew! The <fetchedItems>'ll do vell for the next step o' the plan."
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
+    "path": "/scriptConfig/generatedText/completionText/default/thornurdrike",
     "value": [
-            "I'm goin' to need ^orange;<fetchedItems>^white; for the next step o' me plan. Ye're lookin' capable enough to ^green;find ^orange;<fetchedItems>^green;.",
-			"I've been failin' o get a hold o' ^orange;<fetchedItems>^white;, but I really need 'em for me plan! Say, could ye help me, by fetchin' ^orange;<fetchedItems>^green;?"
-    ]
-  },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/first/northdragnar",
-    "value": [
-            "Just what I've been needin'! We'll be puttin' <fetchedItems> to use soon.",
-			"Thank ye! The <fetchedItems>'ll do well for the next step o' the plan."
-    ]
-  },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/first/bignorthdragnar",
-    "value": [
-            "Just what I've been needin'! We'll be puttin' <fetchedItems> to use soon.",
-			"Thank ye! The <fetchedItems>'ll do well for the next step o' the plan."   
-    ]
-  },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
-    "value": [
-			"Thanks for brin'in' me the <fetchedItems>! Now we can be continuin' me plan.",
+			"Thanks for brin'in' mei the <fetchedItems>! Now ve can be continuin' mei plan.",
 			"Lookin' like it's in a good condition, for <fetchedItems>. Nicely done!" 
     ]
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
-    "value": [
-			"Thanks for brin'in' me the <fetchedItems>! Now we can be continuin' me plan.",
-			"Lookin' like it's in a good condition, for <fetchedItems>. Nicely done!" 
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/first/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/first/bigthornurdrike"
+  },
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/default/bigthornurdrike"
+  },
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/first/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/first/bigthornurdrike"
+  },
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/default/bigthornurdrike"
   }
 ]

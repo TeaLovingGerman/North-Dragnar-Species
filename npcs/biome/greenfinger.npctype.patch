@@ -1,17 +1,17 @@
 [
   {
     "op": "add",
-    "path": "/scriptConfig/dialog/converse/default/northdragnar",
+    "path": "/scriptConfig/dialog/converse/default/thornurdrike",
     "value": [
             "Welcome! I am thisss tribe's Greenfinger. Don't blame my Floran if they get a bit exciteable, that's jussst how Floran are!",
-            "Greetings, North-Dragnar! I am Greenfinger <selfname>, and it iss my role to guide the Floran of this tribe.",
-            "Welcome to our tribe, Dragnar. I am Greenfinger <selfname>, and we shall treat you with resspect as long as you do the sssame.",
-			"Welcome, North-Dragnar. The other Floran have respect for your kind's hunting capabilities, so I imagine they will not give you much trouble."
+            "Greetings, Thornur-Drike! I am Greenfinger <selfname>, and it iss my role to guide the Floran of this tribe.",
+            "Welcome to our tribe, Drike. I am Greenfinger <selfname>, and we shall treat you with resspect as long as you do the sssame.",
+			"Welcome, Thornur-Drike. The other Floran have respect for your kind's hunting capabilities, so I imagine they will not give you much trouble."
     ]
   },
   {
     "op": "copy",
-    "from": "/scriptConfig/dialog/converse/default/northdragnar",
-    "path": "/scriptConfig/dialog/converse/default/bignorthdragnar"
+    "from": "/scriptConfig/dialog/converse/default/thornurdrike",
+    "path": "/scriptConfig/dialog/converse/default/bigthornurdrike"
   }
 ]

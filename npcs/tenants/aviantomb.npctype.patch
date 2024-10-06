@@ -1,18 +1,18 @@
 [
   { 
 	"op": "add",
-    "path": "/dialog/converse/avian/northdragnar",
+    "path": "/dialog/converse/avian/thornurdrike",
     "value": [
             "I have come to spread the good word of Kluex! Heed my teachings and earn your wings!",
             "Every time something good happens to you, that's because of Kluex. Everything bad is your fault.",
             "Did you know that every sun is an eye of Kluex? He sees all!",
             "I am surprised, but humbled by your hospitality, nonbeliever. May Kluex reward you accordingly!",
-            "It is rare for a follower of Kluex to take refuge, in a home provided by a North-Dragnar, such as yourself."
+            "It is rare for a follower of Kluex to take refuge, in a home provided by a Thornur-Drike, such as yourself."
     ]
   },
   {
     "op": "copy",
-    "from": "/dialog/converse/avian/northdragnar",
-    "path": "/dialog/converse/avian/bignorthdragnar"
+    "from": "/dialog/converse/avian/thornurdrike",
+    "path": "/dialog/converse/avian/bigthornurdrike"
   }
 ]

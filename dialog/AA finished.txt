@@ -1,0 +1,18 @@
+	Isolated Drikes
+"Never seen yew before...",
+"Vhatever yu plan on doin', yew better keep yur hands off oa mei supplies!",
+"I've got nei food to be sparin'.",
+"Stranger? Do yew have any food yew'd be villin' to part vith?",
+"Don't stay too lon'. Ve don't have resources to keep visitors fed.",
+"I'm not lookin' for trouble. I'm just vantin' to survive out here.",
+"Ve don't need some stranger's help. Ve'll manage on our own.",
+"Yu're not a spy oa theim  damn Rinafin, are yu?",
+"Ve don't get visitors like yew often.",
+"Vell, vould yew look at that! I've never seen yewr kind before.",
+"Vhat's someone like yew  doin' all the vay out here?",
+"Get yewrself to some campfire. Yew must be cold!",
+"Ve've got our reasons to be cautious oa strangers. Just keep yewrself out oa trouble and yew'll be fine.",
+"Ve chose not to go raidin' others and nestled here instead. Don't need nei more trouble than ve already got.",
+"I vas tempted to become a raider. Though I can't imagine meiself ever destroyin' someone else's home...",
+"Desperate times call for desperate meassures. Raidin's unfortunately part oa that for many oa mei kin."
+

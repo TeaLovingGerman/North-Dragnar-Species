@@ -1,36 +1,41 @@
 [  
   {  
     "op" : "add",
-    "path" : "/accuse/northdragnar/default",
+    "path" : "/accuse/thornurdrike/default",
     "value": [
-        "Ey! Ye can't just go about stealin' stuff!",
-        "That there doesn't belon' to ya!",
-        "Ye're just lookin' for trouble, aren't ya?",
-        "We're not takin' kindly to raiders and thieves here!",
-		"Ye keep this up, ye'll get in trouble, ye hear?",
-		"That ain't yers! Stop!",
-		"Ye better stop stealin' or this'll get ugly quickly!"
+        "Hai! Yu can't just go about and steal stuff!",
+        "That there doesn't belon' to yu!",
+        "Yu're just lookin' for trouble, ain't yu?",
+        "Ve're not takin' kindly to thieves here!",
+		"Yu keep this up and yu'll get in trouble, yu hear?",
+		"That ain't yurs! Stop!",
+		"Yu better stop stealin' or this'll get ugly quickly!",
+		"That stuff ain't for the takin'!"
     ]
   },
   {
     "op": "copy",
-    "from": "/accuse/northdragnar/default",
-    "path": "/accuse/bignorthdragnar/default"
+    "from": "/accuse/thornurdrike/default",
+    "path": "/accuse/bigthornurdrike/default"
   },
   {
     "op" : "add",
-    "path" : "/alert/northdragnar/default",
+    "path" : "/alert/thornurdrike/default",
     "value": [
-        "Ye've done it now! Guards!",
-        "Guards! We've got a thievin' scoundrel!",
-        "Ye'll be regrettin' this! GUARDS!",
-        "Guards! GUARDS!!",
-		"Guards! We've got ourselves a thief here!"
+        "Yu've done it now! Cut that thief down!",
+        "Over here! Ve've got a thievin' scoundrel!",
+        "Yu'll be regrettin' this! THIEF!",
+        "EVERYONE! Ve've got a thief!",
+		"Quick! Ve've got ourselves a thief here!",
+		"Folks, ve got ourselves a thief to be dealin' vith!",
+		"Alarm, ALARM! There's a thief on the loose!,
+		"Let's show theim how ve deal vith thieves around here!",
+		"Yu're not goin' to like what's comin' next!"
     ]
   },
   {
     "op": "copy",
-    "from": "/alert/northdragnar/default",
-    "path": "/alert/bignorthdragnar/default"
+    "from": "/alert/thornurdrike/default",
+    "path": "/alert/bigthornurdrike/default"
   }
 ]

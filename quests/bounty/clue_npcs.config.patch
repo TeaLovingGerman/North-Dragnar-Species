@@ -1,366 +1,157 @@
 [
-{ "op" : "add",
-"path" : "/interrogate/clues/planetBounty/dialog/interrogateStart/northdragnar",
-	"value" : {
-		"default" : [
-			"I ain't tellin ye where <bounty.name> is!",
-			"I won't be tellin' ye anythin' about <bounty.name> that easily!",
-			"Ye're not goin' to make me betray <bounty.name>!",
+ {
+	"op" : "add",
+	"path" : "/interrogate/clues/planetBounty/dialog/interrogateStart/thornurdrike/default",
+	"value" : [
+			"I ain't tellin yu vhere <bounty.name> is!",
+			"I von't be tellin' yu anythin' about <bounty.name> that easily!",
+			"Yu're not goin' to make mei betray <bounty.name>!",
 			"I'll never be stabbin' <bounty.name> in the back!",
-			"Ye're wantin' info? Ye've got to take ME down first!",
-			"Ye'll have to rip <bounty.name>'s coordinates straight out o' me throat!",
-			"There's honour amon' outlaws! I won't be tattlin' on <bounty.name>'s location!",
-			"I'll never be tellin' ya where <bounty.name>'s hidin'!",
-			"Ey! I'll be beatin' down that blaggard <bounty.name> meself? They've got a good position I'd like to be takin' over!"
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/planetBounty/dialog/interrogateStart/bignorthdragnar",
-	"value" : {
-		"default" : [
-			"I ain't tellin ye where <bounty.name> is!",
-			"I won't be tellin' ye anythin' about <bounty.name> that easily!",
-			"Ye're not goin' to make me betray <bounty.name>!",
-			"I'll never be stabbin' <bounty.name> in the back!",
-			"Ye're wantin' info? Ye've got to take ME down first!",
-			"Ye'll have to rip <bounty.name>'s coordinates straight out o' me throat!",
-			"There's honour amon' outlaws! I won't be tattlin' on <bounty.name>'s location!",
-			"I'll never be tellin' ya where <bounty.name>'s hidin'!",
-			"Ey! I'll be beatin' down that blaggard <bounty.name> meself? They've got a good position I'd like to be takin' over!"
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/planetBounty/dialog/interrogateEnd/northdragnar",
-	"value" : {
-		"default" : [
-			"I'm admittin', I thought ye wouldn't be much o' a challenge for me. <bounty.name>'re <next.coordinate.preposition> <next.coordinate.name>.",
-			"I'm hatin' that tyrant <bounty.name> anyway! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"If I ain't goin' to get to beat up that blaggard <bounty.name>, will ye do it for me? They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"I have no honour to spare anyways. They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Alright, alright I'll start tattlin' on <bounty.name>! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Ye're wantin' me to start talkin'? Fine! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Stop the beatin'! I've had enough! They're <next.coordinate.preposition> <next.coordinate.name>!",
-			"Will ye give <bounty.name> a good thrashin' in me name? They're <next.coordinate.preposition> <next.coordinate.name>.\nOh, I've nearly been forgettin', me name's-",
-			"<bounty.name>'s hidin' <next.coordinate.preposition> <next.coordinate.name> while I'm out here defendin' 'em! Ye better be givin 'em a good beatin'!"
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/planetBounty/dialog/interrogateEnd/bignorthdragnar",
-	"value" : {
-		"default" : [
-			"I'm admittin', I thought ye wouldn't be much o' a challenge for me. <bounty.name>'re <next.coordinate.preposition> <next.coordinate.name>.",
-			"I'm hatin' that tyrant <bounty.name> anyway! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"If I ain't goin' to get to beat up that blaggard <bounty.name>, will ye do it for me? They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"I have no honour to spare anyways. They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Alright, alright I'll start tattlin' on <bounty.name>! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Ye're wantin' me to start talkin'? Fine! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Stop the beatin'! I've had enough! They're <next.coordinate.preposition> <next.coordinate.name>!",
-			"Will ye give <bounty.name> a good thrashin' in me name? They're <next.coordinate.preposition> <next.coordinate.name>.\nOh, I've nearly been forgettin', me name's-",
-			"<bounty.name>'s hidin' <next.coordinate.preposition> <next.coordinate.name> while I'm out here defendin' 'em! Ye better be givin 'em a good beatin'!"
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/spaceBounty/dialog/interrogateStart/northdragnar",
-	"value" : {
-		"default" : [
-			"I ain't tellin ye where <bounty.name> is!",
-			"I won't be tellin' ye anythin' about <bounty.name> that easily!",
-			"Ye're not goin' to make me betray <bounty.name>!",
-			"I'll never be stabbin' <bounty.name> in the back!",
-			"Ye're wantin' info? Ye've got to take ME down first!",
-			"Ye'll have to rip <bounty.name>'s coordinates straight out o' me throat!",
-			"There's honour amon' outlaws! I won't be tattlin' on <bounty.name>'s location!",
-			"I'll never be tellin' ya where <bounty.name>'s hidin'!",
-			"Ey! I'll be beatin' down that blaggard <bounty.name> meself? They've got a good position I'd like to be takin' over!"
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/spaceBounty/dialog/interrogateStart/bignorthdragnar",
-	"value" : {
-		"default" : [
-			"I ain't tellin ye where <bounty.name> is!",
-			"I won't be tellin' ye anythin' about <bounty.name> that easily!",
-			"Ye're not goin' to make me betray <bounty.name>!",
-			"I'll never be stabbin' <bounty.name> in the back!",
-			"Ye're wantin' info? Ye've got to take ME down first!",
-			"Ye'll have to rip <bounty.name>'s coordinates straight out o' me throat!",
-			"There's honour amon' outlaws! I won't be tattlin' on <bounty.name>'s location!",
-			"I'll never be tellin' ya where <bounty.name>'s hidin'!",
-			"Ey! I'll be beatin' down that blaggard <bounty.name> meself? They've got a good position I'd like to be takin' over!"
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/spaceBounty/dialog/interrogateEnd/northdragnar",
-	"value" : {
-		"default" : [
-			"I'm admittin', I thought ye wouldn't be much o' a challenge for me. <bounty.name>'re <next.coordinate.preposition> <next.coordinate.name>.",
-			"I'm hatin' that tyrant <bounty.name> anyway! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"If I ain't goin' to get to beat up that blaggard <bounty.name>, will ye do it for me? They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"I have no honour to spare anyways. They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Alright, alright I'll start tattlin' on <bounty.name>! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Ye're wantin' me to start talkin'? Fine! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Stop the beatin'! I've had enough! They're <next.coordinate.preposition> <next.coordinate.name>!",
-			"Will ye give <bounty.name> a good thrashin' in me name? They're <next.coordinate.preposition> <next.coordinate.name>.\nOh, I've nearly been forgettin', me name's-",
-			"<bounty.name>'s hidin' <next.coordinate.preposition> <next.coordinate.name> while I'm out here defendin' 'em! Ye better be givin 'em a good beatin'!"
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/spaceBounty/dialog/interrogateEnd/bignorthdragnar",
-	"value" : {
-		"default" : [
-			"I'm admittin', I thought ye wouldn't be much o' a challenge for me. <bounty.name>'re <next.coordinate.preposition> <next.coordinate.name>.",
-			"I'm hatin' that tyrant <bounty.name> anyway! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"If I ain't goin' to get to beat up that blaggard <bounty.name>, will ye do it for me? They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"I have no honour to spare anyways. They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Alright, alright I'll start tattlin' on <bounty.name>! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Ye're wantin' me to start talkin'? Fine! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Stop the beatin'! I've had enough! They're <next.coordinate.preposition> <next.coordinate.name>!",
-			"Will ye give <bounty.name> a good thrashin' in me name? They're <next.coordinate.preposition> <next.coordinate.name>.\nOh, I've nearly been forgettin', me name's-",
-			"<bounty.name>'s hidin' <next.coordinate.preposition> <next.coordinate.name> while I'm out here defendin' 'em! Ye better be givin 'em a good beatin'!"
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/planetClue/dialog/interrogateStart/northdragnar",
-	"value" : {
-		"default" : [
-			"I ain't tellin ye where <bounty.name> is!",
-			"I won't be tellin' ye anythin' about <bounty.name> that easily!",
-			"Ye're not goin' to make me betray <bounty.name>!",
-			"I'll never be stabbin' <bounty.name> in the back!",
-			"Ye're wantin' info? Ye've got to take ME down first!",
-			"Ye'll have to rip <bounty.name>'s coordinates straight out o' me throat!",
-			"There's honour amon' outlaws! I won't be tattlin' on <bounty.name>'s location!",
-			"I'll never be tellin' ya where <bounty.name>'s hidin'!",
-			"Ey! I'll be beatin' down that blaggard <bounty.name> meself? They've got a good position I'd like to be takin' over!"
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/planetClue/dialog/interrogateStart/bignorthdragnar",
-	"value" : {
-		"default" : [
-			"I ain't tellin ye where <bounty.name> is!",
-			"I won't be tellin' ye anythin' about <bounty.name> that easily!",
-			"Ye're not goin' to make me betray <bounty.name>!",
-			"I'll never be stabbin' <bounty.name> in the back!",
-			"Ye're wantin' info? Ye've got to take ME down first!",
-			"Ye'll have to rip <bounty.name>'s coordinates straight out o' me throat!",
-			"There's honour amon' outlaws! I won't be tattlin' on <bounty.name>'s location!",
-			"I'll never be tellin' ya where <bounty.name>'s hidin'!",
-			"Ey! I'll be beatin' down that blaggard <bounty.name> meself? They've got a good position I'd like to be takin' over!"
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/planetClue/dialog/interrogateEnd/northdragnar",
-	"value" : {
-		"default" : [
-			"I'm admittin', I thought ye wouldn't be much o' a challenge for me. <bounty.name>'re <next.coordinate.preposition> <next.coordinate.name>.",
-			"I'm hatin' that tyrant <bounty.name> anyway! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"If I ain't goin' to get to beat up that blaggard <bounty.name>, will ye do it for me? They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"I have no honour to spare anyways. They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Alright, alright I'll start tattlin' on <bounty.name>! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Ye're wantin' me to start talkin'? Fine! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Stop the beatin'! I've had enough! They're <next.coordinate.preposition> <next.coordinate.name>!",
-			"Will ye give <bounty.name> a good thrashin' in me name? They're <next.coordinate.preposition> <next.coordinate.name>.\nOh, I've nearly been forgettin', me name's-",
-			"<bounty.name>'s hidin' <next.coordinate.preposition> <next.coordinate.name> while I'm out here defendin' 'em! Ye better be givin 'em a good beatin'!"
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/planetClue/dialog/interrogateEnd/bignorthdragnar",
-	"value" : {
-		"default" : [
-			"I'm admittin', I thought ye wouldn't be much o' a challenge for me. <bounty.name>'re <next.coordinate.preposition> <next.coordinate.name>.",
-			"I'm hatin' that tyrant <bounty.name> anyway! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"If I ain't goin' to get to beat up that blaggard <bounty.name>, will ye do it for me? They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"I have no honour to spare anyways. They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Alright, alright I'll start tattlin' on <bounty.name>! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Ye're wantin' me to start talkin'? Fine! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Stop the beatin'! I've had enough! They're <next.coordinate.preposition> <next.coordinate.name>!",
-			"Will ye give <bounty.name> a good thrashin' in me name? They're <next.coordinate.preposition> <next.coordinate.name>.\nOh, I've nearly been forgettin', me name's-",
-			"<bounty.name>'s hidin' <next.coordinate.preposition> <next.coordinate.name> while I'm out here defendin' 'em! Ye better be givin 'em a good beatin'!"
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/spaceClue/dialog/interrogateStart/northdragnar",
-	"value" : {
-		"default" : [
-			"I ain't tellin ye where <bounty.name> is!",
-			"I won't be tellin' ye anythin' about <bounty.name> that easily!",
-			"Ye're not goin' to make me betray <bounty.name>!",
-			"I'll never be stabbin' <bounty.name> in the back!",
-			"Ye're wantin' info? Ye've got to take ME down first!",
-			"Ye'll have to rip <bounty.name>'s coordinates straight out o' me throat!",
-			"There's honour amon' outlaws! I won't be tattlin' on <bounty.name>'s location!",
-			"I'll never be tellin' ya where <bounty.name>'s hidin'!",
-			"Ey! I'll be beatin' down that blaggard <bounty.name> meself? They've got a good position I'd like to be takin' over!"
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/spaceClue/dialog/interrogateStart/bignorthdragnar",
-	"value" : {
-		"default" : [
-			"I ain't tellin ye where <bounty.name> is!",
-			"I won't be tellin' ye anythin' about <bounty.name> that easily!",
-			"Ye're not goin' to make me betray <bounty.name>!",
-			"I'll never be stabbin' <bounty.name> in the back!",
-			"Ye're wantin' info? Ye've got to take ME down first!",
-			"Ye'll have to rip <bounty.name>'s coordinates straight out o' me throat!",
-			"There's honour amon' outlaws! I won't be tattlin' on <bounty.name>'s location!",
-			"I'll never be tellin' ya where <bounty.name>'s hidin'!",
-			"Ey! I'll be beatin' down that blaggard <bounty.name> meself? They've got a good position I'd like to be takin' over!"
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/spaceClue/dialog/interrogateEnd/northdragnar",
-	"value" : {
-		"default" : [
-			"I'm admittin', I thought ye wouldn't be much o' a challenge for me. <bounty.name>'re <next.coordinate.preposition> <next.coordinate.name>.",
-			"I'm hatin' that tyrant <bounty.name> anyway! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"If I ain't goin' to get to beat up that blaggard <bounty.name>, will ye do it for me? They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"I have no honour to spare anyways. They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Alright, alright I'll start tattlin' on <bounty.name>! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Ye're wantin' me to start talkin'? Fine! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Stop the beatin'! I've had enough! They're <next.coordinate.preposition> <next.coordinate.name>!",
-			"Will ye give <bounty.name> a good thrashin' in me name? They're <next.coordinate.preposition> <next.coordinate.name>.\nOh, I've nearly been forgettin', me name's-",
-			"<bounty.name>'s hidin' <next.coordinate.preposition> <next.coordinate.name> while I'm out here defendin' 'em! Ye better be givin 'em a good beatin'!"
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/spaceClue/dialog/interrogateEnd/bignorthdragnar",
-	"value" : {
-		"default" : [
-			"I'm admittin', I thought ye wouldn't be much o' a challenge for me. <bounty.name>'re <next.coordinate.preposition> <next.coordinate.name>.",
-			"I'm hatin' that tyrant <bounty.name> anyway! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"If I ain't goin' to get to beat up that blaggard <bounty.name>, will ye do it for me? They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"I have no honour to spare anyways. They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Alright, alright I'll start tattlin' on <bounty.name>! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Ye're wantin' me to start talkin'? Fine! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Stop the beatin'! I've had enough! They're <next.coordinate.preposition> <next.coordinate.name>!",
-			"Will ye give <bounty.name> a good thrashin' in me name? They're <next.coordinate.preposition> <next.coordinate.name>.\nOh, I've nearly been forgettin', me name's-",
-			"<bounty.name>'s hidin' <next.coordinate.preposition> <next.coordinate.name> while I'm out here defendin' 'em! Ye better be givin 'em a good beatin'!"
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/scan/dialog/interrogateStart/northdragnar",
-	"value" : {
-		"default" : [
-			"I ain't tellin ye where <bounty.name> is!",
-			"I won't be tellin' ye anythin' about <bounty.name> that easily!",
-			"Ye're not goin' to make me betray <bounty.name>!",
-			"I'll never be stabbin' <bounty.name> in the back!",
-			"Ye're wantin' info? Ye've got to take ME down first!",
-			"Ye'll have to rip <bounty.name>'s coordinates straight out o' me throat!",
-			"There's honour amon' outlaws! I won't be tattlin' on <bounty.name>'s location!",
-			"I'll never be tellin' ya where <bounty.name>'s hidin'!",
-			"Ey! I'll be beatin' down that blaggard <bounty.name> meself? They've got a good position I'd like to be takin' over!"
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/scan/dialog/interrogateStart/bignorthdragnar",
-	"value" : {
-		"default" : [
-			"I ain't tellin ye where <bounty.name> is!",
-			"I won't be tellin' ye anythin' about <bounty.name> that easily!",
-			"Ye're not goin' to make me betray <bounty.name>!",
-			"I'll never be stabbin' <bounty.name> in the back!",
-			"Ye're wantin' info? Ye've got to take ME down first!",
-			"Ye'll have to rip <bounty.name>'s coordinates straight out o' me throat!",
-			"There's honour amon' outlaws! I won't be tattlin' on <bounty.name>'s location!",
-			"I'll never be tellin' ya where <bounty.name>'s hidin'!",
-			"Ey! I'll be beatin' down that blaggard <bounty.name> meself? They've got a good position I'd like to be takin' over!"
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/scan/dialog/interrogateEnd/northdragnar",
-	"value" : {
-		"default" : [
-			"I'm admittin', I thought ye wouldn't be much o' a challenge for me. <bounty.name>'re <next.coordinate.preposition> <next.coordinate.name>.",
-			"I'm hatin' that tyrant <bounty.name> anyway! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"If I ain't goin' to get to beat up that blaggard <bounty.name>, will ye do it for me? They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"I have no honour to spare anyways. They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Alright, alright I'll start tattlin' on <bounty.name>! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Ye're wantin' me to start talkin'? Fine! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Stop the beatin'! I've had enough! They're <next.coordinate.preposition> <next.coordinate.name>!",
-			"Will ye give <bounty.name> a good thrashin' in me name? They're <next.coordinate.preposition> <next.coordinate.name>.\nOh, I've nearly been forgettin', me name's-",
-			"<bounty.name>'s hidin' <next.coordinate.preposition> <next.coordinate.name> while I'm out here defendin' 'em! Ye better be givin 'em a good beatin'!"
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/scan/dialog/interrogateEnd/bignorthdragnar",
-	"value" : {
-		"default" : [
-			"I'm admittin', I thought ye wouldn't be much o' a challenge for me. <bounty.name>'re <next.coordinate.preposition> <next.coordinate.name>.",
-			"I'm hatin' that tyrant <bounty.name> anyway! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"If I ain't goin' to get to beat up that blaggard <bounty.name>, will ye do it for me? They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"I have no honour to spare anyways. They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Alright, alright I'll start tattlin' on <bounty.name>! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Ye're wantin' me to start talkin'? Fine! They're <next.coordinate.preposition> <next.coordinate.name>.",
-			"Stop the beatin'! I've had enough! They're <next.coordinate.preposition> <next.coordinate.name>!",
-			"Will ye give <bounty.name> a good thrashin' in me name? They're <next.coordinate.preposition> <next.coordinate.name>.\nOh, I've nearly been forgettin', me name's-",
-			"<bounty.name>'s hidin' <next.coordinate.preposition> <next.coordinate.name> while I'm out here defendin' 'em! Ye better be givin 'em a good beatin'!"
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/vaultClue/dialog/interrogateStart/northdragnar",
-	"value" : {
-		"default" : [
-			"Ye're goin' to have to rip the ^orange;code^reset; from me cold dead hands!",
-			"Ye're wantin' the ^orange;code^reset;? Ye'll have to fight me for it first!",
-			"Here for that ^orange;code^reset;? I forgot it, but let's start fightin' it out anyways!",
-			"Not stron' enough for breakin' down that vault door o' <bounty.name>? Ohoho! Come get the ^orange;code^reset; then!"
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/vaultClue/dialog/interrogateStart/bignorthdragnar",
-	"value" : {
-		"default" : [
-			"Ye're goin' to have to rip the ^orange;code^reset; from me giant, cold dead hands!",
-			"Ye're wantin' the ^orange;code^reset;? Ye'll have to fight me for it first!",
-			"Here for that ^orange;code^reset;? I forgot it, but let's start fightin' it out anyways!",
-			"Not stron' enough for breakin' down that vault door o' <bounty.name>? Ohoho! Come get the ^orange;code^reset; then!"
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/vaultClue/dialog/interrogateEnd/northdragnar",
-	"value" : {
-		"default" : [
-			"I'm thinkin' that the fightin' made me remember the ^orange;code^reset;! It's ^orange;<password>^reset;! Wait, why've I said that out loud?",
-			"Gah! What's even the point? The code to that coward's vault's ^orange;<password>^reset;!",
-			"The code's ^orange;<password>^reset;! That's what <bounty.name>'s gettin' for not lettin' me in!",
-			"I'll tell ye the code! Just stop attackin' me already! It's ^orange;<password>^reset;."
-]
-}
-},
-{ "op" : "add",
-"path" : "/interrogate/clues/vaultClue/dialog/interrogateEnd/bignorthdragnar",
-	"value" : {
-		"default" : [
-			"I'm thinkin' that the fightin' made me remember the ^orange;code^reset;! It's ^orange;<password>^reset;! Wait, why've I said that out loud?",
-			"Gah! What's even the point? The code to that little coward's vault's ^orange;<password>^reset;!",
-			"The code's ^orange;<password>^reset;! That's what <bounty.name>'s gettin' for ''there ain't enough room in here for ya''!",
-			"I'll tell ye the code! Just stop attackin' me already! It's ^orange;<password>^reset;."
-]
-}
-}
+			"Yu're vantin' info? Yu've got to take MEI down first!",
+			"Yu'll have to rip <bounty.name>'s coordinates straight out o' mei throat!",
+			"There's honour amon' outlaws! I von't be tattlin' on <bounty.name>'s location!",
+			"I'll never be tellin' yu vhere <bounty.name>'s hidin'!",
+			"Hai! I'll be beatin' down that damned <bounty.name> meiself! Thei've got a good position I'd like to be takin' over!"
+		]
+  },
+  {
+    "op": "copy",
+    "from": "/interrogate/clues/planetBounty/dialog/interrogateStart/thornurdrike/default",
+    "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/bigthornurdrike/default"
+  },
+  { 
+	"op": "add",
+	"path" : "/interrogate/clues/planetBounty/dialog/interrogateEnd/thornurdrike/default",
+	"value" : [
+			"I'm admittin', I thought yu vouldn't be much o' a challenge for mei. <bounty.name>'s <next.coordinate.preposition> <next.coordinate.name>.",
+			"I can't stand that tyrant <bounty.name> anyvay! Thei're <next.coordinate.preposition> <next.coordinate.name>.",
+			"If I ain't goin' to get to beat up that coward <bounty.name>, vill yew do it for mei? Thei're <next.coordinate.preposition> <next.coordinate.name>.",
+			"I have nei honour to spare anyvays. Thei're <next.coordinate.preposition> <next.coordinate.name>.",
+			"Alright, alright I'll start tattlin' on <bounty.name>! Thei're <next.coordinate.preposition> <next.coordinate.name>.",
+			"Yu're vantin' mei to start talkin'? Fine! Thei're <next.coordinate.preposition> <next.coordinate.name>.",
+			"Stop the beatin'! I've had enough! Thei're <next.coordinate.preposition> <next.coordinate.name>!",
+			"Vill yu give <bounty.name> a good thrashin' in mei name? Thei're <next.coordinate.preposition> <next.coordinate.name>.\nOh, I've nearly been forgettin', mei name's-",
+			"<bounty.name>'s hidin' <next.coordinate.preposition> <next.coordinate.name> vhile I'm out here defendin' theim! Yu better be givin' 'eim a good beatin'!"
+		]
+  },
+  {
+    "op": "copy",
+    "from": "/interrogate/clues/planetBounty/dialog/interrogateEnd/thornurdrike/default",
+    "path": "/interrogate/clues/planetBounty/dialog/interrogateEnd/bigthornurdrike/default"
+  },
+  {
+    "op": "copy",
+    "from": "/interrogate/clues/planetBounty/dialog/interrogateStart/thornurdrike/default",
+    "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/thornurdrike/default"
+  },
+  { 
+    "op": "copy",
+    "from": "/interrogate/clues/planetBounty/dialog/interrogateStart/thornurdrike/default",
+    "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/bigthornurdrike/default"
+  },
+  {
+    "op": "copy",
+    "from": "/interrogate/clues/planetBounty/dialog/interrogateEnd/thornurdrike/default",
+    "path": "/interrogate/clues/spaceBounty/dialog/interrogateEnd/northdragna/defaultr"
+  },
+  { 
+    "op": "copy",
+    "from": "/interrogate/clues/planetBounty/dialog/interrogateEnd/thornurdrike/default",
+    "path": "/interrogate/clues/spaceBounty/dialog/interrogateEnd/bigthornurdrike/default"
+  },
+  {
+    "op": "copy",
+    "from": "/interrogate/clues/planetBounty/dialog/interrogateStart/thornurdrike/default",
+    "path": "/interrogate/clues/planetClue/dialog/interrogateStart/thornurdrike/default"
+  },
+  { 
+    "op": "copy",
+    "from": "/interrogate/clues/planetBounty/dialog/interrogateStart/thornurdrike/default",
+    "path": "/interrogate/clues/planetClue/dialog/interrogateStart/bigthornurdrike/default"
+  },
+  {
+    "op": "copy",
+    "from": "/interrogate/clues/planetBounty/dialog/interrogateEnd/thornurdrike/default",
+    "path": "/interrogate/clues/planetClue/dialog/interrogateEnd/thornurdrike/default"
+  },
+  { 
+    "op": "copy",
+    "from": "/interrogate/clues/planetBounty/dialog/interrogateEnd/thornurdrike/default",
+    "path": "/interrogate/clues/planetClue/dialog/interrogateEnd/bigthornurdrike/default"
+  },
+  {
+    "op": "copy",
+    "from": "/interrogate/clues/planetBounty/dialog/interrogateStart/thornurdrike/default",
+    "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/thornurdrike/default"
+  },
+  { 
+    "op": "copy",
+    "from": "/interrogate/clues/planetBounty/dialog/interrogateStart/thornurdrike/default",
+    "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/bigthornurdrike/default"
+  },
+  {
+    "op": "copy",
+    "from": "/interrogate/clues/planetBounty/dialog/interrogateEnd/thornurdrike/default",
+    "path": "/interrogate/clues/spaceClue/dialog/interrogateEnd/thornurdrike/default"
+  },
+  { 
+    "op": "copy",
+    "from": "/interrogate/clues/planetBounty/dialog/interrogateEnd/thornurdrike/default",
+    "path": "/interrogate/clues/spaceClue/dialog/interrogateEnd/bigthornurdrike/default"
+  },
+  {
+    "op": "copy",
+    "from": "/interrogate/clues/planetBounty/dialog/interrogateStart/thornurdrike/default",
+    "path": "/interrogate/clues/scan/dialog/interrogateStart/thornurdrike/default"
+  },
+  { 
+    "op": "copy",
+    "from": "/interrogate/clues/planetBounty/dialog/interrogateStart/thornurdrike/default",
+    "path": "/interrogate/clues/scan/dialog/interrogateStart/bigthornurdrike/default"
+  },
+  {
+    "op": "copy",
+    "from": "/interrogate/clues/planetBounty/dialog/interrogateEnd/thornurdrike/default",
+    "path": "/interrogate/clues/scan/dialog/interrogateEnd/thornurdrike/default"
+  },
+  { 
+    "op": "copy",
+    "from": "/interrogate/clues/planetBounty/dialog/interrogateEnd/thornurdrike/default",
+    "path": "/interrogate/clues/scan/dialog/interrogateEnd/bigthornurdrike/default"
+  },
+  {
+	"op": "add",
+	"path" : "/interrogate/clues/vaultClue/dialog/interrogateStart/thornurdrike/default",
+	"value" : [
+			"Yu're goin' to have to rip the ^orange;code^reset; from mei cold dead hands!",
+			"Yu're vantin' the ^orange;code^reset;? Yu'll have to fight mei for it first!",
+			"Here for that ^orange;code^reset;? I forgot it, but let's start fightin' it out anyvays!",
+			"Not stron' enough for breakin' down that vault door o' <bounty.name>?\nOhoho! Come get the ^orange;code^reset; then!"
+	]
+  },
+  {
+    "op": "copy",
+    "from": "/interrogate/clues/vaultClue/dialog/interrogateStart/thornurdrike/default",
+    "path": "/interrogate/clues/vaultClue/dialog/interrogateStart/bigthornurdrike/default"
+  },
+  {
+	"op" : "add",
+	"path" : "/interrogate/clues/vaultClue/dialog/interrogateEnd/thornurdrike/default",
+	"value" : [
+			"I'm thinkin' that the fightin' made mei remember the ^orange;code^reset;! It's ^orange;<password>^reset;!\nVait, vhy've I said that out loud?",
+			"Gah! Vhat's even the point? The code to that coward's vault's ^orange;<password>^reset;!",
+			"The code's ^orange;<password>^reset;! That's vhat <bounty.name>'s gettin' for not lettin' mei in!",
+			"I'll tell yu the code! Just stop attackin' mei already! It's ^orange;<password>^reset;."
+	]
+  },
+  {
+	"op" : "add",
+	"path" : "/interrogate/clues/vaultClue/dialog/interrogateEnd/bigthornurdrike/default",
+	"value" : [
+			"I'm thinkin' that the fightin' made mei remember the ^orange;code^reset;! It's ^orange;<password>^reset;!\nVait, vhy've I said that out loud?",
+			"Gah! Vhat's even the point? The code to that little coward's vault's ^orange;<password>^reset;!",
+			"The code's ^orange;<password>^reset;! That's vhat <bounty.name>'s gettin' for ''there ain't enough room in here for yu''!",
+			"I'll tell yu the code! Just stop attackin' mei already! It's ^orange;<password>^reset;."
+	]
+  }
 ]

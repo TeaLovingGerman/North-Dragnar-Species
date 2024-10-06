@@ -1,8 +1,0 @@
-{
-  "name" : "mint",
-  "category" : "northdragnarpet",
-  "type" : "body",
-  "frames" : {
-    "body" : "mint.png"
-  }
-}

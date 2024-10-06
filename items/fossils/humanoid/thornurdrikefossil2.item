@@ -1,0 +1,21 @@
+{
+  "itemName" : "thornurdrikefossil2",
+  "rarity" : "Uncommon",
+  "itemTags" : ["fossil"],
+
+  "description" : "A fossilised Thornur-Drike torso.",
+  "category" : "mediumFossil",
+
+  "shortdescription" : "Thornur-Drike Torso",
+  "race" : "thornurdrike",
+  "price" : 50,
+
+  "inventoryIcon" : "thornurdrikefossil2icon.png",
+
+  "displayImage" : "/objects/fossils/humanoidfossils/fossilthornurdrike/thornurdriketorsodisplay.png",
+  "displayoffset" :[0, 0],
+
+  "fossilSetName" : "thornurdrikeSkeleton",
+  "setIndex" : 2,
+  "setCount" : 3
+}

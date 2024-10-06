@@ -1,18 +1,18 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/dialog/converse/default/northdragnar",
+    "path": "/scriptConfig/dialog/converse/default/thornurdrike",
     "value": [
             "I'm here gathering crucial intel for our rebellion.\nYou would not happen to know something of importance to us?",
-            "Are you the messenger I am supposed to meet up with?\nOh! You are not the North-Dragnar I was looking for, my apologies."
+            "Are you the messenger I am supposed to meet up with?\nOh! You are not the Thornur-Drike I was looking for, my apologies."
       ]
     },
 	{
 	"op": "add",
-    "path": "/scriptConfig/dialog/converse/default/bignorthdragnar",
+    "path": "/scriptConfig/dialog/converse/default/bigthornurdrike",
     "value": [
             "I'm here gathering crucial intel for our rebellion.\nYou would not happen to know something of importance to us?",
-            "Are you the messenger I am supposed to meet up with?\nOh! You are not the North-Dragnar I was looking for, my apologies."
+            "Are you the messenger I am supposed to meet up with?\nOh! You are not the Thornur-Drike I was looking for, my apologies."
       ]
 	}
 ]

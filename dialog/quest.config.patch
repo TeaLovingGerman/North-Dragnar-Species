@@ -1,267 +1,273 @@
 [
   {
 	"op": "add",
-	"path": "/share_secret/pleaseTakeReply/northdragnar/default",
+	"path": "/share_secret/pleaseTakeReply/thornurdrike/default",
     "value" : [
-		"Could ye take this reply here back to <questGiver> for me?"
+		"Could yew take this reply here back to <questGiver> for me?"
     ]
   },
   {
     "op": "copy",
-    "from": "/share_secret/pleaseTakeReply/northdragnar/default",
-    "path": "/share_secret/pleaseTakeReply/bignorthdragnar/default"
+    "from": "/share_secret/pleaseTakeReply/thornurdrike/default",
+    "path": "/share_secret/pleaseTakeReply/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/intimidate/intimidated/northdragnar/default",
+	"path": "/intimidate/intimidated/thornurdrike/default",
     "value" : [
-		"A <item>?! Hold on! Tell <questGiver> that I'll do what they want!",
-		"Ye didn't need to brin' a <item>! <questGiver> could've just asked me, damnit!",
-		"Ye're kiddin'! A <item>?! I'll do what <questGiver> wants. Just... put that damned thin' away!"
+		"A <item>?! Hold on! Tell that damned <questGiver> that I'll do vhat thei vant!",
+		"Yu didn't need to brin' a <item>! <questGiver> could've just asked me, damnit!",
+		"Yu're kiddin'! A <item>?!\n Fine! I'll do vhat <questGiver> wants. Just... put that damned thin' avay!"
     ]
   },
   {
     "op": "copy",
-    "from": "/intimidate/intimidated/northdragnar/default",
-    "path": "/intimidate/intimidated/bignorthdragnar/default"
+    "from": "/intimidate/intimidated/thornurdrike/default",
+    "path": "/intimidate/intimidated/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/intimidate/notIntimidated/northdragnar/default",
+	"path": "/intimidate/notIntimidated/thornurdrike/default",
     "value" : [
-		"<questGiver> sent ya? Well, I won't be complyin' any time soon!",
-		"Ha! Tryin' to intimidate me, are ya? <questGiver>'s got to do much better than sendin' ye!"
+		"<questGiver> sent yu? Vell, I don't plan on complyin' any time soon! Now bugger off!",
+		"Ha! Tryin' to intimidate me, are yu? <questGiver>'s got to do much better than sendin' a vuss like yu!",
+		"Yu one o' <questGiver>'s clawlickers? Go back and tell 'eim that I ain't givin' in!"
     ]
   },
   {
     "op": "copy",
-    "from": "/intimidate/notIntimidated/northdragnar/default",
-    "path": "/intimidate/notIntimidated/bignorthdragnar/default"
+    "from": "/intimidate/notIntimidated/thornurdrike/default",
+    "path": "/intimidate/notIntimidated/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/bribe/giftAccepted/northdragnar/default",
+	"path": "/bribe/giftAccepted/thornurdrike/default",
     "value" : [
-		"<questGiver>'s bribin' me? I'll accept it. Just this once.",
-		"A bribe from <questGiver>? Alright, tell <questGiver>, that I'll be lookin' the other way, for now.",
-		"<questGiver> sent ya? I usually ain't acceptin' bribes, but I'm needin' this..."
+		"<questGiver>'s bribin' me? I'll accept it...\nJust this once.",
+		"A bribe from <questGiver>? Alright, tell <questGiver>, that I'll be lookin' the other vay, for now.",
+		"<questGiver> sent yu? I usually ain't acceptin' bribes, but I'm needin' this...",
+		"Looks like <questGiver> is makin' a habit o' these bribes. Fine by me."
     ]
   },
   {
     "op": "copy",
-    "from": "/bribe/giftAccepted/northdragnar/default",
-    "path": "/bribe/giftAccepted/bignorthdragnar/default"
+    "from": "/bribe/giftAccepted/thornurdrike/default",
+    "path": "/bribe/giftAccepted/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/bribe/giftAccepted2/northdragnar/default",
+	"path": "/bribe/giftAccepted2/thornurdrike/default",
     "value" : [
-		"What's <questGiver> wantin' from me...",
-		"What's <questGiver> plannin' now?"
+		"Vhat's <questGiver> gettin' theimselves into?",
+		"Vhat's <questGiver> plannin' now?"
     ]
   },
   {
     "op": "copy",
-    "from": "/bribe/giftAccepted2/northdragnar/default",
-    "path": "/bribe/giftAccepted2/bignorthdragnar/default"
+    "from": "/bribe/giftAccepted2/thornurdrike/default",
+    "path": "/bribe/giftAccepted2/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/bribe/requestAdditionToHouse/northdragnar/default",
+	"path": "/bribe/requestAdditionToHouse/thornurdrike/default",
     "value" : [
-		"This'll look good in me home! Would ye mind placin' it here?",
-		"This ''gift'' would be a fine addition to me home. Could ye put in here for me?"
+		"This'll look good in mei home! Vould yew mind placin' it here?",
+		"This ''gift'' vould be a fine addition to mei home. Could yew put in here for me?"
     ]
   },
   {
     "op": "copy",
-    "from": "/bribe/requestAdditionToHouse/northdragnar/default",
-    "path": "/bribe/requestAdditionToHouse/bignorthdragnar/default"
+    "from": "/bribe/requestAdditionToHouse/thornurdrike/default",
+    "path": "/bribe/requestAdditionToHouse/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/gift/giftAccepted/northdragnar/default",
+	"path": "/gift/giftAccepted/thornurdrike/default",
     "value" : [
-		"How nice o' <questGiver>! Do thank 'em for me, if ye have the time.",
-		"Now that's a nice-lookin' gift right here! Thank <questGiver> for me, will ya?"
+		"How nice o' <questGiver>! Do thank 'eim for me, if yew've got the time.",
+		"Now that's a nice-lookin' gift right here! Thank <questGiver> for me, vill yew?"
     ]
   },
   {
     "op": "copy",
-    "from": "/gift/giftAccepted/northdragnar/default",
-    "path": "/gift/giftAccepted/bignorthdragnar/default"
+    "from": "/gift/giftAccepted/thornurdrike/default",
+    "path": "/gift/giftAccepted/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/gift/giftAccepted2/northdragnar/default",
+	"path": "/gift/giftAccepted2/thornurdrike/default",
     "value" : [
 		"<questGiver>'s a good friend.",
-		"I'm feelin' true kinship with <questGiver>!"
+		"There's a good reason vhy I consider <questGiver> close kin!"
     ]
   },
   {
     "op": "copy",
-    "from": "/gift/giftAccepted2/northdragnar/default",
-    "path": "/gift/giftAccepted2/bignorthdragnar/default"
+    "from": "/gift/giftAccepted2/thornurdrike/default",
+    "path": "/gift/giftAccepted2/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/gift/requestAdditionToHouse/northdragnar/default",
+	"path": "/gift/requestAdditionToHouse/thornurdrike/default",
     "value" : [
-		"This'll look good in me home! Would ye mind placin' it here?",
-		"This gift'd be a fine addition to me home. Could ye put in here for me?"
+		"This'll look good in mei home! Vould yew mind placin' it here?",
+		"This gift'd be a fine addition to mei home. Could yew put in here for me?"
     ]
   },
   {
     "op": "copy",
-    "from": "/gift/requestAdditionToHouse/northdragnar/default",
-    "path": "/gift/requestAdditionToHouse/bignorthdragnar/default"
+    "from": "/gift/requestAdditionToHouse/thornurdrike/default",
+    "path": "/gift/requestAdditionToHouse/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/return_stolen/objectTaken/northdragnar/default",
+	"path": "/return_stolen/objectTaken/thornurdrike/default",
     "value" : [
-		"The <item>? That ain't stolen! I- Damnit, just take it with ye and leave me be...",
-		"This <item>'s brought me enough trouble as is. Just- just take it already."
+		"The <item>? That ain't stolen! I-\nBy mei bones, just take it vith yu and leave me be...",
+		"This <item>'s brought me enough trouble as is. Just- just take it avay already!"
     ]
   },
   {
     "op": "copy",
-    "from": "/return_stolen/objectTaken/northdragnar/default",
-    "path": "/return_stolen/objectTaken/bignorthdragnar/default"
+    "from": "/return_stolen/objectTaken/thornurdrike/default",
+    "path": "/return_stolen/objectTaken/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/collect_fine/fineCollected/northdragnar/default",
+	"path": "/collect_fine/fineCollected/thornurdrike/default",
     "value" : [
 		"Alright, I'll pay the damn fine!",
-		"Sure, I'm payin' the fine. I've got enough trouble on me hands already."
+		"Sure, I'm payin' the fine...\nI've got enough trouble on mei hands already."
     ]
   },
   {
     "op": "copy",
-    "from": "/collect_fine/fineCollected/northdragnar/default",
-    "path": "/collect_fine/fineCollected/bignorthdragnar/default"
+    "from": "/collect_fine/fineCollected/thornurdrike/default",
+    "path": "/collect_fine/fineCollected/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/collect_gift/giftProvided/northdragnar/default",
+	"path": "/collect_gift/giftProvided/thornurdrike/default",
     "value" : [
-		"Here's the <item> ye need. Should be just what <questGiver>'s needin'.",
+		"Here's the <item>. Should be just vhat <questGiver>'s needin'.",
 		"<questGiver>'s hopefully goin' to like this <item>."
     ]
   },
   {
     "op": "copy",
-    "from": "/collect_gift/giftProvided/northdragnar/default",
-    "path": "/collect_gift/giftProvided/bignorthdragnar/default"
+    "from": "/collect_gift/giftProvided/thornurdrike/default",
+    "path": "/collect_gift/giftProvided/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/request_craft/giftProvided/northdragnar/default",
+	"path": "/request_craft/giftProvided/thornurdrike/default",
     "value" : [
-		"Ye're needin' this <item>? I've already got it here with me!",
-		"This here's the <item> I've been workin' on. Take it!"
+		"Yew're needin' a <item>? I've already got it here vith me!",
+		"This here's the <item> I've been vorkin' on. Take it!"
     ]
   },
   {
     "op": "copy",
-    "from": "/request_craft/giftProvided/northdragnar/default",
-    "path": "/request_craft/giftProvided/bignorthdragnar/default"
+    "from": "/request_craft/giftProvided/thornurdrike/default",
+    "path": "/request_craft/giftProvided/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/borrow/giftProvided/northdragnar/default",
+	"path": "/borrow/giftProvided/thornurdrike/default",
     "value" : [
-		"I swear, if <questGiver> ain't returnin' this <item> soon, I'll be takin' it back meself!",
-		"If it ain't for too lon', <questGiver> can have the <item>."
+		"I swear, if <questGiver> ain't returnin' this <item> soon, I'll be takin' it back meiself!",
+		"If it ain't for too lon', then <questGiver> can have the <item>, sure.",
+		"I have the feelin', that I ain't gettin' that <item> back..."
     ]
   },
   {
     "op": "copy",
-    "from": "/borrow/giftProvided/northdragnar/default",
-    "path": "/borrow/giftProvided/bignorthdragnar/default"
+    "from": "/borrow/giftProvided/thornurdrike/default",
+    "path": "/borrow/giftProvided/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/extort/giftProvided/northdragnar/default",
+	"path": "/extort/giftProvided/thornurdrike/default",
     "value" : [
-		"<questGiver>, that honourless blaggard! Take the <item> and leave me be already!",
-		"<questGiver>'s goin' to regret this sooner or later..."
+		"<questGiver>, that honourless backpoker! Take the <item> and leave me be already!",
+		"<questGiver>'s goin' to regret this soon...",
+		"Yu're lucky that I ain't in the mood for a tussle. Yu can have that damned thin' vithout a fight!",
+		"Fine, take it.\nI'll be payin' <questGiver> back after yu lout're done vith 'eim!",
+		"<questGiver> vants that <item>? Yew can have it.\nI never even liked that <item> to begin vith."
     ]
   },
   {
     "op": "copy",
-    "from": "/extort/giftProvided/northdragnar/default",
-    "path": "/extort/giftProvided/bignorthdragnar/default"
+    "from": "/extort/giftProvided/thornurdrike/default",
+    "path": "/extort/giftProvided/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/hat/crafting/northdragnar/default",
+	"path": "/hat/crafting/thornurdrike/default",
     "value" : [
-		"It's lookin', like ye've got the materials! Give me a moment...",
-		"That'd be all we need! Just hold on a sec..."
+		"It's lookin', like yew've got the materials! Give me a moment...",
+		"That'd be all ve need! Just hold on a sec..."
     ]
   },
   {
     "op": "copy",
-    "from": "/hat/crafting/northdragnar/default",
-    "path": "/hat/crafting/bignorthdragnar/default"
+    "from": "/hat/crafting/thornurdrike/default",
+    "path": "/hat/crafting/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/hat/crafted/northdragnar/default",
+	"path": "/hat/crafted/thornurdrike/default",
     "value" : [
-		"There ye go! <questGiver> should be likin' this new hat.",
-		"Done! Could ye brin' this noggin-warmer here to <questGiver>?"
+		"There yew go! <questGiver> should be likin' this new hat.",
+		"Done! Could yew brin' this noggin-varmer here to <questGiver>?"
     ]
   },
   {
     "op": "copy",
-    "from": "/hat/crafted/northdragnar/default",
-    "path": "/hat/crafted/bignorthdragnar/default"
+    "from": "/hat/crafted/thornurdrike/default",
+    "path": "/hat/crafted/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/helmet/crafting/northdragnar/default",
+	"path": "/helmet/crafting/thornurdrike/default",
     "value" : [
-		"It's lookin' like ye've got the materials! Give me a moment...",
-		"That'd be all we need! Just hold on a sec..."
+		"It's lookin' like yew've got the materials! Give me a moment...",
+		"That'd be all ve need! Just hold on a sec..."
     ]
   },
   {
     "op": "copy",
-    "from": "/helmet/crafting/northdragnar/default",
-    "path": "/helmet/crafting/bignorthdragnar/default"
+    "from": "/helmet/crafting/thornurdrike/default",
+    "path": "/helmet/crafting/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/helmet/crafted/northdragnar/default",
+	"path": "/helmet/crafted/thornurdrike/default",
     "value" : [
-		"There ye go! <questGiver> should be likin' this new helmet.",
-		"Done! Could ye brin' this noggin-shielder here to <questGiver>?"
+		"There yew go! <questGiver> should be likin' this new helmet.",
+		"Done! Could yew brin' this noggin-shielder here to <questGiver>?"
     ]
   },
   {
     "op": "copy",
-    "from": "/helmet/crafted/northdragnar/default",
-    "path": "/helmet/crafted/bignorthdragnar/default"
+    "from": "/helmet/crafted/thornurdrike/default",
+    "path": "/helmet/crafted/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/new_stock/trade/northdragnar/default",
+	"path": "/new_stock/trade/thornurdrike/default",
     "value" : [
-		"Thank ye for the delivery! Here's what <questGiver>'s needin'."
+		"Thank yew for the delivery! Here's vhat <questGiver>'s needin'."
     ]
   },
   {
     "op": "copy",
-    "from": "/new_stock/trade/northdragnar/default",
-    "path": "/new_stock/trade/bignorthdragnar/default"
+    "from": "/new_stock/trade/thornurdrike/default",
+    "path": "/new_stock/trade/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/kidnapping/kidnappersDead/northdragnar/default",
+	"path": "/kidnapping/kidnappersDead/thornurdrike/default",
     "value" : [
 		"I'll be damned! Someone's come to rescue me!",
 		"Thanks, I don't know how lon' I could've been endurin' this."
@@ -269,115 +275,120 @@
   },
   {
     "op": "copy",
-    "from": "/kidnapping/kidnappersDead/northdragnar/default",
-    "path": "/kidnapping/kidnappersDead/bignorthdragnar/default"
+    "from": "/kidnapping/kidnappersDead/thornurdrike/default",
+    "path": "/kidnapping/kidnappersDead/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/kidnapping/followHome/northdragnar/default",
+	"path": "/kidnapping/followHome/thornurdrike/default",
     "value" : [
-		"Would ye mind escortin' me back home to <questGiver>?",
-		"I really ain't the fightin' type. Could ye take me back to <questGiver>?"
-    ]
-  },
-  {
-	"op": "add",
-	"path": "/kidnapping/followHome/bignorthdragnar/default",
-    "value" : [
-		"Would ye mind escortin' me back home to <questGiver>?",
-		"Sure, I'm big, but I really ain't the fightin' type. Could ye take me back to <questGiver>?"
-    ]
-  },
-  {
-	"op": "add",
-	"path": "/escort/found/northdragnar/default",
-    "value" : [
-		"I'm hatin' to admit this, but I've got meself lost. Do ye know the way back to <questGiver>?",
-		"It's hard to be findin' yer way around here with no waypointers. Could ye show me the way back home?"
+		"Vould yew mind escortin' me back home to <questGiver>?",
+		"I really ain't the fightin' type. Could yew take me back to <questGiver>?"
     ]
   },
   {
     "op": "copy",
-    "from": "/escort/found/northdragnar/default",
-    "path": "/escort/found/bignorthdragnar/default"
+    "from": "/kidnapping/followHome/thornurdrike/default",
+    "path": "/kidnapping/followHome/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/barter/trade/northdragnar/default",
+	"path": "/escort/found/thornurdrike/default",
     "value" : [
-		"Ye're here for <questGiver>'s <receivedItems>? Sure, here. Thank ye for the goods!"
+		"I'm hatin' to admit this, but I've got meiself lost. Do yew know the vay back to <questGiver>?",
+		"It's hard to be findin' yewr vay around here vith nei vaypointers. Could yew show me the vay back home?",
+		"I'd rather not be riskin' gettin' lost again. Vould yew mind guidin' me home?"
     ]
   },
   {
     "op": "copy",
-    "from": "/barter/trade/northdragnar/default",
-    "path": "/barter/trade/bignorthdragnar/default"
+    "from": "/escort/found/thornurdrike/default",
+    "path": "/escort/found/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/escort_trade/collectDelivery/northdragnar/default",
+	"path": "/barter/trade/thornurdrike/default",
     "value" : [
-		"Do ye have a delivery for me?",
-		"Have ye got the delivery?"
+		"Yew're here for <questGiver>'s <receivedItems>? Sure, here.\nThank yew for the goods!"
     ]
   },
   {
     "op": "copy",
-    "from": "/escort_trade/collectDelivery/northdragnar/default",
-    "path": "/escort_trade/collectDelivery/bignorthdragnar/default"
+    "from": "/barter/trade/thornurdrike/default",
+    "path": "/barter/trade/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/escort_trade/provideDelivery/northdragnar/default",
+	"path": "/escort_trade/collectDelivery/thornurdrike/default",
     "value" : [
-		"I've got the goods ye wanted right here with me!",
-		"Here's the goods, just like we've agreed on."
+		"Do yew have a delivery for me?",
+		"Have yew got the delivery?"
     ]
   },
   {
     "op": "copy",
-    "from": "/escort_trade/provideDelivery/northdragnar/default",
-    "path": "/escort_trade/provideDelivery/bignorthdragnar/default"
+    "from": "/escort_trade/collectDelivery/thornurdrike/default",
+    "path": "/escort_trade/collectDelivery/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/kill_npcs/assistantIntro/northdragnar/default",
+	"path": "/escort_trade/provideDelivery/thornurdrike/default",
     "value" : [
-		"I'm owin' <questGiver> a big favour. I'll be helpin' ye with strikin' the <enemy> down.",
-		"Lo! <questGiver> sent me to help ye with those troublin' <enemy>."
+		"I've got the goods yew vanted right here vith me!",
+		"Here's the goods, just like ve've agreed on.",
+		"Here yew go. Still in top condition!"
     ]
   },
   {
     "op": "copy",
-    "from": "/kill_npcs/assistantIntro/northdragnar/default",
-    "path": "/kill_npcs/assistantIntro/bignorthdragnar/default"
+    "from": "/escort_trade/provideDelivery/thornurdrike/default",
+    "path": "/escort_trade/provideDelivery/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/kill_npc/surrender/northdragnar/default",
+	"path": "/kill_npcs/assistantIntro/thornurdrike/default",
     "value" : [
-		"I'm surrenderin'! Have mercy!",
-		"Put yer weapons away! We can talk this out!",
-		"Sheathe yer weapons! I know when I've been beaten."
+		"I'm owin' <questGiver> a big favour. I'll be helpin' yew vith strikin' the <enemy> down.",
+		"Vethkja! <questGiver> sent me to help yew vith those troublin' <enemy>."
     ]
   },
   {
     "op": "copy",
-    "from": "/kill_npc/surrender/northdragnar/default",
-    "path": "/kill_npc/surrender/bignorthdragnar/default"
+    "from": "/kill_npcs/assistantIntro/thornurdrike/default",
+    "path": "/kill_npcs/assistantIntro/bigthornurdrike/default"
   },
   {
 	"op": "add",
-	"path": "/kill_npc/betray/northdragnar/default",
+	"path": "/kill_npc/surrender/thornurdrike/default",
     "value" : [
-		"Aha! Ye're nothin' short o' bein' naive!",
-		"Ye really thought, that I'd be givin' up that easily?",
-		"Ye're trustin' the wron' kind o' people."
+		"I'm surrenderin'! Have mercy vith a misled outcast!",
+		"Put yewr veapons avay! Ve can talk this out like civilized folks, can't ve?",
+		"Sheathe yewr veapons! I know vhen I've been beat.",
+		"Hold yur fire! I'm hoistin' mei bare hands!",
+		"Hold on! This ain't needin' to end vith someone dead!",
+		"Damn it! I give up! I don't know vhat else to do..."
     ]
   },
   {
     "op": "copy",
-    "from": "/kill_npc/betray/northdragnar/default",
-    "path": "/kill_npc/betray/bignorthdragnar/default"
+    "from": "/kill_npc/surrender/thornurdrike/default",
+    "path": "/kill_npc/surrender/bigthornurdrike/default"
+  },
+  {
+	"op": "add",
+	"path": "/kill_npc/betray/thornurdrike/default",
+    "value" : [
+		"Aha! Yu're nothin' short o' bein' naive!",
+		"Yu really thought, that I'd be givin' up that easily?",
+		"Yew're trustin' the vron' kind o' people.",
+		"Now's mei chance!",
+		"...",
+		"Yew're not takin' me alive!"
+    ]
+  },
+  {
+    "op": "copy",
+    "from": "/kill_npc/betray/thornurdrike/default",
+    "path": "/kill_npc/betray/bigthornurdrike/default"
   }
 ]

@@ -1,0 +1,33 @@
+{
+  "objectName" : "TD_hardychair",
+  "colonyTags" : ["thornurdrike"],
+  "rarity" : "Common",
+  "description" : "A wooden chair with an ornately designed cushion and backrest.",
+  "shortdescription" : "Hardy Chair",
+  "race" : "thornurdrike",
+  "category" : "furniture",
+  "price" : 75,
+  "apexDescription" : "The Miniknog would never allow anyone to sew patterns this intricate. A pleasant sight.",
+  "avianDescription" : "Someone put a lot of effort into sewing the cushions of this chair.",
+  "floranDescription" : "Ssturdy chair with soft backresst.",
+  "glitchDescription" : "Informative. The backrest of this chair is flexible enough to adapt to the back of the one who rests on it.",
+  "humanDescription" : "Who'd ever resist, leaning into the soft backrest of this chair? I wouldn't!",
+  "hylotlDescription" : "There is a striking contrast between this chair's soft textiles and its robust wood frame.",
+  "novakidDescription" : "I ain't never seen a chair with a wool backrest before.",
+  "thornurdrikeDescription" : "This chair's sportin' a sturdy, but comfortable backrest.",
+  "bigthornurdrikeDescription" : "This chair's sportin' a sturdy, but comfortable backrest.",
+  "inventoryIcon" : "TD_hardychairicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "TD_hardychair.png",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [2, 22]
+}

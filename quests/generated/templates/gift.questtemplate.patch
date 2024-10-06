@@ -1,82 +1,67 @@
 [
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/northdragnar",
+    "path": "/scriptConfig/generatedText/goalText/thornurdrike",
     "value": [
-            "^cyan;<target>'s helped me well in the past. I'd like to be returnin' the favour with a gift!",
-			"^cyan;I owe <target> a little somethin' for their kindness. Could ye help me out?"
+            "^cyan;<target>'s helped mei vell in the past. I'd like to be returnin' the favour vith a gift!",
+			"^cyan;I owe <target> a little somethin' for their kindness. Could yew help mei out?"
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/goalText/bignorthdragnar",
+    "path": "/scriptConfig/generatedText/text/next/thornurdrike",
     "value": [
-            "^cyan;<target>'s helped me well in the past. I'd like to be returnin' the favour with a gift!",
-			"^cyan;I owe <target> a little somethin' for their kindness. Could ye help me out?"
+            "This ^orange;<gift>^white;'ll be a good gift for mei mate, ^orange;<target>^white;! ^green;Vould yew mind givin' ^orange;theim^green; the ^orange;<gift>^green; in mei name?",
+			"Great! This ^orange;<gift>^white; here's goin' to help mei vith returnin' a favour to ^orange;<target>^white;. It's a bit embarassin', but I aint... the giftin' type. ^green;Vould yew mind, brin'in' the ^orange;<gift>^green; to ^orange;<target>^green; instead?"
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/next/northdragnar",
+    "path": "/scriptConfig/generatedText/text/default/thornurdrike",
     "value": [
-            "This ^orange;<gift>^white;'ll be a good gift for me mate, ^orange;<target>^white;! ^green;Would ye mind givin' ^orange;'em^green; the ^orange;<gift>^green; in me name?",
-			"Great! This ^orange;<gift>^white; here's goin' to help me with returnin' a favour to ^orange;<target>^white;. It's a bit embarassin, but I aint... the giftin' type. ^green;Would ye mind, brin'in' the ^orange;<gift>^green; to ^orange;<target>^green; instead?"
+            "The last thin' left to do'd be to ^green;deliver this ^orange;<gift>^green; to ^orange;<target>^white; and hope, that thei'll like it!",
+			"There's only one thin' remainin' now. ^green;This ^orange;<gift>^green; needs to get into ^orange;<target>^green; hands. ^white;It's meant as an apology for somethin' I've done, and I can't be brin'in' meiself to deliver it..."
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/next/bignorthdragnar",
+    "path": "/scriptConfig/generatedText/completionText/next/thornurdrike",
     "value": [
-            "This ^orange;<gift>^white;'ll be a good gift for me mate, ^orange;<target>^white;! ^green;Would ye mind givin' ^orange;'em^green; the ^orange;<gift>^green; in me name?",
-			"Great! This ^orange;<gift>^white; here's goin' to help me with returnin' a favour to ^orange;<target>^white;. It's a bit embarassin, but I aint... the giftin' type. ^green;Would ye mind, brin'in' the ^orange;<gift>^green; to ^orange;<target>^green; instead?"
+            "<target> appeared pretty grateful for the <gift>! Thanks for helpin' mei out, mate!",
+			"Givin' the <gift> to <target> vas a good idea! Apparently they vere lookin' for <gift>!"
     ]
   },
   { 
 	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/northdragnar",
+    "path": "/scriptConfig/generatedText/completionText/default/thornurdrike",
     "value": [
-            "The last thin' left to do'd be to ^green;deliver this ^orange;<gift>^green; to ^orange;<target>^white; and hope, that they'll like it!",
-			"There's only one thin' remainin' now. ^green;This ^orange;<gift>^green; needs to get into ^orange;<target>^green; hands. ^white;It's meant as an apology for somethin' I've done, and I can't be brin'in' meself to deliver it..."
+			"Brin'in' a bit o' joy to others is one vay to varm ones heart! Thank yew, kindly!",
+			"Seems like I'm owin' yew a favour now, for returnin' a favour to <target>! Here yew go."
     ]
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/text/default/bignorthdragnar",
-    "value": [
-            "The last thin' left to do'd be to ^green;deliver this ^orange;<gift>^green; to ^orange;<target>^white; and hope, that they'll like it!",
-			"There's only one thin' remainin' now. ^green;This ^orange;<gift>^green; needs to get into ^orange;<target>^green; hands. ^white;It's meant as an apology for somethin' I've done, and I can't be brin'in' meself to deliver it..."
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/goalText/thornurdrike",
+    "path": "/scriptConfig/generatedText/goalText/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/next/northdragnar",
-    "value": [
-            "<target> appeared pretty grateful for the <gift>! Thanks for helpin' me out, mate!",
-			"Givin' the <gift> to <target> was a good idea! 'Parently they were lookin' for <gift>!"
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/next/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/next/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/next/bignorthdragnar",
-    "value": [
-            "<target> appeared pretty grateful for the <gift>! Thanks for helpin' me out, mate!",
-			"Givin' the <gift> to <target> was a good idea! 'Parently they were lookin' for <gift>!"
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/text/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/text/default/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/northdragnar",
-    "value": [
-			"Brin'in' a bit o' joy to others is one way to warm the heart! Thank ye, kindly!",
-			"Seems like I'm owin' ye a favour now, for returnin' a favour to <target>! Here ye go!"
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/next/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/next/bigthornurdrike"
   },
-  { 
-	"op": "add",
-    "path": "/scriptConfig/generatedText/completionText/default/bignorthdragnar",
-    "value": [
-			"Brin'in' a bit o' joy to others is one way to warm the heart! Thank ye, kindly!",
-			"Seems like I'm owin' ye a favour now, for returnin' a favour to <target>! Here ye go!"
-    ]
+  {
+    "op": "copy",
+    "from": "/scriptConfig/generatedText/completionText/default/thornurdrike",
+    "path": "/scriptConfig/generatedText/completionText/default/bigthornurdrike"
   }
 ]

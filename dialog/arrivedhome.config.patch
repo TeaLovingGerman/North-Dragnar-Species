@@ -1,45 +1,60 @@
 [
 	{
 		"op": "add",
-		"path": "/beacon/northdragnar/default",
+		"path": "/beacon/thornurdrike/default",
 		"value": [
-				"What do ye want?",
-				"Aye, what's the matter?",
-				"Ey, ye want to chatter or what?",
-				"Here I am! What did I miss?",
-				"Lo! Somethin' botherin' ya?"
-		]
-	},
-	{
-		"op": "add",
-		"path": "/beacon/northdragnar/default",
-		"value": [
-				"What do ye want?",
-				"Aye, kin. What's the matter?",
-				"Here I am! What did I miss?",
-				"Greetin's, kin. Somethin' botherin' ya?"
+				"Vhat do yew vant?",
+				"Yoa, vhat's the matter?",
+				"Hai, yew vant to chat or vhat?",
+				"Here I am! Vhat did I miss?",
+				"Vethkja! Somethin' botherin' yew?"
 		]
 	},
 	{
     "op": "copy",
-    "from": "/beacon/northdragnar/default",
-    "path": "/beacon/bignorthdragnar/default"
+    "from": "/beacon/thornurdrike/default",
+    "path": "/beacon/bigthornurdrike/default"
 	},
 	{
 		"op": "add",
-		"path": "/rent/northdragnar/default",
+		"path": "/beacon/thornurdrike/thornurdrike",
 		"value": [
-				"Aye, here's somethin' for givin' me shelter.",
-				"Here! Don't ye be thinkin', that I ain't appreciatin' what ye've done for me.",
-				"I think ye're deservin' this, for givin' me a roof over me head.",
-				"It's only fair, that I'm givin' somethin' back for yer help.",
-				"There ye go. Take it as way o' sayin' thanks for yer help!",
-				"Ta! Ye're deservin this."
+				"Vhat do yew vant?",
+				"Hai, kin. Vhat's the matter?",
+				"Here I am! Vhat did I miss?",
+				"Vethkja, kin! Somethin' botherin' yew?"
 		]
 	},
 	{
     "op": "copy",
-    "from": "/rent/northdragnar/default",
-    "path": "/rent/bignorthdragnar/default"
+    "from": "/beacon/thornurdrike/thornurdrike",
+    "path": "/beacon/thornurdrike/bigthornurdrike"
+	},
+	{
+    "op": "copy",
+    "from": "/beacon/thornurdrike/thornurdrike",
+    "path": "/beacon/bigthornurdrike/thornurdrike"
+	},
+	{
+    "op": "copy",
+    "from": "/beacon/thornurdrike/thornurdrike",
+    "path": "/beacon/bigthornurdrike/bigthornurdrike"
+	},
+	{
+		"op": "add",
+		"path": "/rent/thornurdrike/default",
+		"value": [
+				"Here's somethin' for givin' me shelter.",
+				"Here! Don't yew be thinkin', that I ain't appreciatin' vhat yew've done for mei.",
+				"I think yew're deservin' this, for givin' mei a roof over mei head.",
+				"It's only fair, that I'm givin' somethin' back for yewr help.",
+				"There yew go. Take it as vay o' sayin' thanks for yewr help!",
+				"Tahk! Yew've deserved this."
+		]
+	},
+	{
+    "op": "copy",
+    "from": "/rent/thornurdrike/default",
+    "path": "/rent/bigthornurdrike/default"
 	}
 ]

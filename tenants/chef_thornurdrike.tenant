@@ -1,0 +1,23 @@
+{
+  "name": "chef_thornurdrike",
+  "priority": 4,
+  "colonyTagCriteria": {
+    "light": 1,
+    "door": 1,
+    "thornurdrike": 8,
+    "cooking": 8
+  },
+  "tenants": [
+    {
+      "spawn": "npc",
+      "species": ["thornurdrike", "bigthornurdrike"],
+      "type": "chefmerchanttenant",
+      "overrides": {
+       }
+     }
+   ],
+  "rent": {
+    "periodRange": [900.0, 1800.0],
+    "pool": "merchantGift"
+  }
+}

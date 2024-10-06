@@ -1,0 +1,30 @@
+{
+  "itemName" : "thornurdrikefossil1",
+  "rarity" : "Uncommon",
+  "itemTags" : ["fossil"],
+
+  "description" : "A fossilised Thornur-Drike skull.",
+  "category" : "mediumFossil",
+
+  "shortdescription" : "Thornur-Drike Skull",
+  "race" : "thornurdrike",
+  "price" : 50,
+
+  "inventoryIcon" : "thornurdrikefossil1icon.png",
+
+  "completeSetDescriptions" : {
+    "price" : 1500,
+    "shortdescription" : "Thornur-Drike Fossil",
+    "description" : "Fossilised remains of a Thornur-Drike. They might have belonged to one of their displaced ancestors once."
+  },
+
+  "displayImage" : "/objects/fossils/humanoidfossils/fossilthornurdrike/thornurdrikeskulldisplay.png",
+  "displayoffset" :[0, 0],
+
+  "fossilSetName" : "thornurdrikeSkeleton",
+  "setIndex" : 1,
+  "setCount" : 3,
+  "setCollectables" : { "fossils" : "thornurdrikeSkeleton" },
+
+  "completeFossilIcon" : "/objects/fossils/humanoidfossils/humanoidskeletonicon.png"
+}

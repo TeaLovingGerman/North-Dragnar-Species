@@ -1,14 +1,14 @@
 {
-  "itemName" : "ndsmoothmetalbeam",
+  "itemName" : "TD_smoothmetalbeam",
   "price" : 0,
   "category" : "block",
   "rarity" : "Common",
-  "inventoryIcon" : "ndsmoothmetalbeam.png",
-  "description" : "A smooth metal beam. Fitting for supporting other metal structures.",
+  "inventoryIcon" : "TD_smoothmetalbeam.png",
+  "description" : "A smooth metal beam. Suited for supporting other metal structures.",
   "glitchDescription" : "Considerate. Metal beams like this one, would best suit for interior design of a spacefaring vessel.",
   "floranDescription" : "Sshiny metal beam!",
-  "novakidDescription" : "With a beam that smooth, I ought to see my reflection... Don't seem like I can.",
-  "northdragnarDescription" : "Makin' beams o' metal has its perks over wooden beams.",
-  "bignorthdragnarDescription" : "Makin' beams o' metal has its perks over wooden beams.",
+  "novakidDescription" : "With a beam that smooth, I ought to see my reflection... Shucks, don't seem like I can.",
+  "thornurdrikeDescription" : "Makin' beams o' metal has its advantages over vooden beams.",
+  "bigthornurdrikeDescription" : "Makin' beams o' metal has its advantages over vooden beams.",
   "materialId" : 14601
 }

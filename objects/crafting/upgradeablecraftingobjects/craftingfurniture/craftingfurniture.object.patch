@@ -1,6 +1,6 @@
-[{"op":"add","path":"/northdragnarDescription","value":"A workbench with enough tools to be craftin' furniture for a humble home."},
-{"op":"add","path":"/bignorthdragnarDescription","value":"A workbench with enough tools to be craftin' furniture for a humble home."},
-{"op":"add","path":"/upgradeStages/0/itemSpawnParameters/northdragnarDescription","value":"A workbench with enough tools to be craftin' furniture for a humble home."},
-{"op":"add","path":"/upgradeStages/0/itemSpawnParameters/bignorthdragnarDescription","value":"A workbench with enough tools to be craftin' furniture for a humble home."},
-{"op":"add","path":"/upgradeStages/1/itemSpawnParameters/northdragnarDescription","value":"This industrial workbench's offerin' a variety o' tools for creatin' more complex pieces o' furniture as well as basic ones."},
-{"op":"add","path":"/upgradeStages/1/itemSpawnParameters/bignorthdragnarDescription","value":"This industrial workbench's offerin' a variety o' tools for creatin' more complex pieces o' furniture as well as basic ones."}]
+[{"op":"add","path":"/thornurdrikeDescription","value":"A vorkbench vith enough tools to be craftin' furniture for a humble home."},
+{"op":"add","path":"/bigthornurdrikeDescription","value":"A vorkbench vith enough tools to be craftin' furniture for a humble home."},
+{"op":"add","path":"/upgradeStages/0/itemSpawnParameters/thornurdrikeDescription","value":"A vorkbench vith enough tools to be craftin' furniture for a humble home."},
+{"op":"add","path":"/upgradeStages/0/itemSpawnParameters/bigthornurdrikeDescription","value":"A vorkbench vith enough tools to be craftin' furniture for a humble home."},
+{"op":"add","path":"/upgradeStages/1/itemSpawnParameters/thornurdrikeDescription","value":"This industrial vorkbench's offerin' a variety o' tools for creatin' more complex pieces o' furniture as vell as basic ones."},
+{"op":"add","path":"/upgradeStages/1/itemSpawnParameters/bigthornurdrikeDescription","value":"This industrial vorkbench's offerin' a variety o' tools for creatin' more complex pieces o' furniture as vell as basic ones."}]

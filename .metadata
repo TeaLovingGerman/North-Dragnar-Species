@@ -2,9 +2,9 @@
   "tags" : "Species",
   "author" : "Tea-Loving Lad",
   "description" : "Advanced Template to create your own race.",
-  "friendlyName" : "North-Dragnar Species",
+  "friendlyName" : "Thornur-Drike Species",
   "link" : "",
-  "name" : "NorthDragnarSpecies",
+  "name" : "ThornurDrikeSpecies",
   "steamContentId" : "",
   "version" : "1",
   "includes" : ["HistoricalCrafting","Elithian_Races_Mod"]

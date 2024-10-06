@@ -1,7 +1,7 @@
 [
   {
     "op": "add",
-    "path": "/hail/floran/northdragnar",
+    "path": "/hail/floran/thornurdrike",
     "value": [
       "Halhoom, fiercething.",
       "Halmarr, fiercething nab sillypeck?",
@@ -15,7 +15,7 @@
   },
   {
     "op": "add",
-    "path": "/hail/floran/bignorthdragnar",
+    "path": "/hail/floran/bigthornurdrike",
     "value": [
       "Halhoom, big fiercething.",
       "Halmarr, big fiercething nab big sillypeck?",

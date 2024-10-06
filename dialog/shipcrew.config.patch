@@ -1,66 +1,72 @@
 [
   {
     "op": "add",
-    "path": "/converse/northdragnar/default",
+    "path": "/converse/thornurdrike/default",
     "value" : [
-      "Another spacefarer just like meself! Why don't ye rest a bit, while ye're already on baord, eh?",
-      "Welcome aboard! I'm hopin' that gettin' here wasn't that hard.",
+      "Another spacefarer just like meiself! Vhy don't yew rest a bit, vhile yew're already on baord, eh?",
+      "Velcome aboard! I'm hopin' that gettin' here vasn't that hard.",
       "Sailin' through Space ain't nothin' like sailin' on the open seas. Still, I'd say it's pretty damn good.",
-	  "I know me ways around our ship's machinery.",
-	  "Ye must've been pilotin' a mech to get here. Been wishin' that I had one meself.",
-      "Maintainin' a ship like ours ain't easy, but the more I'm workin' on it, the more I'm gettin' used to it.",
-      "Can't wait to be gettin' back on solid ground! It's been quite a journey out here."
+	  "I know mei vays around our ship's machinery.",
+	  "Yew must've been pilotin' a mech to get here. Been vishin' that I had one meiself for ages.",
+      "Maintainin' a ship like ours ain't easy. But, the more I'm vorkin' on it, the more I'm gettin' used to it.",
+      "Can't vait to be gettin' mei feet back on solid ground! It's been quite a lon' journey out here.",
+	  "Yew and I are lucky. Many o' mei kind are stuck on some planet.",
+	  "Have yew imagined what it'd be like to get displaced in an unknown sea o' stars...?",
+	  "I've found mei home on this ship, amon' the stars."
     ]
   },
   {
     "op": "copy",
-    "from": "/converse/northdragnar/default",
-    "path": "/converse/bignorthdragnar/default"
+    "from": "/converse/thornurdrike/default",
+    "path": "/converse/bigthornurdrike/default"
   },
   {
     "op": "add",
-    "path": "/converse/northdragnar/northdragnar",
+    "path": "/converse/thornurdrike/thornurdrike",
     "value" : [
-      "Aye, it's good to be seein' one o' me kin out here in Space!",
-      "We normally ain't gettin' many visitors o' our kind on this ship here. Ye're a welcome guest, stranger!",
-      "Another spacefarer just like meself! Why don't ye rest a bit, while ye're already on baord, eh?",
-      "Welcome aboard! I'm hopin' that gettin' here wasn't that hard.",
+      "Vethkja! It's good to be meetin' one o' mei kin out here in Space .",
+      "Ve normally ain't gettin' many visitors o' our kind on this ship here. Yew're a velcome surprise!",
+      "Another spacefarer just like meiself! Vhy don't yew rest a bit, vhile yew're already on baord, eh?",
+      "Velcome aboard! I'm hopin' that gettin' here vasn't that hard.",
       "Sailin' through Space ain't nothin' like sailin' on the open seas. Still, I'd say it's pretty damn good.",
-	  "I know me ways around our ship's machinery.",
-	  "Ye must've been pilotin' a mech to get here. Been wishin' that I had one meself.",
-      "Maintainin' a ship like ours ain't easy, but the more I'm workin' on it, the more I'm gettin' used to it.",
-      "Can't wait to be gettin' back on solid ground! It's been quite a journey out here."
+	  "I know mei vays around our ship's machinery.",
+	  "Yew must've been pilotin' a mech to get here. Been vishin' that I had one meiself for ages.",
+      "Maintainin' a ship like ours ain't easy, but the more I'm vorkin' on it, the more I'm gettin' used to it.",
+      "Can't vait to be gettin' mei feet back on solid ground! It's been quite a lon' journey out here.",
+	  "Can't imagine vhat it must've been like for our ancestors, gettin' displaced in this strange universe...",
+	  "Yew and I are lucky. Many o' mei kind are stuck on some planet.",
+	  "I've found mei home on this ship, amon' the stars."
     ]
   },
   {
     "op": "copy",
-    "from": "/converse/northdragnar/northdragnar",
-    "path": "/converse/bignorthdragnar/northdragnar"
+    "from": "/converse/thornurdrike/thornurdrike",
+    "path": "/converse/bigthornurdrike/thornurdrike"
   },
   {
     "op": "add",
-    "path": "/converse/northdragnar/bignorthdragnar",
+    "path": "/converse/thornurdrike/bigthornurdrike",
     "value" : [
-      "Aye, it's good to be seein' one o' me kin out here in Space!",
-      "We normally ain't gettin' many visitors o' our kind on this ship here. Ye're a welcome guest, stranger!",
-      "Another spacefarer just like meself! Why don't ye rest a bit, while ye're already on baord, eh?",
-      "Welcome aboard! I'm hopin' that gettin' here wasn't that hard.",
+      "Vethkja! It's good to be meetin' one o' mei kin out here in Space .",
+      "Ve normally ain't gettin' many visitors o' our kind on this ship here. Yew're a velcome surprise, mate!",
+      "Another spacefarer just like meiself! Vhy don't yew rest a bit, vhile yew're already on baord, eh?",
+      "Velcome aboard! I'm hopin' that gettin' here vasn't that hard.",
       "Sailin' through Space ain't nothin' like sailin' on the open seas. Still, I'd say it's pretty damn good.",
-	  "I know me ways around our ship's machinery.",
-	  "Ye must've been pilotin' a mech to get here. Been wishin' that I had one meself.",
-      "Maintainin' a ship like ours ain't easy, but the more I'm workin' on it, the more I'm gettin' used to it.",
-      "Can't wait to be gettin' back on solid ground! It's been quite a journey out here.",
-	  "Careful! Don't want to be bumpin' yer head on the ship's insides, do ya?"
+	  "I know mei vays around our ship's machinery.",
+	  "Yew must've been pilotin' a mech to get here. Been vishin' that I had one meiself for ages.",
+      "Maintainin' a ship like ours ain't easy, but the more I'm vorkin' on it, the more I'm gettin' used to it.",
+      "Can't vait to be gettin' mei feet back on solid ground! It's been quite a lon' journey out here.",
+	  "Careful! Don't vant to be bumpin' yewr head on the ship's insides, do yew?"
     ]
   },
   {
     "op": "copy",
-    "from": "/converse/northdragnar/bignorthdragnar",
-    "path": "/converse/bignorthdragnar/bignorthdragnar"
+    "from": "/converse/thornurdrike/bigthornurdrike",
+    "path": "/converse/bigthornurdrike/bigthornurdrike"
   },
   {
     "op": "add",
-    "path": "/converse/avian/bignorthdragnar/-",
-    "value": "Watch yer head around the ship. Me head already had a few meetin's with the ship's lower parts."
+    "path": "/converse/bigthornurdrike/bigthornurdrike/-",
+    "value": "Vatch yewr head inside the ship! Mei own head already had a few surprise meetin's vith the ship's lower-han'in' parts."
   }
 ]
